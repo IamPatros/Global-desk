@@ -3,61 +3,38 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#0b1217">
+<script>try{if(localStorage.getItem("gd-theme")==="light")document.documentElement.dataset.theme="light";}catch(e){}</script>
 <title>Global Desk</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{
-  /* Layout idea: a newsroom wire desk. A dark "world exchanges" board on top, then a single reading column of explained stories, with tools in tabs. */
-  --paper:#f2f4f1;
-  --sheet:#ffffff;
-  --ink:#13212c;
-  --muted:#5b6872;
-  --rule:#d5dbd8;
-  --accent:#0b6b86;
-  --accent-soft:#e1eff3;
-  --board:#0f1b24;
-  --board-ink:#d9e6ea;
-  --up:#16794a;
-  --up-soft:#e2f2e9;
-  --down:#b3261e;
-  --down-soft:#f8e3e1;
-  --warn:#9a6a00;
-  /* importance scale: 5 red, 4 orange, 3 yellow, 2 blue, 1 grey */
-  --p5:#d0021b;--p5-soft:#fde4e6;--p5-ink:#ffffff;
-  --p4:#e8700a;--p4-soft:#fdebd9;--p4-ink:#ffffff;
-  --p3:#f2c200;--p3-soft:#fdf5d3;--p3-ink:#2b2200;
-  --p2:#1f6fd1;--p2-soft:#e0ecfb;--p2-ink:#ffffff;
-  --p1:#8a949b;--p1-soft:#eceff1;--p1-ink:#ffffff;
-  --font-display:"Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
-  --font-body:"Newsreader", Georgia, "Times New Roman", serif;
-  --font-mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
-  color-scheme:light;
-}
-@media (prefers-color-scheme: dark){
-  :root:not([data-theme="light"]){
-    --paper:#0e161c;--sheet:#152129;--ink:#e3eaed;--muted:#93a3ad;--rule:#26353f;
-    --accent:#5cc0dc;--accent-soft:#16323c;--board:#071015;--board-ink:#cfe0e6;
-    --up:#4cc58a;--up-soft:#123227;--down:#ef7a70;--down-soft:#3a1c1a;--warn:#e0b44a;
-    --p5:#ff4d5e;--p5-soft:#3d1519;--p5-ink:#1a0003;
-    --p4:#ff9a3d;--p4-soft:#3b2412;--p4-ink:#1f0e00;
-    --p3:#ffd84a;--p3-soft:#3a3212;--p3-ink:#2b2200;
-    --p2:#5aa2ff;--p2-soft:#14263f;--p2-ink:#04142b;
-    --p1:#9aa6ad;--p1-soft:#222d34;--p1-ink:#11181c;
-    color-scheme:dark;
-  }
-}
-:root[data-theme="dark"]{
-  --paper:#0e161c;--sheet:#152129;--ink:#e3eaed;--muted:#93a3ad;--rule:#26353f;
-  --accent:#5cc0dc;--accent-soft:#16323c;--board:#071015;--board-ink:#cfe0e6;
+  /* Layout idea: a newsroom wire desk at night. A "world exchanges" board on top, then a single reading column of explained stories, with tools in tabs. Dark by default; light only if chosen. */
+  --paper:#0b1217;--sheet:#121c23;--ink:#e3eaed;--muted:#97a6b0;--rule:#24323c;
+  --accent:#5cc0dc;--accent-soft:#16323c;--board:#060d12;--board-ink:#cfe0e6;
   --up:#4cc58a;--up-soft:#123227;--down:#ef7a70;--down-soft:#3a1c1a;--warn:#e0b44a;
   --p5:#ff4d5e;--p5-soft:#3d1519;--p5-ink:#1a0003;
   --p4:#ff9a3d;--p4-soft:#3b2412;--p4-ink:#1f0e00;
   --p3:#ffd84a;--p3-soft:#3a3212;--p3-ink:#2b2200;
   --p2:#5aa2ff;--p2-soft:#14263f;--p2-ink:#04142b;
   --p1:#9aa6ad;--p1-soft:#222d34;--p1-ink:#11181c;
+  --font-display:"Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
+  --font-body:"Newsreader", Georgia, "Times New Roman", serif;
+  --font-mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
   color-scheme:dark;
+}
+:root[data-theme="light"]{
+  --paper:#f2f4f1;--sheet:#ffffff;--ink:#13212c;--muted:#5b6872;--rule:#d5dbd8;
+  --accent:#0b6b86;--accent-soft:#e1eff3;--board:#0f1b24;--board-ink:#d9e6ea;
+  --up:#16794a;--up-soft:#e2f2e9;--down:#b3261e;--down-soft:#f8e3e1;--warn:#9a6a00;
+  --p5:#d0021b;--p5-soft:#fde4e6;--p5-ink:#ffffff;
+  --p4:#e8700a;--p4-soft:#fdebd9;--p4-ink:#ffffff;
+  --p3:#f2c200;--p3-soft:#fdf5d3;--p3-ink:#2b2200;
+  --p2:#1f6fd1;--p2-soft:#e0ecfb;--p2-ink:#ffffff;
+  --p1:#8a949b;--p1-soft:#eceff1;--p1-ink:#ffffff;
+  color-scheme:light;
 }
 *{box-sizing:border-box}
 html,body{margin:0}
@@ -97,6 +74,8 @@ header.mast{max-width:1100px;margin:0 auto;padding:22px 16px 6px;display:grid;ga
 nav.tabs{position:sticky;top:0;z-index:5;background:var(--paper);border-bottom:1px solid var(--rule)}
 nav.tabs .in{max-width:1100px;margin:0 auto;padding:0 16px;display:flex;gap:2px;overflow-x:auto}
 nav.tabs a{font-family:var(--font-display);font-weight:500;font-size:16px;text-decoration:none;color:var(--muted);padding:12px 12px 10px;border-bottom:3px solid transparent;white-space:nowrap}
+.theme-btn{margin-left:auto;align-self:center;font-family:var(--font-mono);font-size:12px;background:none;border:1px solid var(--rule);border-radius:999px;padding:5px 11px;color:var(--muted);cursor:pointer;white-space:nowrap}
+.theme-btn:hover{color:var(--ink);border-color:var(--muted)}
 nav.tabs a[aria-current="page"]{color:var(--ink);border-bottom-color:var(--accent)}
 main{max-width:1100px;margin:0 auto;padding:20px 16px 80px}
 section.view{display:none}
@@ -296,6 +275,7 @@ body.static .site-only{display:block}
   <a href="#glossary">Glossary</a>
   <a href="#tutor">Ask the tutor</a>
   <a href="#sources">Live sources</a>
+  <button type="button" class="theme-btn" id="theme-btn" aria-label="Switch between dark and light mode">Light mode</button>
 </div></nav>
 
 <main>
@@ -496,6 +476,9 @@ function route(){
   for (const a of document.querySelectorAll("#tabs a")) { if (a.getAttribute("href")==="#"+v) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current"); }
 }
 addEventListener("hashchange", route); route();
+function syncThemeBtn(){ const light = document.documentElement.dataset.theme==="light"; $("#theme-btn").textContent = light ? "Dark mode" : "Light mode"; const m=document.querySelector('meta[name="theme-color"]'); if(m) m.content = light ? "#f2f4f1" : "#0b1217"; }
+$("#theme-btn").addEventListener("click", ()=>{ const r=document.documentElement; if (r.dataset.theme==="light"){ delete r.dataset.theme; try{localStorage.removeItem("gd-theme")}catch(e){} } else { r.dataset.theme="light"; try{localStorage.setItem("gd-theme","light")}catch(e){} } syncThemeBtn(); });
+syncThemeBtn();
 
 /* ---------- AI (sample) ---------- */
 function tutorPreamble(){
@@ -603,7 +586,7 @@ $("#edition-pick").addEventListener("change", ev=>{ S.current = S.editions.find(
 
 function renderToday(){
   const e = S.current; const bp = $("#bigpic"); bp.textContent="";
-  bp.append(el("span",{class:"kicker",text:"The big picture · "+(e.label||"")}), el("p",{text:e.bigPicture||""}), el("div",{class:"window",text:"Covers: "+(e.window||"")+" · published "+fmtWhen(e.createdAt)}),
+  appendAll(bp, el("span",{class:"kicker",text:"The big picture · "+(e.label||"")}), el("p",{text:e.bigPicture||""}), el("div",{class:"window",text:"Covers: "+(e.window||"")+" · published "+fmtWhen(e.createdAt)}),
     e.status==="partial" ? el("div",{class:"partial",text:"Being filled now: the most important stories are already here, and lower-priority ones are still being added. This page updates by itself."}) : null);
   const all = [...(e.stories||[]), ...(e.moreStories||[])].map(s=>(e.fixes||{})[s.id] ? {...s, ...(e.fixes[s.id]), _fixed:true} : s).map((s,i)=>({...s, _i:i, category: s.category || (e.cats||{})[s.id] || "Economy & markets", importance: Math.min(5, Math.max(1, Math.round(s.importance||1)))}))
     .sort((a,b)=> b.importance-a.importance || (a.rank??1e9)-(b.rank??1e9) || a._i-b._i)
