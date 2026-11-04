@@ -1,11 +1,17 @@
 {
- "updated": "2026-11-04T12:05:00Z",
- "editions": [
-  {
-   "id": "2026-11-04-1200",
-   "createdAt": "2026-11-04T10:55:00Z",
-   "label": "Wed 4 Nov · midday (first edition)",
-   "status": "complete"
-  }
- ]
+  "updated": "2026-11-04T19:24:53Z",
+  "editions": [
+    {
+      "id": "2026-11-04-2000",
+      "createdAt": "2026-11-04T19:10:00Z",
+      "label": "Wed 4 Nov · evening",
+      "status": "complete"
+    },
+    {
+      "id": "2026-11-04-1200",
+      "createdAt": "2026-11-04T10:55:00Z",
+      "label": "Wed 4 Nov · midday (first edition)",
+      "status": "complete"
+    }
+  ]
 }

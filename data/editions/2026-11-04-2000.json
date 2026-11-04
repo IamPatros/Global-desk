@@ -1,0 +1,1553 @@
+{
+ "bigPicture": "Markets spent Wednesday digesting the Democrats' sweep of Congress: the Dow jumped about 1,500 points, Germany's DAX neared a record, and oil plunged more than 8% as Trump and Vance linked the Iran war to their defeat. Trump accepted the result but promised vetoes, so analysts expect gridlock. Euro-area inflation rose to 4.0%, while AI data-centre shares sank on fears of a Texas building pause. Beyond markets, the toll from Russia's strike on a Ukrainian aid centre reached 40, the WHO added two vaccines to its Ebola trial as deaths passed 5,300, and Indonesia sacked the president's chief of staff in a wiretapping scandal. In Poland, the central bank kept rates at 3.75%, shares and the złoty rose, Tusk sought talks with the president over the Constitutional Tribunal, and police secured the Kaliningrad border against possible sabotage.",
+ "createdAt": "2026-11-04T19:10:00Z",
+ "glossary": [
+  {
+   "def": "A president's power to reject a law passed by parliament.",
+   "example": "Trump warned he would veto Democratic bills.",
+   "term": "Veto"
+  },
+  {
+   "def": "When rival parties block each other so few big laws pass.",
+   "example": "Barclays expects legislative gridlock in Washington.",
+   "term": "Gridlock"
+  },
+  {
+   "def": "The stocks of unrefined oil held in storage.",
+   "example": "US crude inventories fell by 0.9 million barrels last week.",
+   "term": "Crude inventories"
+  },
+  {
+   "def": "A standard price or measure others are compared with.",
+   "example": "Brent is the world's main oil benchmark.",
+   "term": "Benchmark"
+  },
+  {
+   "def": "Price rises leaving out volatile energy and food.",
+   "example": "Euro-area core inflation held at 2.5% in October.",
+   "term": "Core inflation"
+  },
+  {
+   "def": "A first, early figure that can be revised later.",
+   "example": "Eurostat's 4.0% for October is a flash estimate.",
+   "term": "Flash estimate"
+  },
+  {
+   "def": "Using warships to stop ships reaching a country or port.",
+   "example": "Iran demands an end to the US naval blockade.",
+   "term": "Naval blockade"
+  },
+  {
+   "def": "Penalties, such as trade bans, used to pressure a country.",
+   "example": "Iran wants US oil sanctions lifted.",
+   "term": "Sanctions"
+  },
+  {
+   "def": "A bomb with wings that glides to a target after release.",
+   "example": "Reuters verified footage showing a 3-tonne glide bomb.",
+   "term": "Glide bomb"
+  },
+  {
+   "def": "A study testing whether a medicine or vaccine is safe and works.",
+   "example": "WHO backed adding two Ebola vaccines to a trial.",
+   "term": "Clinical trial"
+  },
+  {
+   "def": "A temporary ban on an activity.",
+   "example": "Hinojosa proposes a moratorium on new Texas data centres.",
+   "term": "Moratorium"
+  },
+  {
+   "def": "The NBP's main interest rate, which steers other rates.",
+   "example": "It stayed at 3.75% on 4 November.",
+   "term": "Reference rate"
+  },
+  {
+   "def": "A court that checks whether laws fit the constitution.",
+   "example": "Poland's Tribunal is at the centre of a political dispute.",
+   "term": "Constitutional tribunal"
+  },
+  {
+   "def": "A person forced to flee their country by war or persecution.",
+   "example": "Over 50,000 Ethiopians crossed into Kenya.",
+   "term": "Refugee"
+  },
+  {
+   "def": "A person asking another country for protection.",
+   "example": "A US court paused the deportation of Afghan asylum seekers.",
+   "term": "Asylum seeker"
+  }
+ ],
+ "label": "Wed 4 Nov · evening",
+ "lesson": null,
+ "markets": [
+  {
+   "change": 1.37,
+   "changeText": "+1.37%",
+   "group": "Stocks · Americas",
+   "key": true,
+   "name": "S&P 500",
+   "note": "At 17:36 Warsaw time, not a close (Reuters); +1.7% at 18:21. Relief after the US election and cheaper oil, reports said.",
+   "region": "US",
+   "value": "7,672.83",
+   "what": "An index of 500 large US companies."
+  },
+  {
+   "change": 1.44,
+   "changeText": "+1.44%",
+   "group": "Stocks · Americas",
+   "name": "Nasdaq Composite",
+   "note": "At 17:36 Warsaw time, not a close (Reuters); +1.9% at 18:21. Amazon rose; AI suppliers fell.",
+   "region": "US",
+   "value": "25,736.22",
+   "what": "An index dominated by US technology companies."
+  },
+  {
+   "change": 2.44,
+   "changeText": "+2.44%",
+   "group": "Stocks · Americas",
+   "name": "Dow Jones Industrial Average",
+   "note": "At 17:36 Warsaw time, not a close (Reuters); +2.9% at 18:21.",
+   "region": "US",
+   "value": "53,048.45",
+   "what": "An index of 30 large US companies."
+  },
+  {
+   "change": 2.22,
+   "changeText": "+2.22%",
+   "group": "Stocks · Europe",
+   "key": true,
+   "name": "DAX",
+   "note": "Wednesday close, about 78 points from its record (dpa-AFX).",
+   "region": "Germany",
+   "value": "26,437.67",
+   "what": "An index of the 40 biggest German companies."
+  },
+  {
+   "change": null,
+   "changeText": "up over 1%",
+   "group": "Stocks · Europe",
+   "name": "Stoxx Europe 600",
+   "note": "Wednesday close at a more than two-month high (Reuters); exact level not confirmed.",
+   "region": "Europe",
+   "value": "",
+   "what": "An index of 600 large European companies."
+  },
+  {
+   "change": 1.8,
+   "changeText": "+1.8%",
+   "group": "Stocks · Europe",
+   "name": "FTSE 100",
+   "note": "Wednesday close; banks led, BAE Systems fell (PA).",
+   "region": "UK",
+   "value": "10,829.21",
+   "what": "An index of the 100 biggest London-listed companies."
+  },
+  {
+   "change": 1.24,
+   "changeText": "+1.24%",
+   "group": "Stocks · Europe",
+   "key": true,
+   "name": "WIG20",
+   "note": "Wednesday close; banks and KGHM rose, Orlen fell (ISBnews, Parkiet).",
+   "region": "Poland",
+   "value": "4,190.08",
+   "what": "An index of the 20 biggest companies on the Warsaw exchange."
+  },
+  {
+   "change": -1.4,
+   "changeText": "−1.4%",
+   "group": "Stocks · Asia-Pacific",
+   "key": true,
+   "name": "Nikkei 225",
+   "note": "Wednesday close; SoftBank and Kioxia fell (AP).",
+   "region": "Japan",
+   "value": "62,188.63",
+   "what": "An index of 225 big Japanese companies."
+  },
+  {
+   "change": 0.6,
+   "changeText": "+0.6%",
+   "group": "Stocks · Asia-Pacific",
+   "name": "Kospi",
+   "note": "Wednesday close (AP).",
+   "region": "South Korea",
+   "value": "5,683.80",
+   "what": "South Korea's main share index."
+  },
+  {
+   "change": 1.1,
+   "changeText": "+1.1%",
+   "group": "Stocks · Asia-Pacific",
+   "name": "Hang Seng",
+   "note": "Wednesday close (AP).",
+   "region": "Hong Kong",
+   "value": "23,791.61",
+   "what": "Hong Kong's main share index."
+  },
+  {
+   "change": 2.2,
+   "changeText": "+2.2%",
+   "group": "Stocks · Asia-Pacific",
+   "name": "Shanghai Composite",
+   "note": "Wednesday close (AP).",
+   "region": "China",
+   "value": "3,686.17",
+   "what": "An index of shares listed in Shanghai."
+  },
+  {
+   "change": 0.1,
+   "changeText": "+0.1%",
+   "group": "Stocks · Asia-Pacific",
+   "name": "Sensex",
+   "note": "Wednesday close (AP); level not confirmed.",
+   "region": "India",
+   "value": "",
+   "what": "An index of 30 big Indian companies."
+  },
+  {
+   "change": -0.6,
+   "changeText": "−0.6%",
+   "group": "Stocks · Asia-Pacific",
+   "name": "ASX 200",
+   "note": "Wednesday close, after Tuesday's rate rise (AP).",
+   "region": "Australia",
+   "value": "8,834.50",
+   "what": "An index of 200 big Australian companies."
+  },
+  {
+   "change": -0.27,
+   "changeText": "−0.27%",
+   "group": "Currencies",
+   "key": true,
+   "name": "EUR/PLN",
+   "note": "At 16:50 Warsaw time vs Tuesday 16:50 (Forsal, PAP table); złoty stronger for a second day.",
+   "region": "Poland",
+   "value": "4.3977",
+   "what": "How many złoty one euro costs."
+  },
+  {
+   "change": -0.63,
+   "changeText": "−0.63%",
+   "group": "Currencies",
+   "key": true,
+   "name": "USD/PLN",
+   "note": "At 16:50 Warsaw time vs Tuesday 16:50 (Forsal).",
+   "region": "Poland",
+   "value": "3.9143",
+   "what": "How many złoty one US dollar costs."
+  },
+  {
+   "change": 0.36,
+   "changeText": "+0.36%",
+   "group": "Currencies",
+   "name": "EUR/USD",
+   "note": "At 16:50 Warsaw time (Forsal).",
+   "region": "Global",
+   "value": "1.1235",
+   "what": "How many dollars one euro costs."
+  },
+  {
+   "change": null,
+   "changeText": "flat",
+   "group": "Currencies",
+   "name": "USD/JPY",
+   "note": "Around the London close (PA).",
+   "region": "Japan",
+   "value": "158.45",
+   "what": "How many yen one dollar costs."
+  },
+  {
+   "change": -8.6,
+   "changeText": "−8.6%",
+   "group": "Commodities",
+   "key": true,
+   "name": "Brent crude oil",
+   "note": "At 19:06 Warsaw time, not a settlement (Oilprice.com).",
+   "region": "Global",
+   "value": "$94.66",
+   "what": "The global benchmark oil price, per barrel."
+  },
+  {
+   "change": -8.3,
+   "changeText": "−8.3%",
+   "group": "Commodities",
+   "name": "WTI crude oil",
+   "note": "At 19:06 Warsaw time (Oilprice.com).",
+   "region": "US",
+   "value": "$88.08",
+   "what": "The main US oil price, per barrel."
+  },
+  {
+   "change": null,
+   "changeText": "up about 3%",
+   "group": "Commodities",
+   "key": true,
+   "name": "Gold",
+   "note": "Sources differ: PA $4,041.83 around London close; Trading Economics about $4,062. Weaker dollar and lower yields.",
+   "region": "Global",
+   "value": "≈$4,040–4,060",
+   "what": "The classic safe-haven metal, per ounce."
+  },
+  {
+   "change": -4,
+   "changeText": "−4%",
+   "group": "Commodities",
+   "name": "TTF gas (Europe)",
+   "note": "Trading Economics; figures differ through the day and the source is not fully consistent.",
+   "region": "Europe",
+   "value": "≈€88/MWh",
+   "what": "Europe's benchmark gas price."
+  },
+  {
+   "change": null,
+   "changeText": "unchanged",
+   "group": "Interest rates",
+   "name": "NBP reference rate",
+   "note": "Monetary Policy Council held on 4 Nov (NBP via TVN24).",
+   "region": "Poland",
+   "value": "3.75%",
+   "what": "Poland's main central bank rate."
+  },
+  {
+   "change": null,
+   "changeText": "unchanged 29 Oct",
+   "group": "Interest rates",
+   "name": "ECB deposit rate",
+   "note": "Held after hikes in June and September (Euronews).",
+   "region": "Euro area",
+   "value": "2.50%",
+   "what": "The rate banks earn on money at the ECB."
+  },
+  {
+   "change": null,
+   "changeText": "slightly lower",
+   "group": "Interest rates",
+   "name": "US 10-year Treasury yield",
+   "note": "Around the London close, from 4.94% (PA).",
+   "region": "US",
+   "value": "≈4.92%",
+   "what": "What the US government pays to borrow for 10 years."
+  }
+ ],
+ "marketsAsOf": "Wed 4 Nov about 20:00 Warsaw time. Asia and Europe = Wednesday close; US = during Wednesday's session (17:36 Warsaw time), closing at 22:00; oil = 19:06 Warsaw time, not settled; currencies = 16:50 Warsaw time unless noted.",
+ "quiz": [
+  {
+   "answer": 1,
+   "explain": "Trump stays president and warned he will veto Democratic bills. So Congress can pass laws, but he can block them, and big changes become hard.",
+   "options": [
+    "The Senate cannot meet until 2029",
+    "The president can veto bills, and overriding him needs far more votes",
+    "Courts must approve every new law first",
+    "Republicans keep the House"
+   ],
+   "q": "Why does a Democratic Congress lead analysts to expect 'gridlock', even though Democrats won both chambers?"
+  },
+  {
+   "answer": 3,
+   "explain": "Reports said the selling overrode bullish inventory data. Trump and Vance linking the war to their defeat raised expectations of a settlement, though strikes remain possible.",
+   "options": [
+    "Stocks falling always lowers prices",
+    "OPEC cut production",
+    "The dollar rose sharply",
+    "Traders focused on the chance of a US–Iran settlement, not on one week's data"
+   ],
+   "q": "Brent fell over 8% on Wednesday even though US crude stocks dropped slightly. Which explanation fits the reports?"
+  },
+  {
+   "answer": 0,
+   "explain": "Core leaves out energy and food. Energy rose 20.8%, so the headline figure sits well above core.",
+   "options": [
+    "Energy is the main source of the rise",
+    "Wages are falling fast",
+    "Food prices drove everything",
+    "Services prices collapsed"
+   ],
+   "q": "Euro-area inflation was 4.0% in October and core inflation 2.5%. What does that gap suggest?"
+  },
+  {
+   "answer": 2,
+   "explain": "He said restrictions punish countries for doing the right thing, and stressed proven steps such as contact tracing and early care.",
+   "options": [
+    "They had already ended the outbreak",
+    "Ebola spreads only by water",
+    "He said they punish countries for doing the right thing",
+    "WHO bans all border checks"
+   ],
+   "q": "Why did Tedros criticise travel restrictions during the Ebola outbreak?"
+  },
+  {
+   "answer": 2,
+   "explain": "Prices reflect expected future profits. Hinojosa's win raised the perceived chance of a pause, so investors sold before anything actually changed.",
+   "options": [
+    "Shares only move when laws pass",
+    "The companies' factories were closed that day",
+    "Investors changed their expectations of future profits, and prices moved at once",
+    "The stock exchange lowered prices by decree"
+   ],
+   "q": "Review of Lesson 1: AI data-centre shares sank though no Texas law has changed. What is the best explanation?"
+  }
+ ],
+ "status": "complete",
+ "stories": [
+  {
+   "category": "Politics & conflict",
+   "everyday": "Little changes in Poland tomorrow, but US decisions on tariffs, defence and the Iran war affect fuel prices, the dollar and European security.",
+   "id": "trump-veto",
+   "importance": 5,
+   "markets": [
+    "US dollar",
+    "US Treasury bonds",
+    "Dow Jones",
+    "Defence",
+    "Healthcare"
+   ],
+   "rank": 1,
+   "rankWhy": "The world's biggest economy now has a divided government for two years, which shapes US budgets, war funding, tariffs and rules that reach every country.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "Forbes",
+     "url": "https://www.forbes.com/sites/saradorn/2026/11/04/midterm-election-results-live-updates-democrats-sweep-house-and-senate-some-races-still-too-close-to-call/"
+    },
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/trump-conceding-stunning-midterm-loss-admits-iran-war-and-gas-prices-hurt-republicans"
+    },
+    {
+     "name": "The Journal",
+     "url": "https://www.thejournal.ie/us-senate-election-results-alaska-mississippi-7214795-Nov2026/"
+    },
+    {
+     "name": "NBC Washington",
+     "url": "https://www.nbcwashington.com/elections/election-day-after-2026-midterms-congress-results-live-updates/4177248/"
+    },
+    {
+     "name": "Just Security news roundup",
+     "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    },
+    {
+     "name": "PA via AOL",
+     "url": "https://www.aol.co.uk/articles/stocks-surge-democrats-win-oil-173930000.html"
+    }
+   ],
+   "terms": [
+    "Veto",
+    "Gridlock",
+    "Congress"
+   ],
+   "title": "Trump accepts the midterm defeat but warns he will veto Democratic bills",
+   "what": "Democrats now hold 54 Senate seats to the Republicans' 44, with Mississippi and Alaska still uncalled, Forbes reported on Wednesday morning US time; the Associated Press called the Senate late on Tuesday and the House early on Wednesday. NBC News projects the largest Democratic House majority in nearly two decades. President Trump told the New York Times he is \"absolutely willing\" to accept the results and congratulated Democrats, but warned he would veto their bills. In Mississippi, Democrat Scott Colom led Senator Cindy Hyde-Smith by fewer than 60 votes with about 96% counted; Alaska's race may take weeks.",
+   "why": "A veto is the president's power to reject a law, so with Democrats passing bills and Trump able to block them, analysts at Barclays expect \"legislative gridlock\", meaning few big laws. Trump told Fox News the gasoline price explained the defeat, while Vice President Vance wrote on X that the war did. Goldman Sachs expects Democrats to use budget deadlines to push back on the Iran conflict, tariffs and last year's spending cuts. The new Congress takes its seats on 3 January, so for about two months the old one remains."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "Cheaper crude usually reaches petrol stations with a delay of days to weeks, and only if it lasts; Polish fuel prices also depend on the złoty and taxes.",
+   "id": "oil-crash",
+   "importance": 5,
+   "markets": [
+    "Brent crude",
+    "WTI crude",
+    "Airlines",
+    "Oil producers",
+    "Orlen"
+   ],
+   "rank": 2,
+   "rankWhy": "Oil feeds into transport, food and heating costs everywhere; a one-day fall of more than 8% moves inflation expectations in every country.",
+   "region": "Global",
+   "sources": [
+    {
+     "name": "Oilprice.com",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Crashes-9-as-Trump-and-Vance-Blame-Iran-War-for-Midterm-Rout.html"
+    },
+    {
+     "name": "Oilprice.com (morning report)",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Falls-to-100-as-Traders-Bet-on-a-US-Iran-Deal.html"
+    },
+    {
+     "name": "PA via AOL",
+     "url": "https://www.aol.co.uk/articles/stocks-surge-democrats-win-oil-173930000.html"
+    },
+    {
+     "name": "Stocktitan live blog citing CNBC",
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026"
+    }
+   ],
+   "terms": [
+    "Brent crude",
+    "Crude inventories",
+    "Benchmark"
+   ],
+   "title": "Oil plunges more than 8% as Trump and Vance link the Iran war to their election loss",
+   "what": "Brent crude, the global oil benchmark, was down 8.6% at $94.66 a barrel at 19:06 Warsaw time, after touching its lowest level since 4 September; on Tuesday it was above $103. US crude (WTI) fell 8.3% to $88.08. The fall came even though official US data showed crude stocks dropping 0.9 million barrels, which on its own would normally support prices. Earlier reports showed the selling building through the day: Brent first dipped below $100 for the first time since early October. These are moves during trading, not final closing prices.",
+   "why": "Oilprice.com and CNBC reports linked the drop to Trump and Vance blaming fuel prices or the war for the Republican defeat, a sign to many traders that Washington has more reason to end the war. Trump also told the Financial Times there were no immediate plans to strike Iran, though he has since spoken of a possible \"heavy hit\". BOK Financial's Dennis Kissler cited rising Middle East exports, while Enverus' Carl Larry warned that escalation could come before any resolution."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "Peace would likely lower fuel and heating costs in Europe; renewed fighting would do the opposite.",
+   "id": "iran-talks",
+   "importance": 5,
+   "markets": [
+    "Brent crude",
+    "Shipping",
+    "European gas"
+   ],
+   "rank": 3,
+   "rankWhy": "The war keeps a chokepoint for a large share of world oil partly shut, so any deal or new strike would move energy prices worldwide.",
+   "region": "Middle East",
+   "sources": [
+    {
+     "name": "Reuters via Korea Times",
+     "url": "https://www.koreatimes.co.kr/world/20261104/iran-us-still-far-apart-on-deal-to-end-war-as-qatar-pushes-mediation"
+    },
+    {
+     "name": "Oilprice.com",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Falls-to-100-as-Traders-Bet-on-a-US-Iran-Deal.html"
+    },
+    {
+     "name": "Oilprice.com",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Crashes-9-as-Trump-and-Vance-Blame-Iran-War-for-Midterm-Rout.html"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
+    },
+    {
+     "name": "Gulf News",
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100"
+    }
+   ],
+   "terms": [
+    "Naval blockade",
+    "Sanctions"
+   ],
+   "title": "Trump sends mixed signals on Iran: no immediate strike plans, but a possible 'heavy hit'",
+   "what": "Trump told the Financial Times the US has no immediate plans to strike Iran, but he told Fox News a \"heavy hit\" is possible, and the Wall Street Journal reported he has leaned toward a large attack without deciding, Gulf News said. A senior Iranian official told Reuters the two sides remain far apart, and Iran says the Strait of Hormuz stays shut until the US lifts oil sanctions, ends its naval blockade and frees Iranian funds. Qatar is relaying proposals. Iran's Revolutionary Guards claimed four tankers hit mines and were destroyed, which is not independently verified; the UK's maritime agency UKMTO reported a tanker struck by two projectiles off Oman, with no casualties.",
+   "why": "Iran's parliament speaker Qalibaf read the US vote as Americans rejecting war, while Tehran's leaders said it would not change Washington's policy. US media reported that Central Command has prepared strikes that could begin after the elections, Al Jazeera said, and Kpler's Michelle Brouhard noted the new Congress does not sit until 3 January. Supreme Leader Mojtaba Khamenei warned the war would widen if attacks resume. Gulf exports recovered to about three-quarters of pre-war levels in October, tanker tracker Vortexa said, so a deal would add supply on top of that."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "If you hold a pension fund or an index fund, today's rise lifts its value on paper; one day's move says little about the long term.",
+   "id": "stocks-rally",
+   "importance": 5,
+   "markets": [
+    "Dow Jones",
+    "S&P 500",
+    "Nasdaq",
+    "DAX",
+    "FTSE 100",
+    "Stoxx 600",
+    "European banks",
+    "Defence"
+   ],
+   "rank": 4,
+   "rankWhy": "Share prices rose across the US and Europe within hours, affecting trillions of dollars of savings and pensions.",
+   "region": "Global",
+   "sources": [
+    {
+     "name": "Reuters via NewsBreak",
+     "url": "https://www.newsbreak.com/reuters-555486/4985392125270-wall-st-futures-jump-as-democrats-sweep-midterms"
+    },
+    {
+     "name": "Stocktitan live blog citing CNBC",
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026"
+    },
+    {
+     "name": "PA via AOL",
+     "url": "https://www.aol.co.uk/articles/stocks-surge-democrats-win-oil-173930000.html"
+    },
+    {
+     "name": "dpa-AFX via finanzen.at",
+     "url": "https://www.finanzen.at/nachrichten/aktien/aktien-frankfurt-schluss-dax-nahert-sich-nach-us-zwischenwahlen-rekord-1036715609"
+    },
+    {
+     "name": "Reuters via TradingView",
+     "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46L1RG:0-european-shares-jump-over-1-after-democrats-sweep-us-congress-novo-nordisk-surges/"
+    }
+   ],
+   "terms": [
+    "Risk premium",
+    "Gridlock"
+   ],
+   "title": "Dow gains as much as 1,500 points and Europe rallies after the US vote",
+   "what": "Reuters had the Dow at 53,048.45 (+2.44%), the S&P 500 at 7,672.83 (+1.37%) and the Nasdaq Composite at 25,736.22 (+1.44%) at 17:36 Warsaw time; by 18:21 CNBC figures showed the Dow up 1,514 points (2.9%). Gains shifted during the day and US markets close at 22:00 Warsaw time, after this edition. Germany's DAX closed up 2.22% at 26,437.67, within about 78 points of its record, and London's FTSE 100 closed up 1.8% at 10,829.21. Reuters said the Stoxx 600 closed at a more than two-month high. British banks rose (NatWest +5.3%, HSBC +4.8%), while defence firm BAE Systems fell 4.2%.",
+   "why": "XTB's Kathleen Brooks argued that gridlock is good for markets, and J Safra Sarasin's Raphael Olszyna-Marzys said a decisive result removed the risk of a disputed outcome. Falling oil helped too, dpa-AFX's Frankfurt market report said. Reuters said doubts about Trump's $1.5 trillion budget request weighed on defence shares, and RBC's Ken Herbert expects more budget disputes."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "Poland is not in the euro, but higher euro-area rates and prices affect Polish exporters, and holidays in Italy or Greece cost more.",
+   "id": "ez-inflation",
+   "importance": 4,
+   "markets": [
+    "Euro",
+    "German bonds",
+    "European banks"
+   ],
+   "rank": 5,
+   "rankWhy": "Inflation across the 20-plus euro countries is rising, and economists say it makes a December rate rise more likely.",
+   "region": "Europe",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/04/eurozone-inflation-hits-4-which-countries-saw-prices-jump-the-most"
+    },
+    {
+     "name": "Eurostat on X",
+     "url": "https://x.com/EU_Eurostat/status/2117919796272783523"
+    },
+    {
+     "name": "Eurostat",
+     "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap"
+    }
+   ],
+   "terms": [
+    "Core inflation",
+    "Flash estimate"
+   ],
+   "title": "Euro-area inflation climbs to 4.0%, driven by energy",
+   "what": "Consumer prices in the euro area rose 4.0% in the year to October, up from 3.8% in September, Eurostat's first (\"flash\") estimate showed. Energy was up 20.8%, while core inflation, which leaves out energy and food, held at 2.5%. Italy jumped to 5.6% from 4.2%, and Germany eased to 2.8% from 3.3%, helped by a fuel tax cut from 1 October. The European Central Bank held its deposit rate at 2.5% on 29 October after raising it in June and September.",
+   "why": "The Iran war pushed up energy costs, which spread into the overall price level. Oxford Economics' Nicola Nobile said the data adds to the case for a rate rise in December, and Pantheon Macroeconomics expects one then and another in March 2027. Today's oil plunge, if it lasts, would ease that pressure."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "A harder winter in Ukraine can mean more people seeking help abroad, including in Poland, and more pressure on European aid.",
+   "id": "ukraine-aid-strike",
+   "importance": 4,
+   "markets": [
+    "European gas",
+    "Polish power"
+   ],
+   "rank": 6,
+   "rankWhy": "One of the deadliest strikes on civilians this year, plus attacks on power in nine regions as winter begins, for a country of tens of millions.",
+   "region": "Europe",
+   "sources": [
+    {
+     "name": "Reuters via Times Live",
+     "url": "https://www.sundaytimes.timeslive.co.za/news/2026-11-04-ukrainian-death-toll-rises-to-40-after-russian-strike-on-aid-centre-scores-missing/"
+    },
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/ukraine/2026/1104/1597955-ukraine-russia/"
+    },
+    {
+     "name": "ABC News",
+     "url": "https://abcnews.com/International/ukraine-russia-trade-hundreds-drones-overnight-moscow-continues/story?id=137838953"
+    }
+   ],
+   "terms": [
+    "Glide bomb"
+   ],
+   "title": "Death toll from Russian strike on Ukrainian aid centre rises to 40; power hit in nine regions",
+   "what": "The toll from Monday's Russian bombing of an aid distribution point in Komyshuvakha, Zaporizhzhia region, rose to 40 by late Wednesday reports, with 59 people missing, officials said; earlier reports said 37. Rescue workers and police were among the dead. Reuters verified bodycam footage showing a 3-tonne glide bomb. Russia said it hit military units; both sides deny deliberately targeting civilians. Separately, President Zelensky said overnight attacks damaged power facilities in nine regions, and Ukraine's air force reported downing 272 Russian drones.",
+   "why": "Moscow keeps targeting energy as temperatures fall, Zelensky said, and emergency outages continue in many cities. Russia said it intercepted 709 Ukrainian drones in the same period. US envoy Steve Witkoff said delegations will meet in Abu Dhabi on 10–11 November, and Kyiv wants a halt to strikes on critical infrastructure."
+  },
+  {
+   "category": "Health & science",
+   "everyday": "The EU's ECDC rates the risk for people living in Europe as very low, though four linked patients, all health or aid workers, have been treated in the EU.",
+   "id": "ebola-vaccines",
+   "importance": 4,
+   "markets": [
+    "Vaccine makers",
+    "Moderna"
+   ],
+   "rank": 7,
+   "rankWhy": "The fastest-growing Ebola epidemic on record, Euronews says, has infected over 10,000 people and has no approved vaccine.",
+   "region": "Africa",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/04/who-backs-trials-for-two-new-vaccines-against-ebola-outbreak"
+    },
+    {
+     "name": "ECDC",
+     "url": "https://www.ecdc.europa.eu/en/ebola-disease-multi-country-outbreak-2026"
+    }
+   ],
+   "terms": [
+    "Clinical trial"
+   ],
+   "title": "WHO adds two candidate vaccines to Ebola trial as the death toll passes 5,000",
+   "what": "WHO chief Tedros Adhanom Ghebreyesus said on Wednesday that expert groups recommend adding two candidates to a trial: one from the University of Oxford with the Serum Institute of India, and one from Moderna. The trial is led by the DRC's National Institute for Biomedical Research. No vaccine is approved for the Bundibugyo virus, the rare Ebola type behind this outbreak. More than 10,000 people have been infected. Death tolls differ by source and date: Euronews reports more than 5,300 in total and 5,103 in the DRC as of 31 October, while the EU's ECDC lists 4,992 related deaths in the DRC as of 29 October. Kenya and Nigeria have also reported cases, and Uganda's outbreak has ended.",
+   "why": "A trial tests whether a vaccine is safe and works, usually in stages. Tedros stressed that vaccines do not replace proven steps such as early care, contact tracing and safe burials. He also condemned travel restrictions by Ghana and the US, saying they punish countries for reporting honestly."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "AI spending supports European suppliers and many pension funds; a slowdown could affect both, though nothing has changed yet.",
+   "id": "ai-datacentres",
+   "importance": 4,
+   "markets": [
+    "CoreWeave",
+    "Nvidia",
+    "Modine",
+    "SpaceX",
+    "Semiconductors"
+   ],
+   "rank": 8,
+   "rankWhy": "AI data-centre spending has driven much of the global share rally, and Texas alone holds about a quarter of planned US capacity.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "Reuters via NewsBreak",
+     "url": "https://www.newsbreak.com/reuters-555486/4985392125270-wall-st-futures-jump-as-democrats-sweep-midterms"
+    },
+    {
+     "name": "Stocktitan live blog citing CNBC",
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026"
+    },
+    {
+     "name": "Unite.AI",
+     "url": "https://www.unite.ai/data-center-policy-fears-hit-ai-stocks-after-hinojosas-texas-win/"
+    },
+    {
+     "name": "PA via AOL",
+     "url": "https://www.aol.co.uk/articles/stocks-surge-democrats-win-oil-173930000.html"
+    },
+    {
+     "name": "Just Security news roundup",
+     "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    }
+   ],
+   "terms": [
+    "Data centre",
+    "Moratorium"
+   ],
+   "title": "AI data-centre stocks sink after a Democrat who wants a building pause wins Texas",
+   "what": "Democrat Gina Hinojosa beat Governor Greg Abbott in Texas; her platform calls for an immediate moratorium (a temporary ban) on new data centres until new protections pass, and an end to their tax breaks. No such measure has been enacted. Around 18:00–19:00 Warsaw time, cooling firm Modine fell about 25%, Hut 8 about 22% and CoreWeave about 9%, Stocktitan's tracking of CNBC showed. Nvidia slipped 1.6%, and Philadelphia's chip index was down 3.6% to a six-month low at 17:36, Reuters said.",
+   "why": "Wells Fargo estimates Texas accounts for 27% of planned US data-centre capacity, so limits there would slow demand for chips, power and cooling. Goldman Sachs also flagged possible short-term moratoria touching about 45% of planned US expansion. The share falls reflect fear of what may happen, not any new law."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "Few direct effects in Poland; it matters as a test of political stability in a large Asian democracy.",
+   "id": "indonesia-wiretap",
+   "importance": 4,
+   "markets": [
+    "Indonesian rupiah",
+    "Jakarta stocks"
+   ],
+   "rank": 9,
+   "rankWhy": "Instability around the president of one of the world's most populous countries, with about 21,000 troops heading to its capital.",
+   "region": "Asia",
+   "sources": [
+    {
+     "name": "Reuters via Times Live",
+     "url": "https://www.timeslive.co.za/news/world/2026-11-04-troops-deployed-in-indonesia-as-president-sacks-aide-accused-of-wiretapping/"
+    },
+    {
+     "name": "AP via ABC News",
+     "url": "https://abcnews.com/International/wireStory/indonesias-military-deploys-thousands-troops-boost-jakartas-security-137838412"
+    }
+   ],
+   "terms": [
+    "Treason"
+   ],
+   "title": "Indonesia's president sacks his chief of staff over alleged wiretapping as troops enter Jakarta",
+   "what": "President Prabowo Subianto dismissed chief of staff Listyo Sigit Prabowo, a former police chief, a day after his arrest. He and two other senior police generals are suspected of illegally tapping the phones of the president, officials, politicians and journalists; they could face up to 10 years in prison. The presidential spokesperson said the conduct could point toward treason. The military is sending more than 20,000 personnel to Jakarta, a total expected to reach 20,980.",
+   "why": "The motive is unknown, a senior minister said. The military called the deployment routine and linked it partly to training, and authorities have not confirmed a link to the case. Reuters reported that Prabowo's approval has slipped amid food-price worries, and an Australian National University researcher warned of unintended escalation."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "Mortgage and loan payments linked to market rates do not jump on this decision; savers keep roughly today's deposit conditions.",
+   "id": "nbp-hold",
+   "importance": 3,
+   "markets": [
+    "Polish złoty",
+    "Polish government bonds",
+    "Polish banks"
+   ],
+   "rank": 10,
+   "rankWhy": "The price of borrowing for Polish households and firms stays the same for at least another month.",
+   "region": "Poland",
+   "sources": [
+    {
+     "name": "TVN24",
+     "url": "https://tvn24.pl/biznes/z-kraju/stopy-procentowe-w-polsce-w-listopadzie-2026-rpp-podjela-decyzje-st9321601"
+    },
+    {
+     "name": "money.pl",
+     "url": "https://www.money.pl/gospodarka/rpp-nie-musi-sie-spieszyc-decyzja-zgodna-z-prognoza-7347356157123040a.html"
+    },
+    {
+     "name": "Finwire",
+     "url": "https://finwire.pl/artykuly/decyzja-rpp-4-listopad-2026-stopy-bez-zmian"
+    }
+   ],
+   "terms": [
+    "Reference rate"
+   ],
+   "title": "Poland's central bank keeps interest rates at 3.75%",
+   "what": "The Monetary Policy Council left the reference rate at 3.75%, with the lombard rate at 4.25% and the deposit rate at 3.25%, the National Bank of Poland said. Most economists had expected this; the last change was a 25-point cut in March. October inflation was a preliminary 3.5%, near the upper edge of the tolerance band around the 2.5% target. The next decision is reported for 2 December.",
+   "why": "ING analysts said the Council does not need to hurry with rate rises, because the make-up of price growth does not suggest inflation is spreading. ING expects rates to stay put through 2026 and rises to start in early 2027, citing the energy crisis and planned regulated price increases, especially for gas. That is one bank's forecast, not a decision."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "A stronger złoty makes euro holidays and imports slightly cheaper; lower bond yields can ease long-term borrowing costs.",
+   "id": "wig20-zloty",
+   "importance": 3,
+   "markets": [
+    "WIG20",
+    "mWIG40",
+    "KGHM",
+    "Orlen",
+    "PKO BP",
+    "Polish złoty"
+   ],
+   "rank": 11,
+   "rankWhy": "Polish shares, bonds and the currency all recovered after days of losses, which matters to Polish savers and importers.",
+   "region": "Poland",
+   "sources": [
+    {
+     "name": "ISBnews via Investing.com",
+     "url": "https://pl.investing.com/news/stock-market-news/indeks-wig20-wzrosl-o-124-na-zamknieciu-w-srode-1635776"
+    },
+    {
+     "name": "Forsal (stocks)",
+     "url": "https://forsal.pl/finanse/gielda/artykuly/11340766,dzien-na-gpw-4112026-glowne-indeksy-rosna-wsrod-blue-chipow-tylko-orlen-na-minusie.html"
+    },
+    {
+     "name": "Forsal (currencies)",
+     "url": "https://forsal.pl/finanse/waluty/artykuly/11340799,ile-kosztuja-dolar-euro-i-frank-kursy-walut-4112026.html"
+    },
+    {
+     "name": "Parkiet",
+     "url": "https://www.parkiet.com/gielda/art45445691-pierwszy-krok-do-odreagowania-zrobiony"
+    }
+   ],
+   "terms": [
+    "Basis point"
+   ],
+   "title": "Warsaw shares rebound and the złoty strengthens below 4.40 per euro",
+   "what": "The WIG20 closed up 1.24% at 4,190.08, the broad WIG rose 1.47% and the mWIG40 2.30%, ISBnews reported. They had each lost about 3.5–4% over the previous three sessions, Forsal said. Banks and KGHM rose, and Orlen fell, its slide over seven sessions reaching 7.7% by the afternoon. The euro cost 4.3977 złoty at 16:50, and 10-year Polish bond yields fell by up to about 10 basis points.",
+   "why": "XTB analysts quoted by Forsal saw the US result as a relief for emerging markets. KGHM gained on a rebound in metal prices, Parkiet said. Forsal linked Orlen's fall to doubts about its investment in the Możejki refinery in Lithuania."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "Court rulings on Polish laws, and how far people trust them, depend on how this ends.",
+   "id": "poland-tribunal",
+   "importance": 3,
+   "markets": [
+    "Polish złoty"
+   ],
+   "rank": 12,
+   "rankWhy": "A standoff between Poland's prime minister and president over the top constitutional court tests how the state resolves disputes.",
+   "region": "Poland",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/04/polands-pm-seeks-meeting-with-president-to-ease-tensions-over-constitutional-court-crisis"
+    },
+    {
+     "name": "TVN24",
+     "url": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-4-listopada-2026-roku-st9321162"
+    }
+   ],
+   "terms": [
+    "Constitutional tribunal"
+   ],
+   "title": "Tusk asks Nawrocki for a one-to-one meeting to ease the Constitutional Tribunal crisis",
+   "what": "Prime Minister Donald Tusk said he is ready to meet President Karol Nawrocki this week, after a National Security Council meeting; the president's spokesperson confirmed the request. The dispute is over who sits on the Tribunal, which rules on whether laws match the constitution, amid a deadlock over new judges. Last Friday night Nawrocki tried to enter the building as police surrounded it. The European Commission said appointing eight new members falls under the Sejm's constitutional powers.",
+   "why": "The opposition accuses the government of attempting a coup, while the government says it is restoring the rule of law after interference in the courts under Law and Justice. Tusk cited the mounting threat from the east as a reason to calm things down. Presidential minister Marcin Przydacz said he hoped police would not be used to take over state bodies."
+  },
+  {
+   "category": "Security & tech",
+   "everyday": "People in the two border provinces may see more police.",
+   "id": "poland-border",
+   "importance": 3,
+   "markets": [],
+   "rank": 13,
+   "rankWhy": "A security operation on Poland's border with Russia reflects a real risk of sabotage on NATO's eastern edge.",
+   "region": "Poland",
+   "sources": [
+    {
+     "name": "Notes from Poland",
+     "url": "https://notesfrompoland.com/2026/11/02/poland-launches-operation-along-russian-border-in-response-to-reports-of-planned-sabotage/"
+    },
+    {
+     "name": "TVN24",
+     "url": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-4-listopada-2026-roku-st9321162"
+    },
+    {
+     "name": "Just Security news roundup",
+     "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    }
+   ],
+   "terms": [
+    "Sabotage"
+   ],
+   "title": "Poland runs a special police operation on its border with Russia's Kaliningrad",
+   "what": "Police sent extra officers, including counter-terrorism units, to Podlasie and Warmia-Masuria after information that sabotage could occur within days, national police chief Marek Boroń confirmed. Warnings cited by RMF mentioned possible incursions by armed groups, though that comes from unnamed sources. Tusk spoke of border guards spotting \"individuals with flashlights\", TVN24 reported. Details of the operation are confidential.",
+   "why": "Police linked the operation to the activity of \"eastern services\", meaning Russia and its ally Belarus. Notes from Poland reported that an international study this year named Poland the main focus of Russian sabotage in Europe. No specific perpetrators were publicly named in the reports read here."
+  },
+  {
+   "category": "Security & tech",
+   "everyday": "Crypto holders are reminded that exchanges can be hacked; there is no direct effect on Polish daily life.",
+   "id": "north-korea",
+   "importance": 3,
+   "markets": [
+    "Bitcoin",
+    "Binance",
+    "South Korean won"
+   ],
+   "rank": 14,
+   "rankWhy": "Missile tests near Japan and South Korea plus a record $6bn crypto theft raise tensions in a major economic region.",
+   "region": "Asia",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack"
+    },
+    {
+     "name": "Morning Star",
+     "url": "https://morningstaronline.co.uk/article/world-brief-november-4-2026"
+    },
+    {
+     "name": "Rio Times Asia brief",
+     "url": "https://www.riotimesonline.com/asia-intelligence-brief-wednesday-november-4-2026"
+    },
+    {
+     "name": "The Diplomat",
+     "url": "https://thediplomat.com/2026/11/6b-binance-heist-exposes-how-north-korea-turned-hacking-into-a-state-revenue-stream/"
+    }
+   ],
+   "terms": [
+    "Cryptocurrency"
+   ],
+   "title": "North Korea fires missiles and denies stealing $6bn from crypto exchange Binance",
+   "what": "North Korea fired several missiles into the Sea of Japan on Wednesday, South Korea's Joint Chiefs of Staff said, its fourth weapons launch in a month, Al Jazeera reported. Hours earlier Pyongyang denied the theft of more than $6bn in crypto assets from Binance, which the FBI blamed on North Korean hackers from a group known as TraderTraitor. Kim Yo Jong, the leader's sister, ruled out talks unless Washington drops what she called its hostile policy.",
+   "why": "Analysts quoted by Al Jazeera said faster testing likely aims to strengthen Pyongyang's hand in any future talks. Trump has said he plans to meet Kim Jong Un later this year. The Diplomat described such hacking as a state revenue stream for North Korea."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "Gold jewellery and coins get dearer in dollars, though a stronger złoty softens the rise for Polish buyers.",
+   "id": "gold-silver",
+   "importance": 3,
+   "markets": [
+    "Gold",
+    "Silver",
+    "Gold miners",
+    "US dollar"
+   ],
+   "rank": 15,
+   "rankWhy": "Gold is a global store of value, and a 3% daily rise signals shifting views on the dollar and interest rates.",
+   "region": "Global",
+   "sources": [
+    {
+     "name": "PA via AOL",
+     "url": "https://www.aol.co.uk/articles/stocks-surge-democrats-win-oil-173930000.html"
+    },
+    {
+     "name": "Trading Economics",
+     "url": "https://tradingeconomics.com/commodity/gold"
+    },
+    {
+     "name": "TheStreet",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+    }
+   ],
+   "terms": [
+    "Safe haven"
+   ],
+   "title": "Gold climbs back above $4,000 as the dollar weakens",
+   "what": "Gold rose to about $4,042 an ounce around the London close from about $3,933 on Tuesday, PA Media reported; Trading Economics showed about $4,062 later. Silver futures rose nearly 5% in the morning. Miners Fresnillo and Endeavour Mining gained 7.1% and 6.2% in London.",
+   "why": "Gold has no interest payments and is priced in dollars, so a weaker dollar and lower bond yields tend to help it, Trading Economics said. Ebury's Matthew Ryan called the dollar's fall a knee-jerk reaction that should prove limited."
+  },
+  {
+   "category": "Security & tech",
+   "everyday": "Stores may discard spoiled food and check their systems; no Polish cases appeared in the reports read here.",
+   "id": "freezer-cyber",
+   "importance": 3,
+   "markets": [
+    "Food retailers",
+    "Cybersecurity"
+   ],
+   "rank": 16,
+   "rankWhy": "Cyberattacks on food-chain equipment now touch at least 11 European countries, showing how exposed ordinary systems are.",
+   "region": "Europe",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/eu-urges-action-as-germany-romania-and-uk-report-supermarket-cyberattacks"
+    },
+    {
+     "name": "Euronews via Yahoo",
+     "url": "https://au.news.yahoo.com/italy-holds-emergency-talks-supermarket-202251282.html"
+    }
+   ],
+   "terms": [
+    "Internet of things"
+   ],
+   "title": "Supermarket freezer hacks spread to at least 11 European countries",
+   "what": "Hackers raised temperatures in refrigeration systems at supermarkets in Germany, Romania and the UK on Monday, officials said, and the EU called the attacks \"not isolated\" and promised a collective response. Belgium's federal prosecutors opened an investigation after dozens of stores were hit, and Italy reported about 20 affected supermarkets with limited impact. Nobody has claimed responsibility.",
+   "why": "Experts at refrigeration-control maker Danfoss and at Deloitte urged taking such systems off the direct internet. Sweden's Coop said its affected units used older 4G links. Romania's cyber chief called the attack \"semi-amateurish\" and said he does not suspect a state."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "Little direct effect in Poland, but wider Horn of Africa instability can affect Red Sea shipping and refugee flows.",
+   "id": "ethiopia-sudan",
+   "importance": 3,
+   "markets": [],
+   "rank": 17,
+   "rankWhy": "Tension between two war-hit Horn of Africa states risks widening a conflict that has already displaced over 14 million Sudanese.",
+   "region": "Africa",
+   "sources": [
+    {
+     "name": "allAfrica / Reuters",
+     "url": "https://allafrica.com/stories/202611040529.html"
+    },
+    {
+     "name": "Reuters via Arab News",
+     "url": "https://www.arabnews.pk/middle-east/ethiopia-expels-sudanese-diplomats-after-fresh-allegations-of-support-for-rsf-3006103"
+    }
+   ],
+   "terms": [
+    "Persona non grata"
+   ],
+   "title": "Ethiopia orders six Sudanese diplomatic staff out within 48 hours",
+   "what": "A senior Ethiopian official told Reuters that six staff at Sudan's consulate in Assosa must leave, giving no reason. Sudan has complained to the UN Security Council and African Union that Ethiopia lets the Rapid Support Forces paramilitary launch drone attacks from its soil. Ethiopia accuses Khartoum of backing Tigrayan rebels. Both deny the claims.",
+   "why": "Sudan's war began in April 2023. An adviser to Sudan's Transitional Sovereignty Council said the government wants to avoid open war with Ethiopia, whose relations with Eritrea have also worsened."
+  },
+  {
+   "category": "Society & rights",
+   "everyday": "No direct effect in Poland; it shows how quickly local fighting creates refugees in a neighbouring state.",
+   "id": "kenya-refugees",
+   "importance": 3,
+   "markets": [],
+   "rank": 18,
+   "rankWhy": "More than 50,000 people have fled fighting since late October, needing food, shelter and health care.",
+   "region": "Africa",
+   "sources": [
+    {
+     "name": "allAfrica",
+     "url": "https://allafrica.com/stories/202611040155.html"
+    },
+    {
+     "name": "Mwakilishi",
+     "url": "https://mwakilishi.com/news/2026-11-04/kenya-begins-registering-over-50000-ethiopian-refugees-fleeing-renewed-clashes-in"
+    }
+   ],
+   "terms": [
+    "Refugee"
+   ],
+   "title": "Kenya begins registering more than 50,000 Ethiopians fleeing clashes in Moyale",
+   "what": "Kenyan authorities, working with the UN refugee agency and the Kenya Red Cross, began registering Ethiopian refugees who crossed since late October from Moyale, a town split by the border. Agencies appealed for about $8.9 million over three months, allAfrica reported. Arrivals continue.",
+   "why": "Registration records a person's identity and situation, which determines protection status and access to aid. The reports read here do not name the groups fighting or give casualty figures."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "No direct effect in Poland; it matters for a key African economy and for how trade perks are used as pressure.",
+   "id": "sa-vote",
+   "importance": 3,
+   "markets": [
+    "South African rand"
+   ],
+   "rank": 19,
+   "rankWhy": "About 29 million potential voters choose local governments in Africa's most industrialised economy, testing the ANC.",
+   "region": "Africa",
+   "sources": [
+    {
+     "name": "Rio Times Africa brief",
+     "url": "https://www.riotimesonline.com/africa-intelligence-brief-wednesday-november-4-2026"
+    },
+    {
+     "name": "allAfrica",
+     "url": "https://allafrica.com/stories/202611040155.html"
+    },
+    {
+     "name": "Wikipedia (2021 baseline)",
+     "url": "https://en.wikipedia.org/wiki/2026_South_African_municipal_elections"
+    }
+   ],
+   "terms": [
+    "AGOA"
+   ],
+   "title": "South Africans vote in local elections as the US plans to end their trade perks",
+   "what": "Voting took place on Wednesday with about 29 million potential voters; the electoral commission said polls opened with no major glitches. TimesLIVE reported ballot boxes stolen in KwaZulu-Natal. Results were not yet available. The ANC won 45.59% in the 2021 municipal vote.",
+   "why": "Residents cite water shortages, power cuts and poor infrastructure, allAfrica reported. Separately, US Trade Representative Jamieson Greer said Washington plans to remove South Africa and Rwanda from AGOA, a US scheme of duty-free access, from 1 January 2027."
+  },
+  {
+   "category": "Environment & climate",
+   "everyday": "Cleaner home heating is on the WHO list, which connects to Poland's own debate about winter smog.",
+   "id": "who-climate",
+   "importance": 3,
+   "markets": [
+    "Energy",
+    "Clean energy"
+   ],
+   "rank": 20,
+   "rankWhy": "A global WHO estimate of 1.6 million preventable deaths a year, published days before the UN climate summit.",
+   "region": "Global",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://euronews.com/2026/11/04/just-six-climate-actions-could-save-16-million-lives-a-year-who-says"
+    },
+    {
+     "name": "Peoples Gazette",
+     "url": "https://gazettengr.com/who-says-climate-health-interventions-can-save-1-6-million-lives-annually/"
+    }
+   ],
+   "terms": [
+    "Premature death"
+   ],
+   "title": "WHO says six climate-health steps could prevent 1.6 million deaths a year",
+   "what": "A WHO report published on Wednesday says six measures could prevent 1.6 million deaths a year, about one in 40 of all deaths. They include heat warning systems, safe water and sanitation, cleaner cooking and heating fuels, and better fossil-fuel pricing. Phasing out fossil fuels gives the largest gain, over a million premature deaths prevented yearly. The other five return on average $24.8 per $1 invested. About 3.6 billion people live in highly susceptible areas.",
+   "why": "Burning fossil fuels both warms the climate and pollutes the air, so cuts help health quickly. Tedros said much of the harm can be prevented with tools that already exist. These are modelled estimates, not counts."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "No direct effect in Poland.",
+   "id": "colombia-peace",
+   "importance": 3,
+   "markets": [
+    "Colombian peso"
+   ],
+   "rank": 21,
+   "rankWhy": "A country with a conflict that has killed over 450,000 people is changing its approach to armed groups.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "Reuters via Times Live",
+     "url": "https://www.timeslive.co.za/news/world/2026-11-04-colombia-toughens-peace-terms-offered-to-illegal-armed-groups/"
+    },
+    {
+     "name": "Just Security news roundup",
+     "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    }
+   ],
+   "terms": [],
+   "title": "Colombia's Congress passes tougher terms for armed groups, ending 'total peace'",
+   "what": "Lawmakers approved President Abelardo de la Espriella's bill, 57–24 in the Senate and 95–10 in the House. Surrendering members cannot hold office or join peace talks; sentences can be cut by up to 50%, 30% for commanders, in exchange for disarming and giving information. It awaits the president's signature.",
+   "why": "The government argues that former president Gustavo Petro's talks let groups grow; the defence ministry says membership rose from about 15,120 in late 2022 to about 28,802 in July 2026. Petro pointed to falling homicide rates."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "Most relevant if you own US funds; FIS's payment systems run behind many banks, but its share price does not affect their service.",
+   "id": "us-results",
+   "importance": 3,
+   "markets": [
+    "CVS Health",
+    "McDonald's",
+    "FIS",
+    "HCA",
+    "Centene"
+   ],
+   "rank": 22,
+   "rankWhy": "Big US companies affecting millions of customers and health-insurance members moved sharply on results.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "TheStreet",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+    },
+    {
+     "name": "Stocktitan live blog citing CNBC",
+     "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026"
+    }
+   ],
+   "terms": [
+    "Spin-off"
+   ],
+   "title": "CVS plans to split in two; McDonald's rises and FIS sinks on results",
+   "what": "CVS Health plans to separate into two public companies and raised its 2026 adjusted earnings forecast to at least $8.20 a share, yet its shares were down about 12%. McDonald's reported adjusted earnings of $3.57 a share, above the $3.38 forecast, while revenue of $7.16bn missed the $7.28bn estimate; shares rose about 5%. Payments firm FIS fell about 24% after cutting its outlook and losing its finance chief.",
+   "why": "Share prices react to surprises against expectations, not to good or bad news alone. TheStreet noted FIS's drop followed a JPMorgan downgrade. Hospital operator HCA and insurer Centene rose around 10%, moves listed among election-linked shares."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "Mainly relevant for holders of European funds.",
+   "id": "eu-results",
+   "importance": 2,
+   "markets": [
+    "Novo Nordisk",
+    "Continental",
+    "Heidelberg Materials",
+    "European banks"
+   ],
+   "rank": 23,
+   "rankWhy": "Large European firms moved on results, with a limited effect beyond their sectors.",
+   "region": "Europe",
+   "sources": [
+    {
+     "name": "Reuters via Euronext",
+     "url": "https://live.euronext.com/en/financial-news/european-shares-rise-democrats-take-us-congress-novo-nordisk-surges"
+    }
+   ],
+   "terms": [],
+   "title": "Novo Nordisk, Continental and Heidelberg Materials lift European shares",
+   "what": "Novo Nordisk raised its full-year sales and profit forecasts after third-quarter operating profit beat expectations, Reuters said. Continental raised its 2026 profitability outlook and Heidelberg Materials' sales beat forecasts. Euro-zone bank shares were the top sector, up nearly 4% in the morning.",
+   "why": "Reuters said investors rotated into domestic lenders, and a Morningstar strategist said a Democratic Congress could limit US pressure on European banks."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "Diesel costs feed into freight and food prices, in the US first.",
+   "id": "heating-oil",
+   "importance": 2,
+   "markets": [
+    "Diesel",
+    "Heating oil"
+   ],
+   "rank": 24,
+   "rankWhy": "A record US diesel price hits truckers and farmers but the release is small and national.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "Oilprice.com",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Crashes-9-as-Trump-and-Vance-Blame-Iran-War-for-Midterm-Rout.html"
+    }
+   ],
+   "terms": [
+    "Distillates"
+   ],
+   "title": "US lends heating oil from its reserve as diesel tops $6.50 a gallon",
+   "what": "The US Energy Department will lend 300,000 barrels from the Northeast Home Heating Oil Reserve to four companies, nearly a third of the stockpile, after diesel hit records above $6.50 a gallon, Oilprice.com reported. Distillate stocks are 13% below the five-year average.",
+   "why": "Distillates such as diesel are especially short, and senators of both parties pressed for a release."
+  },
+  {
+   "category": "Society & rights",
+   "everyday": "No direct effect in Poland.",
+   "id": "us-firsts",
+   "importance": 2,
+   "markets": [],
+   "rank": 25,
+   "rankWhy": "Historic firsts in US representation, with symbolic rather than immediate effects.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "NBC Washington",
+     "url": "https://www.nbcwashington.com/elections/election-day-after-2026-midterms-congress-results-live-updates/4177248/"
+    },
+    {
+     "name": "Just Security news roundup",
+     "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    }
+   ],
+   "terms": [],
+   "title": "Record 17 women governors and other firsts in the US vote",
+   "what": "Voters elected women governors in 17 states, a record, NBC News-based reporting said. Keisha Lance Bottoms would be Georgia's first Black governor and the first Black woman to lead a US state. Chris Pappas would be the first openly gay male senator, and Abdul El-Sayed the first Muslim senator.",
+   "why": "Who holds office shapes which issues get attention, though policy depends on many factors."
+  },
+  {
+   "category": "Society & rights",
+   "everyday": "No direct effect in Poland.",
+   "id": "afghan-deport",
+   "importance": 2,
+   "markets": [],
+   "rank": 26,
+   "rankWhy": "Affects dozens of asylum seekers directly but tests the limits of US deportations.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "Afghanistan International",
+     "url": "https://www.afintl.com/en/202611043881"
+    }
+   ],
+   "terms": [
+    "Asylum seeker"
+   ],
+   "title": "US court temporarily blocks plan to deport Afghans",
+   "what": "A federal court on Tuesday temporarily blocked a plan to deport dozens of Afghan asylum seekers to Afghanistan, Afghanistan International reported. The New York Times had reported that about 150 people would go via Pakistan. The UN refugee agency said it played no role.",
+   "why": "UNHCR said people whose lives are at risk must not be forcibly deported. Pakistani officials said they knew of no such plan."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "No direct effect in Poland.",
+   "id": "venezuela-eln",
+   "importance": 2,
+   "markets": [],
+   "rank": 27,
+   "rankWhy": "A strike with US help in a tense border area, killing at least 23, with regional rather than global effect.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "Just Security news roundup",
+     "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    },
+    {
+     "name": "Venezuelanalysis",
+     "url": "https://venezuelanalysis.com/news/venezuelan-armed-forces-bomb-eln-guerrilla-camp-reports/"
+    }
+   ],
+   "terms": [],
+   "title": "Venezuela's military strikes ELN guerrillas with US help",
+   "what": "Venezuela's military attacked the ELN guerrilla group in Apure with US intelligence and drones, killing at least 23 people, the New York Times reported, according to a Just Security summary. The State Department is also negotiating an agreement that could allow a long-term US presence.",
+   "why": "The ELN operates on both sides of the Colombian–Venezuelan border."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "No direct effect in Poland.",
+   "id": "flavio-bolsonaro",
+   "importance": 2,
+   "markets": [],
+   "rank": 28,
+   "rankWhy": "A diplomatic row between South America's two largest economies, limited so far.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "Rio Times",
+     "url": "https://www.riotimesonline.com/latin-american-pulse-for-wednesday-november-4-2026/"
+    },
+    {
+     "name": "Local 12",
+     "url": "https://local12.com/news/nation-world/gallery/brazils-flavio-bolsonaro-reportedly-heads-to-us-after-lula-wins-runoff?photo=1"
+    }
+   ],
+   "terms": [],
+   "title": "Brazil asks Argentina how Flávio Bolsonaro left the country",
+   "what": "Brasília has asked Buenos Aires to explain how Senator Flávio Bolsonaro, who lost the 25 October presidential runoff, left via Argentina on 27–28 October; he is now in Miami. Argentina's government says the matter is closed, Rio Times reported, while prosecutors review complaints.",
+   "why": "President Lula's government wants answers, and Argentina's spokesperson says there is nothing more to explain."
+  },
+  {
+   "category": "Society & rights",
+   "everyday": "Debates about age limits for social media are also under way in Europe.",
+   "id": "australia-socialmedia",
+   "importance": 2,
+   "markets": [
+    "Social media"
+   ],
+   "rank": 29,
+   "rankWhy": "A world-first age limit is being tested in court, and other countries are watching.",
+   "region": "Asia-Pacific",
+   "sources": [
+    {
+     "name": "Morning Star",
+     "url": "https://morningstaronline.co.uk/article/world-brief-november-4-2026"
+    },
+    {
+     "name": "MLex",
+     "url": "https://www.mlex.com/mlex/amp/articles/2463835"
+    }
+   ],
+   "terms": [],
+   "title": "Australia defends its under-16 social media ban in the High Court",
+   "what": "Government lawyers told the High Court the ban protects children's developing minds; lawyer Joanna Davidson listed risks including depression, anxiety and sleep problems, Morning Star reported. Reddit and the Digital Freedom Project are challenging the law on constitutional grounds.",
+   "why": "The government has acknowledged that the rule burdens political communication, MLex reported in April, so judges must weigh that against child protection."
+  },
+  {
+   "category": "Environment & climate",
+   "everyday": "Greece is a popular Polish holiday destination, and its fire risk affects summer travel.",
+   "id": "greek-fires",
+   "importance": 2,
+   "markets": [],
+   "rank": 30,
+   "rankWhy": "A national review of a deadly fire season, with lessons across southern Europe.",
+   "region": "Europe",
+   "sources": [
+    {
+     "name": "Greek City Times",
+     "url": "https://greekcitytimes.com/2026/11/04/2026-fire-season"
+    }
+   ],
+   "terms": [],
+   "title": "Review finds Greece's 2026 fires killed 11 and burned over 40,000 hectares",
+   "what": "A review led by WWF Greece said 11 people died and about 35,400 hectares were mapped as burned, with the total likely above 40,000. Twelve large fires caused about 80% of the mapped area.",
+   "why": "Fire weather was near normal, so the authors blamed much of the damage on prevention and large-fire handling."
+  },
+  {
+   "category": "Society & rights",
+   "everyday": "No direct effect in Poland.",
+   "id": "burkina-hrw",
+   "importance": 2,
+   "markets": [
+    "Gold"
+   ],
+   "rank": 31,
+   "rankWhy": "A rights report on civilian killings in a country with little media access.",
+   "region": "Africa",
+   "sources": [
+    {
+     "name": "allAfrica",
+     "url": "https://allafrica.com/stories/202611040155.html"
+    }
+   ],
+   "terms": [],
+   "title": "Human Rights Watch says jihadists killed at least 27 civilians in Burkina Faso",
+   "what": "The group said JNIM fighters killed at least 27 civilians in two attacks in Yatenga province in September, including 24 at a gold-mining site near Soubo.",
+   "why": "The report adds to rights groups' records of attacks on civilians in the Sahel."
+  },
+  {
+   "category": "Health & science",
+   "everyday": "No direct effect in Poland.",
+   "id": "indonesia-smoke",
+   "importance": 2,
+   "markets": [],
+   "rank": 32,
+   "rankWhy": "A large estimated health toll from smoke, not yet confirmed by the government.",
+   "region": "Asia",
+   "sources": [
+    {
+     "name": "Rio Times Asia brief",
+     "url": "https://www.riotimesonline.com/asia-intelligence-brief-wednesday-november-4-2026"
+    }
+   ],
+   "terms": [],
+   "title": "September fire smoke may have killed 3,560 in Indonesia, an estimate says",
+   "what": "An estimated 3,560 people died from September's fire smoke, and 57.8 million were exposed, Rio Times reported. The government has neither confirmed nor rejected the figure.",
+   "why": "Fine smoke particles enter the lungs and blood. This is a modelled estimate, not a count of deaths."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "No direct effect in Poland.",
+   "id": "taiwan-apec",
+   "importance": 2,
+   "markets": [],
+   "rank": 33,
+   "rankWhy": "A diplomatic dispute ahead of a Pacific summit, with symbolic stakes for now.",
+   "region": "Asia",
+   "sources": [
+    {
+     "name": "Rio Times Asia brief",
+     "url": "https://www.riotimesonline.com/asia-intelligence-brief-wednesday-november-4-2026"
+    }
+   ],
+   "terms": [
+    "APEC"
+   ],
+   "title": "Taiwan protests the wording of its APEC summit invitation",
+   "what": "Taiwan's invitation to the APEC leaders' meeting in Shenzhen on 18–19 November omitted the \"Chinese Taipei\" label, and Foreign Minister Lin Chia-lung said Taiwan would protest but not give up its right to attend, Rio Times reported.",
+   "why": "China claims Taiwan, so names used in international forums carry political weight."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "No direct effect in Poland.",
+   "id": "korea-budget",
+   "importance": 2,
+   "markets": [
+    "Samsung",
+    "SK Hynix"
+   ],
+   "rank": 34,
+   "rankWhy": "A national budget choice, with spill-over limited to the chip sector.",
+   "region": "Asia",
+   "sources": [
+    {
+     "name": "Rio Times Asia brief",
+     "url": "https://www.riotimesonline.com/asia-intelligence-brief-wednesday-november-4-2026"
+    }
+   ],
+   "terms": [],
+   "title": "South Korea plans to roughly double AI and chip spending",
+   "what": "The 2027 budget would roughly double AI and chip spending to 21.3 trillion won, Rio Times reported.",
+   "why": "South Korea's economy leans heavily on chipmakers such as Samsung and SK Hynix."
+  },
+  {
+   "category": "Society & rights",
+   "everyday": "No direct effect in Poland.",
+   "id": "tanzania-lissu",
+   "importance": 2,
+   "markets": [],
+   "rank": 35,
+   "rankWhy": "A treason verdict on Tanzania's main opposition leader tests the country's courts.",
+   "region": "Africa",
+   "sources": [
+    {
+     "name": "The Citizen",
+     "url": "https://thecitizen.co.tz/tanzania/news/national/lissu-treason-verdict-set-for-november-6-5614178"
+    },
+    {
+     "name": "Africanews",
+     "url": "https://www.africanews.com/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-begins-hunger-strike/"
+    }
+   ],
+   "terms": [],
+   "title": "Tanzania's opposition leader Tundu Lissu awaits a treason verdict on Friday",
+   "what": "The High Court in Dar es Salaam will deliver its judgment on 6 November in the case against the Chadema party chairman, The Citizen reported. He began a hunger strike in late October, Africanews reported.",
+   "why": "Lissu denounces the case as political."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "Only matters if you hold crypto.",
+   "id": "bitcoin",
+   "importance": 1,
+   "markets": [
+    "Bitcoin"
+   ],
+   "rank": 36,
+   "rankWhy": "A price milestone with little effect beyond crypto holders.",
+   "region": "Global",
+   "sources": [
+    {
+     "name": "Parkiet",
+     "url": "https://www.parkiet.com/gielda/art45445691-pierwszy-krok-do-odreagowania-zrobiony"
+    }
+   ],
+   "terms": [],
+   "title": "Bitcoin rises back above $80,000",
+   "what": "Bitcoin rose above $80,000 on Wednesday afternoon, Parkiet reported.",
+   "why": "Crypto prices often rise when investors feel more willing to take risks."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "No direct effect.",
+   "id": "melania-honour",
+   "importance": 1,
+   "markets": [],
+   "rank": 37,
+   "rankWhy": "A symbolic honour with no direct effect on the war.",
+   "region": "Europe",
+   "sources": [
+    {
+     "name": "RTÉ",
+     "url": "https://www.rte.ie/news/ukraine/2026/1104/1597955-ukraine-russia/"
+    },
+    {
+     "name": "Just Security news roundup",
+     "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    }
+   ],
+   "terms": [],
+   "title": "Zelensky gives Melania Trump a state award for the Oleshky truce",
+   "what": "Zelensky awarded the US first lady the Order of Princess Olga for her role in a six-day local ceasefire that helped evacuate nearly 800 people from occupied Oleshky.",
+   "why": "US-hosted talks are due in Abu Dhabi on 10–11 November."
+  },
+  {
+   "category": "Society & rights",
+   "everyday": "No direct effect.",
+   "id": "hockey-ban",
+   "importance": 1,
+   "markets": [],
+   "rank": 38,
+   "rankWhy": "A sporting dispute limited to one tournament.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "Just Security news roundup",
+     "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/"
+    }
+   ],
+   "terms": [],
+   "title": "Canada bars Russian and Belarusian players from world junior hockey",
+   "what": "Canada will bar them from the world junior championships after a sports court allowed Russians to compete in IIHF events, Reuters reported.",
+   "why": "Sport remains a pressure point over the war in Ukraine."
+  },
+  {
+   "category": "Society & rights",
+   "everyday": "Only matters if you are flying there.",
+   "id": "pope-argentina",
+   "importance": 1,
+   "markets": [],
+   "rank": 39,
+   "rankWhy": "A planned stoppage may cause travel disruption ahead of a papal trip.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "Rio Times",
+     "url": "https://www.riotimesonline.com/latin-american-pulse-for-wednesday-november-4-2026/"
+    }
+   ],
+   "terms": [],
+   "title": "Argentine union plans airport stoppage two days before the Pope's visit",
+   "what": "The ATE state workers' union plans a stoppage at 27 airports on 6 November, two days before Pope Leo XIV's visit. No cancellations are confirmed, Rio Times reported.",
+   "why": "Unions use well-timed strikes to gain attention."
+  }
+ ],
+ "watch": [
+  "Brazil's central bank (Copom) rate decision tonight, about 22:30 Warsaw time; the Selic is 13.75% and a hold was expected.",
+  "Wall Street's closing levels tonight at 22:00 Warsaw time, after this edition.",
+  "Bank of England decision on Thursday 5 Nov at 13:00 Warsaw time; 29 of 32 research houses surveyed expect a rise to 4.00% from 3.75%.",
+  "US jobs report for October, expected Friday 6 Nov at 14:30 Warsaw time.",
+  "Tanzania's High Court verdict on opposition leader Tundu Lissu on Friday 6 Nov.",
+  "Vote counts in Mississippi and Alaska, and South African election results.",
+  "Whether Trump chooses a large strike on Iran or Qatar-led talks advance; a Hormuz reopening would likely push oil lower.",
+  "A possible Tusk–Nawrocki meeting this week (date not disclosed); Russia–Ukraine talks in Abu Dhabi on 10–11 Nov."
+ ],
+ "window": "Wed 4 Nov 12:00 → Wed 4 Nov 20:00 (Warsaw time)",
+ "id": "2026-11-04-2000"
+}
