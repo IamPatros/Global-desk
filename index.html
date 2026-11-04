@@ -143,6 +143,7 @@ details.story[open]>summary .more{display:none}
 .story-top{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:6px}
 .region{font-family:var(--font-mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;background:var(--accent-soft);color:var(--accent);padding:2px 7px;border-radius:3px}
 .imp{font-family:var(--font-mono);font-size:11px;color:var(--muted)}
+.fixed{font-family:var(--font-mono);font-size:11px;color:var(--up);border:1px solid var(--up);padding:1px 7px;border-radius:3px}
 .cat{font-family:var(--font-mono);font-size:11px;color:var(--muted);border:1px solid var(--rule);padding:1px 7px;border-radius:3px}
 #cat-filters{margin-bottom:6px}
 .story p{margin:8px 0 0;max-width:68ch}
@@ -415,7 +416,7 @@ const EX = [
   {city:"Frankfurt", idx:"DAX", tz:"Europe/Berlin", s:[[540,1050]]},
   {city:"London", idx:"FTSE 100", tz:"Europe/London", s:[[480,990]]},
   {city:"New York", idx:"S&P 500", tz:"America/New_York", s:[[570,960]]},
-  {city:"São Paulo", idx:"Ibovespa", tz:"America/Sao_Paulo", s:[[600,1020]]}
+  {city:"São Paulo", idx:"Ibovespa", tz:"America/Sao_Paulo", s:[[600,1075]]}
 ];
 function zoned(tz){
   const p = new Intl.DateTimeFormat("en-GB",{timeZone:tz,weekday:"short",hour:"2-digit",minute:"2-digit",hourCycle:"h23"}).formatToParts(new Date());
@@ -569,7 +570,7 @@ function renderToday(){
   const e = S.current; const bp = $("#bigpic"); bp.textContent="";
   bp.append(el("span",{class:"kicker",text:"The big picture · "+(e.label||"")}), el("p",{text:e.bigPicture||""}), el("div",{class:"window",text:"Covers: "+(e.window||"")+" · published "+fmtWhen(e.createdAt)}),
     e.status==="partial" ? el("div",{class:"partial",text:"Being filled now: the most important stories are already here, and lower-priority ones are still being added. This page updates by itself."}) : null);
-  const all = [...(e.stories||[]), ...(e.moreStories||[])].map((s,i)=>({...s, _i:i, category: s.category || (e.cats||{})[s.id] || "Economy & markets", importance: Math.min(5, Math.max(1, Math.round(s.importance||1)))}))
+  const all = [...(e.stories||[]), ...(e.moreStories||[])].map(s=>(e.fixes||{})[s.id] ? {...s, ...(e.fixes[s.id]), _fixed:true} : s).map((s,i)=>({...s, _i:i, category: s.category || (e.cats||{})[s.id] || "Economy & markets", importance: Math.min(5, Math.max(1, Math.round(s.importance||1)))}))
     .sort((a,b)=> b.importance-a.importance || (a.rank??1e9)-(b.rank??1e9) || a._i-b._i)
     .map((s,i)=>({...s, pos:i+1}));
   const regions = ["All", ...new Set(all.map(s=>s.region))];
@@ -602,7 +603,7 @@ function renderToday(){
       askInto(ai, [{role:"user", content: tutorPreamble()+"\n\nThe story:\n"+s.title+"\nWhat happened: "+s.what+"\nWhy it matters: "+s.why+"\n\n"+q}], kind==="simple"?"Simpler":kind==="poland"?"For Poland":"Connections", ev.currentTarget);
     };
     const folded = s.importance<=2;
-    const top = el("div",{class:"story-top"}, el("span",{class:"pos",text:"#"+s.pos,title:"Overall rank in this edition"}), el("span",{class:"badge",text:s.importance+" · "+IMP[s.importance]}), el("span",{class:"region",text:s.region}), el("span",{class:"cat",text:s.category}));
+    const top = el("div",{class:"story-top"}, el("span",{class:"pos",text:"#"+s.pos,title:"Overall rank in this edition"}), el("span",{class:"badge",text:s.importance+" · "+IMP[s.importance]}), el("span",{class:"region",text:s.region}), el("span",{class:"cat",text:s.category}), s._fixed ? el("span",{class:"fixed",text:"Corrected after fact-check",title:"This story was re-checked against sources and corrected"}) : null);
     const body = [
       s.rankWhy ? el("div",{class:"rank-why",text:"Why ranked "+s.importance+": "+s.rankWhy}) : null,
       el("span",{class:"lbl",text:"What happened"}), el("p",{text:s.what}),
