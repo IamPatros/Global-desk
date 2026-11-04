@@ -200,9 +200,12 @@ td.num{font-family:var(--font-mono);font-variant-numeric:tabular-nums;white-spac
 .lesson p{margin:6px 0}
 .example{background:var(--sheet);border:1px solid var(--rule);border-left:4px solid var(--warn);border-radius:6px;padding:12px 16px;margin:20px 0}
 .takeaways{background:var(--sheet);border:1px solid var(--rule);border-radius:6px;padding:12px 16px 12px 34px;margin:18px 0}
+.lesson-nav{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:0 0 22px}
+.lesson-nav select{font:inherit;font-size:14px;padding:8px 10px;border:1px solid var(--rule);border-radius:6px;background:var(--sheet);color:inherit;max-width:100%;flex:1 1 260px}
 .path{display:flex;gap:4px;flex-wrap:wrap;margin:26px 0 8px}
 .path span{font-family:var(--font-mono);font-size:11px;width:26px;height:26px;display:grid;place-items:center;border:1px solid var(--rule);border-radius:4px;color:var(--muted)}
 .path span.done{background:var(--accent);color:var(--sheet);border-color:var(--accent)}
+.path span.avail{cursor:pointer;border-color:var(--ink,currentColor);color:inherit}
 .path span.now{border-color:var(--accent);color:var(--accent);font-weight:600}
 
 .lsub{font-size:22px;margin:30px 0 8px}
@@ -332,6 +335,7 @@ body.static .site-only{display:block}
   </section>
 
   <section class="view" id="v-lesson">
+    <div class="lesson-nav" id="lesson-nav"></div>
     <div class="lesson" id="lesson"></div>
   </section>
 
@@ -342,6 +346,11 @@ body.static .site-only{display:block}
     <div id="quiz"></div>
     <div class="actions ai-only"><button class="btn solid" id="more-q">Give me 5 more questions</button></div>
     <div id="quiz-extra"></div>
+    <h3 class="lsub">Review: mixed questions from all your lessons</h3>
+    <p class="note">Knowledge sticks when you come back to it. Each review draws random questions from every lesson so far, so older topics keep coming back.</p>
+    <div class="actions"><button class="btn solid" id="review-go">Start a 10-question review</button></div>
+    <div class="score" id="review-score"></div>
+    <div id="review"></div>
   </section>
 
   <section class="view" id="v-glossary">
@@ -474,7 +483,7 @@ const CURRICULUM = ["What a market is and why news moves it","Supply, demand and
 const S = {
   editions: [], current: null, regionFilter: "All", catFilter: "All", impFilter: 0, glFilter: "all", glSearch: "",
   progress: {learned:{}, quiz:{}, lessonsDone:[], days:[]},
-  db:null, uid:null, sample:null, sampleReady:false, chat:[], extraQ:[]
+  db:null, uid:null, sample:null, sampleReady:false, chat:[], extraQ:[], lessons:[], lessonSel:null, lessonCache:{}, reviewQ:[], reviewKey:0
 };
 const startLoad = setTimeout(()=>{ if(!S.editions.length) showStatus("The briefing can't be reached yet. If this persists, reload the page; your progress is safe."); }, 10000);
 function showStatus(msg){ const s=$("#status"); s.textContent=msg; s.classList.toggle("hide",!msg); }
@@ -556,9 +565,24 @@ function renderStats(){
 }
 
 /* ---------- data ---------- */
+function lessonIndex(){
+  // all known lessons: the lessons library plus any lesson stored inside an edition (older format)
+  const map = new Map();
+  for (const e of [...S.editions].reverse()) if (e.lesson && e.lesson.title && e.lesson.number) map.set(e.lesson.number, {number:e.lesson.number, title:e.lesson.title, level:e.lesson.level, full:e.lesson});
+  for (const l of S.lessons) map.set(l.number, {...(map.get(l.number)||{}), ...l, full: l.sections ? l : ((map.get(l.number)||{}).full || S.lessonCache[l.number] || null)});
+  return [...map.values()].sort((a,b)=>a.number-b.number);
+}
 function latestLesson(){
-  const list = S.editions; const startIdx = Math.max(0, list.indexOf(S.current));
-  for (let i=startIdx;i<list.length;i++) if (list[i].lesson && list[i].lesson.title) return list[i].lesson;
+  const idx = lessonIndex(); if (!idx.length) return null;
+  const last = idx[idx.length-1]; return last.full || S.lessonCache[last.number] || {number:last.number, title:last.title};
+}
+async function getLesson(n){
+  const item = lessonIndex().find(l=>l.number===n); if (!item) return null;
+  if (item.full) return item.full;
+  if (S.lessonCache[n]) return S.lessonCache[n];
+  if (S.static){
+    try { const r = await fetch("data/lessons/"+n+".json?t="+(item.createdAt||""), {cache:"no-store"}); if (r.ok){ S.lessonCache[n] = await r.json(); return S.lessonCache[n]; } } catch(e){}
+  }
   return null;
 }
 function allTerms(){
@@ -662,13 +686,38 @@ function reveal(label, content){
   const btn = el("button",{class:"btn small",text:label,onclick:()=>{ const hid = body.classList.toggle("hide"); btn.textContent = hid ? label : "Hide"; }});
   return [btn, body];
 }
-function renderLesson(){
-  const L = latestLesson(); const box = $("#lesson"); box.textContent="";
-  if (!L){ box.append(el("div",{class:"empty",text:"Your first lesson arrives with the next morning edition."})); return; }
+function renderLessonNav(idx, cur){
+  const nav = $("#lesson-nav"); nav.textContent="";
+  if (idx.length < 2) return;
+  const pos = idx.findIndex(l=>l.number===cur);
+  const sel = el("select",{"aria-label":"Choose a lesson"});
+  for (const l of idx) sel.append(el("option",{value:String(l.number), text:"Lesson "+l.number+": "+l.title+(S.progress.lessonsDone.includes(l.number)?"  ✓":"")}));
+  sel.value = String(cur);
+  sel.addEventListener("change", ()=>{ S.lessonSel = Number(sel.value); renderLesson(); scrollTo(0,0); });
+  appendAll(nav,
+    el("button",{class:"btn small",text:"← Previous",disabled: pos<=0, onclick:()=>{ S.lessonSel = idx[pos-1].number; renderLesson(); }}),
+    sel,
+    el("button",{class:"btn small",text:"Next →",disabled: pos>=idx.length-1, onclick:()=>{ S.lessonSel = idx[pos+1].number; renderLesson(); }})
+  );
+}
+async function renderLesson(){
+  const box = $("#lesson");
+  const idx = lessonIndex();
+  if (!idx.length){ box.textContent=""; box.append(el("div",{class:"empty",text:"Your first lesson arrives with the next edition."})); $("#lesson-nav").textContent=""; return; }
+  const want = (S.lessonSel && idx.some(l=>l.number===S.lessonSel)) ? S.lessonSel : idx[idx.length-1].number;
+  renderLessonNav(idx, want);
+  const L = await getLesson(want);
+  box.textContent="";
+  if (!L){ box.append(el("div",{class:"empty",text:"This lesson couldn't be loaded. Check your connection and try again."})); return; }
   const done = S.progress.lessonsDone.includes(L.number);
   const ai = el("div",{class:"ai hide"});
   const path = el("div",{class:"path","aria-label":"Course path"});
-  CURRICULUM.forEach((t,i)=>{ const n=i+1; path.append(el("span",{title:n+". "+t,class: S.progress.lessonsDone.includes(n)?"done":(n===L.number?"now":""),text:String(n)})); });
+  const avail = new Set(idx.map(l=>l.number));
+  const pathMax = Math.max(CURRICULUM.length, idx[idx.length-1].number);
+  for (let n=1;n<=pathMax;n++){
+    const t = (idx.find(l=>l.number===n)||{}).title || CURRICULUM[n-1] || "";
+    path.append(el("span",{title:n+". "+t,class: S.progress.lessonsDone.includes(n)?"done":(n===L.number?"now":(avail.has(n)?"avail":"")),text:String(n),onclick: avail.has(n)? ()=>{ S.lessonSel=n; renderLesson(); scrollTo(0,0); } : null}));
+  }
   const lqKey = "lesson-"+L.number;
   const lqBox = el("div");
   const lq = L.lessonQuiz||[];
@@ -676,7 +725,7 @@ function renderLesson(){
   const passed = lqRec && lq.length && lqRec.answered===lq.length && lqRec.correct/lq.length >= 0.8;
   appendAll(box,
     el("div",{class:"num",text:String(L.number).padStart(2,"0")}),
-    el("span",{class:"kicker",text:"Lesson "+L.number+" of "+CURRICULUM.length+" · "+(L.level?L.level+" · ":"")+(L.minutes||6)+" min study"}),
+    el("span",{class:"kicker",text:"Lesson "+L.number+(L.number<=CURRICULUM.length?" of "+CURRICULUM.length:"")+" · "+(L.level?L.level+" · ":"")+(L.minutes||6)+" min study"}),
     el("h2",{text:L.title}),
     L.recap ? el("div",{class:"recap"}, el("span",{class:"kicker",text:"Recap of the last lesson"}), el("p",{text:L.recap})) : null,
     el("p",{class:"lede",text:L.intro||""}),
@@ -688,7 +737,7 @@ function renderLesson(){
       el("div",{class:"myths"}, L.misconceptions.map(m=>el("div",{class:"myth"}, el("p",{class:"wrong-line"}, el("strong",{text:"Wrong: "}), m.myth), el("p",{class:"right-line"}, el("strong",{text:"Correct: "}), m.truth))))] : null,
     (L.checkQuestions||[]).length ? [el("h3",{class:"lsub",text:"Check yourself"}), el("p",{class:"note",text:"Answer out loud or in writing before revealing. If you can't, re-read the section."}),
       L.checkQuestions.map((c,i)=>el("div",{class:"worked"}, el("p",{class:"qt",text:(i+1)+". "+c.q}), reveal("Show answer", el("p",{text:c.a}))))] : null,
-    L.todayExample ? el("div",{class:"example"}, el("span",{class:"kicker",text:"Seen in today's news"}), el("p",{text:L.todayExample})) : null,
+    L.todayExample ? el("div",{class:"example"}, el("span",{class:"kicker",text:"Seen in the news"+(L.date?" ("+L.date+")":"")}), el("p",{text:L.todayExample})) : null,
     (L.takeaways||[]).length ? [el("h3",{class:"lsub",text:"Key points to remember"}), el("ul",{class:"takeaways"}, L.takeaways.map(t=>el("li",{text:t})))] : null,
     lq.length ? [el("h3",{class:"lsub",text:"Lesson test"}), el("p",{class:"note",text:"Aim for at least 80% before moving on. "+(lqRec&&lqRec.answered? "Your score: "+lqRec.correct+" of "+lqRec.answered+(passed?" · passed":"") : lq.length+" questions")}), lqBox] : null,
     el("div",{class:"actions"},
@@ -703,7 +752,7 @@ function renderLesson(){
     ),
     ai,
     el("h4",{text:"Your course"}), path,
-    el("p",{class:"note",text:"After lesson 30, lessons go deeper on whatever keeps showing up in the news."})
+    el("p",{class:"note",text:"Click any filled number to open that lesson. After lesson 30, lessons go deeper on whatever keeps showing up in the news."})
   );
   if (lq.length) renderQuizList(lqBox, lq, lqKey);
 }
@@ -749,6 +798,26 @@ $("#more-q").addEventListener("click", async ev=>{
     renderQuizList($("#quiz-extra"), S.extraQ, null);
   } catch(e){ $("#quiz-extra").textContent = aiErr(e); }
   finally{ btn.disabled=false; btn.textContent="Give me 5 more questions"; }
+});
+
+async function allLessonQuestions(){
+  const out = [];
+  for (const l of lessonIndex()){
+    const L = await getLesson(l.number); if (!L) continue;
+    for (const q of (L.lessonQuiz||[])) if (q && Array.isArray(q.options) && Number.isInteger(q.answer)) out.push({...q, q:"[Lesson "+L.number+"] "+q.q});
+  }
+  return out;
+}
+$("#review-go").addEventListener("click", async ev=>{
+  const btn = ev.currentTarget; btn.disabled = true; btn.textContent = "Picking questions…";
+  try{
+    const pool = await allLessonQuestions();
+    if (!pool.length){ $("#review").textContent = "No lesson questions yet."; return; }
+    for (let i=pool.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [pool[i],pool[j]]=[pool[j],pool[i]]; }
+    S.reviewQ = pool.slice(0,10); S.reviewKey++;
+    renderQuizList($("#review"), S.reviewQ, null);
+    $("#review-score").textContent = S.reviewQ.length+" questions from "+lessonIndex().length+" lesson"+(lessonIndex().length===1?"":"s");
+  } finally { btn.disabled=false; btn.textContent="Start a new 10-question review"; }
 });
 
 function flashTerm(t){
@@ -852,6 +921,10 @@ async function boot(){
       if (S.current){ renderStats(); renderGlossary(); renderLesson(); renderQuiz(); }
     }, ()=>{});
   }
+  db.collection("lessons").orderBy("number","asc").onSnapshot(snap=>{
+    S.lessons = snap.docs.map(d=>({...d.data(), number: d.data().number || Number(d.id)})).filter(l=>l.number && l.title);
+    if (S.current) renderLesson();
+  }, ()=>{});
   db.collection("editions").orderBy("createdAt","desc").limit(30).onSnapshot(snap=>{
     clearTimeout(startLoad);
     const prevId = S.current && S.current.id, wasLatest = !S.current || (S.editions[0] && S.editions[0].id===prevId);
@@ -880,6 +953,12 @@ async function staticBoot(){
       .map((d,i)=> d ? {...d, id:list[i].id} : null).filter(Boolean);
     clearTimeout(startLoad);
     if (!eds.length){ showStatus("No edition yet. The first one arrives at the next update (10:00 or 20:00 Warsaw time)."); return; }
+    try {
+      const lr = await fetch("data/lessons/index.json?t="+Date.now(), {cache:"no-store"});
+      if (lr.ok){ const li = await lr.json(); const fresh = (li.lessons||[]).filter(l=>l.number && l.title);
+        for (const l of fresh){ const old = S.lessons.find(x=>x.number===l.number); if (old && old.createdAt!==l.createdAt) delete S.lessonCache[l.number]; }
+        S.lessons = fresh; }
+    } catch(e){}
     const prevId = S.current && S.current.id, wasLatest = !S.current || (S.editions[0] && S.editions[0].id===prevId);
     S.editions = eds;
     S.current = wasLatest ? eds[0] : (eds.find(e=>e.id===prevId) || eds[0]);
