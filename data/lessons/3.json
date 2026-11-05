@@ -1,0 +1,263 @@
+{
+ "checkQuestions": [
+  {
+   "a": "Bondholders lent money against a fixed promise, so they have a prior legal claim on assets. Shareholders hold the residual claim, meaning whatever remains after others are paid. In exchange for standing last, they keep all the upside if the company does very well, and limited liability caps their loss at what they paid.",
+   "q": "Why are shareholders paid after bondholders if a company fails, and what do they get in exchange for that position?"
+  },
+  {
+   "a": "The price reflects expected future profits, not just the past quarter. Rheinmetall cut its 2026 sales forecast and margin guidance, and that was a negative surprise compared with what investors expected. A trader also linked the fall to hopes of peace reducing defence spending. Because many years of expected profit were revised at once, the value lost was far larger than one quarter's profit.",
+   "q": "Rheinmetall's third-quarter sales and net profit rose strongly, yet its share fell by about a sixth. Explain how both can be true."
+  },
+  {
+   "a": "A higher price lets it raise more money for each new share, so future capital is cheaper. Management pay is often tied to the share price. A low price can make the company a takeover target. Investors also accept new issues more readily when a liquid secondary market exists.",
+   "q": "Why might a company care about its share price if it receives nothing when its shares trade on the exchange?"
+  },
+  {
+   "a": "Higher rates raise the discount rate used to value future cash, so distant cash is worth less today. The growth company has more value far ahead, so its price falls more. The utility's nearer cash flows are less sensitive, though it can suffer if it has large debts. Higher rates may also slow the economy, which would reduce expected profits, adding a second channel.",
+   "q": "A central bank unexpectedly raises rates. Trace the effect on the shares of a company with little profit today but large expected profits in ten years, and compare a stable utility."
+  },
+  {
+   "a": "The price before the results reflects expectations. If earnings fell less than investors feared, expected future profits are revised up. Demand for the share shifts right, and sellers ask for more, so the price rises even though the earnings figure itself went down. Only the surprise relative to expectations matters.",
+   "q": "Using Lessons 2 and 3, explain why a share with falling earnings can rise on the day of its results."
+  }
+ ],
+ "createdAt": "2026-11-05T18:58:28Z",
+ "date": "5 Nov 2026",
+ "editionId": "2026-11-05-2000",
+ "intro": "A share is one of the most talked-about objects in the news and one of the least understood. In this lesson you will find out exactly what you own when you own a share, what rights come with it and who gets paid first if a company fails. You will follow money from a company to its owners through dividends and buybacks, and calculate a company's market value. By the end you will be able to explain why a company can post rising profits and still lose billions of euros of value in a single day, as Rheinmetall did today.",
+ "lessonQuiz": [
+  {
+   "answer": 2,
+   "explain": "Lenders take 50 and bondholders the remaining 30, so nothing is left. Limited liability means shareholders do not have to cover the 10 million shortfall.",
+   "options": [
+    "10 million zł",
+    "30 million zł",
+    "Nothing",
+    "They must pay 10 million zł towards the debts"
+   ],
+   "q": "A company goes bankrupt. Its assets are sold for 80 million zł. It owes 50 million zł to secured lenders and 40 million zł to bondholders, and the two rank in that order. How much do shareholders get?"
+  },
+  {
+   "answer": 0,
+   "explain": "Market cap is 200 million × 15 = 3 billion zł; 10% of that is 300 million zł. The share count is unchanged.",
+   "options": [
+    "300 million zł",
+    "30 million zł",
+    "1.5 billion zł",
+    "3 billion zł"
+   ],
+   "q": "A company has 200 million shares priced at 15 zł. Its share price rises 10%. By how much does its market cap rise?"
+  },
+  {
+   "answer": 3,
+   "explain": "This is a secondary-market trade, so the money goes to the seller, not the company.",
+   "options": [
+    "It rises by the value of your purchase",
+    "It rises by the broker's fee",
+    "It rises only if the price rose that day",
+    "It does not change"
+   ],
+   "q": "You buy 100 shares of a listed Polish company on the exchange from another investor. What happens to the company's cash?"
+  },
+  {
+   "answer": 1,
+   "explain": "Trailing P/E = 60 ÷ 3 = 20. Forward P/E = 60 ÷ 5 = 12. The forward figure is lower because earnings are expected to rise.",
+   "options": [
+    "12 and 20",
+    "20 and 12",
+    "20 and 15",
+    "30 and 12"
+   ],
+   "q": "A share trades at 60 zł with EPS of 3 zł. Next year EPS is expected to be 5 zł. What are the trailing and forward P/E ratios?"
+  },
+  {
+   "answer": 1,
+   "explain": "Shares: 1,000 × 48 = 48,000. Dividend: 2,000, less 19% tax of 380 = 1,620. Total 49,620 zł, which is 380 zł below 50,000.",
+   "options": [
+    "50,000 zł",
+    "49,620 zł",
+    "51,620 zł",
+    "48,000 zł"
+   ],
+   "q": "A shareholder holds 1,000 shares at 50 zł, and the company pays a dividend of 2 zł. Assume the price falls by exactly the dividend and a 19% tax applies. What is the holder's total wealth after tax?"
+  },
+  {
+   "answer": 2,
+   "explain": "Value goes from 4 ÷ 0.04 = 100 to 4 ÷ 0.06 = 66.67, a fall of 33.3%.",
+   "options": [
+    "20%",
+    "25%",
+    "33.3%",
+    "50%"
+   ],
+   "q": "Using value = D ÷ (r − g), a share pays D = 4 zł and grows at g = 4%. By what percentage does the value fall if r rises from 8% to 10%?"
+  },
+  {
+   "answer": 0,
+   "explain": "Value is the present value of future cash. Distant cash is most sensitive to the discount rate, which is the mechanism in the third worked example.",
+   "options": [
+    "Rates rise → more of the growth company's value is distant → the discount rate cuts that value more",
+    "Rates rise → companies must pay dividends → growth firms lack cash",
+    "Rates rise → banks buy fewer shares by law → prices fall",
+    "Rates rise → the share count of growth firms rises automatically"
+   ],
+   "q": "Which chain best explains why rising interest rates can hurt fast-growing technology shares more than stable companies?"
+  },
+  {
+   "answer": 2,
+   "explain": "80 ÷ 32 = 2.50 zł, but the buyback used cash. The rise in EPS is not free.",
+   "options": [
+    "EPS falls from 2.00 to 1.60 zł",
+    "EPS is unchanged, since profit did not change",
+    "EPS rises from 2.00 to 2.50 zł and the firm has less cash",
+    "EPS rises from 2.00 to 2.50 zł and the firm has more cash"
+   ],
+   "q": "A company with 40 million shares earns 80 million zł. It buys back 8 million shares and profit stays the same. Which is correct?"
+  },
+  {
+   "answer": 1,
+   "explain": "This links to Lesson 1: prices react to surprises against what was expected, and here the surprise was negative.",
+   "options": [
+    "Rising profit always lowers share prices",
+    "The price already reflected higher expectations, so the disappointment lowered expected future cash",
+    "The company must have issued new shares",
+    "The exchange cut the price to reflect tax"
+   ],
+   "q": "A company reports that profit rose 20%, but analysts expected 35%. The share falls 8%. Which explanation fits Lesson 1 and this lesson?"
+  },
+  {
+   "answer": 0,
+   "explain": "Lesson 2: news shifts curves and the clearing price falls. Every trade still has one buyer and one seller, as Lesson 1 stressed.",
+   "options": [
+    "Demand shifted left and supply shifted right, so the clearing price fell",
+    "Quantity demanded fell because the curve did not move",
+    "A price ceiling was imposed",
+    "The number of buyers must be smaller than the number of sellers in each trade"
+   ],
+   "q": "Bad news reaches the market and a share falls sharply. Using Lesson 2, what has happened?"
+  },
+  {
+   "answer": 3,
+   "explain": "Market cap: 5 × 2 billion = €10 billion and 500 × 10 million = €5 billion. Judging value would also need earnings.",
+   "options": [
+    "Y is 100 times larger because its share price is 100 times higher",
+    "They are the same size",
+    "Y is more expensive by any measure",
+    "X has a market cap of €10 billion and Y of €5 billion"
+   ],
+   "q": "Company X trades at €5 with 2 billion shares; Company Y trades at €500 with 10 million shares. Which statement is correct?"
+  },
+  {
+   "answer": 0,
+   "explain": "A trade on Tuesday settles on Thursday, so the shares are on your account by the dividend date. A later purchase would settle too late.",
+   "options": [
+    "Tuesday 16 June",
+    "Wednesday 17 June",
+    "Thursday 18 June",
+    "Friday 19 June"
+   ],
+   "q": "To be entitled to a dividend on a dividend date of Thursday 18 June, with T+2 settlement and no holidays, what is the last day you can buy?"
+  }
+ ],
+ "level": "Foundations",
+ "minutes": 18,
+ "misconceptions": [
+  {
+   "myth": "Owning a share means you own part of the company's buildings and machines.",
+   "truth": "The company is a separate legal person that owns its assets. You own a bundle of rights: to vote, to receive distributed profit and to a residual claim after creditors."
+  },
+  {
+   "myth": "A €5 share is cheap and a €900 share is expensive.",
+   "truth": "Price alone says nothing. Compare the price with the earnings and assets behind each share, and use market cap to judge size."
+  },
+  {
+   "myth": "When I buy a share on the exchange, my money goes to the company.",
+   "truth": "In the secondary market your money goes to the seller. A company receives money only when it issues new shares in the primary market."
+  },
+  {
+   "myth": "A dividend is free money on top of the share price.",
+   "truth": "The cash leaves the company, so the price tends to fall by about the dividend. After tax, the holder can even be slightly worse off in that moment."
+  },
+  {
+   "myth": "If market cap fell by €7 billion, that money has gone to someone else.",
+   "truth": "Market cap is the latest price times all shares. It fell because buyers and sellers agreed lower prices. Only those who actually sold locked in a change, and no pile of cash moved from losers to winners."
+  }
+ ],
+ "number": 3,
+ "objectives": [
+  "Explain what legal rights a share gives, and why a shareholder is paid after creditors.",
+  "Distinguish the primary market from the secondary market, and explain which one gives a company new money.",
+  "Calculate market capitalisation, earnings per share and a price-to-earnings ratio from real figures.",
+  "Calculate a dividend after Polish tax and explain why a share price tends to drop by about the dividend.",
+  "Calculate how a buyback or a new share issue changes earnings per share.",
+  "Trace why a change in expected profits or in interest rates moves a share price, and explain why fast-growing companies react more strongly."
+ ],
+ "recap": "Lesson 1 showed that prices are set by the balance of eagerness between buyers and sellers and that they mostly react to surprises about the future. Lesson 2 made that precise with supply and demand, and showed that expectations shift those curves today. This lesson applies both ideas to the most watched price of all: the price of a slice of a company. What people are really trading is a claim on uncertain future profits, which is why expectations matter so much.",
+ "sections": [
+  {
+   "body": "A share, also called a stock, is one equal unit of ownership in a company that has divided its ownership into units. If a company has 1,000,000 shares and you hold 10,000, you own 1% of it. That does not mean you own 1% of its desks or factories. A joint-stock company is a separate legal person, so the company owns its assets and owes its debts, and you own a claim on the company. The mechanism matters because it creates a wall between the business and its owners. The wall protects you, as Section 2 explains, but you also cannot walk in and take a machine. Think of a share as a bundle of rights over a stream of uncertain future profits, not as a piece of property. The word 'stock' can mean shares in general, and 'equity' is the formal term for ownership. In Poland the legal form is the spółka akcyjna, regulated by the Commercial Companies Code. Shares in listed Polish companies exist as electronic entries on securities accounts rather than as paper certificates. Most of this lesson describes ordinary shares in listed companies; other share classes and unlisted firms can differ.",
+   "heading": "1. What you actually own"
+  },
+  {
+   "body": "An ordinary share usually gives three kinds of right. The first is a vote at the general meeting, where owners decide on matters such as who sits on the supervisory board and whether to pay a dividend. The second is a share of any profit that the company decides to distribute. The third is a residual claim, meaning a right to whatever is left after everyone else has been paid. That word 'residual' is the heart of the matter. If a company fails, Polish bankruptcy law pays the costs of the proceedings first, secured lenders are paid from the assets pledged to them, employees' claims rank ahead of other debts, and taxes and ordinary debts such as most bonds come after that. Shareholders come last and often get nothing. In return they have limited liability: under Article 301 of Poland's Commercial Companies Code, shareholders are not liable for the company's obligations. So the most you can lose on a share you have fully paid for is what you paid. Compare a loan: a lender gets agreed interest, fixed or linked to a reference rate, and comes earlier in the queue, but does not share in the upside. A shareholder accepts being last in exchange for unlimited upside, and that trade is the basic reason shares are riskier than bonds of the same company. Lesson 8 will look at bonds in detail.",
+   "heading": "2. The rights in the bundle, and who gets paid first"
+  },
+  {
+   "body": "A company sells new shares to raise money for factories, research or paying down debt. A first sale to the public is an initial public offering, or IPO. Polish usage calls a later sale of new shares an SPO, though abroad 'secondary offering' often means existing owners selling. Only the newly issued part of an offering is the primary market, and only that money goes to the company; when existing owners sell in an offering or a block sale, the money goes to them. After that, investors trade the shares among themselves on an exchange. This is the secondary market, and it is what the news reports every day. When you buy a share of Orlen on the Warsaw Stock Exchange (GPW), Orlen normally gets nothing, because your money goes to the seller. So why does a company care about its share price? Because a high price makes raising new capital cheaper, managers' pay is often linked to it, and a low price can invite a takeover. The secondary market also matters to the primary market: people will buy new shares more readily if they know they can sell them later. GPW's own barometer counted 10 debuts on its Main Market by the end of the third quarter of 2026, but only 5 public offerings by new companies, so not every debut raises money. New shares also cause dilution: each existing share becomes a smaller slice of the company, which is a real cost unless the money raised earns a good return.",
+   "heading": "3. Where shares come from: primary and secondary markets"
+  },
+  {
+   "body": "You cannot walk up to an exchange yourself: you need a broker, who sends your order to the market. A limit order says 'buy or sell at this price or better', so it may not fill at once. A market order, called PKC in Poland, takes the best prices available now, so it fills quickly but the price is not guaranteed, and under Warsaw's current rules any unfilled part is cancelled and an order that would breach price limits can be rejected. As Lesson 1 showed, orders wait in an order book, and a trade happens when a buyer's price meets a seller's. Suppose the best offer to sell is 100.20 zł for 300 shares and the next is 100.50 zł (hypothetical numbers): a market order to buy 500 shares fills 300 at 100.20 and 200 at 100.50, for an average of 100.32 zł. That shows why large orders move prices and why a thin market is expensive to trade in. Warsaw moved to a new trading system, WATS, on 5 October 2026; large shares trade continuously from about 9:00 to 16:50, followed by a closing auction until about 17:00, and there is an opening auction too; in an auction, orders are collected and a single price is set. Trades on EU exchanges settle two working days later, known as T+2, and the EU will move to T+1 on 11 October 2027 according to KDPW, Poland's central securities depository. Settlement means the share and the money actually swap, and the distinction between trading and settling matters in the dividend example in Section 6.",
+   "heading": "4. How a share changes hands"
+  },
+  {
+   "body": "Market capitalisation, or market cap, is the share price multiplied by the number of shares. It is the market's total price tag on the company's equity. A share price on its own says almost nothing about size. Rheinmetall trades at around €850 and has about 46.67 million shares, while a company priced at €10 could be worth far more if it has billions of shares. For the same reason a €1,000 share is not 'expensive' and a €5 share is not 'cheap': what matters is what you get for that price. A stock split shows this clearly: if each share becomes two, the price halves, the share count doubles, and the market cap stays the same. Market cap is also not cash in a vault. When Yahoo Finance reports that about $2 trillion was erased in the AI rout, nobody burned $2 trillion. The price of the last trades fell, and that price was applied to all shares, including the many that did not trade. Those holders feel poorer, but they lose money in cash only if they sell, and a later rise can restore the figure. WNP reported that the 383 domestic companies on the Warsaw main market were worth about 1.46 trillion zł at the end of October 2026. At the end of June, at nearly 1.3 trillion zł, xyz.pl put them at about 31.8% of Poland's GDP, and the US above 200% of GDP, which shows how differently countries use stock markets. These ratios compare a stock value with a yearly flow, so treat them as a rough gauge.",
+   "heading": "5. Market capitalisation: how big is it really?"
+  },
+  {
+   "body": "A company that makes a profit has three broad choices. It can keep the money and reinvest it, called retained earnings; it can pay a dividend, a cash payment per share; or it can buy back its own shares. Reinvesting is sensible if the company can earn more on the money than owners could elsewhere, which is why many fast-growing firms pay no dividend. A dividend is not guaranteed: in Poland the general meeting decides the annual dividend, usually after a recommendation by the management board. Orlen paid 8.00 zł per share for 2025, about 9.3 billion zł in total, with entitlement going to those holding the shares at the end of the session on 16 June 2026, two working days before the 18 June dividend date, because of T+2 settlement, and payment on 25 June. On the first day a buyer no longer gets the dividend, the price tends to fall by about the dividend, since that cash has left the company. So a dividend is a transfer from the company to you, not free money. In Poland, dividends and capital gains of individuals are generally taxed at 19%, known as the Belka tax. From the start of 2027, new personal investment accounts (OKI) exempt returns on up to 100,000 zł of assets, of which only 25,000 zł can be deposits and bonds, and a small tax on asset value applies above the limit, according to Money.pl. A buyback reduces the number of shares, so each remaining share owns a bigger slice of future profits; AppLovin, for example, approved a buyback of up to $3.2 billion this week. Buybacks and dividends both return cash, but critics point out that buybacks can flatter per-share figures, and whether they create value depends on the price paid.",
+   "heading": "6. How profit reaches the owners"
+  },
+  {
+   "body": "Why would anyone pay €850 for a share? The textbook answer is that a share is worth the present value of all the cash it is expected to give its owners. Present value means translating future money into today's money, because 100 zł next year is worth less than 100 zł now: at a 5% interest rate, it equals 100 ÷ 1.05 = 95.24 zł today. Two things therefore move a share price: expected future cash, and the discount rate used to translate it, which rises with interest rates and with how risky investors think the cash is. That explains why an interest rate rise can hurt shares and why fast-growing companies suffer most, because more of their value lies far in the future, as the third worked example shows. A common shortcut is the price-to-earnings ratio, or P/E: the share price divided by yearly earnings per share (EPS). A trailing P/E uses the last twelve months of earnings, and a forward P/E uses forecasts. A P/E of 20 means investors pay 20 zł for each 1 zł of yearly profit. FactSet put the S&P 500's forward P/E at 18.7 on 30 October, against a 10-year average of 19.1. A high P/E does not prove a share is overpriced, because it may reflect fast expected growth, and it can also be distorted by one-off gains or losses. On the news, this is why 'good results' can sink a share: the price already contained higher expectations, and only the surprise counts, as Lesson 1 showed.",
+   "heading": "7. What sets the price: expected future cash"
+  },
+  {
+   "body": "A single share can fall to zero, while an index of many shares very rarely comes close, because the failure of one company is offset by others. This is diversification, and Lesson 4 builds on it through indices. Today gave a sharp reminder of how far prices can move: Rheinmetall lost about a sixth of its value on a forecast cut even though its quarterly profit rose. The present-value model is a good way of thinking, not a machine that outputs the right price, since small changes in assumptions produce very different values. Economists disagree on how efficient markets are. One view holds that prices quickly reflect public information, so consistently beating the market is very hard. Another stresses that fear, herding and limits on betting against mispriced shares can push prices far from any reasonable value for long periods; Lesson 24 returns to this. Both views accept that prices respond to expectations. Shares also trade on flows: forced selling by funds can move prices for reasons unrelated to the company. Voting rights have limits too, because a small holder rarely changes anything, and a controlling shareholder such as a state can pursue goals other than profit. This lesson explains how shares work so that you can understand the news; it is not advice to buy or sell anything.",
+   "heading": "8. Risk, limits and where the idea breaks down"
+  }
+ ],
+ "takeaways": [
+  "A share is a bundle of rights in a separate legal company: a vote, a share of distributed profit and a residual claim after creditors.",
+  "Limited liability caps the loss on a fully paid share at its purchase price, while the upside has no cap; that is the shareholder's bargain for standing last in the queue.",
+  "New money reaches a company only in the primary market (IPO, SPO); everyday exchange trading moves shares between investors.",
+  "Market cap equals price times shares, and price alone says nothing about size or value; a fall in market cap is not cash that moved anywhere.",
+  "Profit can be reinvested, paid as a dividend or used for buybacks; a dividend lowers the share price by about the same amount, and in Poland it is generally taxed at 19%.",
+  "A share's value is the present value of expected future cash, so prices react to changes in expected profits and to interest rates, and long-dated growth shares react most."
+ ],
+ "title": "What a share (stock) is",
+ "todayExample": "Rheinmetall fell 16.1% on Xetra on Thursday after cutting its 2026 sales forecast to about €13.2 billion and its margin forecast to about 18.5%, even as its order book stood at about €78 billion. Its finance chief said the delays came only from customers' processes, and a trader quoted by finanzen.ch also linked the fall to hopes of peace. That is the present-value idea at work: owners revised their view of future cash, so the claim was repriced. On the same day AppLovin rose about 30% on results and a buyback, while the Nasdaq fell about 5% during trading, so a sector story and a single-company story moved in opposite directions.",
+ "workedExamples": [
+  {
+   "problem": "dpa-AFX reported Rheinmetall at €850.90 on Thursday afternoon, down 15.2%. StockAnalysis listed 46.67 million shares on 26 October. The company's third-quarter net profit was €296 million. (a) What was its market cap at €850.90? (b) What was the price before the fall? (c) How much market value was lost at that moment? (d) How does that compare with the quarter's profit, and what does it tell you?",
+   "solution": "(a) €850.90 × 46.67 million = €39,711.5 million, or about €39.7 billion. (b) A fall of 15.2% means the price is 84.8% of the old one: €850.90 ÷ 0.848 = €1,003.42. (c) The drop per share is €1,003.42 − €850.90 = €152.52, and €152.52 × 46.67 million = €7,118 million, or about €7.1 billion. (d) €7,118 million ÷ €296 million ≈ 24, so the lost value equals about 24 times the quarter's profit. The company did not lose that money in cash. Investors changed their view of many years of future profits at once, which is why a share can lose far more than a quarter's profit in a single day. The share count is from 26 October, so the result is approximate.",
+   "title": "Rheinmetall: market cap and a day's loss of value"
+  },
+  {
+   "problem": "Orlen paid 8.00 zł per share for 2025, about 9.3 billion zł in total, and in April Strefa Inwestorów put the yield at 6.1% at the share price then. Take someone who held 100 shares. (a) What is the dividend before and after the 19% Polish tax? (b) About how many shares does the total imply? (c) What share price does a 6.1% yield imply? (d) If that price fell by exactly the dividend on the ex-dividend day, what happens to the holder's wealth?",
+   "solution": "(a) 100 × 8.00 = 800 zł before tax. Tax is 800 × 0.19 = 152 zł, leaving 648 zł. (b) 9.3 billion ÷ 8.00 = 1.1625 billion shares, approximately, since the total is rounded. (c) Yield = dividend ÷ price, so price = 8.00 ÷ 0.061 = 131.15 zł. (d) Before the ex-dividend day the 100 shares are worth 13,115 zł. After a fall of 8.00 zł per share they are worth 12,315 zł, plus 800 zł of dividend, which still totals 13,115 zł before tax. After tax the total is 12,963 zł, which is 152 zł less. The dividend moved money from the company to the owner and created a tax bill; it did not create value by itself. In practice, the price on the day also moves for other reasons.",
+   "title": "Orlen's dividend: cash, tax and the price drop"
+  },
+  {
+   "problem": "A simple formula for a share paying a dividend D next year, growing at rate g forever, with required return r, is value = D ÷ (r − g). Both companies pay D = 5 zł next year. Company A grows at 3%, and Company B at 8%. (a) Find each value at r = 10%. (b) Find each value at r = 11%. (c) Calculate the percentage falls and explain the difference.",
+   "solution": "(a) A: 5 ÷ (0.10 − 0.03) = 5 ÷ 0.07 = 71.43 zł. B: 5 ÷ (0.10 − 0.08) = 5 ÷ 0.02 = 250.00 zł. (b) A: 5 ÷ 0.08 = 62.50 zł. B: 5 ÷ 0.03 = 166.67 zł. (c) A falls by (71.43 − 62.50) ÷ 71.43 = 12.5%. B falls by (250.00 − 166.67) ÷ 250.00 = 33.3%. One extra percentage point of required return hurts B almost three times as much, because far more of its value comes from distant cash. This is why AI and technology shares can be very sensitive to borrowing costs and growth doubts. The formula is a simplification: it fails when g is close to or above r, and no company grows at a steady rate forever.",
+   "title": "Why growth shares react more to interest rates (hypothetical numbers)"
+  },
+  {
+   "problem": "A company earns 100 million zł a year, has 50 million shares and trades at 40 zł. (a) Find its EPS, P/E and market cap. (b) It spends 200 million zł buying back shares at 40 zł. Find the new share count and EPS, ignoring lost interest on the cash. (c) Instead, it issues 10 million new shares. Find the new EPS, assuming the profit does not change.",
+   "solution": "(a) EPS = 100 ÷ 50 = 2.00 zł. P/E = 40 ÷ 2 = 20. Market cap = 50 million × 40 = 2,000 million zł. (b) It buys 200 ÷ 40 = 5 million shares, leaving 45 million. EPS = 100 ÷ 45 = 2.22 zł, up 11.1%. The firm also has 200 million zł less cash, so a higher EPS does not by itself prove the owners are better off. (c) With 60 million shares, EPS = 100 ÷ 60 = 1.67 zł, down 16.7%. That is dilution. That is not automatically bad, because EPS is not the same as value: the new money may fund growth or cut debt. To restore EPS to 2.00 zł, profit must reach 2.00 × 60 million = 120 million zł.",
+   "title": "Buyback or new shares: what happens to earnings per share (hypothetical numbers)"
+  }
+ ],
+ "updatedAt": "2026-11-05T19:13:00.317224Z"
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T10:16:56Z",
+ "updated": "2026-11-05T19:16:46Z",
  "lessons": [
   {
    "number": 1,
@@ -16,6 +16,14 @@
    "date": "5 Nov 2026",
    "createdAt": "2026-11-05T09:30:00Z",
    "updatedAt": "2026-11-05T09:16:27.476802Z"
+  },
+  {
+   "number": 3,
+   "title": "What a share (stock) is",
+   "level": "Foundations",
+   "date": "5 Nov 2026",
+   "createdAt": "2026-11-05T18:58:28Z",
+   "updatedAt": "2026-11-05T19:13:00.317224Z"
   }
  ]
 }
