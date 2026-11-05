@@ -1,0 +1,263 @@
+{
+ "checkQuestions": [
+  {
+   "a": "Lower pump prices raise the quantity demanded, a movement along the demand curve. Demand itself, the whole curve, has not changed. Since short-run elasticity is small, the rise in litres sold is small too. Demand would shift only if something else changed, such as higher incomes or a move to more driving.",
+   "q": "Falling oil prices lowered Polish fuel prices this week. A commentator says 'demand for petrol will now rise'. Correct this statement and explain what actually happens."
+  },
+  {
+   "a": "Today's physical data pointed to a tight market, which on its own supports prices. But traders price the future: they judged that the risk of a wider Iran war, and so of lost supply, had fallen. Expected future supply rose, so people were less willing to hold oil at the old price, and sellers had to accept less. Price moved on expectations, before physical flows changed.",
+   "q": "Brent fell about 8.7% on Wednesday although US data showed stocks falling and demand at a one-year high. Use this lesson and Lesson 1 to explain how both can be true."
+  },
+  {
+   "a": "In the short run demand is inelastic, since people still must travel and heat, and supply is too, since new production takes years. With both curves steep, the price must move a lot to make quantity demanded fall into line with the reduced supply. If demand elasticity were about −0.1 and supply did not respond, a 1% shortage would need a price rise of roughly 10%. Stocks and spare capacity soften this.",
+   "q": "Explain why a short oil-supply disruption can move the price far more than the percentage of oil lost."
+  },
+  {
+   "a": "The limit is calculated from average wholesale prices plus taxes and a flat 30 groszy, so lower wholesale prices lower the cap. A fixed ceiling stays put while costs change, so it can become binding and cause shortages when costs rise. The Polish formula limits the retail margin and passes cost changes through, so it creates less pressure, though stations with higher costs, like those on motorways, can still lose money.",
+   "q": "Why does Poland's fuel cap fall almost automatically when wholesale prices fall, and how does that make it different from a fixed-price ceiling?"
+  },
+  {
+   "a": "Revenue fell, so quantity must have fallen by more than 10%, meaning demand is elastic with an absolute value above 1. A city bakery has many nearby substitutes, so customers switch easily. A village bakery with no competitor likely faces less elastic demand, so a price rise might raise its revenue.",
+   "q": "A bakery raises the price of bread 10% and its revenue falls. What does that suggest about elasticity, and why might a village bakery differ from one in a city centre?"
+  }
+ ],
+ "createdAt": "2026-11-05T09:30:00Z",
+ "date": "5 Nov 2026",
+ "editionId": "2026-11-05-1000",
+ "intro": "Supply and demand is the most used model in economics, and also one of the most misused. In this lesson you will build it from its parts: why buyers and sellers behave as they do, how a price settles, and what shifts it. By the end you will be able to look at a price move in the news, work out which side of the market changed, measure how strongly people respond, and predict what a price cap such as Poland's fuel limit can and cannot do.",
+ "lessonQuiz": [
+  {
+   "answer": 1,
+   "explain": "200 − 20P = −40 + 40P gives 240 = 60P, so P = 4. Then Q = 200 − 80 = 120.",
+   "options": [
+    "P = 6, Q = 80",
+    "P = 4, Q = 120",
+    "P = 3, Q = 140",
+    "P = 5, Q = 100"
+   ],
+   "q": "Quantity demanded = 200 − 20P and quantity supplied = −40 + 40P. What are the equilibrium price and quantity?"
+  },
+  {
+   "answer": 3,
+   "explain": "Price and quantity rose together, which is the signature of a rightward demand shift.",
+   "options": [
+    "Supply shifted right",
+    "Supply shifted left",
+    "Demand shifted left",
+    "Demand shifted right"
+   ],
+   "q": "Over a year, flat prices rise 8% and the number of flats sold rises 5%. Which single shift best fits?"
+  },
+  {
+   "answer": 0,
+   "explain": "The tax shifts supply. The buyer's reaction to the higher price is a movement along the demand curve.",
+   "options": [
+    "A fall in quantity demanded, a movement along the demand curve",
+    "A fall in demand, a leftward shift of the demand curve",
+    "A fall in supply caused by the driver",
+    "A rise in demand for petrol at the new price"
+   ],
+   "q": "Petrol taxes rise and the pump price goes up. A driver buys fewer litres. How should an economist describe the driver's response?"
+  },
+  {
+   "answer": 2,
+   "explain": "−10 ÷ 95 = −10.53% and 2 ÷ 11 = 18.18%, giving −0.58. Revenue goes from 1,000 to 1,080 zł, so it rises.",
+   "options": [
+    "−0.50; revenue falls",
+    "−1.73; revenue falls",
+    "−0.58; revenue rises",
+    "−0.58; revenue falls"
+   ],
+   "q": "Price rises from 10 to 12 zł and quantity falls from 100 to 90 units. Using the midpoint method, what is the elasticity, and what happens to revenue?"
+  },
+  {
+   "answer": 1,
+   "explain": "Quantity falls about 2%, and 1.10 × 0.98 = 1.078, so revenue rises by about 8%.",
+   "options": [
+    "Falls about 2%",
+    "Rises about 8%",
+    "Rises about 12%",
+    "Rises about 10%"
+   ],
+   "q": "Demand elasticity is −0.2. A firm raises its price 10%. Using the simple percentage formula, roughly what happens to revenue?"
+  },
+  {
+   "answer": 3,
+   "explain": "At 3 zł, demanded = 70 and supplied = 40. The shortage is 30, and sales equal the smaller figure, 40.",
+   "options": [
+    "No effect, since the ceiling is below equilibrium",
+    "A surplus of 30 units",
+    "A shortage of 15 units, with 55 sold",
+    "A shortage of 30 units, with 40 sold"
+   ],
+   "q": "Quantity demanded = 100 − 10P and quantity supplied = −20 + 20P. A ceiling of 3 zł is imposed. What happens?"
+  },
+  {
+   "answer": 0,
+   "explain": "A ceiling limits only prices above it. At 5 zł the market is already below the limit, so nothing changes.",
+   "options": [
+    "None: the ceiling is above equilibrium, so it does not bind",
+    "Shortage, because ceilings always reduce supply",
+    "Surplus, because the legal price is higher",
+    "The market price rises to 7 zł"
+   ],
+   "q": "The market price of a product is 5 zł. The government sets a ceiling of 7 zł. What is the most likely direct effect?"
+  },
+  {
+   "answer": 2,
+   "explain": "Buyers moved purchases forward. With price capped, the extra demand showed up as queues and empty pumps.",
+   "options": [
+    "Supply fell because refineries closed for the day",
+    "Stations stopped selling so that prices could fall",
+    "Expected higher prices shifted today's demand right, and the capped price could not rise",
+    "Long-run elasticity suddenly became greater than 1"
+   ],
+   "q": "On the last day of a fuel tax cut, queues form and some pumps run dry. Which explanation is best?"
+  },
+  {
+   "answer": 1,
+   "explain": "Prices reflect expected futures. Every trade has a buyer and seller, so 'more sold than bought' is impossible (Lesson 1).",
+   "options": [
+    "Lower stocks mean a surplus, so price falls",
+    "News lowers expected future shortage, sellers become more eager than buyers, and price falls before flows change",
+    "Demand fell by 8% that day, which caused the fall",
+    "Traders sold more barrels than were bought"
+   ],
+   "q": "Connecting Lessons 1 and 2: oil falls 8% in a day although weekly data show lower stocks. Which chain is most accurate?"
+  },
+  {
+   "answer": 3,
+   "explain": "This is how equilibrium adjusts in an order book: market buy orders use up the cheapest offers, moving the price up.",
+   "options": [
+    "The spread must become zero",
+    "New sellers are required by law to appear at 20.00",
+    "Trades stop until buyers and sellers are equal in number",
+    "Buyers take the lowest asks first, so each trade happens at a higher ask and the price climbs"
+   ],
+   "q": "Connecting Lessons 1 and 2: a share's best bid is 20.00 and best ask 20.05. A flood of buyers arrives using market orders. How does excess demand show up?"
+  },
+  {
+   "answer": 0,
+   "explain": "Time expands choices, so demand becomes more elastic. Both meta-analyses in this lesson found larger long-run effects.",
+   "options": [
+    "People can replace cars, change jobs or move, so substitutes grow with time",
+    "Long-run supply always falls to zero",
+    "Income always falls by 20% over five years",
+    "The law of demand applies only in the long run"
+   ],
+   "q": "Fuel gets permanently 20% dearer. Why does quantity demanded fall more after five years than after one month?"
+  },
+  {
+   "answer": 2,
+   "explain": "5.00 × 1.23 = 6.15 and 5.00 × 1.08 = 5.40, so the fall is 0.75 zł. Sellers may not always pass on the full cut.",
+   "options": [
+    "0.15 zł",
+    "0.92 zł",
+    "0.75 zł",
+    "0.50 zł"
+   ],
+   "q": "A litre of fuel costs 5.00 zł before VAT. VAT falls from 23% to 8%, and sellers pass on the full cut. How much does the pump price fall?"
+  }
+ ],
+ "level": "Foundations",
+ "minutes": 20,
+ "misconceptions": [
+  {
+   "myth": "If the price of petrol rises, demand falls, and then lower demand pushes the price back down.",
+   "truth": "The price rise causes a movement along the demand curve (less quantity demanded), not a shift of demand. Treating it as a shift double-counts the same effect. The price stays higher unless something actually shifts a curve."
+  },
+  {
+   "myth": "A shortage means there is too little of the good in the world.",
+   "truth": "In economics a shortage means quantity demanded exceeds quantity supplied at the current price. If the price were free to rise, the shortage would disappear, even though the good is still scarce. Scarcity is permanent; shortages depend on the price."
+  },
+  {
+   "myth": "A price cap always makes things cheaper for everyone.",
+   "truth": "A binding cap lowers the price for those who get the good but cuts supply and creates queues, so some people go without. A cap above equilibrium does nothing at all."
+  },
+  {
+   "myth": "Prices fell, so demand must have fallen.",
+   "truth": "A fall in price can come from falling demand or rising supply. Check quantity: price down with quantity up points to supply, and price down with quantity down points to demand. In markets, an expected change can also move the price before any quantity changes."
+  },
+  {
+   "myth": "Inelastic demand means people do not react to price at all.",
+   "truth": "It means they react proportionally less than the price changes. Even a small elasticity like −0.1 is a real response, and responses usually grow over time as people change cars, homes and habits."
+  }
+ ],
+ "number": 2,
+ "objectives": [
+  "Explain the difference between a movement along a curve and a shift of a curve, and name at least four things that shift each curve.",
+  "Calculate an equilibrium price and quantity from simple demand and supply equations.",
+  "Diagnose whether a price move came mainly from demand or supply, using the direction of both price and quantity.",
+  "Calculate price elasticity of demand with the midpoint method and use it to predict what happens to revenue.",
+  "Explain why short-run responses are usually weaker than long-run ones, and how expected future prices change behaviour today.",
+  "Predict the effects of a price ceiling and show why Poland's fuel cap works differently from a fixed price."
+ ],
+ "recap": "Lesson 1 showed that a market is any arrangement where buyers and sellers agree a price, that every trade has one buyer and one seller, and that prices move when the balance of eagerness changes, mostly on surprises about the future. This lesson gives that idea of 'eagerness' a precise form. Demand and supply describe how much people want to buy and sell at each possible price, so we can reason about why a price moved rather than just describing it.",
+ "sections": [
+  {
+   "body": "Demand is not one number. It is a whole relationship: for each possible price, how much buyers would want to buy in a given period, all else being equal. Drawn on a chart with price on the vertical axis, this is the demand curve, and it normally slopes downward. Two mechanisms explain the slope. First, the substitution effect: when petrol gets dearer relative to other things, people swap towards alternatives, such as the train or a shorter trip. Second, the income effect: a higher price makes your fixed budget buy less, so you tend to buy less. There is also a simple 'different buyers' reason: at a high price only those who value the good most still buy. Now the key distinction. A change in the good's own price causes a movement along the curve, which we call a change in quantity demanded. Anything else that changes buyers' plans shifts the whole curve, which we call a change in demand. Common shifters are income, prices of substitutes and complements, tastes, the number of buyers and, very importantly, expected future prices.",
+   "heading": "1. Demand: what buyers are willing to do"
+  },
+  {
+   "body": "Supply is the matching relationship for sellers: how much they would offer at each price, all else being equal. The supply curve normally slopes upward because producing more usually gets more expensive at the margin. Marginal cost means the cost of making one more unit. Oil is a clear example: fields with low extraction costs are used first, and only a higher price makes costlier fields worth running. A firm that aims to maximise profit keeps producing as long as the price covers the cost of the next unit, so a higher price justifies more output. Supply shifters include input costs, technology, taxes, the number of producers, weather, war and expectations. OPEC+ adds a twist: seven of its members kept their November production targets unchanged at a meeting on 4 October, with Saudi Arabia's at 10.5 million barrels a day, according to Enerdata. A target is a decision to limit output, so the group influences the price in a way that a firm in a competitive market cannot. Enerdata also reported that Hormuz disruptions and limits on Russian flows keep actual output below those targets, a reminder that a target is not the same as real supply.",
+   "heading": "2. Supply: what sellers are willing to do"
+  },
+  {
+   "body": "Put both curves on one chart and they cross at one point, the equilibrium. At that price the quantity buyers want equals the quantity sellers offer. It is not a state that anyone plans; it is what pressure produces. If the price is above equilibrium there is excess supply, or a surplus: unsold goods build up and sellers cut prices. If the price is below equilibrium there is excess demand, or a shortage: queues form and sellers find they can charge more. This is the same process you saw in Lesson 1's order book, where sellers accept lower bids or buyers pay higher asks until trades balance. Take hypothetical numbers: suppose quantity demanded is 100 − 10P and quantity supplied is −20 + 20P. Setting them equal gives 120 = 30P, so P = 4 and quantity = 60. Check by substitution: 100 − 40 = 60 and −20 + 80 = 60. The speed of adjustment differs by market: oil on an exchange reprices in seconds, while rents and wages can take months or years. So equilibrium is a useful centre of gravity, not a description of every moment.",
+   "heading": "3. Equilibrium: how the price settles"
+  },
+  {
+   "body": "To explain a price move, use both price and quantity, because each type of shift leaves its own signature. If demand rises (shifts right), price and quantity both go up. If demand falls, both go down. If supply falls (shifts left), price goes up but quantity goes down. If supply rises, price goes down and quantity goes up. So the rule is: price and quantity moving together points to demand, and moving in opposite directions points to supply. Memory chips are a recent demand example: reports citing TrendForce and Gartner in early 2026 described sharply higher DRAM prices driven by AI data-centre demand, while output grew only slowly. Oil in 2026 is a supply example: the IEA's August report expected world supply to fall 4.3 million barrels a day on average this year and demand to fall 1.6 million, so price rose while quantity fell. The fall in demand there is largely buyers responding to higher prices, which is a movement along the curve rather than its cause. Real events often shift both curves at once. Then one direction is clear but the other depends on which shift is larger, so be careful about confident one-line explanations.",
+   "heading": "4. Reading the news: which curve moved?"
+  },
+  {
+   "body": "Knowing the direction is not enough; we need the size. Price elasticity of demand is the percentage change in quantity demanded divided by the percentage change in price. It is normally negative, and economists often quote its absolute size. If the absolute value is below 1, demand is inelastic: quantity changes proportionally less than price. Above 1, it is elastic. The midpoint method avoids getting different answers depending on direction: divide each change by the average of the start and end values. Hypothetical example: price rises from 6.00 to 6.60 zł and litres sold fall from 1,000 to 970. The quantity change is −30 ÷ 985 = −3.05% and the price change is 0.60 ÷ 6.30 = 9.52%, so elasticity is about −0.32. This links directly to revenue, which is price times quantity. With inelastic demand a higher price raises revenue (here from 6,000 to 6,402 zł), while with elastic demand it lowers revenue. Demand is more elastic when good substitutes exist, when the item is a large share of the budget and when people have more time to adjust. Elasticity is not a fixed law of nature: it varies by country, income, period and measurement method.",
+   "heading": "5. Elasticity: how strongly do people respond?"
+  },
+  {
+   "body": "Fuel demand shows why time matters, and also why economists disagree. A 2008 meta-analysis by Brons and colleagues found average elasticities of about −0.34 in the short run and −0.84 in the long run. A 2012 study by Havranek, Irsova and Janda argued that published results are biased towards bigger effects and estimated about −0.09 and −0.31. The exact numbers differ, but both show demand is inelastic and more responsive over time, because in a week you still have to drive to work while in five years you can buy an efficient car or move house. Supply follows the same pattern: a new oil field or chip factory takes years, so short-run supply is steep. When both curves are steep, a small physical shortage can require a big price move to rebalance, which is one reason oil prices are so jumpy. Expectations bring the future into today's market. If buyers expect a price rise, demand today shifts right. If sellers expect a higher price, some hold back stock, so supply today shifts left. Storage is the bridge between today and tomorrow: stocks are drawn down when today's supply is short and rebuilt when it is plentiful. This is why Brent could fall 8.7% in a day on war expectations even though US stocks fell that week.",
+   "heading": "6. Time and expectations"
+  },
+  {
+   "body": "A price ceiling is a legal maximum. It only has an effect if it is set below the equilibrium price, in which case it is called binding. Then quantity demanded exceeds quantity supplied, creating a shortage, and goods get rationed by queues, connections or limits rather than price. A ceiling above equilibrium has no effect at all. A price floor, such as a minimum wage, works the other way and only matters when set above equilibrium, although economists debate how large its effects are in real labour markets. Taxes differ: they add a wedge between what buyers pay and what sellers receive, and the burden falls more on whichever side is less responsive. Poland's CPN programme combines these tools. Its third edition runs from 3 October to 31 December 2026 and cuts VAT from 23% to 8% and excise by about 28–29 groszy a litre, according to Nasza Polska and Radar Paliw. The Minister of Energy publishes daily maximum prices, built from an average of wholesale prices plus excise and the fuel fee, plus a flat 30 groszy for station costs, plus VAT. So the limit moves with wholesale costs each day. In practice it works as a cap on the retail margin, while the tax cut is what lowers the level of the price. In April, the industry group POPiHN said some premium diesel and motorway stations were losing money under the caps, which is the kind of supply strain a ceiling can cause.",
+   "heading": "7. When governments step in: ceilings, floors and taxes"
+  },
+  {
+   "body": "Supply and demand is a model, which means a deliberate simplification. It works best for many similar goods, many buyers and sellers, and good information. It needs adjustment when a few firms or a cartel hold market power, since they set output rather than taking the price as given. Prices may be sticky, as with wages and contracts, so shortages and surpluses can last. The phrase 'all else being equal' rarely holds in real life, so past data cannot be read directly as a demand curve. Financial assets also behave differently: a share is wanted mainly for its expected future payoff, so a higher price can sometimes attract buyers rather than deter them, at least for a while, a pattern we will study under bubbles in Lesson 24. Rare exceptions to the downward slope exist in theory, but they do not overturn the rule for ordinary goods. Finally, the model says nothing about fairness. An efficient market price can still be painful for a poor household, which is why governments intervene despite the costs. Good analysis weighs both sides rather than treating either the market or the state as always right.",
+   "heading": "8. Where the model breaks down"
+  }
+ ],
+ "takeaways": [
+  "Demand and supply are relationships across all prices, not single numbers; own-price changes move along a curve, and everything else shifts it.",
+  "Equilibrium is where quantity demanded equals quantity supplied; surpluses push prices down and shortages push them up.",
+  "Price and quantity moving together points to a demand shift; moving in opposite directions points to a supply shift.",
+  "Elasticity measures response size: with inelastic demand a price rise raises revenue, and responses are usually larger in the long run.",
+  "Expected future prices shift today's curves, so prices can move before any physical change happens.",
+  "A ceiling only bites below equilibrium and then causes shortages; Poland's CPN combines a tax cut with a formula-based limit on the retail margin."
+ ],
+ "title": "Supply, demand and prices",
+ "todayExample": "Today's edition shows the tools at work. Brent settled down 8.7% at $94.62 on Wednesday, and Polish wholesale prices followed. Poland's limits for Thursday fell to 6.29 zł for Pb95 and 7.97 zł for diesel under the CPN programme, which also cuts VAT from 23% to 8%. Because oil demand is inelastic in the short run, expected changes in supply can swing the price a lot, and at the pump the change is 4 zł on a 50-litre tank. The tax cut, not the cap alone, explains why prices are this low, so the end of the programme would likely push pump prices up unless oil falls further.",
+ "workedExamples": [
+  {
+   "problem": "The EIA data reported by the Institute for Energy Research put oil flows through the Strait of Hormuz at 20.7 million barrels a day in Q4 2025, and The National, citing the EIA, put Q2 2026 at 4.9 million (the National also quotes a 21.6 million baseline, so sources differ by definition). The IEA's August report expected 2026 world supply to fall 4.3 million barrels a day and demand to fall 1.6 million. Brent rose over the period. (a) How large was the fall in Hormuz flows, using 20.7 million? (b) Which curve shifted first? (c) Why is the fall in world supply much smaller than the fall through Hormuz?",
+   "solution": "(a) 20.7 − 4.9 = 15.8 million barrels a day, a fall of 15.8 ÷ 20.7 = 76.3%. (b) Price rose while quantity fell, and those opposite directions point to a leftward shift of supply. Falling demand here is mostly a movement along the demand curve, as high prices made buyers use less. (c) Other routes and producers filled part of the gap. The National reports that Saudi crude was rerouted, with Bab al-Mandeb flows rising from 5.4 to 8.1 million barrels a day, and the US energy secretary described pipelines that bypass the strait. Higher prices also draw on stocks. So the world loss of 4.3 million is 27.2% of the 15.8 million fall in Hormuz flows. Interpretation: a market adjusts through rerouting and stocks as well as through price.",
+   "title": "Diagnosing the 2026 oil shock"
+  },
+  {
+   "problem": "The Pb95 cap fell from 6.37 to 6.29 zł a litre on 5 November (Auto Świat). Assume stations charge the cap. (a) What is the percentage price cut? (b) How much does a driver save on 50 litres? (c) Using short-run elasticities of −0.34 (Brons et al.) and −0.09 (Havranek et al.), estimate the change in litres sold. (d) What happens to revenue in each case?",
+   "solution": "(a) (6.29 − 6.37) ÷ 6.37 = −1.26%. (b) 0.08 × 50 = 4.00 zł. (c) With −0.34: −0.34 × −1.26% = +0.43%. With −0.09: −0.09 × −1.26% = +0.11%. (d) Revenue is price times quantity. With −0.34: 0.98744 × 1.00427 = 0.99166, so revenue falls 0.83%. With −0.09: 0.98744 × 1.00113 = 0.98856, so revenue falls 1.14%. Interpretation: demand is inelastic, so a price cut barely raises sales and lowers revenue. These are rough estimates using a simple percentage formula, and a one-day change in the cap is too short and small for the estimates to be precise.",
+   "title": "What 8 groszy means for demand and revenue"
+  },
+  {
+   "problem": "Hypothetical numbers: quantity demanded = 100 − 10P and quantity supplied = −20 + 20P. (a) Find the equilibrium. (b) A ceiling of 3.50 is imposed. What happens? (c) Buyers now expect the price to jump next week, and demand today rises to 130 − 10P. What is the new equilibrium without a ceiling, and the shortage with it? (d) Link this to what happened in Zakopane on 31 August 2026.",
+   "solution": "(a) 100 − 10P = −20 + 20P gives 120 = 30P, so P = 4 and Q = 100 − 40 = 60. (b) At 3.50: demanded = 100 − 35 = 65, supplied = −20 + 70 = 50. Shortage = 15 and sales fall to 50, the smaller of the two. (c) Without a ceiling: 130 − 10P = −20 + 20P gives 150 = 30P, so P = 5 and Q = 80. With the 3.50 ceiling: demanded = 130 − 35 = 95, supplied = 50, shortage = 45. (d) RMF FM reported that as the CPN programme ended that day, drivers rushed to fill up before 23% VAT returned, and some stations in and around Zakopane ran out of fuel. Expected higher prices shifted demand right, and the capped price could not rise to balance the market, so queues did the rationing.",
+   "title": "A ceiling, and what expectations do to it"
+  },
+  {
+   "problem": "The cap is built from wholesale cost including excise and the fuel fee, plus 30 groszy for station costs, plus VAT (Nasza Polska). Radar Paliw describes this as (wholesale + 0.30) × 1.08. (a) What wholesale figure does the 6.29 zł cap imply? (b) Using that figure, what would the price be at 23% VAT? (c) What if excise also returned, adding about 29 groszy before VAT?",
+   "solution": "(a) 6.29 ÷ 1.08 = 5.824; 5.824 − 0.30 = 5.524 zł a litre. (b) (5.524 + 0.30) × 1.23 = 7.164, so about 7.16 zł, or 0.87 zł more than 6.29. (c) (5.524 + 0.30 + 0.29) × 1.23 = 7.520, so about 7.52 zł, or 1.23 zł more. Interpretation: most of the visible cut comes from tax. This assumes the same wholesale price and margin, and full pass-through, which real prices may not show. It also means a return of normal tax could raise pump prices sharply unless oil falls further, which is one reason the NBP treats such measures as temporary.",
+   "title": "Inside the fuel cap"
+  }
+ ],
+ "updatedAt": "2026-11-05T09:08:28.348973Z"
+}

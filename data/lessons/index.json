@@ -1,1 +1,21 @@
-{"updated":"2026-11-04T19:15:00Z","lessons":[{"number":1,"title":"What a market is and why news moves it","level":"Foundations","date":"4 Nov 2026","createdAt":"2026-11-04T11:00:00Z"}]}
+{
+ "updated": "2026-11-05T09:16:29Z",
+ "lessons": [
+  {
+   "number": 1,
+   "title": "What a market is and why news moves it",
+   "level": "Foundations",
+   "date": "4 Nov 2026",
+   "createdAt": "2026-11-04T11:00:00Z",
+   "updatedAt": "2026-11-04T19:12:00.697549Z"
+  },
+  {
+   "number": 2,
+   "title": "Supply, demand and prices",
+   "level": "Foundations",
+   "date": "5 Nov 2026",
+   "createdAt": "2026-11-05T09:30:00Z",
+   "updatedAt": "2026-11-05T09:08:28.348973Z"
+  }
+ ]
+}

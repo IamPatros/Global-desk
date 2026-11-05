@@ -1,1 +1,212 @@
-{"number":1,"minutes":18,"level":"Foundations","title":"What a market is and why news moves it","intro":"Everything else in this course rests on one idea: a price is not a fixed label but the result of buyers and sellers negotiating, and it moves when their expectations about the future change. By the end of this lesson you should be able to explain how a trade actually happens, why prices react to news before anything real changes, and why 'good news' sometimes makes prices fall.","objectives":["Explain what a market is and how a price is formed through trades between buyers and sellers.","Read a simple order book: bid, ask, spread, market order and limit order.","Explain why prices are mainly about expectations of the future, and what 'priced in' means.","Explain why markets react to surprises (the gap between expected and actual), not to news itself.","Name the four big markets and trace a chain of cause and effect between them."],"sections":[{"heading":"1. What a market really is","body":"A market is any arrangement that lets buyers and sellers find each other and agree on a price. It doesn't need a building. Some markets are exchanges, central places with fixed rules where all orders meet, like the Warsaw Stock Exchange (GPW) for Polish company shares. Others are over-the-counter (OTC) markets, where large banks and institutions trade directly with each other through electronic networks; most currency trading works this way, and it is the biggest market in the world: according to the Bank for International Settlements' latest survey, about $9.6 trillion of currencies changed hands every day on average in April 2025. Whatever the form, a market does two jobs: it lets people trade, and it produces a price that everyone else can see. That visible price is information: it tells the world, at every moment, what something can be bought or sold for."},{"heading":"2. How a trade actually happens: the order book","body":"On an exchange, every share has an order book: a list of waiting offers. The bid is the highest price any buyer is currently willing to pay; the ask (or offer) is the lowest price any seller is currently willing to accept. The gap between them is the spread. A limit order says 'buy (or sell) only at this price or better' and waits in the book. A market order says 'trade right now at the best available price' and is matched immediately against the waiting orders. A trade happens only when a buyer and a seller agree on the same price, usually because one side gives up waiting and accepts the other side's price. A small spread means the market is liquid: there are many buyers and sellers, so you can trade quickly without moving the price much. Large, popular shares and major currencies have tiny spreads; EUR/USD, the world's most traded currency pair (about 21% of all currency trading, according to the same BIS survey), is the classic example. Shares of small companies usually have wider spreads."},{"heading":"3. Why prices move: there is always a buyer for every seller","body":"A common mistake is to say 'the price fell because there were more sellers than buyers'. In every trade there is exactly one buyer and one seller, so the number of shares bought always equals the number sold. What changes is urgency. If more people are eager to sell than to buy, sellers have to accept lower and lower bids to find a counterpart, so each new trade happens at a lower price. If buyers are more eager, they have to pay higher and higher asks. Price is therefore the level at which the eagerness of buyers and sellers balances at that moment. This process is called price discovery. It is the same logic as supply and demand, which we'll study properly in Lesson 2: more demand at a given price pushes the price up; more supply pushes it down."},{"heading":"4. Prices are about the future","body":"Why would anyone pay 100 zł for a share? Because owning it gives a claim on the company's future profits, paid out as dividends or reinvested to make the company more valuable. So today's share price is roughly what investors collectively think all those future profits are worth today. Two ideas follow. First, money in the future is worth less than money now: 100 zł you receive in a year is worth less than 100 zł today, because today's money could be saved or invested to earn interest in the meantime, and prices may rise. Investors therefore 'discount' future profits back to today. Second, because the price reflects the future, it moves whenever the expected future changes, even if nothing has changed in the present. The same is true for currencies (expected interest rates and growth), bonds (expected inflation and interest rates) and commodities (expected supply and demand)."},{"heading":"5. 'Priced in' and why surprises matter","body":"Because investors act on expectations, information that everyone already expects is usually already reflected in the price: it is 'priced in'. When the news finally arrives, the price moves only by the size of the surprise, meaning the gap between what happened and what was expected. That is why company results are always compared with analysts' forecasts, and why central bank decisions are compared with what markets predicted. Good news can even make a price fall, if it was less good than expected or if it comes with worrying hints about the future. Traders sum this up as 'buy the rumour, sell the fact'. Learning to ask 'what was expected?' before 'what happened?' is one of the most important habits in understanding markets."},{"heading":"6. Fast, but not always right","body":"News reaches big markets within seconds, partly because many trades are made by computer programs that react to headlines automatically. A useful starting idea, the efficient market hypothesis, says that prices quickly reflect all publicly available information, so it is very hard to consistently beat the market using public news. But it is an idealisation, not a law of nature. People are also driven by fear, greed and herd behaviour, so markets often overreact and then correct, and sometimes form bubbles (prices far above any reasonable value) that later burst. The healthy view is: markets are very good at processing information quickly, but in the short term they can be noisy and emotional."},{"heading":"7. Who is on the other side of the trade","body":"Markets are not just individuals with trading apps. The biggest participants are institutions: pension funds and long-term savings schemes (in Poland, the OFE open pension funds and the PPK employee savings plans, which are run by investment fund companies, pension fund companies and life insurers) and insurers, investing people's savings for decades; investment funds; banks, which trade currencies and bonds for themselves and their clients; companies, which buy currencies to pay foreign suppliers and sell shares or bonds to raise money; governments, which borrow by selling bonds; and central banks, which influence interest rates and sometimes buy or sell currencies. Each has different goals and time horizons, which is why the same news can make one group buy and another sell."},{"heading":"8. The four big markets and how they connect","body":"Stocks are shares, small pieces of ownership in companies. Bonds are loans to governments or companies that pay interest; the interest rate is the price of borrowing money. Currencies are the price of one country's money in another's. Commodities are raw materials such as oil, gas, gold, copper and wheat. They are linked by chains of cause and effect. For example: a war disrupts oil supply → oil prices rise → transport, heating and production costs rise, so inflation rises → a central bank raises interest rates to slow inflation → higher rates mean newly issued bonds pay more interest (and the prices of existing, lower-paying bonds fall, a link we'll study in Lesson 8), which can attract foreign money and strengthen the currency, while making borrowing costlier for companies and households, which can weigh on share prices. Real chains often have several branches at once, and different forces can push in opposite directions, which is why the same event can move markets in surprising ways."}],"workedExamples":[{"title":"Reading an order book","problem":"A share's order book shows: best bid 50.00 zł, best ask 50.10 zł. (a) What is the spread in złoty and as a percentage? (b) You place a market order to buy 100 shares. Roughly how much do you pay? (c) Immediately afterwards you sell them with a market order. How much do you lose, ignoring fees, and why?","solution":"(a) Spread = 50.10 − 50.00 = 0.10 zł. As a percentage of the ask: 0.10 ÷ 50.10 ≈ 0.2%. (b) A market buy order matches the lowest waiting seller, so you pay the ask: 100 × 50.10 = 5,010 zł (if there are at least 100 shares offered at that price). (c) A market sell order matches the highest waiting buyer, the bid: 100 × 50.00 = 5,000 zł. You lose 10 zł, which is exactly the spread. This is why the spread is a real cost of trading, and why liquid markets with tiny spreads are cheaper to trade in."},{"title":"Expectations versus results (AMD, this week)","problem":"Before AMD's third-quarter report, analysts expected revenue of about $13.09 billion (LSEG consensus, reported by CNBC). AMD reported $13.38 billion and forecast about $17 billion for the fourth quarter, against analysts' average estimate of $16.2 billion. Its shares rose about 8% in after-hours trading. (a) By how many percent did third-quarter revenue beat expectations? (b) By how many percent did the forecast for the next quarter beat expectations? (c) Why did the share price rise by much more than the revenue beat?","solution":"(a) (13.38 − 13.09) ÷ 13.09 = 0.29 ÷ 13.09 ≈ 0.022, so about 2.2% above expectations. (b) (17 − 16.2) ÷ 16.2 = 0.8 ÷ 16.2 ≈ 0.049, so about 4.9% above expectations, more than twice the size of the revenue beat. (c) A share price reflects expected profits for years ahead, not one quarter. The bigger surprise was about the future: the higher forecast, and data-centre sales up 97% from a year earlier, suggested AI chip demand is still growing. Expectations had also been dampened beforehand: the shares fell about 11% on 30 October after rival Intel gave a weak outlook, so the good news landed on a pessimistic market. That makes the surprise feel larger than 2.2%."},{"title":"Percentages and points (Nikkei, this week)","problem":"Japan's Nikkei 225 closed at 63,081.86 on Monday 2 November (Tuesday was a Japanese public holiday). On Wednesday it fell as much as 4.8% during the day, then closed about 1.4% lower. (a) Roughly how many points was the lowest point? (b) Roughly where did it close? (c) What does the difference tell you?","solution":"(a) 63,081.86 × (1 − 0.048) = 63,081.86 × 0.952 ≈ 60,054, a drop of about 3,030 points by this estimate. The reported low was 60,030.10, a fall of 3,051.76 points or 4.84%; the small gap appears because '4.8%' is a rounded figure. (b) 63,081.86 × (1 − 0.014) = 63,081.86 × 0.986 ≈ 62,199; the reported close was 62,188.63 (−1.42%). (c) Most of the fall was reversed within the same session: early selling, driven by worries about AI-related shares as US election results came in, was followed by buyers returning. A day's biggest move can be very different from where it ends, so always check the close as well as the intraday low or high."},{"title":"What an exchange-rate move means for you (hypothetical numbers)","problem":"EUR/PLN moves from 4.41 to 4.40. A holiday costs €1,000. (a) How much does it cost in złoty before and after? (b) Did the złoty get stronger or weaker? (c) Who in Poland would prefer the opposite move?","solution":"(a) Before: 1,000 × 4.41 = 4,410 zł. After: 1,000 × 4.40 = 4,400 zł, so 10 zł cheaper. (b) Stronger: one euro now costs fewer złoty. (c) Polish exporters selling in euros: each euro of sales now brings them fewer złoty, so they prefer a weaker złoty. Every exchange-rate move has winners and losers."}],"misconceptions":[{"myth":"The price fell because there were more sellers than buyers.","truth":"Every trade has one buyer and one seller. The price falls because sellers are more eager and have to accept lower prices to find buyers."},{"myth":"Good news makes prices rise.","truth":"Prices react to the surprise. If good news was expected (priced in), or less good than hoped, the price can fall."},{"myth":"A share price shows how well a company is doing today.","truth":"It mostly reflects what investors expect the company to earn in the future, discounted to today."},{"myth":"The stock market is the economy.","truth":"Markets look ahead and react to expectations, so they can rise while the economy is weak, or fall while it is strong."},{"myth":"If prices are efficient, they are always 'correct'.","truth":"Prices process information fast, but they can overreact, follow the herd and form bubbles, especially in the short term."}],"checkQuestions":[{"q":"A central bank raises interest rates exactly as markets expected, but three of its nine board members vote against, and it drops the hint that more rises may follow. Its currency falls. Explain why.","a":"The rate rise itself was already priced in, so it carried no surprise. The new information was the split vote and the missing hint of further rises, which lowered expected future interest rates. Lower expected returns on deposits and bonds in that currency make it less attractive to hold, so it falls. This is what happened in Australia this week: the Reserve Bank of Australia raised its rate to 4.85% in a 6–3 vote and removed its explicit reference to further rises, and the Australian dollar fell about 0.3% against the US dollar."},{"q":"Why can a share price jump overnight even though the company's factories, staff and sales haven't changed at all?","a":"Because the price reflects expectations of future profits. New information (an election result, a forecast, a new law) can change those expectations instantly, and investors buy or sell based on the new outlook before anything physical changes."},{"q":"Why is the spread on EUR/USD much smaller than on a small Polish company's shares?","a":"EUR/USD is the most traded currency pair in the world, with huge numbers of buyers and sellers at every moment (high liquidity), so the best buy and sell prices sit very close together. A small company's shares trade rarely, so buyers and sellers are further apart."},{"q":"Trace one possible chain from 'a war blocks a major oil route' to 'a Polish family's mortgage payment rises'.","a":"Oil supply falls → oil prices rise → fuel, transport and heating costs rise → inflation rises in Poland → the NBP (Poland's central bank) may raise interest rates or keep them high to fight inflation → market interest rates rise, and with them the WIBOR reference rate that most existing Polish variable-rate mortgages follow (new loans are moving to its successor, POLSTR) → the monthly mortgage payment rises at the next rate reset."}],"todayExample":"Overnight, US voters gave the Democrats control of both chambers of Congress, according to projections by the AP and US TV networks. No new law has been passed yet, so nothing physical changed. But expectations about future US policy changed, so within hours the dollar fell to about a one-month low, the złoty strengthened against the dollar, Danish wind-farm developer Ørsted jumped about 7%, European defence companies fell 2–3.5%, and gold rose 2–3%. Same news, very different moves, each driven by what investors now expect for that particular asset.","takeaways":["A market is any arrangement where buyers and sellers agree on prices; the visible price is information for everyone.","Trades happen at the bid or ask; the spread is a real cost, and liquid markets have small spreads.","Prices move when the balance of eagerness between buyers and sellers changes, not because one side outnumbers the other.","Prices mainly reflect expectations of the future, so they react to surprises: always ask 'what was expected?'","Stocks, bonds, currencies and commodities are linked by chains of cause and effect, often with several branches at once."],"lessonQuiz":[{"q":"Best bid 20.00 zł, best ask 20.05 zł. You buy with a market order. What price do you pay per share?","options":["20.00 zł","20.025 zł","20.05 zł","It depends on the last trade price"],"answer":2,"explain":"A market buy order trades against the lowest waiting seller, which is the ask: 20.05 zł."},{"q":"A company reports profits 20% higher than last year, but its shares fall 5%. Which explanation is most likely?","options":["The market made a mistake","Investors had expected even higher profits, or the company's outlook for the future disappointed","Higher profits always reduce share prices","More people were selling than buying"],"answer":1,"explain":"Prices react to the surprise relative to expectations and to the outlook. A strong result can still disappoint if more was expected."},{"q":"Which statement about every completed trade is always true?","options":["The buyer always gets a better deal","The price must go up after the trade","Exchanges set the price","The number of shares bought equals the number sold"],"answer":3,"explain":"Each trade has one buyer and one seller for the same quantity. Prices move because of how eager each side is, not because one side outnumbers the other."},{"q":"Why is 100 zł received in one year worth less than 100 zł today?","options":["Because money today can earn interest in the meantime and prices may rise","Because banks charge fees","Because the złoty always weakens","It isn't; they are worth the same"],"answer":0,"explain":"Today's money can be saved or invested to earn interest, and inflation reduces future purchasing power. That's why future money is 'discounted'."},{"q":"An index falls 4% during the day but closes down 1%. What is the best description?","options":["The index lost 5% in total","A sharp early fall was mostly reversed before the close","The data must be wrong","The index rose 3%"],"answer":1,"explain":"Intraday moves can be large and then reverse. The close tells you where the day finished: down 1% overall."},{"q":"Which chain is the most logical?","options":["Oil prices fall → inflation rises → central bank raises rates","Interest rates rise → loans get cheaper → people borrow more","A currency strengthens → imports get more expensive","Oil prices rise → inflation rises → central bank may raise rates → borrowing gets more expensive"],"answer":3,"explain":"Higher oil prices feed inflation; central banks respond by raising rates, which makes borrowing more expensive. The other chains have a link going the wrong way."},{"q":"What does it mean that news is 'priced in'?","options":["The news has been officially published","The price is fixed by law","Investors already expected it, so it is already reflected in the price","The news affects only commodity prices"],"answer":2,"explain":"If everyone already expects something, they've already bought or sold accordingly, so the announcement itself moves the price little."},{"q":"The złoty strengthens against the euro. Who is most likely to be unhappy?","options":["A Pole buying a holiday in Spain","A Polish company importing German machines","A Polish factory selling furniture to France for euros","A Polish student paying rent in złoty"],"answer":2,"explain":"An exporter earning euros gets fewer złoty for each euro when the złoty strengthens, so its income in złoty falls."}],"date":"4 Nov 2026","editionId":"2026-11-04-1200","createdAt":"2026-11-04T11:00:00Z"}
+{
+ "checkQuestions": [
+  {
+   "a": "The rate rise itself was already priced in, so it carried no surprise. The new information was the split vote and the missing hint of further rises, which lowered expected future interest rates. Lower expected returns on deposits and bonds in that currency make it less attractive to hold, so it falls. This is what happened in Australia this week: the Reserve Bank of Australia raised its rate to 4.85% in a 6–3 vote and removed its explicit reference to further rises, and the Australian dollar fell about 0.3% against the US dollar.",
+   "q": "A central bank raises interest rates exactly as markets expected, but three of its nine board members vote against, and it drops the hint that more rises may follow. Its currency falls. Explain why."
+  },
+  {
+   "a": "Because the price reflects expectations of future profits. New information (an election result, a forecast, a new law) can change those expectations instantly, and investors buy or sell based on the new outlook before anything physical changes.",
+   "q": "Why can a share price jump overnight even though the company's factories, staff and sales haven't changed at all?"
+  },
+  {
+   "a": "EUR/USD is the most traded currency pair in the world, with huge numbers of buyers and sellers at every moment (high liquidity), so the best buy and sell prices sit very close together. A small company's shares trade rarely, so buyers and sellers are further apart.",
+   "q": "Why is the spread on EUR/USD much smaller than on a small Polish company's shares?"
+  },
+  {
+   "a": "Oil supply falls → oil prices rise → fuel, transport and heating costs rise → inflation rises in Poland → the NBP (Poland's central bank) may raise interest rates or keep them high to fight inflation → market interest rates rise, and with them the WIBOR reference rate that most existing Polish variable-rate mortgages follow (new loans are moving to its successor, POLSTR) → the monthly mortgage payment rises at the next rate reset.",
+   "q": "Trace one possible chain from 'a war blocks a major oil route' to 'a Polish family's mortgage payment rises'."
+  }
+ ],
+ "createdAt": "2026-11-04T11:00:00Z",
+ "date": "4 Nov 2026",
+ "editionId": "2026-11-04-1200",
+ "intro": "Everything else in this course rests on one idea: a price is not a fixed label but the result of buyers and sellers negotiating, and it moves when their expectations about the future change. By the end of this lesson you should be able to explain how a trade actually happens, why prices react to news before anything real changes, and why 'good news' sometimes makes prices fall.",
+ "lessonQuiz": [
+  {
+   "answer": 2,
+   "explain": "A market buy order trades against the lowest waiting seller, which is the ask: 20.05 zł.",
+   "options": [
+    "20.00 zł",
+    "20.025 zł",
+    "20.05 zł",
+    "It depends on the last trade price"
+   ],
+   "q": "Best bid 20.00 zł, best ask 20.05 zł. You buy with a market order. What price do you pay per share?"
+  },
+  {
+   "answer": 1,
+   "explain": "Prices react to the surprise relative to expectations and to the outlook. A strong result can still disappoint if more was expected.",
+   "options": [
+    "The market made a mistake",
+    "Investors had expected even higher profits, or the company's outlook for the future disappointed",
+    "Higher profits always reduce share prices",
+    "More people were selling than buying"
+   ],
+   "q": "A company reports profits 20% higher than last year, but its shares fall 5%. Which explanation is most likely?"
+  },
+  {
+   "answer": 3,
+   "explain": "Each trade has one buyer and one seller for the same quantity. Prices move because of how eager each side is, not because one side outnumbers the other.",
+   "options": [
+    "The buyer always gets a better deal",
+    "The price must go up after the trade",
+    "Exchanges set the price",
+    "The number of shares bought equals the number sold"
+   ],
+   "q": "Which statement about every completed trade is always true?"
+  },
+  {
+   "answer": 0,
+   "explain": "Today's money can be saved or invested to earn interest, and inflation reduces future purchasing power. That's why future money is 'discounted'.",
+   "options": [
+    "Because money today can earn interest in the meantime and prices may rise",
+    "Because banks charge fees",
+    "Because the złoty always weakens",
+    "It isn't; they are worth the same"
+   ],
+   "q": "Why is 100 zł received in one year worth less than 100 zł today?"
+  },
+  {
+   "answer": 1,
+   "explain": "Intraday moves can be large and then reverse. The close tells you where the day finished: down 1% overall.",
+   "options": [
+    "The index lost 5% in total",
+    "A sharp early fall was mostly reversed before the close",
+    "The data must be wrong",
+    "The index rose 3%"
+   ],
+   "q": "An index falls 4% during the day but closes down 1%. What is the best description?"
+  },
+  {
+   "answer": 3,
+   "explain": "Higher oil prices feed inflation; central banks respond by raising rates, which makes borrowing more expensive. The other chains have a link going the wrong way.",
+   "options": [
+    "Oil prices fall → inflation rises → central bank raises rates",
+    "Interest rates rise → loans get cheaper → people borrow more",
+    "A currency strengthens → imports get more expensive",
+    "Oil prices rise → inflation rises → central bank may raise rates → borrowing gets more expensive"
+   ],
+   "q": "Which chain is the most logical?"
+  },
+  {
+   "answer": 2,
+   "explain": "If everyone already expects something, they've already bought or sold accordingly, so the announcement itself moves the price little.",
+   "options": [
+    "The news has been officially published",
+    "The price is fixed by law",
+    "Investors already expected it, so it is already reflected in the price",
+    "The news affects only commodity prices"
+   ],
+   "q": "What does it mean that news is 'priced in'?"
+  },
+  {
+   "answer": 2,
+   "explain": "An exporter earning euros gets fewer złoty for each euro when the złoty strengthens, so its income in złoty falls.",
+   "options": [
+    "A Pole buying a holiday in Spain",
+    "A Polish company importing German machines",
+    "A Polish factory selling furniture to France for euros",
+    "A Polish student paying rent in złoty"
+   ],
+   "q": "The złoty strengthens against the euro. Who is most likely to be unhappy?"
+  }
+ ],
+ "level": "Foundations",
+ "minutes": 18,
+ "misconceptions": [
+  {
+   "myth": "The price fell because there were more sellers than buyers.",
+   "truth": "Every trade has one buyer and one seller. The price falls because sellers are more eager and have to accept lower prices to find buyers."
+  },
+  {
+   "myth": "Good news makes prices rise.",
+   "truth": "Prices react to the surprise. If good news was expected (priced in), or less good than hoped, the price can fall."
+  },
+  {
+   "myth": "A share price shows how well a company is doing today.",
+   "truth": "It mostly reflects what investors expect the company to earn in the future, discounted to today."
+  },
+  {
+   "myth": "The stock market is the economy.",
+   "truth": "Markets look ahead and react to expectations, so they can rise while the economy is weak, or fall while it is strong."
+  },
+  {
+   "myth": "If prices are efficient, they are always 'correct'.",
+   "truth": "Prices process information fast, but they can overreact, follow the herd and form bubbles, especially in the short term."
+  }
+ ],
+ "number": 1,
+ "objectives": [
+  "Explain what a market is and how a price is formed through trades between buyers and sellers.",
+  "Read a simple order book: bid, ask, spread, market order and limit order.",
+  "Explain why prices are mainly about expectations of the future, and what 'priced in' means.",
+  "Explain why markets react to surprises (the gap between expected and actual), not to news itself.",
+  "Name the four big markets and trace a chain of cause and effect between them."
+ ],
+ "sections": [
+  {
+   "body": "A market is any arrangement that lets buyers and sellers find each other and agree on a price. It doesn't need a building. Some markets are exchanges, central places with fixed rules where all orders meet, like the Warsaw Stock Exchange (GPW) for Polish company shares. Others are over-the-counter (OTC) markets, where large banks and institutions trade directly with each other through electronic networks; most currency trading works this way, and it is the biggest market in the world: according to the Bank for International Settlements' latest survey, about $9.6 trillion of currencies changed hands every day on average in April 2025. Whatever the form, a market does two jobs: it lets people trade, and it produces a price that everyone else can see. That visible price is information: it tells the world, at every moment, what something can be bought or sold for.",
+   "heading": "1. What a market really is"
+  },
+  {
+   "body": "On an exchange, every share has an order book: a list of waiting offers. The bid is the highest price any buyer is currently willing to pay; the ask (or offer) is the lowest price any seller is currently willing to accept. The gap between them is the spread. A limit order says 'buy (or sell) only at this price or better' and waits in the book. A market order says 'trade right now at the best available price' and is matched immediately against the waiting orders. A trade happens only when a buyer and a seller agree on the same price, usually because one side gives up waiting and accepts the other side's price. A small spread means the market is liquid: there are many buyers and sellers, so you can trade quickly without moving the price much. Large, popular shares and major currencies have tiny spreads; EUR/USD, the world's most traded currency pair (about 21% of all currency trading, according to the same BIS survey), is the classic example. Shares of small companies usually have wider spreads.",
+   "heading": "2. How a trade actually happens: the order book"
+  },
+  {
+   "body": "A common mistake is to say 'the price fell because there were more sellers than buyers'. In every trade there is exactly one buyer and one seller, so the number of shares bought always equals the number sold. What changes is urgency. If more people are eager to sell than to buy, sellers have to accept lower and lower bids to find a counterpart, so each new trade happens at a lower price. If buyers are more eager, they have to pay higher and higher asks. Price is therefore the level at which the eagerness of buyers and sellers balances at that moment. This process is called price discovery. It is the same logic as supply and demand, which we'll study properly in Lesson 2: more demand at a given price pushes the price up; more supply pushes it down.",
+   "heading": "3. Why prices move: there is always a buyer for every seller"
+  },
+  {
+   "body": "Why would anyone pay 100 zł for a share? Because owning it gives a claim on the company's future profits, paid out as dividends or reinvested to make the company more valuable. So today's share price is roughly what investors collectively think all those future profits are worth today. Two ideas follow. First, money in the future is worth less than money now: 100 zł you receive in a year is worth less than 100 zł today, because today's money could be saved or invested to earn interest in the meantime, and prices may rise. Investors therefore 'discount' future profits back to today. Second, because the price reflects the future, it moves whenever the expected future changes, even if nothing has changed in the present. The same is true for currencies (expected interest rates and growth), bonds (expected inflation and interest rates) and commodities (expected supply and demand).",
+   "heading": "4. Prices are about the future"
+  },
+  {
+   "body": "Because investors act on expectations, information that everyone already expects is usually already reflected in the price: it is 'priced in'. When the news finally arrives, the price moves only by the size of the surprise, meaning the gap between what happened and what was expected. That is why company results are always compared with analysts' forecasts, and why central bank decisions are compared with what markets predicted. Good news can even make a price fall, if it was less good than expected or if it comes with worrying hints about the future. Traders sum this up as 'buy the rumour, sell the fact'. Learning to ask 'what was expected?' before 'what happened?' is one of the most important habits in understanding markets.",
+   "heading": "5. 'Priced in' and why surprises matter"
+  },
+  {
+   "body": "News reaches big markets within seconds, partly because many trades are made by computer programs that react to headlines automatically. A useful starting idea, the efficient market hypothesis, says that prices quickly reflect all publicly available information, so it is very hard to consistently beat the market using public news. But it is an idealisation, not a law of nature. People are also driven by fear, greed and herd behaviour, so markets often overreact and then correct, and sometimes form bubbles (prices far above any reasonable value) that later burst. The healthy view is: markets are very good at processing information quickly, but in the short term they can be noisy and emotional.",
+   "heading": "6. Fast, but not always right"
+  },
+  {
+   "body": "Markets are not just individuals with trading apps. The biggest participants are institutions: pension funds and long-term savings schemes (in Poland, the OFE open pension funds and the PPK employee savings plans, which are run by investment fund companies, pension fund companies and life insurers) and insurers, investing people's savings for decades; investment funds; banks, which trade currencies and bonds for themselves and their clients; companies, which buy currencies to pay foreign suppliers and sell shares or bonds to raise money; governments, which borrow by selling bonds; and central banks, which influence interest rates and sometimes buy or sell currencies. Each has different goals and time horizons, which is why the same news can make one group buy and another sell.",
+   "heading": "7. Who is on the other side of the trade"
+  },
+  {
+   "body": "Stocks are shares, small pieces of ownership in companies. Bonds are loans to governments or companies that pay interest; the interest rate is the price of borrowing money. Currencies are the price of one country's money in another's. Commodities are raw materials such as oil, gas, gold, copper and wheat. They are linked by chains of cause and effect. For example: a war disrupts oil supply → oil prices rise → transport, heating and production costs rise, so inflation rises → a central bank raises interest rates to slow inflation → higher rates mean newly issued bonds pay more interest (and the prices of existing, lower-paying bonds fall, a link we'll study in Lesson 8), which can attract foreign money and strengthen the currency, while making borrowing costlier for companies and households, which can weigh on share prices. Real chains often have several branches at once, and different forces can push in opposite directions, which is why the same event can move markets in surprising ways.",
+   "heading": "8. The four big markets and how they connect"
+  }
+ ],
+ "takeaways": [
+  "A market is any arrangement where buyers and sellers agree on prices; the visible price is information for everyone.",
+  "Trades happen at the bid or ask; the spread is a real cost, and liquid markets have small spreads.",
+  "Prices move when the balance of eagerness between buyers and sellers changes, not because one side outnumbers the other.",
+  "Prices mainly reflect expectations of the future, so they react to surprises: always ask 'what was expected?'",
+  "Stocks, bonds, currencies and commodities are linked by chains of cause and effect, often with several branches at once."
+ ],
+ "title": "What a market is and why news moves it",
+ "todayExample": "Overnight, US voters gave the Democrats control of both chambers of Congress, according to projections by the AP and US TV networks. No new law has been passed yet, so nothing physical changed. But expectations about future US policy changed, so within hours the dollar fell to about a one-month low, the złoty strengthened against the dollar, Danish wind-farm developer Ørsted jumped about 7%, European defence companies fell 2–3.5%, and gold rose 2–3%. Same news, very different moves, each driven by what investors now expect for that particular asset.",
+ "workedExamples": [
+  {
+   "problem": "A share's order book shows: best bid 50.00 zł, best ask 50.10 zł. (a) What is the spread in złoty and as a percentage? (b) You place a market order to buy 100 shares. Roughly how much do you pay? (c) Immediately afterwards you sell them with a market order. How much do you lose, ignoring fees, and why?",
+   "solution": "(a) Spread = 50.10 − 50.00 = 0.10 zł. As a percentage of the ask: 0.10 ÷ 50.10 ≈ 0.2%. (b) A market buy order matches the lowest waiting seller, so you pay the ask: 100 × 50.10 = 5,010 zł (if there are at least 100 shares offered at that price). (c) A market sell order matches the highest waiting buyer, the bid: 100 × 50.00 = 5,000 zł. You lose 10 zł, which is exactly the spread. This is why the spread is a real cost of trading, and why liquid markets with tiny spreads are cheaper to trade in.",
+   "title": "Reading an order book"
+  },
+  {
+   "problem": "Before AMD's third-quarter report, analysts expected revenue of about $13.09 billion (LSEG consensus, reported by CNBC). AMD reported $13.38 billion and forecast about $17 billion for the fourth quarter, against analysts' average estimate of $16.2 billion. Its shares rose about 8% in after-hours trading. (a) By how many percent did third-quarter revenue beat expectations? (b) By how many percent did the forecast for the next quarter beat expectations? (c) Why did the share price rise by much more than the revenue beat?",
+   "solution": "(a) (13.38 − 13.09) ÷ 13.09 = 0.29 ÷ 13.09 ≈ 0.022, so about 2.2% above expectations. (b) (17 − 16.2) ÷ 16.2 = 0.8 ÷ 16.2 ≈ 0.049, so about 4.9% above expectations, more than twice the size of the revenue beat. (c) A share price reflects expected profits for years ahead, not one quarter. The bigger surprise was about the future: the higher forecast, and data-centre sales up 97% from a year earlier, suggested AI chip demand is still growing. Expectations had also been dampened beforehand: the shares fell about 11% on 30 October after rival Intel gave a weak outlook, so the good news landed on a pessimistic market. That makes the surprise feel larger than 2.2%.",
+   "title": "Expectations versus results (AMD, this week)"
+  },
+  {
+   "problem": "Japan's Nikkei 225 closed at 63,081.86 on Monday 2 November (Tuesday was a Japanese public holiday). On Wednesday it fell as much as 4.8% during the day, then closed about 1.4% lower. (a) Roughly how many points was the lowest point? (b) Roughly where did it close? (c) What does the difference tell you?",
+   "solution": "(a) 63,081.86 × (1 − 0.048) = 63,081.86 × 0.952 ≈ 60,054, a drop of about 3,030 points by this estimate. The reported low was 60,030.10, a fall of 3,051.76 points or 4.84%; the small gap appears because '4.8%' is a rounded figure. (b) 63,081.86 × (1 − 0.014) = 63,081.86 × 0.986 ≈ 62,199; the reported close was 62,188.63 (−1.42%). (c) Most of the fall was reversed within the same session: early selling, driven by worries about AI-related shares as US election results came in, was followed by buyers returning. A day's biggest move can be very different from where it ends, so always check the close as well as the intraday low or high.",
+   "title": "Percentages and points (Nikkei, this week)"
+  },
+  {
+   "problem": "EUR/PLN moves from 4.41 to 4.40. A holiday costs €1,000. (a) How much does it cost in złoty before and after? (b) Did the złoty get stronger or weaker? (c) Who in Poland would prefer the opposite move?",
+   "solution": "(a) Before: 1,000 × 4.41 = 4,410 zł. After: 1,000 × 4.40 = 4,400 zł, so 10 zł cheaper. (b) Stronger: one euro now costs fewer złoty. (c) Polish exporters selling in euros: each euro of sales now brings them fewer złoty, so they prefer a weaker złoty. Every exchange-rate move has winners and losers.",
+   "title": "What an exchange-rate move means for you (hypothetical numbers)"
+  }
+ ],
+ "updatedAt": "2026-11-04T19:12:00.697549Z"
+}
