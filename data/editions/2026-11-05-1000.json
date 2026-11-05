@@ -1,5 +1,5 @@
 {
- "bigPicture": "Markets are reassessing the Democrats' sweep of the US Congress. The Dow closed up 3%, but AI chip shares sank across Asia, with South Korea's Kospi down 5.3%, on fears of tighter limits on data centres. Oil fell for a fourth day as traders bet on less risk of a wider Iran war, though ships burned in the Strait of Hormuz and no deal exists. The Bank of England is expected to raise rates today, after Sweden did so on Wednesday. Beyond markets, France faces a general strike with 70,000 police on duty, Russia and Ukraine traded mass drone attacks ahead of talks in Abu Dhabi, and Ebola cases in DR Congo passed 10,500.",
+ "bigPicture": "Markets are reassessing the Democrats' sweep of the US Congress. The Dow closed up 3%, but AI chip shares sank across Asia, with South Korea's Kospi down 5.3%, on fears of tighter limits on data centres. Oil settled down 8.7% on Wednesday as traders bet on less risk of a wider Iran war, but it steadied on Thursday after Iran reported ships on fire in the Strait of Hormuz, and no deal exists. The Bank of England is expected to raise rates today, after Sweden did so on Wednesday. Beyond markets, France faces a general strike with 70,000 police on duty, Russia and Ukraine traded mass drone attacks ahead of talks in Abu Dhabi, and Ebola cases in DR Congo passed 10,500.",
  "createdAt": "2026-11-05T09:00:00Z",
  "glossary": [
   {
@@ -216,25 +216,25 @@
    "what": "An index of 200 big Australian companies."
   },
   {
-   "change": -0.27,
-   "changeText": "−0.27%",
+   "change": null,
+   "changeText": "złoty firmer",
    "group": "Currencies",
    "key": true,
    "name": "EUR/PLN",
-   "note": "Wednesday 16:50 Warsaw time, latest confirmed (Forsal).",
+   "note": "Thursday 07:00 Warsaw time (Money.pl); 4.3977 on Wednesday at 16:50 (Forsal).",
    "region": "Poland",
-   "value": "4.3977",
+   "value": "4.3864",
    "what": "How many złoty one euro costs."
   },
   {
-   "change": -0.63,
-   "changeText": "−0.63%",
+   "change": null,
+   "changeText": "złoty firmer",
    "group": "Currencies",
    "key": true,
    "name": "USD/PLN",
-   "note": "Wednesday 16:50 Warsaw time, latest confirmed (Forsal).",
+   "note": "Thursday 07:00 Warsaw time (Money.pl); 3.9143 on Wednesday at 16:50 (Forsal).",
    "region": "Poland",
-   "value": "3.9143",
+   "value": "3.8960",
    "what": "How many złoty one US dollar costs."
   },
   {
@@ -263,19 +263,19 @@
    "group": "Commodities",
    "key": true,
    "name": "Brent crude oil",
-   "note": "Wednesday settlement (AP); about $93.82 early Thursday (Reuters). Lower risk of Iran escalation.",
+   "note": "Wednesday settlement (AP); $94.96, +0.36%, at 09:25 Warsaw time Thursday (Reuters). Wednesday's fall reflected lower perceived Iran risk.",
    "region": "Global",
    "value": "$94.62",
    "what": "The global benchmark oil price, per barrel."
   },
   {
-   "change": -1.1,
-   "changeText": "−1.1%",
+   "change": -0.31,
+   "changeText": "−0.31%",
    "group": "Commodities",
    "name": "WTI crude oil",
-   "note": "Early Thursday (AP); fell more than 8% on Wednesday (Reuters).",
+   "note": "Thursday 09:25 Warsaw time (Reuters); fell more than 8% on Wednesday.",
    "region": "US",
-   "value": "$87.19",
+   "value": "$87.85",
    "what": "The main US oil price, per barrel."
   },
   {
@@ -360,7 +360,7 @@
    "what": "What the US government pays to borrow for 10 years."
   }
  ],
- "marketsAsOf": "Thu 5 Nov about 10:00 Warsaw time. US = Wednesday close; Asia = Thursday (Hong Kong during trading); Europe = Wednesday close except Stoxx (Thursday 09:07); oil = Wednesday settlement; gold and FX = early Thursday; złoty = Wednesday 16:50.",
+ "marketsAsOf": "Thu 5 Nov about 10:00 Warsaw time. US = Wednesday close; Asia = Thursday (Hong Kong during trading); Europe = Wednesday close except Stoxx (Thursday 09:07); oil = Wednesday settlement for Brent, Thursday 09:25 for WTI; gold and FX = early Thursday.",
  "quiz": [
   {
    "answer": 1,
@@ -415,7 +415,7 @@
     "US stocks surged",
     "Demand collapsed to a one-year low"
    ],
-   "q": "Why did oil fall for a fourth day even though Iran still demands conditions before reopening Hormuz?"
+   "q": "Why did oil drop more than 8% on Wednesday even though Iran still demands conditions before reopening Hormuz?"
   },
   {
    "answer": 1,
@@ -485,7 +485,7 @@
   },
   {
    "answer": 3,
-   "explain": "ECDC gave 5,126 related deaths in DR Congo, while the Africa CDC reported more than 5,300, so sources differ.",
+   "explain": "ECDC gave 5,126 related deaths in DR Congo, while the Africa CDC reported more than 5,300.",
    "options": [
     "The disease has ended",
     "Only one country reports data",
@@ -507,18 +507,18 @@
   },
   {
    "answer": 1,
-   "explain": "October's fall was linked mainly to fuel. The NBP's projection for 2027 is higher than its earlier one, showing the risk ahead.",
+   "explain": "October's fall was linked mainly to fuel. The NBP's 2027 projection is above its earlier one, so inflation may rise again.",
    "options": [
     "Inflation is defeated",
     "The low figure may not last, and the outlook is uncertain",
     "Rates must be cut at once",
     "Fuel taxes have been abolished"
    ],
-   "q": "What does the NBP's wider 2027 inflation range of 3.1–5.3% show about the fall to 3.5% in October?"
+   "q": "What does the NBP's higher 2027 inflation range of 3.1–5.3% show about the fall to 3.5% in October?"
   },
   {
    "answer": 2,
-   "explain": "Provisions fell 2.426 billion zł. Tax rose, and the net interest margin fell to 4.43%.",
+   "explain": "Over nine months, provisions fell 2.426 billion zł, tax rose, and the net interest margin fell to 4.43%.",
    "options": [
     "A big rise in its interest margin",
     "A sale of its branches",
@@ -561,7 +561,7 @@
    "q": "Review (Lesson 1): a report says 'shares fell because more people sold than bought'. What is wrong?"
   }
  ],
- "status": "partial",
+ "status": "complete",
  "stories": [
   {
    "category": "Politics & conflict",
@@ -684,13 +684,13 @@
     "Surplus (oil market)",
     "Strategic reserves"
    ],
-   "title": "Brent settles down 8.7% at $94.62 and oil falls for a fourth day",
-   "what": "Brent crude, the global oil benchmark, settled down 8.7% at $94.62 a barrel on Wednesday, AP reported, and traded around $93.60–$94.20 early on Thursday, its fourth daily fall. Reuters said both Brent and US crude ended Wednesday at their lowest since 31 August. Brent had settled at $103.60 on Tuesday and peaked near $118 on a recent Friday, Gulf News reported. US data on Wednesday showed crude, petrol and distillate stocks all fell as demand reached a one-year high.",
+   "title": "Brent settles down 8.7% at $94.62, its lowest since August",
+   "what": "Brent crude, the global oil benchmark, settled down 8.7% at $94.62 a barrel on Wednesday, AP reported, and Reuters said both Brent and US crude ended at their lowest since 31 August. It slipped further early on Thursday, then turned: by 09:25 Warsaw time Brent was up 0.36% at $94.96 as traders weighed the Hormuz incidents, Reuters said. Brent had settled at $103.60 on Tuesday and peaked near $118 on a recent Friday, Gulf News reported. US data on Wednesday showed crude, petrol and distillate inventories all fell as demand reached a one-year high. Analysts told Reuters that Hormuz crude shipments have recovered to near pre-war levels, at a higher cost.",
    "why": "Reuters said traders expect the Republican losses to lower the risk of a wider Iran war, which could restore disrupted Middle East flows. JPMorgan said the world oil market returned to a surplus (more supply than demand) of 1.1 million barrels a day in September and 1.4 million in October. But June Goh of Sparta Commodities warned that strategic reserves are very thin, and Eurasia Group said escalation could push Brent to $110–125."
   },
   {
    "category": "Economy & markets",
-   "everyday": "Big moves like this change the value of US-heavy funds, including those held through Polish retirement products, though one day says little about the long run.",
+   "everyday": "Big moves like this change the value of funds that hold US shares, though one day says little about the long run.",
    "id": "wall-street-close",
    "importance": 4,
    "markets": [
@@ -842,7 +842,7 @@
     "General strike"
    ],
    "title": "France faces a general strike with 70,000 police deployed after weeks of unrest",
-   "what": "France's main unions, the CFDT, CGT, FO, UNSA and FSU, called a nationwide strike for Thursday over pay, living costs and the 2027 budget. Authorities expected 500,000 to 700,000 protesters nationwide and up to 80,000 in Paris, with 70,000 police and security forces deployed, Interior Minister Laurent Nuñez said. Commuter rail is hit hardest, and about 17.5% of public primary teachers planned to strike, according to the Education Ministry. Paris police banned the planned march route through the centre and imposed one heading east, from République to Nation. Rioting on 17 October was described as the worst unrest in France in years.",
+   "what": "France's main unions, the CFDT, CGT, FO, UNSA and FSU, called a nationwide strike for Thursday over pay, living costs and the 2027 budget. Authorities expected 500,000 to 700,000 protesters nationwide and up to 80,000 in Paris, with 70,000 police and security forces deployed, Interior Minister Laurent Nunez said. Commuter rail is hit hardest, and about 17.5% of public primary teachers planned to strike, according to the Education Ministry. Paris police banned the planned march route through the centre and imposed one heading east, from République to Nation. Rioting on 17 October was described as the worst unrest in France in years.",
    "why": "Unions say fuel, food, rent and energy costs are rising while wages and pensions stay flat, and they oppose planned savings and benefit freezes. The minimum wage has had no discretionary rise since 2012, Dawn reported. Rising energy prices from the Iran war add to the pressure, showing how a distant conflict can become a domestic political crisis."
   },
   {
@@ -877,11 +877,11 @@
    ],
    "title": "Russia and Ukraine trade drone attacks days before talks in Abu Dhabi",
    "what": "Ukraine's Air Force said Russia launched 128 drones and two missiles overnight, with 105 drones shot down or suppressed by 08:00 Kyiv time. A fire broke out at logistics infrastructure in the Bucha district near Kyiv, injuring a man, and three people were hurt in Dnipro, officials said. Russia's Defence Ministry said it downed 496 Ukrainian drones, and Ryazan's governor said a \"massive\" attack caused fires at industrial sites, injured one person and cut power in parts of the city. Anadolu noted that independent verification is difficult. US envoy Steve Witkoff has said talks between the US, Russia and Ukraine will take place in Abu Dhabi on 10–11 November.",
-   "why": "Both sides target what keeps the other's economy and army running: Russia hits energy and logistics, and Ukraine hits Russian industry and fuel sites deep behind the front. Attacks often intensify before talks as each side seeks a stronger hand, though this is a general pattern, not a proven motive for this night."
+   "why": "Both sides target what keeps the other's economy and army running: Russia hits energy and logistics, and Ukraine hits Russian industry and fuel sites deep behind the front. Neither side has said the strikes are linked to the coming talks."
   },
   {
    "category": "Health & science",
-   "everyday": "The risk to people in Poland is low, per WHO's last assessment for countries outside the region. But the outbreak shows why health systems in poor countries matter to everyone.",
+   "everyday": "WHO's last full assessment, from August and now under revision, rated the risk as low globally. But the outbreak shows why health systems in poor countries matter to everyone.",
    "id": "ebola-update",
    "importance": 4,
    "markets": [],
@@ -907,8 +907,8 @@
     "Contact tracing"
    ],
    "title": "Ebola: more than 10,500 confirmed cases in DR Congo, and counts differ by source",
-   "what": "The EU health agency ECDC said on 4 November that the Democratic Republic of the Congo had 10,532 confirmed cases and 5,126 related deaths, with eight provinces affected. Kenya has 9 confirmed cases and 2 deaths, and Nigeria 1 case; ECDC says the outbreak in Uganda has ended. The Africa CDC has reported more than 5,300 deaths, so sources differ, partly because counts use different cut-off dates and definitions. On Wednesday WHO said experts recommend adding two more candidate vaccines to a trial. The strain is Bundibugyo, which has no licensed vaccine.",
-   "why": "Ebola spreads through contact with the body fluids of sick people, so tracking contacts is essential. WHO said on 23 October that only 79.7% of contacts in DR Congo were being followed, below its 95% target. Insecurity in the worst-hit province, Ituri, makes that harder, and each missed contact can start a new chain of infection. WHO advises against travel or trade bans, which it says do not help."
+   "what": "The EU health agency ECDC said on 4 November that the Democratic Republic of the Congo had 10,532 confirmed cases and 5,126 related deaths, with eight provinces affected. Kenya has 9 confirmed cases and 2 deaths, and Nigeria 1 case; ECDC says the outbreak in Uganda has ended. The Africa CDC has reported more than 5,300 deaths, put at 5,376 in data cited by Al Jazeera, so sources differ; they use different dates and counting rules. On Wednesday WHO said experts recommend adding two more candidate vaccines to a trial. The strain is Bundibugyo, which has no licensed vaccine.",
+   "why": "Ebola spreads through contact with the body fluids of sick people, so tracking contacts is essential. WHO said on 23 October that only 79.7% of contacts in DR Congo were being followed, below its 95% target. Each missed contact can start a new chain of infection. WHO advises against travel or trade bans, which it says do not help."
   },
   {
    "category": "Politics & conflict",
@@ -976,7 +976,7 @@
   },
   {
    "category": "Economy & markets",
-   "everyday": "Poland is among Europe's biggest defence spenders, so delays and order timing at European arms makers matter for its own rearmament plans.",
+   "everyday": "Poland is rearming too, so delays at European arms makers show how slowly big defence orders can turn into deliveries.",
    "id": "rheinmetall-warning",
    "importance": 3,
    "markets": [
@@ -1004,7 +1004,7 @@
    ],
    "title": "Rheinmetall drops about 14% after cutting its 2026 sales forecast again",
    "what": "Germany's Rheinmetall cut its 2026 sales forecast to about €13.2 billion from €13.7–14.2 billion, and its operating margin target to about 18.5% from about 19%. Third-quarter revenue still rose by almost a third to €3.15 billion. The company no longer expects an order this year for Germany's Arminius Boxer vehicle programme, and some artillery ammunition revenue will slip into next year. Reuters showed the share down 14% in early trading; ArcelorMittal rose 6% after beating profit expectations, and the Stoxx 600 was up 0.5%.",
-   "why": "Share prices reflect expectations, so even a company with growing sales can fall if it grows less than investors had priced in. JPMorgan's David Perry called it the firm's fifth warning in eleven months, ARIVA reported. Hopes of a lower-risk Iran scenario and Democratic scrutiny of defence spending have also weighed on defence shares this week."
+   "why": "Share prices reflect expectations, so even a company with growing sales can fall if it grows less than investors had priced in. JPMorgan's David Perry called it the firm's fifth warning in eleven months, ARIVA reported. Reports also tied this week's falls in US and Korean defence shares to expectations that Democrats could restrain military spending."
   },
   {
    "category": "Economy & markets",
@@ -1081,7 +1081,7 @@
    ],
    "title": "Poland's fuel price caps fall again; petrol limit lowest in this round at 6.29 zł",
    "what": "Maximum prices at Polish stations for Thursday are 6.29 zł a litre for Pb95 and 7.97 zł for diesel, down 8 groszy each, with diesel back below 8 zł. The Ministry of Energy sets the limits under the \"Ceny Paliwa Niżej\" (CPN) programme, which also cuts VAT from 23% to 8% and lowers excise duty, Auto Świat reported; it is due to run until 31 December. Stations may charge less, and many simply use the cap. Consumer inflation fell to 3.5% in October from 4.1%, per the GUS flash estimate, with the NBP linking the drop mainly to fuel.",
-   "why": "Cheaper oil lowers wholesale prices, and Orlen's wholesale prices fell over two days. But the NBP's new projection puts inflation at 3.1–5.3% in 2027, up from 1.5–4.0% earlier, partly because such temporary measures end. That wide range shows how uncertain the outlook is. Cutting tax on fuel also costs the state budget revenue."
+   "why": "Cheaper oil lowers wholesale prices, and Orlen's wholesale prices fell over two days. But the NBP's new projection puts inflation at 3.1–5.3% in 2027, up from 1.5–4.0% earlier, which shows inflation may rise again; the reports read did not give the NBP's full reasoning. Cutting tax on fuel also costs the state budget revenue."
   },
   {
    "category": "Economy & markets",
@@ -1115,8 +1115,8 @@
     "Provisions"
    ],
    "title": "PKO BP earns 2.93 billion zł in the third quarter, up 3.4%",
-   "what": "Poland's biggest bank made a net profit of 2.933 billion zł in the third quarter, up 3.4% from a year earlier, and 8.223 billion zł over nine months, up 3.2%. New mortgage lending reached 12.2 billion zł, up 48%, with fixed-rate loans making up 66.1% of new sales. The net interest margin, what a bank earns between loans and deposits, fell 0.44 points to 4.43%. Orlen, Dino and other firms were also due to report on Thursday.",
-   "why": "Profit rose largely because provisions fell by 2.426 billion zł, mainly on lower legal costs linked to foreign-currency mortgages, WNP reported. Tax rose by 2.032 billion zł, partly because the corporate tax rate for banks went up to 30%. Lower interest rates have also squeezed margins."
+   "what": "Poland's biggest bank made a net profit of 2.933 billion zł in the third quarter, up 3.4% from a year earlier, and 8.223 billion zł over nine months, up 3.2%. New mortgage lending reached 12.2 billion zł, up 48%, with fixed-rate loans making up 66.1% of new sales. Over nine months the net interest margin, what a bank earns between loans and deposits, fell 0.44 points to 4.43%. Orlen, Dino and other firms were also due to report on Thursday.",
+   "why": "Over nine months, profit was helped by provisions falling 2.426 billion zł, mainly on lower legal costs linked to foreign-currency mortgages, WNP reported. Tax rose by 2.032 billion zł over the same period, partly because the corporate tax rate for banks went up to 30%. Lower interest rates have also squeezed margins."
   },
   {
    "category": "Politics & conflict",
@@ -1180,7 +1180,7 @@
    ],
    "title": "Indonesia deploys 6,770 personnel for a Widodo trial as the wiretap scandal keeps Jakarta tense",
    "what": "Authorities deployed 6,770 police and military personnel on Thursday to secure a defamation trial in East Jakarta at which former President Joko Widodo was called to testify, AP reported. The trial, over claims that he used a fake diploma, is unrelated to the wiretapping case. More than 20,000 troops have been called to Jakarta since three senior generals were detained, including Listyo Sigit Prabowo. The armed forces called the deployment normal. Police allege illegal wiretaps during 2025–2026 targeted officials, journalists and even President Prabowo Subianto.",
-   "why": "The palace called the wiretaps an \"act of treason\". A retired general said investigators should examine all lines of command, including whether Widodo gave directives; AP's report states this as his view, not a finding. The military's visible role worries many Indonesians who remember army-backed rule, a concern reported widely in the region."
+   "why": "The palace called the wiretaps an \"act of treason\". A retired general said investigators should examine all lines of command, including whether Widodo gave directives; AP's report states this as his view, not a finding."
   },
   {
    "category": "Politics & conflict",
@@ -1239,7 +1239,7 @@
    ],
    "title": "ANC and DA nearly level in South Africa's early local election count",
    "what": "With 13.5% of voting districts reporting, the governing ANC had 31.81% and the Democratic Alliance 31.14%, early figures showed. The DA led Gauteng, home of Johannesburg and Pretoria, with 40.89% to 18.48% in partial counts. About 29.2 million people were registered and 508 parties took part. Final results are expected within seven days.",
-   "why": "Early results depend heavily on which districts report first, so they can change a lot. Local councils run water, power and rubbish services, and failures there have fed anger at the ANC, which has also lost ground nationally since 2024."
+   "why": "Early results depend heavily on which districts report first, so they can change a lot. Local councils run services such as water and rubbish collection, so these votes are judged on daily life."
   },
   {
    "category": "Security & tech",
@@ -1414,7 +1414,7 @@
    "importance": 2,
    "markets": [],
    "rank": 26,
-   "rankWhy": "A second cyclone in a week hit millions in southern India and damaged 52,000 hectares of crops.",
+   "rankWhy": "A second cyclone in a week damaged about 52,000 hectares of crops in southern India.",
    "region": "Asia",
    "sources": [
     {
@@ -1429,7 +1429,7 @@
    "terms": [],
    "title": "Cyclone Murasu kills two in India's Andhra Pradesh and damages crops",
    "what": "Cyclone Murasu killed at least two people in Andhra Pradesh on Tuesday and damaged 312 houses and crops on about 52,459 hectares, officials said. Preliminary losses are at least Rs 344 crore, and about 12,230 people were in shelters. It followed Cyclone Arnab, which Xinhua said killed at least 12.",
-   "why": "Early warning and evacuations have sharply cut cyclone deaths in India, though farm losses remain large when storms hit before harvest."
+   "why": "Thousands were evacuated beforehand, and about 12,230 people were in shelters; damage to crops and power lines was widespread."
   },
   {
    "category": "Environment & climate",
@@ -1694,6 +1694,7 @@
   "Bank of England decision and new inflation forecasts, today 13:00 Warsaw time; a rise to 4% from 3.75% is expected.",
   "US weekly jobless claims, today 14:30 Warsaw time.",
   "US October jobs report, Friday 6 Nov, 14:30 Warsaw time.",
+  "S&P's review of Poland's credit rating and the Monetary Policy Council minutes (14:00 Warsaw time), Friday 6 Nov.",
   "France's strike day: march from République to Nation, from 14:00 Warsaw time.",
   "Tanzania's High Court verdict on opposition leader Tundu Lissu, Friday 6 Nov.",
   "Mississippi certification by 13 Nov; Alaska's ranked-choice results on 18 Nov.",
@@ -1702,5 +1703,5 @@
  ],
  "window": "Wed 4 Nov 20:00 → Thu 5 Nov 10:00 (Warsaw time)",
  "id": "2026-11-05-1000",
- "updatedAt": "2026-11-05T09:08:28.364134Z"
+ "updatedAt": "2026-11-05T09:16:41.829115Z"
 }
