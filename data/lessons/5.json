@@ -1,0 +1,263 @@
+{
+ "checkQuestions": [
+  {
+   "a": "EUR/PLN is the złoty price of one euro, so a fall means a euro costs fewer złoty: the złoty strengthened and the euro weakened. The laptop's złoty price falls from 4,400 zł to 4,300 zł (if the euro price is unchanged), lowering import costs; this is exchange-rate pass-through, which tends to reduce inflation.",
+   "q": "EUR/PLN falls from 4.40 to 4.30. Which currency strengthened, and what happens to the złoty price of a €1,000 laptop imported from Germany? Explain the chain."
+  },
+  {
+   "a": "Strong jobs data suggest wage and price pressure, so markets expect the Fed to raise rates (or cut less) than they previously thought. Higher expected US rates raise the expected return on dollar assets relative to złoty assets, so investors buy dollars and sell other currencies. Higher demand for dollars raises the price of the dollar, so USD/PLN rises. The key is the surprise relative to expectations: data in line with forecasts would move little.",
+   "q": "Explain step by step why a surprisingly strong US jobs report can raise USD/PLN within minutes."
+  },
+  {
+   "a": "Because USD/PLN = EUR/PLN ÷ EUR/USD. If the dollar strengthens strongly against the euro (EUR/USD falls) while the złoty edges up against the euro, USD/PLN can still rise. It tells you the move is driven by the dollar, not by Poland-specific news.",
+   "q": "Why can USD/PLN rise while EUR/PLN falls on the same day? What does that tell you?"
+  },
+  {
+   "a": "The extra interest is not risk-free: if the złoty depreciates against the euro by more than the interest gap while the money is in złoty, the investor loses. If you lock in the future rate with a forward contract to remove that risk, covered interest parity means the forward rate is set so the interest advantage disappears. Higher yield comes with currency risk.",
+   "q": "A friend says: 'Polish interest rates are higher than in the euro area, so I can earn the difference risk-free by switching my euros into złoty.' What is wrong with this reasoning?"
+  },
+  {
+   "a": "PPP rests on trade arbitrage in goods, which works slowly and imperfectly because of transport costs, tariffs and non-traded services. Daily moves are dominated by financial flows reacting to news on interest rates and risk, which are much larger and faster than trade flows. Over many years, persistent inflation differences tend to show up in exchange rates, which is why PPP is a useful anchor.",
+   "q": "Why is purchasing power parity useful as a long-run anchor but poor at explaining a one-day move?"
+  }
+ ],
+ "createdAt": "2026-11-06T19:13:22Z",
+ "date": "6 Nov 2026",
+ "editionId": "2026-11-06-2000",
+ "intro": "An exchange rate is simply the price of one money in terms of another, and like any price it is set by supply and demand. In this lesson you will learn to read currency quotes correctly, calculate cross rates and percentage changes, and trace how interest rates, inflation, trade and fear move a currency. You will use Friday's real złoty, euro and dollar rates to see these forces at work. By the end you should be able to explain why the dollar rose against the złoty after a US jobs report, and why the złoty barely moved against the euro on the same day.",
+ "lessonQuiz": [
+  {
+   "answer": 1,
+   "explain": "EUR/PLN is the złoty price of one euro; fewer złoty per euro means each złoty is worth more.",
+   "options": [
+    "The euro strengthened against the złoty.",
+    "The złoty strengthened slightly against the euro.",
+    "Both currencies weakened against the dollar.",
+    "The złoty weakened because the number got smaller."
+   ],
+   "q": "EUR/PLN moves from 4.3975 to 4.3926. What happened?"
+  },
+  {
+   "answer": 2,
+   "explain": "USD/PLN = EUR/PLN ÷ EUR/USD = 4.3926 ÷ 1.115 ≈ 3.9396.",
+   "options": [
+    "4.8977",
+    "1.1150",
+    "3.9396",
+    "0.2538"
+   ],
+   "q": "With EUR/PLN at 4.3926 and EUR/USD at 1.115, what is the implied USD/PLN?"
+  },
+  {
+   "answer": 0,
+   "explain": "The inverse changes by 3.9172 ÷ 3.9396 − 1 ≈ −0.569%; inverse percentage changes are not symmetric.",
+   "options": [
+    "About −0.569%",
+    "−0.572% exactly",
+    "+0.572%",
+    "About −1.14%"
+   ],
+   "q": "USD/PLN rises from 3.9172 to 3.9396 (+0.572%). By how much did the złoty's value in dollars change?"
+  },
+  {
+   "answer": 3,
+   "explain": "A rise in USD/PLN with a fall in EUR/PLN points to dollar strength (EUR/USD down), not a Poland-specific problem.",
+   "options": [
+    "Poland's economy suddenly weakened.",
+    "The euro strengthened against all currencies.",
+    "The NBP sold złoty to weaken it.",
+    "The dollar strengthened broadly, while the złoty held steady or firmed against the euro."
+   ],
+   "q": "On a day when USD/PLN rose and EUR/PLN fell, which explanation fits best?"
+  },
+  {
+   "answer": 1,
+   "explain": "Markets react to surprises relative to expectations (Lesson 1); data in line with forecasts carry little new information.",
+   "options": [
+    "A strong rise, because the data were good.",
+    "Little change, because the news was already priced in.",
+    "A strong fall, because good news is always sold.",
+    "The Fed must raise rates the same day."
+   ],
+   "q": "US jobs data come in exactly as economists expected. What is the most likely immediate effect on the dollar?"
+  },
+  {
+   "answer": 3,
+   "explain": "F = 4.3926 × 1.0375 ÷ 1.025 = 4.4462; the forward premium equals the interest difference.",
+   "options": [
+    "4.3926, the same as spot",
+    "4.3384",
+    "4.4475",
+    "4.4462"
+   ],
+   "q": "With hypothetical one-year rates of 3.75% (PLN) and 2.50% (EUR) and spot EUR/PLN 4.3926, what forward rate rules out a riskless profit?"
+  },
+  {
+   "answer": 0,
+   "explain": "(1 − 0.0185) × (1 + 0.001116) − 1 ≈ −1.74%; the stronger złoty cushions the loss.",
+   "options": [
+    "−1.74%",
+    "−1.96%",
+    "−1.85%",
+    "+0.11%"
+   ],
+   "q": "A eurozone investor holds Polish shares. The WIG20 falls 1.85% and the złoty strengthens 0.1116% against the euro. Her return in euros is about:"
+  },
+  {
+   "answer": 2,
+   "explain": "Relative PPP links persistent inflation differences to gradual depreciation of the higher-inflation currency, as a long-run tendency.",
+   "options": [
+    "The złoty tends to strengthen against the euro.",
+    "The exchange rate is unaffected by inflation.",
+    "The złoty tends to weaken against the euro by roughly the inflation gap each year.",
+    "The NBP must fix the exchange rate."
+   ],
+   "q": "Polish inflation is expected to be 2.2 points higher than euro-area inflation for several years. Relative PPP suggests that over those years:"
+  },
+  {
+   "answer": 1,
+   "explain": "Uncovered interest parity often fails for long periods, but in panics high-yield currencies can drop sharply, exceeding the interest earned.",
+   "options": [
+    "Because interest is never paid on foreign deposits.",
+    "Because a sudden fall in the high-rate currency can wipe out years of interest gains.",
+    "Because covered interest parity forbids it by law.",
+    "Because central banks ban it."
+   ],
+   "q": "Why can a carry trade (borrow in a low-rate currency, invest in a high-rate one) end in heavy losses?"
+  },
+  {
+   "answer": 0,
+   "explain": "It must give up one of the three; Poland keeps free capital flows and independent policy and lets the złoty float.",
+   "options": [
+    "A fixed exchange rate, free capital movement and an independent interest-rate policy.",
+    "Low inflation, low unemployment and a budget surplus.",
+    "A central bank, a stock exchange and a floating currency.",
+    "Exports, imports and tourism."
+   ],
+   "q": "The impossible trinity says a country cannot simultaneously have:"
+  },
+  {
+   "answer": 2,
+   "explain": "To buy Polish bonds, foreigners must buy złoty, shifting demand for złoty to the right and raising its price.",
+   "options": [
+    "Supply of złoty rises → złoty weakens → EUR/PLN rises.",
+    "Nothing happens because bonds are not currencies.",
+    "Demand for złoty shifts right → złoty strengthens → EUR/PLN falls.",
+    "Demand for euro rises → euro strengthens → EUR/PLN rises."
+   ],
+   "q": "Linking to Lesson 2: foreign pension funds decide to buy many more Polish government bonds. Which is the correct chain?"
+  },
+  {
+   "answer": 3,
+   "explain": "1.10 × 0.90 − 1 = −0.01, about −1%; returns compound, they do not simply add up.",
+   "options": [
+    "+20%",
+    "0%",
+    "+10%",
+    "−1%"
+   ],
+   "q": "Linking to Lesson 4: the WIG20 rises 10% in a year while the złoty falls 10% against the dollar. A dollar-based investor's return is about:"
+  }
+ ],
+ "level": "Foundations",
+ "minutes": 20,
+ "misconceptions": [
+  {
+   "myth": "A strong currency is always good for a country.",
+   "truth": "A stronger złoty lowers import prices and inflation and makes holidays abroad cheaper, but it makes Polish exports dearer for foreigners and squeezes exporters' złoty revenues; there are winners and losers either way."
+  },
+  {
+   "myth": "If the dollar gets dearer in złoty, something must have gone wrong in Poland.",
+   "truth": "Check the cross rate first: on 6 November USD/PLN rose while EUR/PLN fell, because the dollar strengthened against almost everything after US jobs data. It was mainly a dollar story."
+  },
+  {
+   "myth": "Higher interest rates always strengthen a currency.",
+   "truth": "Only changes relative to expectations move rates, and if a hike is a sign that inflation or risk is out of control, investors may still sell the currency. Already-expected hikes are priced in."
+  },
+  {
+   "myth": "The NBP sets the złoty's exchange rate.",
+   "truth": "The złoty floats: its price is set in the market. The NBP influences it indirectly through interest rates and can intervene if needed for stability, but it does not fix a level."
+  },
+  {
+   "myth": "A 10% fall in a currency is undone by a 10% rise.",
+   "truth": "Percentages are measured from different bases: after a 10% fall, a rise of about 11.1% is needed to return to the start, and the change in a rate and in its inverse differ."
+  }
+ ],
+ "number": 5,
+ "objectives": [
+  "Read a currency quote such as EUR/PLN 4.3926 correctly and say which currency got stronger when it changes.",
+  "Calculate a cross rate (for example USD/PLN from EUR/PLN and EUR/USD) and show why percentage changes in a rate and its inverse are not equal.",
+  "Explain, step by step, how a change in expected interest rates moves a currency through capital flows.",
+  "Calculate a covered-interest-parity forward rate and a relative-PPP estimate, and state why neither is a forecast.",
+  "Calculate a foreign investor's return on Polish shares once the exchange rate is included.",
+  "Trace the chain from a currency move to prices paid by Polish households and to the central bank's decisions."
+ ],
+ "recap": "Lesson 4 showed that a stock index is a calculation over a chosen list of shares, that only percentage changes can be compared, and that recovering from a fall needs a bigger rise than the fall itself. Lessons 1 and 2 showed that prices move when the balance of buyers and sellers changes, and that markets react to surprises relative to expectations. Today we apply exactly these tools to a special price: the price of a currency. You will also see that an index's return depends on the currency you measure it in.",
+ "sections": [
+  {
+   "body": "An exchange rate is the price of one currency expressed in another. A quote written EUR/PLN 4.3926 means that 1 euro (the base currency, written first) costs 4.3926 złoty (the quote currency, written second); this was the rate at 17:05 on Friday 6 November, according to Forsal. If EUR/PLN rises, one euro buys more złoty, so the euro has appreciated (gained value) and the złoty has depreciated (lost value); if it falls, the opposite is true. Every quote has an inverse: PLN/EUR = 1 ÷ 4.3926 ≈ 0.2277, meaning one złoty buys about 0.23 euro. Because the inverse is 1 divided by the rate, percentage changes are not symmetric: when USD/PLN rose from 3.9172 (Thursday 17:00) to 3.9396 (Friday 17:05), that was a rise of about 0.572%, but the złoty's value in dollars fell by only about 0.569%. For small moves the difference is tiny, but for large moves it is big: a currency that falls 50% against another must then rise 100% to get back, the same recovery maths you met with indices in Lesson 4. Banks also quote two prices, a lower 'bid' at which they buy and a higher 'ask' at which they sell; the spread between them (Lesson 1) is why a tourist exchange office's rate differs from the market rate in the news. Simplification: news reports usually give a single 'mid' rate halfway between bid and ask.",
+   "heading": "1. What an exchange rate is and how to read a quote"
+  },
+  {
+   "body": "The foreign-exchange (FX) market is the largest financial market in the world: according to the Bank for International Settlements' (BIS) Triennial Survey, published in September 2025, average trading reached $9.6 trillion per day in April 2025, 28% more than in 2022. The US dollar was on one side of 89% of all trades and the euro on one side of 28.9%; because every trade involves two currencies, these shares add up to 200%, not 100%. Trading is concentrated in a few centres, with sales desks in the UK alone accounting for 38%, the BIS said. Participants have very different motives: exporters and importers need foreign money to pay for goods; investors buy foreign bonds and shares; companies hedge, meaning they lock in a future rate to remove risk; speculators bet on moves; and central banks manage reserves. Only a small part of the trading is linked to trade in goods; most comes from financial flows, which is why currencies can react within seconds to news about interest rates. The most traded instrument, the BIS found, is the FX swap (about $4 trillion a day), in which two parties exchange currencies now and swap them back later, mainly to manage funding. The key idea: a currency's price reflects the combined demand of all these groups, and financial investors usually dominate in the short run.",
+   "heading": "2. The world's biggest market: who trades currencies and why"
+  },
+  {
+   "body": "Apply Lesson 2 directly: think of a market in which złoty are bought and sold for euros. Demand for złoty comes from anyone who must pay in złoty: foreign buyers of Polish exports, foreign tourists in Poland, foreign investors buying Polish bonds, shares or factories, and Poles abroad sending money home. Supply of złoty comes from anyone who sells złoty to get foreign money: Polish importers, Poles travelling abroad, and Polish investors buying foreign assets. If foreigners suddenly want more Polish bonds, the demand curve for złoty shifts right, and the price of the złoty rises (EUR/PLN falls) until the market clears again. Just as in Lesson 2, ask 'which curve moved?': a jump in foreign demand strengthens the złoty, while a rush of Polish money abroad weakens it. Under a floating exchange rate the price is left to this market; Poland has had a floating złoty, with the National Bank of Poland (NBP) still able to intervene in the currency market if needed for macroeconomic or financial stability, alongside an inflation target of 2.5% with a band of ±1 percentage point, according to the NBP. Under a fixed (pegged) regime, the central bank instead promises a rate and must buy or sell its own currency, using its foreign-exchange reserves, whenever supply and demand do not match at that price. Countries in the euro area have gone further and given up their own currency entirely.",
+   "heading": "3. Supply and demand for a currency"
+  },
+  {
+   "body": "Money moves to where it expects the best return for the risk taken, so interest rates are one of the strongest short-run forces on currencies. Suppose an investor can earn 3.75% on złoty deposits but only 2.50% on euro deposits; these are the NBP reference rate (held on 4 November) and the European Central Bank's deposit rate (held on 29 October), used here as a simplification since market rates differ. The higher złoty rate attracts savings into złoty, raising demand for the currency. But markets look forward (Lesson 1): what moves a currency is a change in expected future rates, compared with what was already priced in. On Friday the US reported 165,000 new jobs against roughly 59,000–70,000 expected (forecasts quoted by different sources differ); markets raised the chance of a Federal Reserve hike in December to about 78%, Reuters reported, so dollar assets were expected to pay more, investors bought dollars, and USD/PLN rose. A textbook idea called uncovered interest parity says the higher-rate currency should, on average, be expected to depreciate by roughly the interest difference, so that no one earns a free extra return; in practice this often fails over months, which is why the 'carry trade' (borrowing in a low-rate currency to invest in a high-rate one) can be profitable for long periods and then collapse suddenly. Exception: if rates rise because inflation or risk is getting out of control, investors may flee anyway, so a rate hike does not always strengthen a currency.",
+   "heading": "4. Interest rates, expectations and capital flows"
+  },
+  {
+   "body": "In the long run, a currency's value is linked to what it can buy. The law of one price says that an identical, freely traded good should cost the same everywhere once converted at the exchange rate, because otherwise traders would buy where it is cheap and sell where it is dear. Purchasing power parity (PPP) applies this to whole baskets of goods. Its more useful 'relative' version says that if prices rise faster in Poland than in the euro area, the złoty should, over time, depreciate by roughly the inflation difference, so that real purchasing power stays comparable. Example with hypothetical numbers for the euro area: if Polish inflation is 4.2% (the NBP's new projection for 2027) and euro-area inflation 2.0%, relative PPP implies the złoty losing about 2.2% against the euro (1.042 ÷ 1.020 − 1). PPP works poorly over months and only roughly over many years, because many things cannot be traded (haircuts, rents), transport costs and tariffs exist, and financial flows swamp trade in the short run. Economists therefore treat PPP as a long-run anchor, not a forecast for next week. The 'real exchange rate', the nominal rate adjusted for the two countries' price levels, is what matters for competitiveness: a złoty that stays nominally stable while Polish prices rise faster becomes, in real terms, stronger, making Polish goods relatively dearer.",
+   "heading": "5. Inflation and purchasing power parity (PPP)"
+  },
+  {
+   "body": "When investors become frightened, they often sell assets seen as risky, including currencies of emerging and smaller economies, and buy currencies seen as safe, which today usually means the US dollar and, at times, the Swiss franc and Japanese yen. This is why a global sell-off can weaken the złoty even when nothing has changed in Poland. To find out whether a move is about Poland or about the other currency, look at the cross rate. On Friday, EUR/USD fell from about 1.1226 to 1.115 (Forsal), meaning the dollar strengthened against the euro; at the same time EUR/PLN slipped (−0.13% on Forsal's basis, about −0.11% against Thursday's 17:00 level), meaning the złoty slightly strengthened against the euro. Since USD/PLN = EUR/PLN ÷ EUR/USD, a rise in USD/PLN can come purely from a stronger dollar: 4.3926 ÷ 1.115 ≈ 3.9396, matching the quoted USD/PLN within rounding. So Friday's 'weaker złoty against the dollar' was mostly a stronger-dollar story, not a Polish story. Forsal also reported that comments by two Monetary Policy Council members about a possible December hike supported the złoty, which fits section 4. The lesson: before concluding that 'the złoty is weak', check it against more than one currency.",
+   "heading": "6. Fear, safe havens and the cross-rate trap"
+  },
+  {
+   "body": "A weaker złoty makes imports dearer in złoty: fuel, electronics and many raw materials are priced in dollars or euros, so their złoty price rises, which feeds inflation; economists call this exchange-rate pass-through. It also makes Polish exports cheaper for foreigners, which helps exporters and tourism. A stronger złoty does the reverse: cheaper imports and lower inflation, but tougher conditions for exporters. Households with foreign-currency debts or income are directly exposed. Because the exchange rate affects inflation, the NBP watches it closely, and its inflation projection depends partly on it. A standard textbook result, the 'impossible trinity' (or trilemma), says a country cannot at the same time have a fixed exchange rate, free movement of capital and an independent interest-rate policy; it must give up one. Poland keeps free capital flows and its own interest-rate policy, so it lets the złoty float. A central bank can still influence its currency indirectly through interest rates and directly by intervening, selling foreign reserves to buy its own currency, but reserves are finite and markets are huge, so interventions work best when they confirm, rather than fight, what fundamentals justify.",
+   "heading": "7. Why exchange rates matter to the economy, and what central banks can do"
+  },
+  {
+   "body": "The models above explain direction and long-run tendencies, not precise short-run moves. Over days and weeks, exchange rates are driven by changing expectations about interest rates, risk and politics, and new information arrives randomly, so short-term moves are notoriously hard to predict; mainstream research has long found that simple forecasting models struggle to beat a guess of 'no change' over short horizons. Several forces often act at once and can cancel out: on Friday, a strong US labour market pushed the dollar up, while hawkish talk in Warsaw supported the złoty. Exchange rates can also overshoot, moving further than the long-run fundamentals justify before settling back. PPP may take years to work, and interest-rate parity breaks down in panics. Treat any single explanation for a one-day move with caution: sources usually attribute moves after the fact ('the dollar rose on jobs data'), which is a reasonable reading, not proof. The robust skills are to read quotes correctly, check cross rates, compare news with expectations, and trace the cause-and-effect chain.",
+   "heading": "8. Limits: why nobody can reliably forecast currencies"
+  }
+ ],
+ "takeaways": [
+  "An exchange rate is the price of one currency in another: in EUR/PLN 4.3926, one euro costs 4.3926 złoty, and a rise means the euro strengthened and the złoty weakened.",
+  "Cross rates link currencies (USD/PLN = EUR/PLN ÷ EUR/USD); check them before deciding whether a move is about Poland or about the other currency.",
+  "Percentage changes in a rate and its inverse differ, and returns in another currency compound: (1 + local return) × (1 + currency return) − 1.",
+  "In the short run, changes in expected interest rates and risk appetite move currencies through capital flows; only surprises relative to expectations matter.",
+  "Covered interest parity fixes forward rates by arbitrage; relative PPP links currencies to inflation differences only in the long run; neither is a short-term forecast.",
+  "The złoty floats under the NBP's 2.5% ±1 point inflation target; a weaker złoty raises import prices and inflation, which is why the central bank watches it."
+ ],
+ "title": "Money and currencies: why exchange rates move",
+ "todayExample": "Friday's top economic story shows the mechanism of section 4 in real time. The US reported 165,000 new jobs in October against roughly 59,000–70,000 expected (sources differ), and markets raised the chance of a Federal Reserve rate hike on 9 December to about 78%. Investors bought dollars: USD/PLN rose to 3.9396 at 17:05, while EUR/PLN slipped to 4.3926 (−0.13% on Forsal's measure), so the move was mainly about a stronger dollar rather than a weaker Poland. At the same time the NBP raised its 2027 inflation forecast to 4.2% and two rate-setters spoke of a possible December hike, which Forsal said helped the złoty hold up.",
+ "workedExamples": [
+  {
+   "problem": "On Friday at 17:05 Forsal quoted EUR/PLN 4.3926 and EUR/USD 1.115, and USD/PLN 3.9396. On Thursday at 17:00 USD/PLN was 3.9172. (a) Compute USD/PLN from the two euro rates. (b) By what percentage did USD/PLN change between the two snapshots? (c) By what percentage did the złoty's value in dollars change?",
+   "solution": "(a) A cross rate removes the common currency: USD/PLN = EUR/PLN ÷ EUR/USD = 4.3926 ÷ 1.115 = 3.93955…, about 3.9396, matching the quoted rate. (b) 3.9396 ÷ 3.9172 − 1 = 0.005718, a rise of about 0.572% (the dollar got dearer). (c) The złoty in dollars is the inverse, so its change is 3.9172 ÷ 3.9396 − 1 = −0.005686, a fall of about 0.569%. Interpretation: the two percentages differ (0.572% vs 0.569%) because one is the inverse of the other; always state which currency you measure. Note: Forsal reported a 0.68% rise for the dollar measured from its own earlier reference point, so different start times give different percentages.",
+   "title": "Cross rate and asymmetric percentage changes"
+  },
+  {
+   "problem": "The WIG20 fell 1.85% on Friday (Biznes24). EUR/PLN moved from 4.3975 (Thursday 17:00) to 4.3926 (Friday 17:05) (Forsal). What was the approximate return for a eurozone investor who measures results in euros? (Times of the index close and the FX snapshots differ slightly, so treat this as an approximation.)",
+   "solution": "Step 1: the złoty's value in euros changed by 4.3975 ÷ 4.3926 − 1 = +0.1116%, because fewer złoty were needed per euro, so each złoty was worth slightly more euros. Step 2: returns compound, so the euro return = (1 − 0.0185) × (1 + 0.001116) − 1 = 0.9815 × 1.001116 − 1 = −0.01741, about −1.74%. Interpretation: the slightly stronger złoty cushioned the loss from −1.85% to about −1.74% for a euro-based investor. Simply adding the two percentages (−1.85% + 0.11%) gives nearly the same answer for small moves, but the exact method is multiplication.",
+   "title": "A foreign investor's return on the WIG20"
+  },
+  {
+   "problem": "Use hypothetical one-year interest rates equal to the NBP reference rate (3.75%) for złoty and the ECB deposit rate (2.50%) for euro, and spot EUR/PLN 4.3926. What one-year forward rate prevents a riskless profit? (Real market rates differ; this is a simplified illustration.)",
+   "solution": "Route A: keep 4.3926 zł in złoty for a year at 3.75%: 4.3926 × 1.0375 = 4.5573 zł. Route B: buy 1 euro now, invest at 2.50% to get 1.025 euro, and sell those euros forward at rate F. No riskless profit requires 1.025 × F = 4.5573, so F = 4.3926 × 1.0375 ÷ 1.025 = 4.4462. Interpretation: the forward EUR/PLN (4.4462) is about 1.22% above spot (1.0375 ÷ 1.025 − 1 = 0.0122), exactly reflecting the interest difference. This is arithmetic that banks enforce through arbitrage, not a forecast that the złoty will weaken.",
+   "title": "Covered interest parity: where a forward rate comes from"
+  },
+  {
+   "problem": "Suppose Polish inflation is 4.2% next year (the NBP's November projection for 2027) and euro-area inflation is 2.0% (hypothetical). Starting from EUR/PLN 4.3926, what EUR/PLN would keep relative purchasing power unchanged after one year?",
+   "solution": "Relative PPP: the new rate = 4.3926 × (1 + 0.042) ÷ (1 + 0.020) = 4.3926 × 1.042 ÷ 1.020 = 4.4873. The implied change is 1.042 ÷ 1.020 − 1 = 2.157%, a złoty depreciation of about 2.2%, close to the simple inflation gap of 2.2 points. Interpretation: this is a long-run tendency, not a forecast; over one year, interest rates, risk sentiment and capital flows can easily dominate, and the złoty could even strengthen if, for example, the NBP raises rates.",
+   "title": "Relative PPP as a long-run anchor"
+  }
+ ],
+ "updatedAt": "2026-11-06T19:13:30.767674Z"
+}

@@ -1,0 +1,1349 @@
+{
+ "bigPicture": "A much stronger-than-expected US jobs report (165,000 new jobs in October) made a Federal Reserve rate hike in December look likely, lifting the dollar against the złoty. The AI share sell-off reached Europe and Warsaw, where the DAX and WIG20 each fell almost 2%, while Wall Street steadied. President Trump is weighing whether to restart the war with Iran as tanker attacks continue in the Gulf, though oil is heading for its biggest weekly fall since 2020 on hopes of de-escalation. The EU and Poland rejected any US–Russia deal on Europe's security made without Europeans. Beyond markets, Tanzania jailed opposition leader Tundu Lissu for four years for incitement while clearing him of treason, a market strike in Yemen killed at least 30 people, and Paraguay's president faces removal after a bank collapse froze the savings of millions.",
+ "createdAt": "2026-11-06T19:00:56Z",
+ "glossary": [
+  {
+   "def": "The BLS monthly estimate of paid jobs at US businesses and government agencies, excluding farm workers, private household employees and the self-employed; news usually quotes the monthly change.",
+   "example": "Nonfarm payrolls rose by 165,000 in October 2026.",
+   "term": "Nonfarm payrolls"
+  },
+  {
+   "def": "An increase in a central bank's key interest rate, meant to cool borrowing and spending and so reduce inflation.",
+   "example": "Markets priced about a 78% chance of a Fed rate hike on 9 December.",
+   "term": "Rate hike"
+  },
+  {
+   "def": "One hundredth of a percentage point (0.01 pt); 25 basis points equal 0.25 pt.",
+   "example": "A quarter-point hike is a 25-basis-point hike.",
+   "term": "Basis point"
+  },
+  {
+   "def": "The price of one currency in another; EUR/PLN 4.39 means one euro costs 4.39 złoty.",
+   "example": "EUR/PLN was 4.3926 at 17:05 on Friday.",
+   "term": "Exchange rate"
+  },
+  {
+   "def": "A currency appreciates when it buys more of another currency and depreciates when it buys less.",
+   "example": "When USD/PLN rose, the dollar appreciated and the złoty depreciated against it.",
+   "term": "Appreciation / depreciation"
+  },
+  {
+   "def": "An exchange rate calculated from two other rates that share a common currency.",
+   "example": "USD/PLN = EUR/PLN ÷ EUR/USD.",
+   "term": "Cross rate"
+  },
+  {
+   "def": "The idea that exchange rates tend, in the long run, to adjust so that a basket of goods costs the same across countries.",
+   "example": "Relative PPP suggests a higher-inflation currency gradually weakens.",
+   "term": "Purchasing power parity (PPP)"
+  },
+  {
+   "def": "A system in which a currency's price is set by supply and demand in the market rather than fixed by the central bank.",
+   "example": "The złoty floats; the NBP can still intervene if needed for stability.",
+   "term": "Floating exchange rate"
+  },
+  {
+   "def": "A central bank's forecast of future inflation and growth, usually with a range showing uncertainty.",
+   "example": "The NBP's 50% range for 2027 inflation is 3.1–5.3%.",
+   "term": "Inflation projection"
+  },
+  {
+   "def": "The EU law that requires online platforms to tackle illegal content and, for the largest ones, to assess and reduce systemic risks such as harm to minors.",
+   "example": "The Commission says TikTok's feed breaches the DSA.",
+   "term": "Digital Services Act"
+  },
+  {
+   "def": "A 'cap and trade' scheme that limits total emissions and lets companies buy and sell permits, putting a price on pollution.",
+   "example": "The EU and UK plan to link their systems.",
+   "term": "Emissions Trading System"
+  },
+  {
+   "def": "A parliamentary vote to remove a government or minister; in Poland dismissing a minister needs at least 231 MPs.",
+   "example": "The Sejm rejected the motion against Marcin Kierwiński, 212 to 235.",
+   "term": "Vote of no confidence"
+  },
+  {
+   "def": "An electoral system in which parties win seats roughly in proportion to their share of the vote, which often leads to coalition governments.",
+   "example": "New Zealand votes on Saturday under a proportional system.",
+   "term": "Proportional representation"
+  },
+  {
+   "def": "The taking of private property by the state, with or without compensation.",
+   "example": "Russia placed JTI's local business under 'temporary management'.",
+   "term": "Expropriation"
+  },
+  {
+   "def": "A monarch's power to forgive or reduce a criminal sentence, sometimes with conditions.",
+   "example": "Najib Razak's conditional pardon allows house arrest if a fine is paid.",
+   "term": "Royal pardon"
+  }
+ ],
+ "label": "Fri 6 Nov · evening",
+ "lessonNumber": 5,
+ "markets": [
+  {
+   "change": 0.7,
+   "changeText": "+0.7% (intraday)",
+   "group": "Stocks · Americas",
+   "key": true,
+   "name": "S&P 500",
+   "note": "Early afternoon in New York (about 18:15 Warsaw time); rebounding after Thursday's 4.4% fall, while the strong jobs report revived rate-hike worries (Yahoo Finance).",
+   "region": "US",
+   "value": "7,408",
+   "what": "An index of 500 large US companies, weighted by size; the main gauge of the US stock market."
+  },
+  {
+   "change": 1.4,
+   "changeText": "+1.4% (intraday)",
+   "group": "Stocks · Americas",
+   "key": false,
+   "name": "Nasdaq Composite",
+   "note": "Same time; chipmakers such as Nvidia and AMD bounced after Thursday's slump (Yahoo Finance).",
+   "region": "US",
+   "value": "24,653",
+   "what": "An index of almost all shares on the Nasdaq exchange, dominated by technology companies."
+  },
+  {
+   "change": 0,
+   "changeText": "≈0.0% (intraday)",
+   "group": "Stocks · Americas",
+   "key": false,
+   "name": "Dow Jones Industrial Average",
+   "note": "Roughly flat at midday in New York (Yahoo Finance).",
+   "region": "US",
+   "value": "51,522",
+   "what": "A price-weighted index of 30 large US companies."
+  },
+  {
+   "change": -1.92,
+   "changeText": "−1.92%",
+   "group": "Stocks · Europe",
+   "key": true,
+   "name": "DAX",
+   "note": "Friday close; fell from Thursday's record as the AI sell-off spread and the strong US jobs data raised rate worries; Rheinmetall −3.4% (dpa-AFX via Ariva).",
+   "region": "Germany",
+   "value": "25,820.36",
+   "what": "Germany's main index of 40 large listed companies, including dividends."
+  },
+  {
+   "change": -0.98,
+   "changeText": "−0.98%",
+   "group": "Stocks · Europe",
+   "key": false,
+   "name": "Euro Stoxx 50",
+   "note": "Friday close (dpa-AFX via Ariva).",
+   "region": "Eurozone",
+   "value": "6,170.49",
+   "what": "An index of 50 large companies from eurozone countries."
+  },
+  {
+   "change": null,
+   "changeText": "lower",
+   "group": "Stocks · Europe",
+   "key": false,
+   "name": "Stoxx Europe 600",
+   "note": "Fell as much as 1.6% in the morning on the tech sell-off (Yahoo Finance); closing level not confirmed.",
+   "region": "Europe",
+   "value": "",
+   "what": "A broad index of 600 companies from 17 European countries."
+  },
+  {
+   "change": null,
+   "changeText": "lower",
+   "group": "Stocks · Europe",
+   "key": false,
+   "name": "FTSE 100",
+   "note": "Down about 1.5% in morning trading (Yahoo Finance); closing level not confirmed.",
+   "region": "UK",
+   "value": "",
+   "what": "An index of the 100 largest companies listed in London."
+  },
+  {
+   "change": -1.85,
+   "changeText": "−1.85%",
+   "group": "Stocks · Europe",
+   "key": true,
+   "name": "WIG20",
+   "note": "Friday close; the broader WIG fell 1.25% to 156,043.30 while mid-caps (mWIG40) rose 0.38% (Biznes24).",
+   "region": "Poland",
+   "value": "4,131.37",
+   "what": "An index of the 20 largest, most traded companies on the Warsaw Stock Exchange."
+  },
+  {
+   "change": -5.96,
+   "changeText": "−5.96%",
+   "group": "Stocks · Asia-Pacific",
+   "key": true,
+   "name": "Nikkei 225",
+   "note": "Friday close; Japan entered a bear market (a fall of 20% or more from a peak) after Wall Street's AI rout (Il Sole 24 Ore).",
+   "region": "Japan",
+   "value": "57,434",
+   "what": "A price-weighted index of 225 large Japanese companies."
+  },
+  {
+   "change": -6.02,
+   "changeText": "−6.02%",
+   "group": "Stocks · Asia-Pacific",
+   "key": false,
+   "name": "Kospi",
+   "note": "Friday close; trading was halted for 20 minutes when the index fell 8.8% intraday (Il Sole 24 Ore, Saxo).",
+   "region": "South Korea",
+   "value": "",
+   "what": "South Korea's main index, heavy in chipmakers such as Samsung and SK Hynix."
+  },
+  {
+   "change": null,
+   "changeText": "lower",
+   "group": "Stocks · Asia-Pacific",
+   "key": false,
+   "name": "S&P/ASX 200",
+   "note": "Down 0.7% in morning trade Friday (AP).",
+   "region": "Australia",
+   "value": "",
+   "what": "Australia's main index of 200 large companies."
+  },
+  {
+   "change": -0.13,
+   "changeText": "−0.13%",
+   "group": "Currencies",
+   "key": true,
+   "name": "EUR/PLN",
+   "note": "At 17:05 Friday; the złoty held up as two rate-setters spoke of a possible December hike (Forsal).",
+   "region": "Poland",
+   "value": "4.3926",
+   "what": "How many złoty one euro costs."
+  },
+  {
+   "change": 0.68,
+   "changeText": "+0.68%",
+   "group": "Currencies",
+   "key": true,
+   "name": "USD/PLN",
+   "note": "At 17:05 Friday; the dollar rose after the strong US jobs report (Forsal).",
+   "region": "Poland",
+   "value": "3.9396",
+   "what": "How many złoty one US dollar costs."
+  },
+  {
+   "change": null,
+   "changeText": "lower",
+   "group": "Currencies",
+   "key": false,
+   "name": "EUR/USD",
+   "note": "Down from about 1.1226 on Thursday evening as the dollar strengthened (Forsal).",
+   "region": "Global",
+   "value": "≈1.115",
+   "what": "How many dollars one euro buys; the world's most traded currency pair."
+  },
+  {
+   "change": null,
+   "changeText": "higher",
+   "group": "Currencies",
+   "key": false,
+   "name": "USD/JPY",
+   "note": "Dollar firmer against the yen (Reuters data via Business Recorder).",
+   "region": "Japan",
+   "value": "≈158.1",
+   "what": "How many Japanese yen one dollar buys."
+  },
+  {
+   "change": -0.8,
+   "changeText": "−0.8%",
+   "group": "Commodities",
+   "key": true,
+   "name": "Brent crude oil",
+   "note": "Friday morning, January contract; on track for a weekly fall of about 16% on hopes of de-escalation with Iran (Reuters via RTÉ).",
+   "region": "Global",
+   "value": "$97.55",
+   "what": "The main world benchmark price for a barrel of crude oil."
+  },
+  {
+   "change": -0.8,
+   "changeText": "−0.8%",
+   "group": "Commodities",
+   "key": false,
+   "name": "WTI crude oil",
+   "note": "Friday morning (Reuters via RTÉ).",
+   "region": "US",
+   "value": "$89.79",
+   "what": "The US benchmark price for crude oil."
+  },
+  {
+   "change": -1.1,
+   "changeText": "−1.1%",
+   "group": "Commodities",
+   "key": true,
+   "name": "Gold",
+   "note": "US futures, midday New York; a stronger dollar and higher yields after the jobs data weighed on gold (Yahoo Finance).",
+   "region": "Global",
+   "value": "$4,068",
+   "what": "Price of one troy ounce (31.1 g) of gold in US dollars."
+  },
+  {
+   "change": null,
+   "changeText": "held 28 Oct",
+   "group": "Interest rates",
+   "key": false,
+   "name": "US federal funds rate",
+   "note": "Markets price about a 78% chance of a 0.25-point hike on 9 December (Reuters).",
+   "region": "US",
+   "value": "3.75–4.00%",
+   "what": "The Fed's key short-term interest rate target range."
+  },
+  {
+   "change": null,
+   "changeText": "≈+1 bp",
+   "group": "Interest rates",
+   "key": false,
+   "name": "US 10-year Treasury yield",
+   "note": "Edged up after the jobs data (Yahoo Finance).",
+   "region": "US",
+   "value": "4.85%",
+   "what": "The interest rate the US government pays to borrow for 10 years; a benchmark for loans worldwide."
+  },
+  {
+   "change": null,
+   "changeText": "held 4 Nov",
+   "group": "Interest rates",
+   "key": false,
+   "name": "NBP reference rate",
+   "note": "Unchanged since March; Governor Glapiński said the Council is ready to react decisively if inflation risks grow (Strefa Inwestorów).",
+   "region": "Poland",
+   "value": "3.75%",
+   "what": "The main interest rate set by Poland's Monetary Policy Council."
+  }
+ ],
+ "marketsAsOf": "Friday 6 November: European, Warsaw and Asian closes; US and commodity prices intraday (about 18:00–19:00 Warsaw time); złoty rates at 17:05.",
+ "quiz": [
+  {
+   "answer": 1,
+   "explain": "Strong hiring and 0.4% monthly pay growth point to inflation pressure; markets raised the chance of a 9 December hike to about 78%.",
+   "options": [
+    "Because more jobs automatically lower inflation.",
+    "Because a tight job market can push up wages and prices, so the Fed may raise rates to cool spending.",
+    "Because the Fed is legally required to hike when jobs exceed 100,000.",
+    "Because unemployment rose to 4.1%."
+   ],
+   "q": "Why did a strong US jobs report make a December Fed rate hike look more likely?"
+  },
+  {
+   "answer": 2,
+   "explain": "The BLS reported 165,000 jobs; forecasts quoted were roughly 59,000–70,000; August and September were revised up by a combined 84,000.",
+   "options": [
+    "65,000 added; 165,000 expected",
+    "84,000 added; 60,000 expected",
+    "165,000 added; roughly 59,000–70,000 expected",
+    "186,000 added; 133,000 expected"
+   ],
+   "q": "How many jobs did the US add in October, and what had economists expected?"
+  },
+  {
+   "answer": 0,
+   "explain": "Traders bet on de-escalation after the midterms, while tanker attacks kept a floor under prices.",
+   "options": [
+    "The Republican midterm defeat raised hopes the Iran war would de-escalate.",
+    "OPEC announced a big production increase.",
+    "The Strait of Hormuz fully reopened on Friday.",
+    "US jobs data showed falling demand for fuel."
+   ],
+   "q": "Brent crude was heading for its biggest weekly fall since 2020. Which explanation did Reuters give?"
+  },
+  {
+   "answer": 3,
+   "explain": "Its Greek manager, Velos Tankers, said one seafarer died; the crew put out the fire.",
+   "options": [
+    "It was seized by Iran's Revolutionary Guards.",
+    "It sank after hitting a mine near Qatar.",
+    "It delivered the first oil through Hormuz since the war.",
+    "A seafarer was killed by an explosion believed to be a missile while it sailed empty towards Bahrain."
+   ],
+   "q": "What happened to the tanker Velos Sapphire?"
+  },
+  {
+   "answer": 0,
+   "explain": "dpa-AFX cited the global AI sell-off and the strong US jobs data; chipmakers such as Nvidia and AMD rebounded in New York.",
+   "options": [
+    "Europe reacted to Thursday's US tech sell-off a day late and also worried about US rates, while Wall Street was rebounding.",
+    "German companies reported losses on Friday.",
+    "The DAX excludes technology companies.",
+    "The S&P 500 is price-weighted."
+   ],
+   "q": "Germany's DAX fell 1.92% on Friday while the S&P 500 was up about 0.7% in early afternoon New York trading. What best explains the difference?"
+  },
+  {
+   "answer": 1,
+   "explain": "Kallas said Europe already has a security architecture that Russia keeps breaking; Sikorski said a deal without Europeans would be impossible.",
+   "options": [
+    "They oppose any talks on Ukraine.",
+    "They say Europe's security cannot be decided without Europeans and that Putin has no veto over it.",
+    "They want Russia to join NATO.",
+    "They object to the talks being held in Abu Dhabi."
+   ],
+   "q": "Why did EU foreign policy chief Kaja Kallas and Poland's Radosław Sikorski object to Trump's idea of a 'very big' deal with Russia?"
+  },
+  {
+   "answer": 2,
+   "explain": "A three-judge panel found intent to intimidate the government was not proved, but convicted him of inciting disruption of the 2025 election.",
+   "options": [
+    "Convicted of treason and sentenced to death.",
+    "Acquitted of all charges and released.",
+    "Acquitted of treason but convicted of incitement and sentenced to four years.",
+    "The trial was postponed until after the next election."
+   ],
+   "q": "What was the verdict in Tundu Lissu's case in Tanzania?"
+  },
+  {
+   "answer": 3,
+   "explain": "Lawmakers accuse Peña, who held a stake in Ueno's parent until last year, of a conflict of interest; removal needs 30 of 45 senators.",
+   "options": [
+    "Because Peña raised income taxes.",
+    "Because the Senate closed all banks.",
+    "Because the currency was replaced.",
+    "Because the seizure of Ueno, a digital bank with nearly 3 million users, left customers unable to withdraw cash, pay digitally or use cards."
+   ],
+   "q": "Why are ordinary Paraguayans directly affected by President Peña's impeachment crisis?"
+  },
+  {
+   "answer": 0,
+   "explain": "The Houthis say at least 30 civilians died in Saudi airstrikes; government forces say Houthi missiles hit the market.",
+   "options": [
+    "The Houthis and government forces blame each other, and Al Jazeera could not verify either account.",
+    "Saudi Arabia admitted carrying out the strike.",
+    "The UN confirmed 30 deaths and named the attacker.",
+    "It took place in government-held Aden."
+   ],
+   "q": "Which statement about the Taiz market attack in Yemen is accurate?"
+  },
+  {
+   "answer": 1,
+   "explain": "The NBP expects energy prices to rise 8.3% in 2027, feeding food prices via fuel, fertiliser and transport. Its July forecast for 2027 was 2.7%.",
+   "options": [
+    "Because the złoty collapsed.",
+    "Because of renewed energy price rises that pass through to food and other goods and services.",
+    "Because wages are growing at double-digit rates.",
+    "Because the NBP cut interest rates."
+   ],
+   "q": "Why did the NBP raise its inflation forecast for 2027 to 4.2%?"
+  },
+  {
+   "answer": 2,
+   "explain": "If confirmed, a fine could reach 6% of TikTok's worldwide annual turnover; TikTok can reply in writing.",
+   "options": [
+    "It must be banned in the EU immediately.",
+    "It breaches copyright law.",
+    "It can pull users into harmful 'rabbit holes', and TikTok did not properly assess or reduce this risk under the Digital Services Act.",
+    "It collects too little data."
+   ],
+   "q": "What did the European Commission preliminarily find about TikTok's 'For You' feed?"
+  },
+  {
+   "answer": 3,
+   "explain": "It targets people refused asylum who ignored orders to leave and are seen as a security threat; Amnesty International opposed it.",
+   "options": [
+    "None: police can enter any home at any time.",
+    "Only a minister's signature is needed.",
+    "Searches are allowed only during the night.",
+    "An investigating judge must approve each search, it must happen between 5:00 and 9:00, and immigration officials must be present."
+   ],
+   "q": "What conditions does Belgium's new law set for police home searches for rejected asylum seekers?"
+  },
+  {
+   "answer": 0,
+   "explain": "The US has 5,182 cases this year, the most since 1991; 96% are linked to outbreaks.",
+   "options": [
+    "Measles spreads very easily, and outbreaks grow where too few people are vaccinated with MMR.",
+    "A new strain resists all vaccines.",
+    "The CDC stopped testing for measles.",
+    "Measles was never eliminated in the US."
+   ],
+   "q": "Why are US measles deaths rising in 2026?"
+  },
+  {
+   "answer": 1,
+   "explain": "De Wever must report to the king on 16 November; Commission forecasts put Belgium's 2026 debt at 110.5% of GDP.",
+   "options": [
+    "Because De Wever won a confidence vote.",
+    "Because he wanted the coalition to restart budget talks; partners disagree over €10 billion of measures.",
+    "Because the constitution forbids resignations.",
+    "Because Belgium's debt fell below 60% of GDP."
+   ],
+   "q": "Why did Belgium's King Philippe refuse Bart De Wever's resignation?"
+  },
+  {
+   "answer": 2,
+   "explain": "According to a draft seen by Euronews, the deal is expected to be announced at an EU–UK summit on 20 November.",
+   "options": [
+    "Carbon permits would be abolished in both.",
+    "The UK would rejoin the EU.",
+    "Each side would recognise the other's carbon permits, opening the way to mutual exemptions from carbon border taxes (CBAM).",
+    "Electricity would become free of carbon costs."
+   ],
+   "q": "What would linking the EU and UK carbon markets mean?"
+  },
+  {
+   "answer": 0,
+   "explain": "EUR/USD fell to about 1.115, and USD/PLN = EUR/PLN ÷ EUR/USD; it was mainly a stronger-dollar story.",
+   "options": [
+    "The dollar strengthened broadly after the US jobs report, so it rose against the euro and the złoty alike.",
+    "Poland's rating was cut on Friday morning.",
+    "The NBP sold złoty.",
+    "The WIG20 rose."
+   ],
+   "q": "Why did USD/PLN rise on Friday even though EUR/PLN slipped slightly?"
+  },
+  {
+   "answer": 1,
+   "explain": "A bear market is usually defined as a fall of 20% or more from a recent peak.",
+   "options": [
+    "Japan raised taxes.",
+    "It fell 5.96% after Wall Street's AI sell-off, taking it 20% or more below its peak.",
+    "The yen collapsed by 20%.",
+    "Trading was halted all day."
+   ],
+   "q": "Why did Japan's Nikkei 225 fall into a 'bear market' on Friday?"
+  },
+  {
+   "answer": 2,
+   "explain": "In a price-weighted index, a high-priced share has more weight regardless of the company's total value.",
+   "options": [
+    "The companies with the largest number of employees.",
+    "The companies with the most shares outstanding.",
+    "The companies with the highest share price.",
+    "All companies equally."
+   ],
+   "q": "Review (Lesson 4): A price-weighted index like the Nikkei 225 is most influenced by:"
+  },
+  {
+   "answer": 0,
+   "explain": "Lesson 3: price reflects the present value of expected future cash; a fall in market value is not cash that moved anywhere.",
+   "options": [
+    "A share's value reflects expected future cash, so lower expected sales and profits reduce it.",
+    "The company lost 16.1% of its cash that day.",
+    "Shareholders must pay the company's debts.",
+    "The fall moved money from shareholders to the company."
+   ],
+   "q": "Review (Lesson 3): Rheinmetall's shares fell 16.1% after it cut its sales forecast. Which explanation is consistent with what a share is worth?"
+  },
+  {
+   "answer": 3,
+   "explain": "Expected extra supply pushes the price down even before physical barrels arrive, because expectations shift today's curves.",
+   "options": [
+    "A rightward shift of demand.",
+    "A government price ceiling.",
+    "A movement along the demand curve caused by higher income.",
+    "An expected rightward shift of supply, which lowers the price."
+   ],
+   "q": "Review (Lesson 2): Oil fell as traders expected more crude to leave the Gulf. In supply-and-demand terms this is:"
+  }
+ ],
+ "status": "complete",
+ "stories": [
+  {
+   "category": "Economy & markets",
+   "everyday": "A stronger dollar made the dollar dearer in złoty (USD/PLN rose about 0.7% by 17:05, Forsal reported), which can raise the złoty cost of oil, electronics and dollar-priced goods. Higher US rates also tend to keep borrowing costs elevated worldwide.",
+   "id": "us-jobs-oct",
+   "importance": 5,
+   "markets": [
+    "US Treasuries",
+    "US dollar",
+    "USD/PLN",
+    "Gold",
+    "US stocks"
+   ],
+   "rank": 1,
+   "rankWhy": "US jobs data steer Federal Reserve policy, and Fed rates set borrowing costs, the dollar and capital flows for the whole world, including Poland.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "US Bureau of Labor Statistics – Employment Situation, October 2026",
+     "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+    },
+    {
+     "name": "Business Recorder (Reuters) – Fed seen sticking to December rate hike after jobs data",
+     "url": "https://www.brecorder.com/news/40447788/fed-seen-sticking-to-december-rate-hike-after-jobs-data"
+    },
+    {
+     "name": "Federal Reserve – FOMC statement, 28 October 2026",
+     "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20261028a1.pdf"
+    },
+    {
+     "name": "Forsal – Kursy walut 6.11.2026",
+     "url": "https://forsal.pl/finanse/waluty/artykuly/11341959,ile-kosztuja-euro-dolar-i-frank-kursy-walut-6112026.html"
+    }
+   ],
+   "terms": [
+    "Nonfarm payrolls",
+    "Rate hike",
+    "Basis point"
+   ],
+   "title": "US adds 165,000 jobs in October, more than double forecasts, and a December Fed rate hike now looks likely",
+   "what": "The US economy added 165,000 jobs in October and the unemployment rate was 4.1%, the Bureau of Labor Statistics (BLS) said on Friday; economists' forecasts quoted by different sources ranged from about 59,000 to 70,000 jobs. August and September were revised up by a combined 84,000 jobs. Average hourly pay rose 0.4% in the month to $38.00 and was 3.1% higher than a year earlier. After the data, markets priced roughly a 78% chance that the Federal Reserve (the US central bank) raises its key rate by a quarter point at its 8–9 December meeting, up from about 67% on Thursday, Reuters reported. The Fed held its target range at 3.75–4.00% on 28 October, with two officials voting for a hike.",
+   "why": "A strong job market lets workers demand higher pay, and firms often pass higher wage costs on in prices, so the Fed fears inflation will stay high; Reuters noted inflation has been above the Fed's 2% target for more than five years. A rate hike makes borrowing dearer to cool spending. Expectations of higher US rates pushed Treasury yields up and strengthened the dollar on Friday."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "Oil prices feed into petrol, diesel, heating and transport costs; Poland's central bank (NBP) cited the renewed rise in energy prices as the main reason it raised its inflation forecast on Friday.",
+   "id": "iran-decision",
+   "importance": 5,
+   "markets": [
+    "Brent crude",
+    "WTI crude",
+    "Shipping and insurance",
+    "Airlines"
+   ],
+   "rank": 2,
+   "rankWhy": "Whether the US resumes full-scale war with Iran decides the fate of Gulf shipping through the Strait of Hormuz, a key route for oil exports, and with it fuel prices everywhere.",
+   "region": "Middle East",
+   "sources": [
+    {
+     "name": "The National – Trump considers Iran options",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/06/youll-know-soon-enough-trump-considers-iran-options/"
+    },
+    {
+     "name": "Business Recorder (Reuters) – Seafarer killed in suspected missile attack on tanker in Gulf",
+     "url": "https://www.brecorder.com/news/40447785/seafarer-killed-in-suspected-missile-attack-on-tanker-in-gulf"
+    },
+    {
+     "name": "Gulf News – US/Israel-Iran war live",
+     "url": "https://gulfnews.com/world/mena/us-israel-iran-war-trump-warns-iran-heavy-hit-tehran-gulf-diplomacy-1.500737918"
+    },
+    {
+     "name": "RTÉ (Reuters) – Brent set for biggest weekly drop since 2020",
+     "url": "https://www.rte.ie/news/business/2026/1106/1598252-world-oil-prices/"
+    },
+    {
+     "name": "Just Security – Early Edition, 6 Nov 2026",
+     "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+    }
+   ],
+   "terms": [
+    "Strait of Hormuz",
+    "Ceasefire"
+   ],
+   "title": "Trump weighs restarting the Iran war as a sailor is killed in a tanker attack in the Gulf",
+   "what": "After meeting his national security team on Thursday, President Donald Trump said he would soon decide whether to resume the war with Iran or seek a deal, adding he would rather not destroy the rest of the country but might have to. Fox News reported that US Central Command was finalising preparations but that no order to resume operations had been given. Iran sent a nuclear proposal through Qatar but says it will discuss it, and reopen the Strait of Hormuz, only after the US meets its seven demands, Reuters reported. On Friday the Greek manager Velos Tankers said a seafarer was killed when its tanker Velos Sapphire was hit by an explosion, believed to be a missile, while sailing empty towards Bahrain.",
+   "why": "Trump had said he could return to full-scale bombing after the midterm elections if Iran did not agree a settlement he accepted. The Republican defeat raised traders' hopes of de-escalation, so Brent crude was on track for a weekly fall of about 16%, its steepest since the pandemic began, Reuters reported via RTÉ. Attacks on tankers keep a floor under prices because they threaten supply."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "Polish pension funds (OFE/PPK) and investment funds hold shares in Warsaw and abroad, so falls like these reduce the value of savings on paper; they are only realised if units are sold.",
+   "id": "ai-rout-europe",
+   "importance": 4,
+   "markets": [
+    "DAX",
+    "WIG20",
+    "Nikkei 225",
+    "Kospi",
+    "Nasdaq",
+    "Nvidia",
+    "AMD",
+    "Rheinmetall"
+   ],
+   "rank": 3,
+   "rankWhy": "The AI share sell-off has now hit Europe, Asia and Poland, affecting the savings and pension funds of hundreds of millions of people.",
+   "region": "Global",
+   "sources": [
+    {
+     "name": "Ariva (dpa-AFX) – Aktien Frankfurt Schluss, 6 Nov 2026",
+     "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-dax-faellt-wegen-ki-panik-12198532"
+    },
+    {
+     "name": "Biznes24 – WIG20 spadł o 1,85%",
+     "url": "https://biznes24.pl/indeks-wig20-spadl-o-185-na-zamknieciu-w-piatek/"
+    },
+    {
+     "name": "Il Sole 24 Ore – Nikkei closes at 57,434",
+     "url": "https://en.ilsole24ore.com/art/tokyo-stock-exchange-nikkei-index-closes-at-57434-points-down-596-per-cent-AJ5Tdu6B"
+    },
+    {
+     "name": "Yahoo Finance – Stock market today, 6 Nov",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
+    },
+    {
+     "name": "TheStreet – Stock market today, 6 Nov 2026",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026"
+    }
+   ],
+   "terms": [
+    "Correction",
+    "Bear market",
+    "Semiconductors"
+   ],
+   "title": "AI sell-off reaches Europe and Warsaw while Wall Street steadies",
+   "what": "Germany's DAX fell 1.92% to 25,820.36 on Friday, a day after a record high, and the Euro Stoxx 50 lost 0.98%, the dpa-AFX report on Ariva said. Warsaw's WIG20 fell 1.85% to 4,131.37. In Asia, Japan's Nikkei 225 closed 5.96% lower at about 57,434 and South Korea's Kospi fell 6.02%. On Wall Street, which opened after Europe's lunch, the Nasdaq Composite was up about 1.4% and the S&P 500 about 0.7% in early afternoon New York trading, with chipmakers Nvidia and AMD rebounding after heavy falls on Thursday, when the Nasdaq 100 lost 6.3–6.4% (sources differ).",
+   "why": "Investors fear that Democratic control of Congress after the midterms will bring tighter rules on AI and on power-hungry data centres; Goldman Sachs estimated that about 45% of planned US data-centre capacity could face restrictions from newly elected governors, Yahoo Finance reported. In Europe, a strong US jobs report added worries about higher US interest rates, dpa-AFX said. Yardeni Research called the sell-off an overreaction."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "The outcome affects Poland's defence spending, energy policy and the risk of conflict on its borders.",
+   "id": "europe-rejects-big-deal",
+   "importance": 4,
+   "markets": [
+    "Defence stocks",
+    "European gas"
+   ],
+   "rank": 4,
+   "rankWhy": "A US–Russia deal covering 'all of Europe' would reshape the security of every EU country, Poland above all.",
+   "region": "Europe",
+   "sources": [
+    {
+     "name": "Euronews via Yahoo – EU rejects Trump's 'big beautiful' security deal",
+     "url": "https://au.news.yahoo.com/eu-rejects-trump-big-beautiful-182643954.html"
+    },
+    {
+     "name": "World Today Journal – Poland warns allies",
+     "url": "https://world-today-journal.com/poland-warns-allies-not-to-negotiate-ukraine-war-without-eastern-europe/"
+    },
+    {
+     "name": "Just Security – Early Edition, 6 Nov 2026",
+     "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+    }
+   ],
+   "terms": [
+    "Security architecture",
+    "Veto"
+   ],
+   "title": "EU and Poland reject a US–Russia deal on Europe's security made without them",
+   "what": "President Trump said on Thursday a possible deal with Russia would be very big and might involve more than Ukraine, possibly all of Europe, without giving details. Speaking in Warsaw on Friday, EU foreign policy chief Kaja Kallas said Europe already has a security architecture that Russia keeps breaking and that Putin has no veto over European security. Polish Foreign Minister Radosław Sikorski said a deal on Ukraine's and Europe's future without Europeans would be impossible. US envoy Jared Kushner said Washington would consult Europeans on the sidelines of US–Russia–Ukraine talks in Abu Dhabi next week.",
+   "why": "Central and Eastern European states fear great powers could decide their security over their heads; Prime Minister Donald Tusk warned the Russian threat to Poland and the Baltic states will grow. Reports that US negotiators considered restoring Russian energy flows to Europe drew sharp Polish criticism, according to World Today Journal."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "Yemen already faces one of the world's worst hunger crises; fighting near shipping lanes also raises freight and insurance costs.",
+   "id": "taiz-market",
+   "importance": 4,
+   "markets": [
+    "Brent crude",
+    "Shipping"
+   ],
+   "rank": 5,
+   "rankWhy": "A strike killing dozens of civilians deepens Yemen's war, which now spills into Saudi Arabia and Gulf energy security.",
+   "region": "Middle East",
+   "sources": [
+    {
+     "name": "Al Jazeera – Yemeni gov't forces, Houthis trade blame for Taiz market strikes",
+     "url": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market"
+    },
+    {
+     "name": "Gulf News – US/Israel-Iran war live",
+     "url": "https://gulfnews.com/world/mena/us-israel-iran-war-trump-warns-iran-heavy-hit-tehran-gulf-diplomacy-1.500737918"
+    }
+   ],
+   "terms": [
+    "Houthis",
+    "Civilian casualties"
+   ],
+   "title": "At least 30 reported killed in strike on a Yemeni market as Houthis and government trade blame",
+   "what": "An attack on al-Hadara market in the Houthi-held al-Waziiya district of Yemen's Taiz province on Friday killed at least 30 civilians and injured eight, the Houthis said. The Houthis accused Saudi Arabia of three airstrikes; Yemen's government forces said the Houthis hit the market with ballistic missiles and reported dozens of civilian casualties. Al Jazeera could not independently verify either account, and the Saudi-led coalition had not commented. Saudi air defences also intercepted Houthi missiles aimed at Najran, Gulf News reported.",
+   "why": "The Houthis have been advancing towards Aden, seat of the internationally recognised government, and firing missiles and drones into Saudi Arabia, hitting oil facilities, Al Jazeera said, which raises the risk of a wider regional war."
+  },
+  {
+   "category": "Society & rights",
+   "everyday": "For Tanzanians the ruling signals how much room there is for peaceful opposition ahead of future elections.",
+   "id": "lissu-verdict",
+   "importance": 4,
+   "markets": [],
+   "rank": 6,
+   "rankWhy": "The verdict on Tanzania's main opposition leader is a landmark for political freedom in Tanzania and a signal for the wider East African region.",
+   "region": "Africa",
+   "sources": [
+    {
+     "name": "ABC News (AP) – Lissu sentenced to 4 years for incitement, acquitted of treason",
+     "url": "https://abcnews.com/International/wireStory/tanzania-opposition-leader-lissu-sentenced-4-years-incitement-137905667"
+    },
+    {
+     "name": "The Citizen – Lissu acquitted of treason but convicted of incitement",
+     "url": "https://www.thecitizen.co.tz/tanzania/news/national/lissu-acquitted-of-treason-but-convicted-of-incitement-5660696"
+    }
+   ],
+   "terms": [
+    "Treason",
+    "Incitement",
+    "Acquittal"
+   ],
+   "title": "Tanzania's opposition leader Tundu Lissu cleared of treason but jailed for four years for incitement",
+   "what": "A three-judge panel of the High Court in Dar es Salaam acquitted Tundu Lissu, chairman of the Chadema party, of treason on Friday, ruling that prosecutors had not proved he intended to intimidate the government. It convicted him of inciting people to disrupt last year's election and sentenced him to four years in prison. Treason could have carried the death penalty. Lissu, arrested in April 2025 after a rally calling for electoral reform, has been held for more than 18 months and denies wrongdoing.",
+   "why": "The 2025 election, from which candidates of the two main opposition parties were barred, was followed by protests and deadly violence; an official inquiry in April counted at least 518 deaths, AP reported, while Chadema estimates about 2,000. Lissu says his speech was part of a legitimate campaign, and the UN has called for an investigation into the post-election killings."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "It shows why deposit guarantees and bank supervision matter: when a bank fails, ordinary people can lose access to their money overnight.",
+   "id": "paraguay-crisis",
+   "importance": 4,
+   "markets": [
+    "Paraguayan guaraní",
+    "Paraguayan banks"
+   ],
+   "rank": 7,
+   "rankWhy": "Nearly half of Paraguay's population is cut off from its money while the president faces removal, a combined banking and political crisis.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "ABC News (AP) – Paraguay's Peña loses top aides as impeachment trial resumes",
+     "url": "https://abcnews.com/International/wireStory/paraguays-pea-loses-top-aides-impeachment-trial-resumes-137913219"
+    },
+    {
+     "name": "Al Jazeera – Paraguay resumes Peña impeachment proceedings",
+     "url": "https://www.aljazeera.com/news/2026/11/6/paraguay-resumes-pena-impeachment-proceedings-as-financial-crisis-deepens"
+    }
+   ],
+   "terms": [
+    "Impeachment",
+    "Bank run"
+   ],
+   "title": "Paraguay's Senate presses on with President Peña's impeachment as top aides quit over the Ueno bank collapse",
+   "what": "Paraguay's Senate resumed the impeachment trial of President Santiago Peña on Friday and rejected his request for 72 more hours to respond; removal needs 30 of the 45 senators' votes. His interior minister, chief of staff and legal adviser resigned on Thursday and Friday. Regulators seized Ueno, a fast-growing digital bank with nearly 3 million users, before dawn on Tuesday; customers still cannot withdraw cash, pay digitally or use cards, AP reported. The bank held public funds put at more than $800 million by AP and $850 million by Al Jazeera.",
+   "why": "Peña held a stake in Ueno's parent company, Grupo Vázquez, until last year and says he sold it; lawmakers, who voted 78–0 in the lower house to impeach him, accuse him of a conflict of interest and question whether warnings about the bank were ignored, Al Jazeera reported. Regulators said the bank breached minimum solvency rules; the central bank calls it an isolated case, and its governor has resigned."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "Higher expected inflation means rate cuts are off the table and a hike is possible; many Polish mortgages have floating rates, so instalments would rise if the Council raises rates.",
+   "id": "nbp-projection",
+   "importance": 3,
+   "markets": [
+    "Złoty",
+    "Polish government bonds",
+    "Polish banks"
+   ],
+   "rank": 8,
+   "rankWhy": "The central bank's forecast shapes Polish interest rates, mortgage costs and prices for 38 million people.",
+   "region": "Poland",
+   "sources": [
+    {
+     "name": "Strefa Inwestorów – Projekcja NBP, listopad 2026",
+     "url": "https://strefainwestorow.pl/gospodarka/projekcja-inflacji-nbp-listopad-2026"
+    },
+    {
+     "name": "Strefa Inwestorów – Konferencja Adama Glapińskiego, listopad 2026",
+     "url": "https://strefainwestorow.pl/gospodarka/konferencja-adam-glapinski-nbp-listopad-2026"
+    },
+    {
+     "name": "Finwire – Projekcja NBP 11.2026",
+     "url": "https://finwire.pl/artykuly/projekcja-nbp-listopad-2026-inflacja-2027-podwyzka-stop"
+    },
+    {
+     "name": "Forsal – Kursy walut 6.11.2026",
+     "url": "https://forsal.pl/finanse/waluty/artykuly/11341959,ile-kosztuja-euro-dolar-i-frank-kursy-walut-6112026.html"
+    }
+   ],
+   "terms": [
+    "Inflation projection",
+    "Fan chart",
+    "Reference rate"
+   ],
+   "title": "NBP raises its inflation forecast: prices expected to rise 4.2% in 2027 as energy costs return",
+   "what": "Poland's central bank (NBP) published its November projection on Friday: average inflation of 3.1% in 2026, 4.2% in 2027 and 2.8% in 2028, according to Strefa Inwestorów. In July it expected 2.7% for 2027. The 50% probability range for 2027 widened to 3.1–5.3%. GDP growth is forecast at 3.6% in 2026 and 2.8% in both 2027 and 2028. The reference rate stays at 3.75%; Governor Adam Glapiński said the Monetary Policy Council is fully ready to react decisively if risks grow.",
+   "why": "The NBP blames renewed rises in energy prices, which pass through to food (via fuel, fertiliser and transport) and to other goods and services; it expects energy prices to rise 8.3% in 2027. Weaker investment and consumption, partly because less EU money will flow in 2027–28, lower the growth forecast. Two Council members spoke on Friday of a significant chance of a December rate hike, which helped the złoty, Forsal reported."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "Attacks like this shape the mood before peace talks that will decide the security of Ukraine's neighbours, including Poland.",
+   "id": "komyshuvakha",
+   "importance": 3,
+   "markets": [],
+   "rank": 9,
+   "rankWhy": "One of the deadliest single attacks on civilians this year, days before peace talks.",
+   "region": "Europe",
+   "sources": [
+    {
+     "name": "Al Jazeera – Ukraine raises Zaporizhia aid strike death toll",
+     "url": "https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50"
+    }
+   ],
+   "terms": [
+    "Double-tap strike",
+    "International humanitarian law"
+   ],
+   "title": "Death toll from Russian bombing of a Ukrainian aid point rises to at least 50",
+   "what": "Ukraine's emergency service said at least 50 people were killed by Russian aerial bombs dropped on Monday on a former school used for aid handouts in Komyshuvakha, Zaporizhzhia region; the acting regional governor later put the toll at 53. Four police officers and two rescuers were among the dead, and police said up to 39 people may still be under the rubble. President Zelensky said a second wave of nine bombs hit the shelter where people had taken cover. The UN human rights mission said the strike was likely a breach of international law.",
+   "why": "Aid points draw crowds at set times, which makes them deadly targets near the front line. The strike came a day after a six-day local ceasefire in Russian-occupied Oleshky ended, and before US-brokered talks in Abu Dhabi on 10–11 November, Al Jazeera reported."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "Higher bond yields mean higher interest bills for a government, leaving less for services or requiring higher taxes.",
+   "id": "belgium-king",
+   "importance": 3,
+   "markets": [
+    "Belgian government bonds"
+   ],
+   "rank": 10,
+   "rankWhy": "Political deadlock over the budget of an EU founding member with debt above 110% of GDP.",
+   "region": "Europe",
+   "sources": [
+    {
+     "name": "Xinhua – Belgian king rejects PM De Wever's resignation",
+     "url": "https://english.news.cn/20261106/d53ae0326f024b91ab0e2d66ab90956a/c.html"
+    },
+    {
+     "name": "Brussels Morning – Belgian PM resignation rejected",
+     "url": "https://brusselsmorning.com/belgian-pm-resignation-rejected/106459/"
+    }
+   ],
+   "terms": [
+    "Budget deficit",
+    "Constitutional monarchy"
+   ],
+   "title": "Belgium's king refuses Prime Minister De Wever's resignation and orders new budget talks",
+   "what": "King Philippe rejected Prime Minister Bart De Wever's resignation on Friday and told him to restart budget negotiations at once, the Royal Palace said. De Wever had offered to resign on Monday after months of failed talks in his five-party 'Arizona' coalition on about €10 billion of budget measures. He must report to the king on 16 November, and the coalition aims to agree the 2027 budget by 31 December.",
+   "why": "Partners disagree on who should bear the burden: N-VA and MR want stronger spending cuts, others want wealthier taxpayers to pay more, Brussels Morning reported. European Commission forecasts cited by Reuters put Belgium's 2026 debt at 110.5% of GDP and its deficit at 5.2%; its 10-year bond yield has risen to about 4.25% from about 3.50% four months ago."
+  },
+  {
+   "category": "Security & tech",
+   "everyday": "Polish users are covered by the same EU rules, so any change to TikTok's feed would apply in Poland too.",
+   "id": "tiktok-dsa",
+   "importance": 3,
+   "markets": [
+    "TikTok/ByteDance"
+   ],
+   "rank": 11,
+   "rankWhy": "The EU's ruling could force a redesign of the main feed used by tens of millions of Europeans, including many minors.",
+   "region": "Europe",
+   "sources": [
+    {
+     "name": "European Commission – preliminary findings on TikTok's 'For You' feed",
+     "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes"
+    },
+    {
+     "name": "RTÉ – 'Rabbit hole' TikTok feeds violate digital rules, says EU",
+     "url": "https://www.rte.ie/news/europe/2026/1106/1598263-eu-tiktok-videos/"
+    }
+   ],
+   "terms": [
+    "Digital Services Act",
+    "Recommender system"
+   ],
+   "title": "EU says TikTok's 'For You' feed breaks its digital law by pulling users into harmful 'rabbit holes'",
+   "what": "The European Commission said on Friday it had preliminarily found TikTok in breach of the Digital Services Act (DSA), the EU law on online platforms. It said the 'For You' feed recommends ever more similar videos the more a user engages, including content on sadness, isolation or body image, which can harm mental health, especially for minors. The Commission said TikTok did not properly assess this risk or take effective measures and must change the feed's design. If confirmed, a fine could reach 6% of TikTok's worldwide annual turnover.",
+   "why": "Recommendation algorithms are built to maximise watching time; the DSA requires the largest platforms to assess and reduce systemic risks such as harm to minors. TikTok can now reply in writing; earlier preliminary findings in the same case covered addictive design (February 2026) and protection of minors (July 2026), RTÉ reported."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "Seizures show the risk companies take when they invest in countries without independent courts, which affects their shareholders worldwide.",
+   "id": "jti-seized",
+   "importance": 3,
+   "markets": [
+    "Japan Tobacco"
+   ],
+   "rank": 12,
+   "rankWhy": "Russia's seizure of its largest cigarette maker raises the risk for every foreign company still operating there.",
+   "region": "Europe",
+   "sources": [
+    {
+     "name": "The Moscow Times – Kremlin seizes JTI's Russian assets",
+     "url": "https://www.themoscowtimes.com/2026/11/05/kremlin-seizes-japan-tobacco-internationals-russian-assets-a94186"
+    },
+    {
+     "name": "AOL – Putin seizes Russian operations of Japan Tobacco International",
+     "url": "https://www.aol.co.uk/articles/putin-seizes-russian-operations-cigarette-162154000.html"
+    }
+   ],
+   "terms": [
+    "Expropriation",
+    "Sanctions"
+   ],
+   "title": "Putin puts Japan Tobacco International's Russian business under state control",
+   "what": "President Vladimir Putin signed a decree on Thursday placing the Russian assets of Japan Tobacco International (JTI) under 'temporary management' by a company called Industrial Assets, The Moscow Times reported. JTI, Russia's largest cigarette maker with up to 40% of the market and brands such as Winston and Camel, has factories in St Petersburg, Rostov-on-Don and the Lipetsk and Leningrad regions and about 4,000 staff there. JTI said it was assessing the situation and its options.",
+   "why": "Putin presents such seizures as a response to Western sanctions and the freezing of Russian state assets; some analysts say Moscow is punishing Japan for supporting Ukraine and joining G7 sanctions. It follows similar moves this autumn against Metro, Auchan, Nestlé and FM Logistic."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "Sudan's war has displaced millions of people; prolonged wars also drive migration towards Europe.",
+   "id": "sudan-mercenaries",
+   "importance": 3,
+   "markets": [],
+   "rank": 13,
+   "rankWhy": "Evidence of foreign states fuelling Sudan's war matters for one of the world's largest humanitarian crises.",
+   "region": "Africa",
+   "sources": [
+    {
+     "name": "Middle East Eye – Leaked UN report on UAE and Colombian mercenaries",
+     "url": "https://www.middleeasteye.net/news/leaked-un-report-establishes-conclusively-uae-hired-colombian-mercenaries-sudans-rsf"
+    },
+    {
+     "name": "Just Security – Early Edition (NYT report)",
+     "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+    }
+   ],
+   "terms": [
+    "Mercenary",
+    "UN Panel of Experts"
+   ],
+   "title": "Confidential UN report says the UAE hired Colombian mercenaries to fight for Sudan's RSF",
+   "what": "A confidential report by the UN Panel of Experts on Sudan, submitted to the Security Council last week, says a UAE-based company with government ties, Global Security Services Group, moved Colombian mercenaries into Sudan through Libya, Somalia and Chad to fight for the Rapid Support Forces (RSF), Middle East Eye and The New York Times reported. The report says they provided drone, artillery and infantry support, including in the siege and capture of el-Fasher in Darfur. The UAE rejects any allegation of wrongdoing in the Sudan conflict.",
+   "why": "Outside military support lets the warring sides keep fighting, which prolongs the war and civilian suffering; The finding could raise diplomatic pressure on the UAE."
+  },
+  {
+   "category": "Health & science",
+   "everyday": "Measles spreads easily across borders with travellers, so falling vaccination anywhere is a risk everywhere; checking that children's MMR doses are up to date is the main protection.",
+   "id": "us-measles",
+   "importance": 3,
+   "markets": [],
+   "rank": 14,
+   "rankWhy": "The worst US measles year since 1991 shows how fast a vaccine-preventable disease returns when vaccination falls.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "Contagion Live – Measles update, 6 Nov 2026",
+     "url": "https://www.contagionlive.com/view/measles-update-november-6-2026"
+    }
+   ],
+   "terms": [
+    "MMR vaccine",
+    "Herd immunity"
+   ],
+   "title": "US measles cases pass 5,000 in 2026, the most since 1991, with child deaths in three states",
+   "what": "The US has recorded 5,182 confirmed measles cases this year, up 330 in a week, according to CDC data reported by Contagion Live on Friday; that is more than double the 2025 total. Most cases (96%) are linked to outbreaks. This week New York reported a child's death, Pennsylvania its sixth measles death of the year and Wisconsin an infant's death, its first since 1990. State health departments report eight deaths in 2026, but the CDC's official count is four.",
+   "why": "Measles is one of the most contagious diseases; outbreaks grow where too few people are vaccinated with MMR. The Pennsylvania death was in an unvaccinated person, and Wisconsin now recommends an early MMR dose for some babies aged 6–11 months."
+  },
+  {
+   "category": "Society & rights",
+   "everyday": "Migration rules are tightening across the EU, including in Poland, which raises the same debate about security versus individual rights.",
+   "id": "belgium-home-searches",
+   "importance": 3,
+   "markets": [],
+   "rank": 15,
+   "rankWhy": "A new police power to enter homes tests the balance between migration enforcement and privacy rights in the EU.",
+   "region": "Europe",
+   "sources": [
+    {
+     "name": "The Daily Star – Belgium to allow home searches for suspected illegal migrants",
+     "url": "https://www.thedailystar.net/news/world/news/belgium-allow-home-searches-suspected-illegal-migrants-4317111"
+    },
+    {
+     "name": "Just Security – Early Edition (Reuters)",
+     "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+    }
+   ],
+   "terms": [
+    "Asylum",
+    "Deportation order"
+   ],
+   "title": "Belgium lets police enter homes to find rejected asylum seekers who ignore expulsion orders",
+   "what": "Belgium's parliament passed a law at about 5:00 on Friday, after an all-night debate, allowing police to search homes for people who were refused asylum, ignored orders to leave and are seen as a threat to public security, The Daily Star reported. Each search needs an investigating judge's approval, may only happen between 5:00 and 9:00, and immigration officials must be present. Amnesty International had urged MPs to reject it; about 3,000 people formed a human chain around the Palace of Justice in Brussels on Wednesday.",
+   "why": "Prime Minister De Wever's coalition wants fewer arrivals and more deportations and says the law helps enforce removal orders against people deemed dangerous. Critics say it threatens constitutional rights to privacy and could affect people who help migrants."
+  },
+  {
+   "category": "Environment & climate",
+   "everyday": "Where new data centres connect to the grid affects electricity prices and network investment, a live issue in Poland too.",
+   "id": "data-centre-protests",
+   "importance": 3,
+   "markets": [
+    "Microsoft",
+    "Utilities",
+    "AI stocks"
+   ],
+   "rank": 16,
+   "rankWhy": "A Europe-wide backlash against energy- and water-hungry data centres could slow AI investment worth trillions.",
+   "region": "Europe",
+   "sources": [
+    {
+     "name": "ABC News (AP) – Protesters break into Microsoft data center site in Amsterdam",
+     "url": "https://abcnews.com/International/wireStory/protesters-break-microsoft-data-center-site-amsterdam-europes-137915154"
+    },
+    {
+     "name": "Euronews – Latest news bulletin, 6 Nov evening",
+     "url": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-evening"
+    }
+   ],
+   "terms": [
+    "Data centre",
+    "Moratorium"
+   ],
+   "title": "Protesters storm a Microsoft data-centre site in Amsterdam as Europe-wide actions begin",
+   "what": "Protesters broke into the construction site of a new Microsoft data centre in Amsterdam on Friday; some climbed a crane and set off flares and others clashed with police, AP reported. The group Geef Tegengas ('Push Back') said it wanted to stop construction. Dozens of groups planned 'Stop Dirty Data Centres' actions on 6–7 November in 15 European countries, including Poland, demanding a moratorium on large new data centres. Microsoft said it does not condone unlawful actions.",
+   "why": "Data centres for AI use large amounts of electricity and water, which local residents fear will raise bills and strain supplies. PwC projects $5.6 trillion of data-centre investment in Europe from 2026 to 2050. The same concern is behind this week's AI share sell-off after US midterm winners promised tougher rules."
+  },
+  {
+   "category": "Environment & climate",
+   "everyday": "Carbon prices feed into electricity and heating costs; power plants burning coal or gas pay for EU permits, so the permit price reaches household bills in Poland too.",
+   "id": "eu-uk-ets",
+   "importance": 3,
+   "markets": [
+    "EU carbon permits (EUA)",
+    "UK carbon permits",
+    "Steel and cement makers"
+   ],
+   "rank": 17,
+   "rankWhy": "Linking the EU and UK carbon markets would change carbon costs for heavy industry on both sides of the Channel.",
+   "region": "Europe",
+   "sources": [
+    {
+     "name": "Euronews – EU and UK set to link carbon markets",
+     "url": "https://www.euronews.com/2026/11/06/eu-and-uk-set-to-link-carbon-markets-in-major-post-brexit-deal"
+    }
+   ],
+   "terms": [
+    "Emissions Trading System",
+    "CBAM"
+   ],
+   "title": "EU and UK set to link their carbon markets in a major post-Brexit deal",
+   "what": "The EU and UK are preparing to link their Emissions Trading Systems so that each side recognises the other's carbon permits, according to a draft document seen by Euronews, which says the two sides welcome the end of negotiations. The deal is expected to be announced at an EU–UK summit in Brussels on 20 November. It would open the way for EU and UK goods to be exempt from each other's carbon border taxes (CBAM).",
+   "why": "An emissions trading system caps total emissions and lets firms trade permits, so pollution gets a price. Linking makes one larger market; a critic quoted by Euronews said it could push UK carbon prices up towards EU levels. Avoiding border carbon charges would help steel, aluminium, cement and fertiliser makers."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "A reminder that in proportional systems, as in Poland, coalition-building after the vote matters as much as the vote itself.",
+   "id": "nz-election",
+   "importance": 2,
+   "markets": [
+    "New Zealand dollar"
+   ],
+   "rank": 18,
+   "rankWhy": "A close national election in a small, trade-dependent Asia-Pacific economy, with limited global spill-over.",
+   "region": "Asia-Pacific",
+   "sources": [
+    {
+     "name": "Democracy Project – News Briefing, 6 Nov 2026",
+     "url": "https://www.democracyproject.org.nz/p/news-briefing-6-november-2026"
+    },
+    {
+     "name": "ABC (Australia) – NZ PM calls election for November 7",
+     "url": "https://www.abc.net.au/news/2026-01-21/nz-pm-calls-for-election-to-be-held-on-november-7/106253286"
+    }
+   ],
+   "terms": [
+    "Proportional representation",
+    "Margin of error"
+   ],
+   "title": "New Zealand votes on Saturday with Labour slightly ahead in the final poll",
+   "what": "New Zealanders vote in a general election on Saturday 7 November, a date Prime Minister Christopher Luxon announced in January. The final Post/Freshwater Strategy poll put Labour on 30.7%, Luxon's National on 26.4%, the Greens on 13.0%, NZ First on 12.0% and Act on 9.8%, with a margin of error of three points, the Democracy Project briefing reported. Unemployment of 5.7%, the highest in almost 11 years, and the cost of groceries have dominated the campaign.",
+   "why": "New Zealand uses proportional representation (MMP), so smaller parties usually decide which big party can form a government; commentators expect minor parties to gain influence and say the final result may take time."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "The ministry he runs oversees the police, border guard and crisis warnings, so the debate is about everyday safety.",
+   "id": "kierwinski",
+   "importance": 2,
+   "markets": [],
+   "rank": 19,
+   "rankWhy": "A test of the governing coalition's majority in the Sejm, with no change in policy.",
+   "region": "Poland",
+   "sources": [
+    {
+     "name": "TVN24 – Sejm zdecydował ws. wotum nieufności wobec Kierwińskiego",
+     "url": "https://tvn24.pl/polska/wotum-nieufnosci-wobec-szefa-mswia-marcina-kierwinskiego-sejm-zdecydowal-st9326543"
+    },
+    {
+     "name": "Spotted Alert (PAP) – Dziś w kraju i na świecie, 6 listopada",
+     "url": "https://www.spottedalert.pl/kraj/dzis-w-kraju-i-na-swiecie-piatek-6-listopada/"
+    }
+   ],
+   "terms": [
+    "Vote of no confidence",
+    "Absolute majority"
+   ],
+   "title": "Sejm rejects PiS motion to dismiss Interior Minister Marcin Kierwiński",
+   "what": "The Sejm rejected a Law and Justice (PiS) motion of no confidence in Interior Minister Marcin Kierwiński on Friday: 212 MPs voted for it and 235 against, TVN24 reported. Dismissing a minister requires at least 231 votes, an absolute majority of the 460-seat Sejm, regardless of turnout. PiS criticised his oversight of security services, the public warning system and the protection of critical infrastructure; Prime Minister Donald Tusk defended his record on border security.",
+   "why": "Opposition parties use no-confidence motions to put pressure on ministers; this was the third such motion against Kierwiński after ones in 2024 and June 2026."
+  },
+  {
+   "category": "Economy & markets",
+   "everyday": "Defence and insurance shares are common holdings in European pension and investment funds.",
+   "id": "german-stocks-movers",
+   "importance": 2,
+   "markets": [
+    "Rheinmetall",
+    "Munich Re",
+    "Hannover Rück",
+    "Hochtief",
+    "ACS"
+   ],
+   "rank": 20,
+   "rankWhy": "Company-specific moves in Germany's defence, insurance and construction sectors.",
+   "region": "Europe",
+   "sources": [
+    {
+     "name": "Ariva (dpa-AFX) – Aktien Frankfurt Schluss, 6 Nov 2026",
+     "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-dax-faellt-wegen-ki-panik-12198532"
+    },
+    {
+     "name": "Yahoo Finance (Reuters) – Tech selloff, defence weakness weigh on European shares",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/tech-drag-defence-weakness-weigh-164047028.html"
+    }
+   ],
+   "terms": [
+    "Profit warning",
+    "Takeover premium"
+   ],
+   "title": "Rheinmetall extends its slide; Hochtief jumps on takeover report",
+   "what": "Defence group Rheinmetall fell another 3.4% to €812.70 on Friday after a 16.1% drop on Thursday, when it cut its 2026 sales forecast for the second time in three months, citing delays in its Boxer vehicle programme. Reinsurers Munich Re and Hannover Rück fell about 4.3–4.4% after JPMorgan downgraded them. Builder Hochtief rose 5.5% after Bloomberg reported that its Spanish parent ACS is considering a full takeover or merger.",
+   "why": "Shares fall when expected future profits are cut (Rheinmetall) or when an influential bank turns negative (the reinsurers); takeover reports lift prices because buyers usually pay a premium."
+  },
+  {
+   "category": "Society & rights",
+   "everyday": "The case is watched as a test of whether powerful people face the same justice as others.",
+   "id": "najib",
+   "importance": 2,
+   "markets": [],
+   "rank": 21,
+   "rankWhy": "A legal test of royal pardons and equal justice in Malaysia's biggest corruption case.",
+   "region": "Asia",
+   "sources": [
+    {
+     "name": "Malay Mail – AGC says Najib's house arrest should be temporarily postponed",
+     "url": "https://www.malaymail.com/news/malaysia/2026/11/06/agc-says-najibs-house-arrest-should-be-temporarily-postponed-pending-legal-clarification/242241"
+    },
+    {
+     "name": "Just Security – Early Edition (Reuters, AP)",
+     "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+    }
+   ],
+   "terms": [
+    "Royal pardon",
+    "House arrest"
+   ],
+   "title": "Malaysia halts ex-PM Najib's move to house arrest pending legal clarification",
+   "what": "Malaysia's Attorney-General's Chambers (AGC) said on Friday that former prime minister Najib Razak's transfer to house arrest should be postponed while 'legally complex and unprecedented' questions are clarified, so he remains in prison. A conditional royal pardon granted on 18 September lets him serve the rest of his SRC International sentence at home until 23 August 2028 if a RM50 million fine is paid, and the fine was recorded as paid. The AGC said it was not challenging the King's decree.",
+   "why": "The dispute is over whether paying the fine ends the SRC sentence entirely, and how it interacts with a separate 1MDB sentence that begins only after the SRC one ends, Malay Mail reported."
+  },
+  {
+   "category": "Society & rights",
+   "everyday": "For Catholics, including in Poland, the trip is closely followed as a sign of the new pope's priorities.",
+   "id": "pope-latam",
+   "importance": 2,
+   "markets": [],
+   "rank": 22,
+   "rankWhy": "The head of the Catholic Church begins his longest trip so far, weeks after cancer surgery.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "Angelus News – Pope Leo XIV departs for 12-day South America trip",
+     "url": "https://angelusnews.com/news/pope-leo-south-america-departure"
+    },
+    {
+     "name": "MercoPress – Stories for 6 November 2026",
+     "url": "https://en.mercopress.com/2026/11/06"
+    }
+   ],
+   "terms": [
+    "Holy See"
+   ],
+   "title": "Pope Leo XIV starts a 12-day South American tour weeks after lung-cancer surgery",
+   "what": "Pope Leo XIV left Rome on Friday for a 12-day trip to Uruguay, Argentina and Peru, the longest of his papacy, returning on 17 November, Angelus News reported. It is his first visit to Latin America since his election; he served there for years as a missionary and bishop in Peru. He had surgery on 13 October for localised lung adenocarcinoma, and the Vatican said he is clinically fit to travel. Days before the trip, the US group BishopAccountability presented a list of 77 Peruvian clergy publicly accused of abusing minors, MercoPress reported.",
+   "why": "Papal trips are used to strengthen local churches and send political and social messages; Uruguay is Latin America's most secular country, and abuse survivors are pressing the pope to act on Peru's cases."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "Attacks on water and power systems hit civilians first; UNICEF says such attacks tripled between 2021 and 2025.",
+   "id": "abyei-drones",
+   "importance": 2,
+   "markets": [],
+   "rank": 23,
+   "rankWhy": "New drone warfare in the disputed Abyei area threatens civilians and UN peacekeepers.",
+   "region": "Africa",
+   "sources": [
+    {
+     "name": "allAfrica – All of Africa Today, 6 Nov 2026",
+     "url": "https://allafrica.com/stories/202611060129.html"
+    }
+   ],
+   "terms": [
+    "Peacekeeping"
+   ],
+   "title": "UN warns of drone attacks in the disputed Abyei area after at least 30 deaths in October",
+   "what": "UN peacekeeping chief Jean-Pierre Lacroix told the Security Council that drone strikes in Abyei killed at least 30 people and injured about 59 in October, the first attacks of this kind in the area, allAfrica reported. They followed intercommunal clashes in September that killed 124 people. The UN is also worried about drone strikes on power and water facilities in Sudan.",
+   "why": "Cheap drones let armed groups strike far from front lines, spreading Sudan's war into neighbouring areas."
+  },
+  {
+   "category": "Security & tech",
+   "everyday": "Radiation monitoring networks also exist in Europe, including Poland, to detect any release from accidents abroad.",
+   "id": "iraq-radiation",
+   "importance": 2,
+   "markets": [],
+   "rank": 24,
+   "rankWhy": "A precaution that shows neighbours are preparing for possible strikes on Iran's nuclear sites.",
+   "region": "Middle East",
+   "sources": [
+    {
+     "name": "Gulf News – US/Israel-Iran war live",
+     "url": "https://gulfnews.com/world/mena/us-israel-iran-war-trump-warns-iran-heavy-hit-tehran-gulf-diplomacy-1.500737918"
+    }
+   ],
+   "terms": [
+    "Radiation monitoring"
+   ],
+   "title": "Iraq switches on radiation monitoring along its border with Iran",
+   "what": "Iraq activated radiation monitoring along its border with Iran ahead of possible US strikes on Iranian nuclear sites, Gulf News reported on Friday. An Iranian army spokesman warned that any renewed attack would bring strikes on US assets worldwide.",
+   "why": "Bombing nuclear facilities could in principle release radioactive material, so neighbouring countries watch radiation levels to be able to warn their people quickly."
+  },
+  {
+   "category": "Society & rights",
+   "everyday": "Civil-rights enforcement affects access to housing, jobs and voting for millions of Americans.",
+   "id": "dhillon-resigns",
+   "importance": 2,
+   "markets": [],
+   "rank": 25,
+   "rankWhy": "Leadership change at the US agency that enforces civil-rights law, after a large exodus of its lawyers.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "Just Security – Early Edition, 6 Nov 2026 (NPR)",
+     "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+    }
+   ],
+   "terms": [
+    "Civil rights"
+   ],
+   "title": "Head of the US Justice Department's Civil Rights Division resigns",
+   "what": "Harmeet Dhillon resigned as head of the US Justice Department's Civil Rights Division, Attorney General Todd Blanche announced, NPR reported. Roughly 300 career lawyers were pushed out of the division during her tenure.",
+   "why": "The division enforces laws against discrimination and on voting rights; changes in its leadership and staff shape which cases the federal government brings."
+  },
+  {
+   "category": "Health & science",
+   "everyday": "Most medical advances start with basic research like this, years before any treatment.",
+   "id": "glassfish",
+   "importance": 1,
+   "markets": [],
+   "rank": 26,
+   "rankWhy": "Basic research with long-term medical interest but no immediate effect.",
+   "region": "Global",
+   "sources": [
+    {
+     "name": "Science Friday – 6 November 2026",
+     "url": "https://www.sciencefriday.com/episodes/november-6-2026/"
+    }
+   ],
+   "terms": [
+    "Model organism",
+    "Antimatter"
+   ],
+   "title": "Science Friday: a see-through fish that regrows its brain and a positron trapped for months",
+   "what": "Science Friday's 6 November programme featured a tiny transparent glassfish that can regenerate its brain and is increasingly used as a model species in research. It also covered researchers who trapped a positron, the antimatter twin of the electron, and kept it extremely cold for months to measure its quantum properties.",
+   "why": "Model organisms that regenerate tissue help scientists study how repair works, which could one day inform treatments for brain injury; precise antimatter measurements test whether matter and antimatter behave identically."
+  },
+  {
+   "category": "Politics & conflict",
+   "everyday": "It shows how courts can check government decisions, a basic feature of the rule of law.",
+   "id": "arch-blocked",
+   "importance": 1,
+   "markets": [],
+   "rank": 27,
+   "rankWhy": "A court pause on a single construction project, with little wider effect.",
+   "region": "Americas",
+   "sources": [
+    {
+     "name": "Just Security – Early Edition, 6 Nov 2026 (NYT)",
+     "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+    }
+   ],
+   "terms": [
+    "Temporary restraining order"
+   ],
+   "title": "US judge pauses Trump's planned 'triumphal arch' near Arlington cemetery for 14 days",
+   "what": "A federal judge blocked construction of President Trump's planned 'triumphal arch' near Arlington National Cemetery for 14 days, after a panel friendly to the president had approved it, The New York Times reported.",
+   "why": "Temporary court orders freeze a project while judges examine whether proper legal procedures were followed."
+  }
+ ],
+ "watch": [
+  "S&P Global Ratings' scheduled review of Poland's A− rating (stable outlook) falls on Friday 6 November, with the result expected after this edition; some economists see a risk of a negative outlook (PAP Biznes calendar, Finwire, Forsal).",
+  "Israel: President Herzog is to name the candidate to form a government on Sunday 8 November; Eisenkot has 67 recommendations to Netanyahu's 46 (Times of Israel, Al Jazeera).",
+  "Iran: President Trump's decision on whether to resume strikes or pursue a deal; no order had been issued as of Friday (Fox News via The National).",
+  "US–Russia–Ukraine technical talks in Abu Dhabi next week, with US consultations with Europeans on the sidelines (Euronews).",
+  "Paraguay: Senate impeachment trial of President Peña continues; removal needs 30 of 45 votes (AP).",
+  "UK: Russell Brand is due to be sentenced on Monday 9 November (BBC via Just Security).",
+  "US Federal Reserve meeting 8–9 December: markets now price about a 78% chance of a rate hike (Reuters)."
+ ],
+ "window": "Fri 6 Nov 10:00 → Fri 6 Nov 20:00 (Warsaw time)",
+ "id": "2026-11-06-2000",
+ "updatedAt": "2026-11-06T19:13:46.76879Z"
+}
