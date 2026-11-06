@@ -1,0 +1,263 @@
+{
+ "checkQuestions": [
+  {
+   "a": "A split multiplies the number of shares and divides the price, so the owners' total value and the company are unchanged. But the Dow adds prices, so the lower price would cut the sum and show a false fall. The divisor is reduced so the index stays where it was, and only real price moves count.",
+   "q": "Why does a stock split force a change in the Dow's divisor but not in the value of the company?"
+  },
+  {
+   "a": "The Dow weights by price, so a high-priced share has a large weight whatever its total value. The S&P 500 weights by free-float market cap, so a modest company has a small weight. The same percentage fall therefore costs the Dow more.",
+   "q": "A company with a very high share price but a modest market value has a bad day. Explain why this could hurt the Dow more than the S&P 500."
+  },
+  {
+   "a": "Investors cut their expectations for AI spending, so chip shares fell. The Kospi is size-weighted and Samsung Electronics and SK Hynix are close to half its value, so their falls carry much of the index. WNP noted Polish listed companies have little exposure to AI and chips, so the WIG20 has little of that channel. WNP reported the main GPW indices down less than 1% early on Friday, against more than 6% for the Kospi.",
+   "q": "Trace why the chip sell-off hit the Kospi on Friday much harder than Warsaw's WIG20."
+  },
+  {
+   "a": "As the giant's price rises, an uncapped index lets its weight grow, so the index rises with it. A capped index holds that weight down, so it benefits less from the boom and less from a later bust. The capped index is better diversified, but it no longer tells you what the whole market's value did.",
+   "q": "Why might an index with a 15% cap on each company give a different picture from an uncapped one during a boom in one giant firm?"
+  },
+  {
+   "a": "Check whether both count dividends. The DAX is a performance index and the WIG20 a price index, so part of the gap may be dividends. Compare with WIG20TR. Then check the currency, since a Polish investor's return in złoty differs from one in euros, and check start and end dates.",
+   "q": "You see that the DAX has risen far more than the WIG20 over 20 years. What must you check before concluding Germany's shares did better?"
+  }
+ ],
+ "createdAt": "2026-11-06T09:05:48Z",
+ "date": "6 Nov 2026",
+ "editionId": "2026-11-06-1000",
+ "intro": "Every market report opens with an index: the S&P 500 fell 4.4%, the Nikkei lost 6%, the WIG20 gained 0.46%. In this lesson you will learn what those numbers actually measure and how they are built, step by step. You will be able to calculate how a single share moves an index, compare price-weighted and size-weighted indices, and work out how much an index must rise to recover from a fall. By the end you will also know why the Dow and the S&P 500 can tell different stories on the same day, and why the Kospi and the WIG20 can tell such different stories.",
+ "lessonQuiz": [
+  {
+   "answer": 1,
+   "explain": "The sum goes from 1,000 to 1,090, so the index rises 9%. The high-priced share dominates, whatever the size of the company.",
+   "options": [
+    "1%",
+    "9%",
+    "5%",
+    "10%"
+   ],
+   "q": "A hypothetical price-weighted index has two shares at 900 and 100, with a divisor of 2. Only the 900 share rises 10%. What is the index's percentage rise?"
+  },
+  {
+   "answer": 3,
+   "explain": "Market caps are 9 and 90 billion, a total of 99. A rise of 0.9 billion is about 0.91%. Size weighting gives the same move far less effect.",
+   "options": [
+    "About 9%",
+    "Exactly 10%",
+    "About 5%",
+    "About 0.9%"
+   ],
+   "q": "Same two shares: the 900 share has 10 million shares and the 100 share has 900 million. In a size-weighted index, what is the rise if only the 900 share rises 10%?"
+  },
+  {
+   "answer": 2,
+   "explain": "A split is bookkeeping. The divisor is lowered so that the level stays the same and only real price moves count.",
+   "options": [
+    "The Dow falls because the sum of prices fell",
+    "The Dow rises because there are more shares",
+    "The divisor is lowered and the Dow's level is unchanged",
+    "The company must leave the index"
+   ],
+   "q": "A stock in the Dow splits 3-for-1, from $600 to $200, while the other prices do not change. What happens?"
+  },
+  {
+   "answer": 0,
+   "explain": "Each $1 equals 1 ÷ 0.16824816528350 = 5.9436 points, so $20 gives 118.87 points.",
+   "options": [
+    "118.9 points",
+    "20 points",
+    "3.4 points",
+    "168.2 points"
+   ],
+   "q": "The Dow's divisor is 0.16824816528350. If one member's share price rises $20, about how many points does the Dow gain?"
+  },
+  {
+   "answer": 3,
+   "explain": "1 ÷ 0.8 − 1 = 25%. The rise starts from a smaller base, so it has to be larger than the fall.",
+   "options": [
+    "20%",
+    "22%",
+    "24%",
+    "25%"
+   ],
+   "q": "An index falls 20%. What rise does it need to return to its peak?"
+  },
+  {
+   "answer": 0,
+   "explain": "Contribution ≈ weight × price change = 0.12 × (−5%) = −0.6 percentage points.",
+   "options": [
+    "−0.6%",
+    "−5%",
+    "−1.2%",
+    "−0.5%"
+   ],
+   "q": "A company has a 12% weight in an index and its share falls 5%, while others do not move. What is the index's move?"
+  },
+  {
+   "answer": 1,
+   "explain": "A given points fall is a smaller percentage at a higher level, so records in points say little. Comparing points across indices is meaningless.",
+   "options": [
+    "It must be the worst day in history for the Dow",
+    "Check the percentage, because points grow as the index level grows",
+    "Compare it with the Nikkei's points to judge which market is worse",
+    "Ignore it, as indices do not matter"
+   ],
+   "q": "A headline says the Dow fell 1,833 points, 'one of its biggest falls in points'. What is the best response?"
+  },
+  {
+   "answer": 2,
+   "explain": "An index reflects its members. Banks and energy firms dominate Warsaw, so an AI sell-off has less direct effect there.",
+   "options": [
+    "Polish shares are protected by law from foreign moves",
+    "WIG20 counts dividends and the Nasdaq does not",
+    "The WIG20 has different companies, with little exposure to AI and chips",
+    "The divisor stops the WIG20 from falling"
+   ],
+   "q": "Which is the best partial explanation of why the WIG20 could rise on a day when the Nasdaq fell 5.5%?"
+  },
+  {
+   "answer": 0,
+   "explain": "The DAX is a performance index and the WIG20 a price index, so the fair comparison uses WIG20TR, and currency still matters.",
+   "options": [
+    "The DAX line includes reinvested dividends and the WIG20 line does not, so compare WIG20TR instead",
+    "Both are the same type of index",
+    "The higher line always had the higher return for a Polish investor",
+    "Index levels show which economy grew more"
+   ],
+   "q": "You compare a 10-year chart of the DAX and the WIG20. Which conclusion is sound?"
+  },
+  {
+   "answer": 3,
+   "explain": "Market cap is price times shares. Price doubles and shares halve, so the cap and the weight do not change. In a price-weighted index the divisor would be changed.",
+   "options": [
+    "Cap doubles, weight doubles",
+    "Cap unchanged, weight doubles",
+    "Cap halves, weight doubles",
+    "Cap unchanged, weight unchanged"
+   ],
+   "q": "Connecting Lesson 3: a company's share price doubles because of a 1-for-2 reverse split. What happens to its market cap, and to its weight in a size-weighted index?"
+  },
+  {
+   "answer": 1,
+   "explain": "Prices react to news about the future. Today's profits were unchanged, but investors revised what they expect later.",
+   "options": [
+    "The index's divisor was changed",
+    "Prices reflect expected future cash, and expectations for AI spending fell",
+    "The index only records past profits",
+    "Companies paid large dividends"
+   ],
+   "q": "Connecting Lesson 1: the S&P 500 fell 4.4% on Thursday although most member companies' current profits did not change that day. Which explanation is right?"
+  },
+  {
+   "answer": 2,
+   "explain": "With 20% of the index doubling, the uncapped index rises about 20%, and the capped one about 15%. Caps reduce both gains and losses from one company.",
+   "options": [
+    "The capped index",
+    "Both rise equally",
+    "The uncapped index",
+    "Neither, caps stop rises"
+   ],
+   "q": "An uncapped index has one company at 20%. It is capped at 15% and the rest scaled up. If that company later doubles while the others are flat, which index rises more?"
+  }
+ ],
+ "level": "Foundations",
+ "minutes": 20,
+ "misconceptions": [
+  {
+   "myth": "The Nikkei at 57,000 is a stronger market than the WIG20 at 4,200.",
+   "truth": "Index levels depend on arbitrary starting values and methods. Only percentage changes over time can be compared."
+  },
+  {
+   "myth": "The Dow fell more points than the S&P 500, so it fell more.",
+   "truth": "Points depend on the index's level. On 5 November the Dow lost 1,833.06 points (3.44%) and the S&P 500 334.89 points (4.36%), so the S&P 500 fell further."
+  },
+  {
+   "myth": "If an index falls 50% and then rises 50%, you are back where you started.",
+   "truth": "You are at 0.5 × 1.5 = 0.75, or 25% below. A 50% fall needs a 100% rise to recover, because the rise starts from a smaller base."
+  },
+  {
+   "myth": "A rising index means the economy and most companies are doing well.",
+   "truth": "An index covers only listed shares and can be driven by a few very large ones. In the S&P 500 the top ten held 37.6% of the weight on 31 July 2026."
+  },
+  {
+   "myth": "The WIG20 and the DAX can be compared directly on a chart.",
+   "truth": "The WIG20 is a price index without dividends and the DAX is a performance index with them, so a direct comparison flatters the DAX. WIG20TR is the fairer match."
+  }
+ ],
+ "number": 4,
+ "objectives": [
+  "Explain why an index level in points has no meaning by itself and why percentage changes do.",
+  "Calculate an index value from share prices and a divisor, and explain why a price-weighted index's divisor changes after a stock split.",
+  "Compare price-weighted and size-weighted indices and calculate the effect of one company on each.",
+  "Calculate one company's contribution to an index move from its weight and its price change.",
+  "Calculate the percentage rise needed to recover from a fall, and explain why it is larger than the fall.",
+  "Explain the difference between a price index and a total return index, using WIG20 and DAX."
+ ],
+ "recap": "Lesson 3 showed that a share is a claim on a company's uncertain future cash, and that market capitalisation equals share price times the number of shares. It also showed that a fall in market cap is not cash moving anywhere. An index builds directly on that idea: it combines many share prices, or many market caps, into a single number. So every index move you read about is an average of thousands of decisions about those future cash flows.",
+ "sections": [
+  {
+   "body": "A stock index is a single number that summarises the prices of a chosen group of shares. Thousands of shares change price every minute, and nobody can follow them all, so an index acts as a thermometer: one reading that tells you roughly how warm the market is. Like a thermometer, it measures something specific and not the whole of reality. Three decisions define any index: which shares go in, how much each one counts, and whether dividends are included. An index starts at an arbitrary base value. The WIG20 began on 16 April 1994 at 1,000 points (GPW Benchmark), so its Thursday close of 4,209.15 means it stands at about 4.2 times that starting level, a rise of about 321%. A level like 4,209 or 57,434 says nothing by itself, and comparing them across countries is meaningless: the Nikkei is not 'bigger' than the WIG20 because it has more points. Only changes over time mean anything, which is why reports quote percentages. The index is not a thing you own. It is a calculation, and funds that copy it are separate products.",
+   "heading": "1. What an index is, and why it exists"
+  },
+  {
+   "body": "Most indices are calculated as a sum divided by a number called the divisor. Take a hypothetical index of three shares priced 100, 50 and 30 zł. The sum is 180. If we want the index to start at 100, we set the divisor at 1.8, because 180 ÷ 1.8 = 100. If the share at 30 zł rises to 39 zł, the sum becomes 189 and the index becomes 105, a rise of 5%. The divisor's main job is continuity. When something changes that is not a market move, the divisor is adjusted so that the index level does not jump. A company replacement forces this in any index. A stock split forces it only in a price-weighted index: a 3-for-1 split turns one 600 zł share into three 200 zł shares, the owner's wealth is unchanged, but the price in the sum falls, so without an adjustment the index would show a false fall. In a size-weighted index a split needs no adjustment, because market cap is unchanged. The rule is simple: the index should move only because investors changed prices, never because of bookkeeping.",
+   "heading": "2. The basic mechanism: prices, weights and a divisor"
+  },
+  {
+   "body": "In a price-weighted index, each company counts in proportion to its share price, not its size. The Dow Jones Industrial Average adds the prices of 30 shares and divides by the Dow divisor, which was 0.16824816528350 from 29 June 2026 (Wikipedia). Because the divisor is below 1, each $1 change in any member's share price moves the Dow by about 5.94 points, whichever company it is. So Goldman Sachs, with a very high share price, counts for more than a far larger company with a lower price. This is an accident of history: the Dow dates from 1896, when adding prices by hand was the practical option. The weakness is that share price is an arbitrary number, as Lesson 3 showed, because a company can change it with a split without changing its value. Japan's Nikkei 225 is also price-weighted. A handful of high-priced shares have a large pull, so Nikkei applies a 10% weight cap through a capping ratio: Advantest passed 10% at the end of July 2026, and its ratio was cut from 0.9 to 0.8 from 1 October 2026 (Nikkei Indexes). That such a fix is needed is a sign the pure method has limits.",
+   "heading": "3. Price-weighted indices: the Dow and the Nikkei"
+  },
+  {
+   "body": "Most modern indices weight companies by market capitalisation, meaning bigger companies count for more. This matches what investors actually own: if you held every share in proportion to its size, your portfolio would move exactly as the index does. The S&P 500 is built this way, and its factsheet of 31 July 2026 lists 503 constituents with a total market cap of about $67.1 trillion. It counts more lines than 500 because some companies have two share classes, as Alphabet does. Most such indices use free float, which means only shares that can actually be traded, and exclude blocks held by governments or founders. The reason is practical: a fund copying the index can only buy shares that are for sale. In Poland this matters, because the state holds large stakes in some big companies. The WIG20's rankings combine turnover (40%) and free-float value (60%), and its weights use free-float shares (GPW Benchmark). A company's weight is its free-float market cap divided by the total. A large company's size does not automatically protect the index, it only sets how much that company's move matters.",
+   "heading": "4. Size-weighted indices and the free float"
+  },
+  {
+   "body": "Size weighting has a side effect. When a few companies grow very large, the index stops being a broad average and starts to reflect those few. In the S&P 500 the ten largest holdings were 37.6% of the index on 31 July 2026, and the largest had a 7.6% weight, while the median member had a market cap of about $43.7 billion. South Korea is more extreme: reports citing EToday put Samsung Electronics and SK Hynix together at about 46.5% of Kospi market value early on 6 November, during the fall, down from 55.7% at their June high. This is why the Kospi can fall 6% on chip news even if many other Korean companies are unaffected. Index makers respond with caps. The WIG20 limits any company to 15% at its reviews and allows no more than five companies from one exchange sector (GPW Benchmark), and the DAX cap rose from 10% to 15% in March 2024 (STOXX). Caps are applied at periodic reviews, so a weight can drift above the limit in between. A cap protects diversification, but it also means the index no longer reflects true size, so a cap is a trade-off and not a free improvement. Concentration is the reason a good chip day or a bad one can dominate a headline number.",
+   "heading": "5. Concentration: when a few companies are the index"
+  },
+  {
+   "body": "Points grab headlines, but only percentages can be compared. On Thursday the Dow fell 1,833.06 points and the S&P 500 only 334.89, yet the falls were 3.44% and 4.36%, so the S&P 500 fell further. Traders use rough labels: a correction is a fall of at least 10% from a recent peak, and a bear market a fall of at least 20%. These are conventions, not laws, and no official body declares them. A fall and the recovery from it are not symmetrical. If an index falls 50%, it must then double, a 100% rise, to get back. The reason is that the rise starts from a smaller base. The general formula is: required rise = 1 ÷ (1 − fall) − 1. So a 20% fall needs a 25% rise, and the Kospi's fall of about 44.5% from its 22 June record needs a rise of about 80%. This also explains why a large one-day rebound does not cancel an equally large fall: after −5% and +5%, you are at 0.95 × 1.05 = 0.9975, slightly below where you began.",
+   "heading": "6. Points, percentages and the maths of recovery"
+  },
+  {
+   "body": "Companies pay dividends, and when a share pays one its price usually drops by about that amount, as Lesson 3 explained. A price index simply records that drop and ignores the cash. A total return index assumes dividends are reinvested, so the payment is not lost from the record. The WIG20 is a price index, and GPW Benchmark also publishes WIG20TR, which includes dividends. The DAX, by contrast, is a performance index, which means dividends are counted in the headline figure. So comparing a chart of the WIG20 with one of the DAX is unfair to the WIG20: over long periods the gap can be large. With hypothetical numbers, a 5% yearly dividend reinvested with flat prices turns 1,000 into about 1,629 after ten years, while the price index stays at 1,000. Most headline US and Japanese indices are also price indices. Before comparing two indices, always ask whether both count dividends, and in which currency they are quoted.",
+   "heading": "7. Price index or total return index"
+  },
+  {
+   "body": "An index measures the prices of listed companies, not the economy, not wages and not the mood of a nation. On Thursday the S&P 500 lost 4.4% while the WIG20 gained 0.46%, and that does not mean Poland became healthier than America. Warsaw closed before most of the US fall, local winners such as LPP and Dino lifted the index, and it has little AI and chip exposure. The WIG20 was also alone: the broad WIG slipped 0.04% and the mid-sized mWIG40 fell 1.76% (XYZ). Another limit is that the list changes: failing companies are removed and growing ones added, so today's members are the winners, although past falls of removed firms remain in the index's history. The S&P 500 is chosen by a committee and the WIG20 has an annual revision plus quarterly corrections under fixed rules, so its membership is a decision and not a law of nature. Indices also react to expectations, as Lesson 1 showed, so a fall today can reflect what people fear about next year. Finally, an index return is before fees and taxes, and an investor in a fund will receive less. Treat an index as a useful single reading, then ask what is inside it.",
+   "heading": "8. What the thermometer does not measure"
+  }
+ ],
+ "takeaways": [
+  "An index is a calculation over a chosen list of shares; its level in points is arbitrary, and only percentage changes can be compared.",
+  "The divisor keeps an index continuous: it changes when members change and, in price-weighted indices, after splits, but it moves nothing itself.",
+  "The Dow and the Nikkei weight by share price; the S&P 500, WIG20 and DAX weight by size, which is closer to what investors own.",
+  "Contribution ≈ weight × price change, so concentration lets a few companies drive an index; caps such as 15% limit this at a cost.",
+  "Recovery needs a bigger rise than the fall: required rise = 1 ÷ (1 − fall) − 1.",
+  "Check what an index includes: the WIG20 is a price index and WIG20TR and the DAX count dividends, and no index measures the whole economy."
+ ],
+ "title": "Stock indices: the market's thermometer",
+ "todayExample": "On Thursday the Nasdaq Composite fell 5.5% to 24,315.00, which put it 11.9% below its record, a correction. On Friday the Nikkei fell 5.96% to 57,434.77, more than 20% below its peak, a bear market. The Kospi fell 6.02% after a fall of more than 8% stopped trading for 20 minutes, and it is heavily weighted to chipmakers such as SK Hynix and Samsung Electronics. Meanwhile WNP reported the main GPW indices down by less than 1% early on Friday, since few Polish companies are tied to AI. Each number is correct, but each thermometer sits in a different room.",
+ "workedExamples": [
+  {
+   "problem": "AP reported the Dow fell 1,833.06 points on 5 November. Using the divisor of 0.16824816528350 in effect since 29 June 2026, how much did the sum of the 30 share prices fall, and how many points would a $10 fall in one member's share cost?",
+   "solution": "Step 1: Dow = sum of prices ÷ divisor, so a change in the sum = change in Dow × divisor. Step 2: 1,833.06 × 0.16824816528350 = $308.41. So the 30 prices together fell by about $308.41. Step 3: One dollar is worth 1 ÷ 0.16824816528350 = 5.943601 points. Step 4: A $10 fall in one share costs 10 × 5.943601 = 59.44 points. Interpretation: a $10 fall has exactly the same effect on the Dow whether the company is worth $100 billion or $4 trillion, which is the main weakness of price weighting.",
+   "title": "How much did the Dow's 30 share prices fall?"
+  },
+  {
+   "problem": "AP reported that Nvidia fell 9.3% and the S&P 500 fell from 7,688.62 to 7,353.73. The S&P 500 factsheet of 31 July 2026 shows the largest member, listed first as Nvidia, at a 7.6% weight. Estimate Nvidia's contribution to the fall.",
+   "solution": "Step 1: The index fall in percent: 334.89 ÷ 7,688.62 = 4.36%. Step 2: Contribution ≈ weight × price change = 7.6% × (−9.3%) = −0.71 percentage points. Step 3: Share of the total fall = 0.71 ÷ 4.36 = about 16%. Step 4: In points, 0.71% of 7,688.62 is about 54 points. Interpretation: one company with a 7.6% weight explains about a sixth of the fall. This is an estimate, because the weight is from July and had changed by November.",
+   "title": "How much of the S&P 500's fall came from Nvidia?"
+  },
+  {
+   "problem": "The Kospi closed at a record 9,114.55 on 22 June 2026 and at 5,059.69 on 6 November. How big is the fall, and how much must it rise to return to its record?",
+   "solution": "Step 1: Fall = (9,114.55 − 5,059.69) ÷ 9,114.55 = 4,054.86 ÷ 9,114.55 = 44.49%. Step 2: Required rise = 9,114.55 ÷ 5,059.69 − 1 = 1.8014 − 1 = 80.14%. Step 3: Check with the formula: 1 ÷ (1 − 0.44488) − 1 = 80.14%. Interpretation: this is a bear market more than twice the 20% threshold, and the rise needed is almost double the fall.",
+   "title": "How far must the Kospi rise to get back?"
+  },
+  {
+   "problem": "In a hypothetical index, company A has a 20% weight based on free-float size. A rule caps any company at 15%. The other companies, including B at 14%, are scaled up to fill the gap. What is B's new weight, and how does a 10% fall in A affect the index before and after the cap?",
+   "solution": "Step 1: After capping A at 15%, the others must total 85% instead of 80%, so each is multiplied by 85 ÷ 80 = 1.0625. Step 2: B's new weight = 14% × 1.0625 = 14.875%, still under the cap. Step 3: Before the cap, A's 10% fall takes 20% × 10% = 2.0 percentage points off the index. Step 4: After the cap, it takes 15% × 10% = 1.5 percentage points. Interpretation: the cap reduces the index's dependence on A by a quarter, but the index now slightly overstates the others.",
+   "title": "Why a cap changes the arithmetic (hypothetical numbers)"
+  }
+ ],
+ "updatedAt": "2026-11-06T09:14:46.035635Z"
+}

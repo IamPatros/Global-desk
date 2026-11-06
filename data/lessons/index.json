@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T19:16:46Z",
+ "updated": "2026-11-06T09:16:51Z",
  "lessons": [
   {
    "number": 1,
@@ -24,6 +24,14 @@
    "date": "5 Nov 2026",
    "createdAt": "2026-11-05T18:58:28Z",
    "updatedAt": "2026-11-05T19:13:00.317224Z"
+  },
+  {
+   "number": 4,
+   "title": "Stock indices: the market's thermometer",
+   "level": "Foundations",
+   "date": "6 Nov 2026",
+   "createdAt": "2026-11-06T09:05:48Z",
+   "updatedAt": "2026-11-06T09:14:46.035635Z"
   }
  ]
 }
