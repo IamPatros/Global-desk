@@ -1,7 +1,7 @@
 {
   "checkQuestions": [
     {
-      "a": "The monthly figure compares October with September, while the annual figure compares October with October 2025. Fuel prices rose strongly during the year, mainly because of the Iran war, so even after a big monthly fall they remain well above last year's level. You should always check which comparison a figure uses, and remember that annual rates move slowly because they sum twelve months of changes.",
+      "a": "The monthly figure compares October with September, while the annual figure compares October with October 2025. Fuel prices rose strongly during the year, mainly because of the Iran war, so even after a big monthly fall they remain well above last year's level. You should always check which comparison a figure uses, and remember that annual rates move slowly because they accumulate twelve months of changes.",
       "q": "Polish fuel prices fell 9.7% in October but were 21.7% higher than a year earlier. Explain how both can be true and what it says about how to read inflation data."
     },
     {
@@ -21,7 +21,7 @@
       "q": "Who gains and who loses if inflation turns out much higher than people expected when they signed contracts? Give at least three groups."
     }
   ],
-  "createdAt": "2026-11-07T10:05:00Z",
+  "createdAt": "2026-11-07T09:12:00Z",
   "date": "7 Nov 2026",
   "editionId": "2026-11-07-1000",
   "intro": "Inflation is one of the most quoted numbers in the news and one of the most misunderstood. In this lesson you will learn what inflation measures and what it does not, how statistics offices such as Poland's GUS calculate it from a basket of goods, and how to read year-on-year and month-on-month figures without being fooled by base effects. You will be able to tell demand-driven inflation from supply shocks, explain why expectations matter, and calculate what inflation does to savings and interest rates.",
@@ -94,7 +94,7 @@
     },
     {
       "answer": 2,
-      "explain": "The annual rate sums the last twelve monthly changes; when a large rise drops out and is replaced by zero, the annual rate falls even though prices did not fall.",
+      "explain": "The annual rate compounds the last twelve monthly changes; when a large rise drops out and is replaced by zero, the annual rate falls even though prices did not fall.",
       "options": [
         "It rises because prices are flat",
         "It stays the same until prices fall",
@@ -203,7 +203,7 @@
       "heading": "2. How inflation is measured: the basket and the price index"
     },
     {
-      "body": "A month-on-month (m/m) rate compares this month's index with last month's; a year-on-year (y/y) rate compares it with the same month a year earlier. The y/y rate is the headline figure because it is not distorted by seasons, but it reacts slowly, since it adds up twelve months of changes. To compare a monthly change with an annual one you annualise it by compounding: (1 + m/m)^12 − 1. Poland's October flash showed prices falling 0.4% m/m, which, if repeated for a whole year, would mean about −4.7%, yet the y/y rate was still +3.5%. The reason is that y/y also depends on what happened twelve months ago: each month the newest m/m change is added and the m/m change from a year earlier drops out. When a big price jump from last year leaves the twelve-month window, the annual rate falls even if prices are flat now; this is a base effect. The same logic explains why fuel prices in Poland fell 9.7% in October alone but were still 21.7% higher than a year before (GUS via Analizy.pl). Economists also watch core inflation, which excludes the most volatile items such as energy and food, to see the underlying trend: in the euro area, October headline inflation was 4.0% while core inflation was 2.5% (Eurostat flash estimate).",
+      "body": "A month-on-month (m/m) rate compares this month's index with last month's; a year-on-year (y/y) rate compares it with the same month a year earlier. The y/y rate is the headline figure because it is not distorted by seasons, but it reacts slowly, since it accumulates (compounds) twelve months of changes, roughly their sum. To compare a monthly change with an annual one you annualise it by compounding: (1 + m/m)^12 − 1. Poland's October flash showed prices falling 0.4% m/m, which, if repeated for a whole year, would mean about −4.7%, yet the y/y rate was still +3.5%. The reason is that y/y also depends on what happened twelve months ago: each month the newest m/m change is added and the m/m change from a year earlier drops out. When a big price jump from last year leaves the twelve-month window, the annual rate falls even if prices are flat now; this is a base effect. A related point: a monthly change and an annual change answer different questions, which is why fuel prices in Poland could fall 9.7% in October alone and still be 21.7% higher than a year before (GUS via Analizy.pl). Economists also watch core inflation, which excludes the most volatile items such as energy and food, to see the underlying trend: in the euro area, October headline inflation was 4.0% while core inflation was 2.5% (Eurostat flash estimate).",
       "heading": "3. Reading the numbers: month on month, year on year and base effects"
     },
     {
@@ -223,20 +223,20 @@
       "heading": "7. Who wins and who loses"
     },
     {
-      "body": "Most central banks target low and stable positive inflation. The NBP aims for 2.5% CPI inflation with a tolerance band of ±1 percentage point, so 1.5–3.5%; the ECB targets 2% HICP inflation over the medium term; and the US Federal Reserve targets 2% as measured by the price index for personal consumption expenditures (PCE). There are three main reasons not to aim at zero. First, price indices tend to overstate true inflation slightly because of substitution and quality improvements, so measured zero could mean real deflation. Second, deflation is dangerous: if people expect prices to fall they postpone purchases, and the real burden of debts rises, which can deepen a recession. Third, a little positive inflation leaves central banks more room to cut interest rates in a downturn, because nominal rates cannot easily go far below zero. The targets are about the medium term: central banks look through one-off shocks if expectations stay anchored. In its November 2026 projection the NBP expects inflation to rise to 4.2% in 2027, above the band, mainly because of higher energy prices linked to the Iran war, and to return to the 2.5% target only in the third quarter of 2028 (NBP projection reported by S.O.S. dla gospodarki).",
+      "body": "Most central banks target low and stable positive inflation. The NBP aims for 2.5% CPI inflation with a tolerance band of ±1 percentage point, so 1.5–3.5%; the ECB targets 2% HICP inflation over the medium term; and the US Federal Reserve targets 2% as measured by the price index for personal consumption expenditures (PCE). There are three main reasons not to aim at zero. First, price indices tend to overstate true inflation slightly because of substitution and quality improvements, so measured zero could mean real deflation. Second, deflation is dangerous: if people expect prices to fall they postpone purchases, and the real burden of debts rises, which can deepen a recession. Third, a little positive inflation leaves central banks more room to cut interest rates in a downturn, because nominal rates cannot easily go far below zero. The targets are about the medium term: central banks look through one-off shocks if expectations stay anchored. In its November 2026 projection the NBP expects inflation to rise to 4.2% in 2027, above the band, mainly because of higher energy prices linked to the Iran war, and to return to the 2.5% target only in the third quarter of 2028 (NBP projection reported by S.O.S. dla gospodarki). The projection assumes, as current law provides, that the CPN fuel-price programme ends in January 2027; NBP economist Jacek Kotłowski said keeping it could lower inflation by about 0.9 percentage points (Rzeczpospolita).",
       "heading": "8. Why central banks aim for low inflation, not zero"
     }
   ],
   "takeaways": [
     "Inflation is a sustained rise in the general price level; disinflation is slower inflation, deflation is falling prices, and a single price rise is a relative price change.",
     "A CPI compares the cost of a fixed, weighted basket over time; each item's contribution in points equals its weight times its price change.",
-    "Year-on-year rates add up twelve months of changes, so base effects can move them; annualise monthly rates with (1 + m/m)^12 − 1.",
+    "Year-on-year rates compound twelve months of changes, so base effects can move them; annualise monthly rates with (1 + m/m)^12 − 1.",
     "Demand-pull inflation comes with an overheating economy; cost-push inflation, such as an energy shock or a weaker currency, raises prices while hurting output.",
     "The real interest rate is (1 + nominal) ÷ (1 + inflation) − 1; unexpected inflation helps fixed-rate borrowers and hurts savers and people on fixed incomes.",
     "The NBP targets 2.5% ±1 pp, the ECB 2% (HICP) and the Fed 2% (PCE); low positive targets guard against deflation and leave room to cut rates."
   ],
   "title": "Inflation: why things get more expensive",
-  "todayExample": "This edition's oil story shows cost-push inflation in action, and in reverse. Brent crude fell about 16% this week on hopes of US–Iran de-escalation, and Poland's formula-based fuel cap passed the fall to petrol stations within days: the maximum price of 95-octane petrol dropped to 6.12 zł a litre for the weekend. Because fuel is part of the CPI basket, lower pump prices pull down measured inflation directly; but the NBP still projects 4.2% inflation in 2027 because energy costs feed into other prices with a delay. At the same time, S&P's warning about Poland's deficit above 7% of GDP is a reminder that large budget deficits can add to demand-side pressure.",
+  "todayExample": "This edition's oil story shows cost-push inflation in action, and in reverse. Brent crude fell about 16% this week on hopes of US–Iran de-escalation, and Poland's formula-based fuel cap passed the fall to petrol stations within days: the maximum price of 95-octane petrol dropped to 6.12 zł a litre for the weekend. Because fuel is part of the CPI basket, lower pump prices pull down measured inflation directly. The NBP still projects 4.2% inflation in 2027, mainly because it expects energy-carrier prices themselves to rise 8.3% on average in 2027 and assumes the CPN fuel cap ends in January 2027; its projection also predates this week's oil fall (Rzeczpospolita). At the same time, S&P's warning about Poland's deficit above 7% of GDP is a reminder that large budget deficits can add to demand-side pressure.",
   "workedExamples": [
     {
       "problem": "A household basket in the base year costs 1,000 zł: food 400 zł, energy 200 zł and other goods and services 400 zł. A year later the same quantities cost: food 412 zł, energy 230 zł, other 408 zł. Calculate the price index, the inflation rate and each component's contribution in percentage points. (Hypothetical numbers.)",
@@ -245,7 +245,7 @@
     },
     {
       "problem": "The NBP reference rate is 3.75% (held on 4 November 2026) and Poland's flash CPI inflation for October was 3.5% y/y. (a) What is the real reference rate using the exact Fisher relation and the approximation? (b) A saver's deposit pays 3.0% a year (hypothetical rate). What is the saver's real return?",
-      "solution": "(a) Exact: (1 + 0.0375) ÷ (1 + 0.035) − 1 = 1.0375 ÷ 1.035 − 1 = 0.00242, so about 0.24%. Approximation: 3.75% − 3.5% = 0.25 percentage points. The two are close because the rates are small. (b) 1.03 ÷ 1.035 − 1 = −0.00483, so about −0.48%: the saver's money grows in złoty but buys about 0.5% less after a year. Interpretation: a real rate near zero means monetary policy is not very restrictive, one reason the NBP watches inflation forecasts closely.",
+      "solution": "(a) Exact: (1 + 0.0375) ÷ (1 + 0.035) − 1 = 1.0375 ÷ 1.035 − 1 = 0.00242, so about 0.24%. Approximation: 3.75% − 3.5% = 0.25 percentage points. The two are close because the rates are small. (b) 1.03 ÷ 1.035 − 1 = −0.00483, so about −0.48%: the saver's money grows in złoty but buys about 0.5% less after a year. Interpretation: this is an ex-post real rate, measured against current inflation. To judge how tight policy is, economists use expected inflation (the ex-ante real rate): against the NBP's projected 4.2% for 2027, 1.0375 ÷ 1.042 − 1 ≈ −0.43%, a slightly negative real rate. Either way, policy is not very restrictive, one reason the NBP watches inflation forecasts closely.",
       "title": "The real interest rate in Poland today"
     },
     {
@@ -255,9 +255,9 @@
     },
     {
       "problem": "In October 2026 Polish prices fell 0.4% m/m, while annual inflation fell from 4.1% in September to 3.5% in October (GUS flash). (a) Annualise the October monthly change. (b) Using (1 + y/y new) = (1 + y/y old) × (1 + m/m now) ÷ (1 + m/m a year ago), what monthly change in October 2025 is implied by these rounded figures?",
-      "solution": "(a) (1 − 0.004)^12 − 1 = 0.996^12 − 1 = −0.0470, about −4.7% a year if the October fall were repeated every month. (b) 1.035 = 1.041 × 0.996 ÷ (1 + m), so 1 + m = 1.041 × 0.996 ÷ 1.035 = 1.00177, giving m ≈ +0.18%. This is an implied value from rounded data, not an official statistic. Interpretation: the annual rate fell by 0.6 percentage points because a −0.4% month replaced a month of roughly +0.2% in the twelve-month window; a single month moves the annual rate, but one month does not make a trend.",
-      "title": "Month-on-month falls, year-on-year rises: a base effect"
+      "solution": "(a) (1 − 0.004)^12 − 1 = 0.996^12 − 1 = −0.0470, about −4.7% a year if the October fall were repeated every month. (b) 1.035 = 1.041 × 0.996 ÷ (1 + m), so 1 + m = 1.041 × 0.996 ÷ 1.035 = 1.00177, giving m ≈ +0.18%. This is an implied value from rounded data, not an official statistic. Interpretation: the annual rate fell by 0.6 percentage points because a −0.4% month replaced a month of roughly +0.2% in the twelve-month window. Most of the fall therefore comes from October's own price drop, not from a base effect, which would need a large month to drop out. A single month moves the annual rate, but one month does not make a trend.",
+      "title": "Month-on-month fall, year-on-year still positive"
     }
   ],
-  "updatedAt": "2026-11-07T09:13:50.124258Z"
+  "updatedAt": "2026-11-07T09:18:30.353184Z"
 }

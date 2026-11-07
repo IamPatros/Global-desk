@@ -424,7 +424,7 @@
       "answer": 0,
       "explain": "Under MMP the party vote mostly sets seat shares; the three right-leaning parties together won more seats than Labour, Greens and Te Pāti Māori on the early count.",
       "options": [
-        "Seats depend on the combined party votes of possible coalition partners, plus overhang seats",
+        "Each party's seats follow its own party vote; the right-leaning parties together, helped by overhang seats, outnumber the left bloc",
         "Labour was disqualified",
         "Only electorate seats count",
         "The prime minister is chosen by referendum"
@@ -444,7 +444,7 @@
     },
     {
       "answer": 3,
-      "explain": "Reuters noted the two indices use different scales and methodologies; both put Delhi's air in a very unhealthy range.",
+      "explain": "Reuters noted the two indices use different scales and methods; both show severe pollution (Indian scale: 'very poor').",
       "options": [
         "One of them is fake",
         "They measured different cities",
@@ -520,7 +520,7 @@
       "q": "Review (Lesson 3): a company pays a dividend of 2 zł per share. What usually happens to the share price when it goes ex-dividend, other things equal?"
     }
   ],
-  "status": "partial",
+  "status": "complete",
   "stories": [
     {
       "category": "Politics & conflict",
@@ -1176,18 +1176,16 @@
     }
   ],
   "watch": [
-    "Israel: President Isaac Herzog is due on Sunday 8 November to name who gets the first chance to form a government; Gadi Eisenkot has 67 Knesset recommendations (Nocta digest, previous editions; time not announced).",
-    "US: Stephen Miller starts as White House chief of staff on Monday 9 November (Al Jazeera).",
-    "G7 foreign ministers meet in Paris on Monday 9 and Tuesday 10 November; Iran is expected to be discussed (CBS News).",
-    "COP31 UN climate conference opens in Antalya, Türkiye, on Monday 9 November and runs to 20 November; leaders' segment 11–12 November (Climate Home News).",
+    "Israel: President Isaac Herzog is due on Sunday 8 November to name who gets the first chance to form a government; Gadi Eisenkot has 67 Knesset recommendations to Benjamin Netanyahu's 46 (Algemeiner, Israel National News; time not announced).",
+    "South Africa: the electoral commission is due to announce official local-election results on Sunday 8 November (Nova News).",
     "Poland: first market reaction to S&P's negative outlook when trading opens on Monday 9 November (bonds and złoty).",
-    "Poland: new maximum fuel prices to be announced on Tuesday 10 November, valid 10–12 November (Gazeta Prawna).",
+    "COP31 UN climate conference opens in Antalya, Türkiye, on Monday 9 November and runs to 20 November; leaders' segment 11–12 November (Climate Home News).",
+    "G7 foreign ministers meet in Paris on Monday 9 and Tuesday 10 November, with Iran, Ukraine and Hormuz shipping on the agenda (AP via Arab News).",
+    "US consumer price index for October: Tuesday 10 November, 08:30 US Eastern time = 14:30 Warsaw time (BLS).",
     "Ukraine–Russia: US-led talks in Abu Dhabi are due to open early next week (Al Jazeera); developing.",
-    "Iran: whether the US resumes large-scale strikes or Qatar's mediation produces a deal; developing.",
-    "US Federal Reserve meeting 8–9 December: markets price a high chance of a rate rise after Friday's jobs data (developing).",
-    "South Africa: the electoral commission is due to announce official local-election results on Sunday 8 November (Nova News)."
+    "Iran: whether the US resumes large-scale strikes or Qatar's mediation produces a deal; the Fed's 8–9 December meeting now looks likely to bring a rate rise after strong jobs data (developing)."
   ],
   "window": "Fri 6 Nov 20:00 → Sat 7 Nov 10:00 (Warsaw time)",
   "id": "2026-11-07-1000",
-  "updatedAt": "2026-11-07T09:13:50.13752Z"
+  "updatedAt": "2026-11-07T09:18:30.342488Z"
 }
