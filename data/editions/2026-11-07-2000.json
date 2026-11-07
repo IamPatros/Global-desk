@@ -1,0 +1,1119 @@
+{
+  "bigPicture": "Saturday brought a deadly attack in Poland: a gunman killed six people and injured at least 11 near Kraków's Main Market Square before police shot and detained him; the motive is not yet known. In the US–Iran war, Qatar said its mediation is still working and urged both sides to settle for a good deal now, a day after President Trump's 'minor' strikes on Iranian air defences, while Russia's overnight barrage on Ukraine's power grid, in which Zelensky said only 4 of 36 ballistic missiles were intercepted, raised the stakes before US-brokered talks in Abu Dhabi on Tuesday. The EU and Poland rejected any US–Russia deal on Europe's security made without them. Socially, France saw a fourth weekend of cost-of-living protests, US measles cases hit their highest level since 1991, and UN agencies warned they can shelter only a tenth of Sudan's 15.4 million people in need. Markets were closed for the weekend after a week in which oil fell about 16% and the S&P 500 had its worst week since April 2025.",
+  "createdAt": "2026-11-07T19:00:02Z",
+  "glossary": [
+    {
+      "def": "The short-term interest rate a central bank sets to steer borrowing costs and inflation.",
+      "example": "The NBP reference rate has been 3.75% since March 2026; the RPP left it unchanged on 4 November 2026.",
+      "term": "Policy interest rate"
+    },
+    {
+      "def": "The body of the National Bank of Poland that decides Polish interest rates; it is chaired by the NBP President.",
+      "example": "On 4 November 2026 the RPP kept the reference rate at 3.75%.",
+      "term": "Monetary Policy Council (RPP)"
+    },
+    {
+      "def": "The range between a central bank's deposit rate (floor) and its lending rate (ceiling) within which overnight market rates move.",
+      "example": "The NBP corridor runs from 3.25% to 4.25% around the 3.75% reference rate.",
+      "term": "Interest-rate corridor"
+    },
+    {
+      "def": "The rate at which the NBP lends to banks overnight against collateral such as government bonds; the ceiling of the corridor.",
+      "example": "After the November decision the NBP lombard rate is 4.25%.",
+      "term": "Lombard rate"
+    },
+    {
+      "def": "The chain through which a change in the policy rate affects loan and deposit rates, asset prices, the exchange rate, demand and finally inflation.",
+      "example": "A rate rise makes POLSTR-based mortgages dearer, which slows spending months later.",
+      "term": "Transmission mechanism"
+    },
+    {
+      "def": "Statements by a central bank about the likely future path of interest rates, used to shape expectations today.",
+      "example": "If a central bank signals more rate rises, 2-year yields can rise before any decision.",
+      "term": "Forward guidance"
+    },
+    {
+      "def": "One hundredth of a percentage point (0.01 point); used for small changes in rates and yields.",
+      "example": "The US 2-year Treasury yield rose 5 basis points to 4.51% on Friday.",
+      "term": "Basis point"
+    },
+    {
+      "def": "Polish Short Term Rate: a reference rate calculated by GPW Benchmark from actual unsecured overnight deposit transactions, chosen to replace WIBOR in new contracts; compounded 1-, 3- and 6-month versions are built from it.",
+      "example": "The compounded one-month POLSTR index, used for new mortgages, was 3.43% on 6 November 2026.",
+      "term": "POLSTR"
+    },
+    {
+      "def": "A missile that is launched on a high, arcing path and falls on its target at very high speed, which makes it hard to intercept.",
+      "example": "Zelensky said only 4 of 36 Russian ballistic missiles were shot down overnight.",
+      "term": "Ballistic missile"
+    },
+    {
+      "def": "In New Zealand, votes cast outside a voter's own electorate, including from abroad, which take longer to count.",
+      "example": "Special votes will be counted over about three weeks before the 27 November official result.",
+      "term": "Special votes"
+    },
+    {
+      "def": "An EU law that requires online platforms, especially very large ones, to assess and reduce risks to their users, backed by the threat of large fines.",
+      "example": "The Commission says TikTok's For You feed breaches the DSA.",
+      "term": "Digital Services Act (DSA)"
+    },
+    {
+      "def": "Someone forced to flee their home who has not crossed an international border, unlike a refugee.",
+      "example": "About 8.6 million people are displaced inside Sudan.",
+      "term": "Internally displaced person (IDP)"
+    },
+    {
+      "def": "Protection of a whole community when enough people are immune that a disease cannot spread easily, which also shields those who cannot be vaccinated.",
+      "example": "Falling vaccination rates weaken herd immunity against measles.",
+      "term": "Herd immunity"
+    },
+    {
+      "def": "A scale that converts concentrations of air pollutants into a single number and category, such as 'very poor' or 'severe'.",
+      "example": "Delhi's AQI was 364 ('very poor') on Saturday morning.",
+      "term": "Air quality index (AQI)"
+    },
+    {
+      "def": "An independent EU body that investigates and prosecutes crimes against the EU budget, such as fraud with EU funds.",
+      "example": "The EPPO searched Spanish rail bodies over funds for the Madrid–Seville line.",
+      "term": "European Public Prosecutor's Office (EPPO)"
+    }
+  ],
+  "label": "Sat 7 Nov · evening",
+  "lessonNumber": 7,
+  "markets": [
+    {
+      "change": 0.31,
+      "changeText": "+0.3%",
+      "group": "Stocks · Americas",
+      "key": true,
+      "name": "S&P 500",
+      "note": "Friday close. Chip stocks bounced after Thursday's sell-off, but the index still lost 2.68% over the week, its worst week since April 2025 (The Closing Print, 24/7 Wall St).",
+      "region": "US",
+      "value": "7,376.86",
+      "what": "An index of 500 large US companies; the main gauge of the US stock market."
+    },
+    {
+      "change": 1.09,
+      "changeText": "+1.1%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Nasdaq Composite",
+      "note": "Friday close; tech led the rebound (AMD +11%), but the index fell 3.37% over the week (The Closing Print).",
+      "region": "US",
+      "value": "24,579.42",
+      "what": "A US index dominated by technology companies."
+    },
+    {
+      "change": -0.46,
+      "changeText": "−0.5%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Dow Jones Industrial Average",
+      "note": "Friday close; defensive sectors such as consumer staples lagged (The Closing Print).",
+      "region": "US",
+      "value": "51,285.73",
+      "what": "An index of 30 large US companies, weighted by share price."
+    },
+    {
+      "change": -1.9,
+      "changeText": "−1.9%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "DAX",
+      "note": "Friday: fell with global tech after Wall Street's Thursday slump, AP reported; closing level not confirmed in this edition's sources.",
+      "region": "Germany",
+      "value": "",
+      "what": "Index of 40 large German companies."
+    },
+    {
+      "change": null,
+      "changeText": "lower",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "Stoxx Europe 600",
+      "note": "Friday: fell as much as 1.6% during the day as ASML, SAP and Capgemini were hit by the tech sell-off; still up more than 10% this year (Yahoo Finance/Investing.com).",
+      "region": "Europe",
+      "value": "",
+      "what": "Index of 600 large and mid-sized European companies."
+    },
+    {
+      "change": -1.85,
+      "changeText": "−1.85%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "WIG20",
+      "note": "Friday close; Orlen fell about 7% after results, and analysts blamed mainly the US sell-off (Strefa Inwestorów, XYZ.pl).",
+      "region": "Poland",
+      "value": "4,131.37",
+      "what": "Index of the 20 largest companies on the Warsaw Stock Exchange."
+    },
+    {
+      "change": -5.96,
+      "changeText": "−6.0%",
+      "group": "Stocks · Asia-Pacific",
+      "key": true,
+      "name": "Nikkei 225",
+      "note": "Friday: chip-heavy Japanese stocks plunged after Thursday's US AI and chip sell-off (CappNotes, AP).",
+      "region": "Japan",
+      "value": "",
+      "what": "Index of 225 large Japanese companies."
+    },
+    {
+      "change": -6.02,
+      "changeText": "−6.0%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Kospi",
+      "note": "Friday: chipmakers led a steep fall after the US sell-off (CappNotes, AP).",
+      "region": "South Korea",
+      "value": "",
+      "what": "Main index of South Korean shares."
+    },
+    {
+      "change": null,
+      "changeText": "steady",
+      "group": "Currencies",
+      "key": true,
+      "name": "EUR/PLN",
+      "note": "Friday morning level (money.pl, 07:00). Markets are closed at the weekend; first reaction to S&P's negative outlook on Poland comes on Monday.",
+      "region": "Poland",
+      "value": "≈4.40",
+      "what": "How many złoty one euro costs."
+    },
+    {
+      "change": null,
+      "changeText": "higher",
+      "group": "Currencies",
+      "key": true,
+      "name": "USD/PLN",
+      "note": "Derived from Friday-morning EUR/PLN and EUR/USD (money.pl); the dollar strengthened later on Friday after strong US jobs data.",
+      "region": "Poland",
+      "value": "≈3.93",
+      "what": "How many złoty one US dollar costs."
+    },
+    {
+      "change": 0.72,
+      "changeText": "+0.7%",
+      "group": "Currencies",
+      "key": false,
+      "name": "US dollar index (DXY)",
+      "note": "Friday: the dollar firmed after US payrolls rose 165,000 in October against about 59,000 expected, raising bets on a Fed rate rise (The Closing Print).",
+      "region": "Global",
+      "value": "102.28",
+      "what": "The dollar's value against a basket of six major currencies."
+    },
+    {
+      "change": null,
+      "changeText": "≈ −16% on the week",
+      "group": "Commodities",
+      "key": true,
+      "name": "Brent crude oil",
+      "note": "Friday: near $98 a barrel; sources differ slightly on the final level. Oil had its steepest weekly fall since 2020 on hopes of US–Iran de-escalation.",
+      "region": "Global",
+      "value": "≈$97.8–98.3",
+      "what": "The main global oil price benchmark, per barrel."
+    },
+    {
+      "change": null,
+      "changeText": "≈ −13% on the week",
+      "group": "Commodities",
+      "key": false,
+      "name": "WTI crude oil",
+      "note": "Friday: about $90 a barrel after a roughly 13% weekly drop (The Closing Print, CappNotes).",
+      "region": "US",
+      "value": "≈$90.3–90.8",
+      "what": "The US oil price benchmark, per barrel."
+    },
+    {
+      "change": -0.8,
+      "changeText": "−0.8%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Gold",
+      "note": "Friday: slipped as the dollar and yields rose but gained about 4.6% over the week (The Closing Print).",
+      "region": "Global",
+      "value": "≈$4,080",
+      "what": "Price of one troy ounce of gold in dollars; seen as a safe haven."
+    },
+    {
+      "change": null,
+      "changeText": "+2 bp",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 10-year Treasury yield",
+      "note": "Friday: rose after strong jobs data; down 8 basis points over the week (The Closing Print).",
+      "region": "US",
+      "value": "4.86%",
+      "what": "The interest rate the US government pays to borrow for 10 years."
+    },
+    {
+      "change": null,
+      "changeText": "+5 bp",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 2-year Treasury yield",
+      "note": "Friday: the most rate-sensitive yield rose as markets priced a higher chance of a Fed rate rise in December (The Closing Print).",
+      "region": "US",
+      "value": "4.51%",
+      "what": "The interest rate on 2-year US government debt; tracks expectations for the Fed."
+    }
+  ],
+  "marketsAsOf": "Markets closed for the weekend: figures are Friday 6 November closes (Asia, Europe, US) unless stated otherwise.",
+  "quiz": [
+    {
+      "answer": 0,
+      "explain": "The war decides how much oil and gas can pass the Strait of Hormuz, so signs of a deal or escalation move energy prices.",
+      "options": [
+        "A deal would likely reopen Hormuz shipping and lower oil prices, while a breakdown would push them up",
+        "Qatar is the largest oil producer in OPEC",
+        "Qatar has promised to cut gas exports",
+        "Talks only affect gold prices"
+      ],
+      "q": "Why does Qatar's statement that US–Iran talks are still alive matter for oil prices?"
+    },
+    {
+      "answer": 1,
+      "explain": "Two Middle East officials told AP these were Iran's core conditions, which shows how wide the gap with the US still is.",
+      "options": [
+        "Only a ceasefire in Ukraine",
+        "An end to the US blockade of its ports, lifted sanctions, unfrozen assets, compensation and an end to regional hostilities",
+        "Membership of NATO",
+        "A seat on the UN Security Council"
+      ],
+      "q": "According to AP sources, what does Iran want before negotiating on its nuclear programme?"
+    },
+    {
+      "answer": 2,
+      "explain": "He said significant progress had been made and urged a good agreement rather than a perfect one.",
+      "options": [
+        "That Qatar is withdrawing as mediator",
+        "That the US should resume large-scale strikes",
+        "That a good, achievable deal now is better than holding out for an ideal one while the war continues",
+        "That Iran has already accepted all US demands"
+      ],
+      "q": "What did Qatar's Prime Minister mean by saying the sides should not wait for a perfect agreement?"
+    },
+    {
+      "answer": 3,
+      "explain": "Police said they are examining his background and all circumstances; the defence ministry denied he was a soldier.",
+      "options": [
+        "He was a soldier acting on orders",
+        "Police say it was a robbery",
+        "He was a member of a foreign intelligence service",
+        "The motive is not yet known; police are examining his background and all circumstances"
+      ],
+      "q": "What is known about the motive of the Kraków gunman, according to the reports in this edition?"
+    },
+    {
+      "answer": 0,
+      "explain": "Ballistic missiles fly very fast and high; Ukraine urged allies to speed up interceptor deliveries.",
+      "options": [
+        "Because ballistic missiles are fast and need advanced interceptors such as Patriot, and Ukraine says it is running short",
+        "Because ballistic missiles are slow and easy to stop",
+        "Because Ukraine has stopped using air defence",
+        "Because the missiles were aimed at Poland"
+      ],
+      "q": "Why did Zelensky's statement that only 4 of 36 ballistic missiles were intercepted cause alarm?"
+    },
+    {
+      "answer": 1,
+      "explain": "Damaged substations link nuclear plants to Kyiv; the result is more blackouts and heating problems as winter starts.",
+      "options": [
+        "They raise fuel prices in Poland only",
+        "They cause blackouts and heating problems, which can push more people to leave",
+        "They have no effect because nuclear plants are offline",
+        "They only affect military factories"
+      ],
+      "q": "Why do Russian strikes on substations linking nuclear plants to Kyiv matter for ordinary Ukrainians this winter?"
+    },
+    {
+      "answer": 2,
+      "explain": "Eastern-flank countries fear a broad deal could revive such demands; Sikorski called an arrangement 'over our heads' unacceptable.",
+      "options": [
+        "Because Poland wants to leave NATO",
+        "Because Poland chairs the UN Security Council",
+        "Because Russia earlier demanded NATO pull back forces from countries that joined after 1997, which includes Poland",
+        "Because the deal concerns only Polish trade"
+      ],
+      "q": "Why does Poland insist on taking part in any US–Russia deal on Europe's security?"
+    },
+    {
+      "answer": 3,
+      "explain": "Neither big party is close to a majority on its own, and the new Opportunity Party says it will talk first to the largest party.",
+      "options": [
+        "Because only small parties may form governments",
+        "Because the king chooses the prime minister",
+        "Because special votes are not counted",
+        "Because under MMP seats follow each party's share of the national party vote, so coalitions are usually needed"
+      ],
+      "q": "In New Zealand's election, why could small parties decide who governs?"
+    },
+    {
+      "answer": 0,
+      "explain": "The interior ministry counted 146,000; unions said 250,000. The 575,000 figure refers to Thursday's union protest.",
+      "options": [
+        "146,000 nationwide, including 46,000 in Paris",
+        "575,000",
+        "1.6 million",
+        "250,000"
+      ],
+      "q": "What was the official turnout count for Saturday's protests in France, according to the interior ministry?"
+    },
+    {
+      "answer": 1,
+      "explain": "High debt means extra spending could raise borrowing costs, which matters for the whole euro area.",
+      "options": [
+        "France has no budget",
+        "France's large debt is already unsettling markets",
+        "The EU has banned French spending",
+        "Taxes in France are zero"
+      ],
+      "q": "Why does AFP say the French government has little room to respond to the cost-of-living protests with spending?"
+    },
+    {
+      "answer": 2,
+      "explain": "Measles is extremely contagious, so outbreaks start when vaccination rates fall; the US had declared it eliminated in 2000.",
+      "options": [
+        "A new strain resists all vaccines",
+        "Measles was never eliminated in the US",
+        "AFP links the rise to declining vaccination rates and growing distrust of health authorities",
+        "Travel from Europe stopped"
+      ],
+      "q": "Why are US measles cases rising to their highest level since 1991?"
+    },
+    {
+      "answer": 3,
+      "explain": "Agencies can prioritise only about 10%; 936,000 people have been helped, and IOM's warehouses are empty.",
+      "options": [
+        "About 50%",
+        "About 90%",
+        "All of them",
+        "About 10%"
+      ],
+      "q": "What share of the 15.4 million Sudanese needing emergency shelter can UN agencies prioritise, according to UNHCR and IOM?"
+    },
+    {
+      "answer": 0,
+      "explain": "Ebola is controlled by isolating patients and tracing contacts; about 180 patients fled the hospital in Cantine.",
+      "options": [
+        "Violence disrupts finding patients and tracing contacts, and patients fled the hospital, including suspected cases",
+        "Ebola spreads through the air over long distances",
+        "The attackers carried a vaccine",
+        "It closes all borders to the virus"
+      ],
+      "q": "Why can an armed attack in eastern DR Congo make the Ebola outbreak worse?"
+    },
+    {
+      "answer": 1,
+      "explain": "The preliminary findings say the feed causes endless exposure to content about sadness, isolation or body image; TikTok rejects them.",
+      "options": [
+        "It shows too few adverts",
+        "Its 'rabbit hole' effect keeps recommending similar, potentially harmful content, breaching the Digital Services Act",
+        "It is too slow",
+        "It is not available in Poland"
+      ],
+      "q": "What is the European Commission's main complaint about TikTok's For You feed?"
+    },
+    {
+      "answer": 2,
+      "explain": "Short-term yields track expected Fed policy; the surprise raised the expected path of rates.",
+      "options": [
+        "The Fed raised rates on Friday",
+        "Oil prices doubled",
+        "October payrolls rose 165,000 against about 59,000 expected, raising bets on a Fed rate rise",
+        "US stocks hit record highs"
+      ],
+      "q": "Market snapshot: why did the US 2-year Treasury yield and the dollar rise on Friday?"
+    },
+    {
+      "answer": 3,
+      "explain": "Time zones matter: Asia traded after Thursday's US slump, and chip stocks rebounded only later in the US session.",
+      "options": [
+        "Japan raised interest rates by 6%",
+        "Korean markets were closed",
+        "Oil prices jumped",
+        "Asian markets reacted to Thursday's US chip and AI sell-off during their session, before Wall Street bounced later on Friday"
+      ],
+      "q": "Market snapshot: why did Japan's Nikkei and South Korea's Kospi fall about 6% on Friday while the Nasdaq rose?"
+    },
+    {
+      "answer": 0,
+      "explain": "Analysts blamed mainly the sharp US drop; Orlen was the weakest WIG20 stock after its results.",
+      "options": [
+        "Analysts blamed mainly the US sell-off, and Orlen fell about 7% after results",
+        "The NBP raised rates",
+        "Poland left the EU",
+        "The złoty was devalued"
+      ],
+      "q": "Market snapshot: why did Poland's WIG20 fall 1.85% on Friday?"
+    },
+    {
+      "answer": 1,
+      "explain": "Lower positive inflation is disinflation: the price level is still about 3.5% higher than a year earlier.",
+      "options": [
+        "Prices fell 3.5%",
+        "Prices are still rising, but more slowly: this is disinflation",
+        "This is deflation",
+        "Prices did not change"
+      ],
+      "q": "Review (Lesson 6): Poland's October inflation fell to 3.5% from 4.1%. What does that mean for prices?"
+    },
+    {
+      "answer": 2,
+      "explain": "Changes in expected interest rates move capital and currencies; a stronger dollar means EUR/USD falls.",
+      "options": [
+        "It tends to rise",
+        "It cannot move",
+        "It tends to fall, as capital moves towards higher expected dollar returns",
+        "It always stays at 1.00"
+      ],
+      "q": "Review (Lesson 5): if investors expect US rates to rise faster than euro-area rates, what usually happens to EUR/USD in the short run?"
+    },
+    {
+      "answer": 3,
+      "explain": "An index is a weighted average; on Friday, for example, AMD rose 11% while many other stocks fell.",
+      "options": [
+        "Every one of the 500 companies fell 2.68%",
+        "The US economy shrank 2.68%",
+        "The Fed cut rates by 2.68 points",
+        "The value-weighted average of the 500 large US companies fell 2.68%, though individual stocks moved very differently"
+      ],
+      "q": "Review (Lesson 4): the S&P 500 fell 2.68% over the week. What does this tell you?"
+    }
+  ],
+  "status": "complete",
+  "stories": [
+    {
+      "category": "Politics & conflict",
+      "everyday": "The war is the main reason fuel and energy have been so expensive in 2026. In Poland, the government's maximum petrol price is set from wholesale fuel costs, so a lasting deal that lowers oil prices would feed through to cheaper fuel within weeks; renewed fighting would push them back up.",
+      "id": "iran-qatar-talks",
+      "importance": 5,
+      "markets": [
+        "Brent crude",
+        "WTI crude",
+        "Gold",
+        "Airline and shipping stocks",
+        "Gulf stock markets"
+      ],
+      "rank": 1,
+      "rankWhy": "The US–Iran war, now more than eight months old, decides how much oil and gas can pass the Strait of Hormuz, so any sign of a deal or a new escalation moves energy prices and inflation worldwide.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran"
+        },
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/middle-east/article-914112"
+        },
+        {
+          "name": "Al Jazeera / AP",
+          "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
+        },
+        {
+          "name": "Times of Israel live blog",
+          "url": "https://www.timesofisrael.com/liveblog-november-07-2026/"
+        }
+      ],
+      "terms": [
+        "Strait of Hormuz",
+        "Mediation",
+        "Naval blockade",
+        "Sanctions"
+      ],
+      "title": "Qatar says US–Iran talks are still alive and urges 'a good deal' now, a day after US 'minor' strikes on Qeshm Island",
+      "what": "Qatar's Prime Minister and Foreign Minister, Sheikh Mohammed bin Abdulrahman Al Thani, said in remarks carried by Al Jazeera on Saturday that Qatar's mediation is continuing, that significant progress has been made and that Washington still wants an agreement after the US midterm elections. He said the sides should not wait for a perfect agreement but aim for a good one. Qatar's foreign ministry spokesman, Majed al-Ansari, said reports that the talks had failed serve only those seeking to prolong the war. The comments followed what President Trump called 'minor' US strikes on Friday on Iranian air-defence systems on Qeshm Island, an island in the Strait of Hormuz; Iranian state media reported two missiles hitting the Suza area. On Saturday Iran's army spokesman, Brigadier General Mohammad Akraminia, said Iran would not allow the 'enemy's bases' in the region to be rebuilt and that its forces were stronger than at the start of the war.",
+      "why": "Two Middle East officials told AP that Iran is reviewing Qatari proposals on its nuclear programme but wants the US first to end its naval blockade of Iranian ports, lift sanctions, unfreeze Iranian assets, pay war-damage compensation and end hostilities in the region, including Israeli operations in Lebanon. The US wants limits on Iran's nuclear work, so the gap between the two is still wide. A deal would likely reopen Hormuz shipping and push oil prices lower; a breakdown and wider US strikes would do the opposite. That is why oil traders reacted so strongly last week to hints of de-escalation."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "The Main Market Square is one of the busiest places in Poland, full of residents and tourists on a Saturday afternoon, so the attack touches a very large number of people directly or through family and friends. Expect a more visible police presence at public events in the coming days, including around Independence Day on 11 November.",
+      "id": "krakow-shooting",
+      "importance": 4,
+      "markets": [],
+      "rank": 2,
+      "rankWhy": "A mass shooting in the historic centre of Poland's second-largest city that killed six people affects public security policy, gun-control debate and the sense of safety of millions of Poles.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Wirtualna Polska live blog",
+          "url": "https://wiadomosci.wp.pl/strzelania-w-krakowie-sa-zabici-i-ranni-7348484676569568l"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/07/at-least-five-killed-in-shooting-in-krakow-polish-police-say"
+        },
+        {
+          "name": "RMF24",
+          "url": "https://www.rmf24.pl/regiony/krakow/news-strzelanina-na-rynku-glownym-w-krakowie-sa-zabici-i-ranni,nIdn,1025257"
+        },
+        {
+          "name": "TVP World",
+          "url": "https://tvpworld.com/96358317/two-reported-dead-10-injured-in-shooting-in-polands-krakow"
+        },
+        {
+          "name": "CBC News (headline: 6 killed, 15 injured)",
+          "url": "https://www.cbc.ca/news/world/krakow-poland-shooting-9.7413582"
+        }
+      ],
+      "terms": [
+        "Mass shooting",
+        "National Security Bureau (BBN)"
+      ],
+      "title": "Gunman kills six people and injures at least 11 near Kraków's Main Market Square; PM Tusk calls it an attack",
+      "what": "Shortly after 15:00 on Saturday, a gunman fired a long gun at random people from a car without number plates as it moved towards Kraków's Main Market Square (Rynek Główny) from Sławkowska Street, RMF24 reported. The latest reports from Polish authorities say six people were killed (four women and two men) and between 11 and 15 were injured, depending on the report, including two police officers; first reports spoke of five dead, and the figures may still change. Police shot the suspect and detained him on Dietla Street; they describe him as a 24-year-old Polish citizen from Ostrowiec Świętokrzyski with no criminal record, wearing military-style clothing, and say an arsenal of weapons and ammunition was found in his car. Prime Minister Donald Tusk called it an attack ('zamach') and travelled to Kraków with Interior Minister Marcin Kierwiński, while President Karol Nawrocki sent the head of the National Security Bureau (BBN); an extraordinary government meeting was called for 21:45.",
+      "why": "The motive is not yet known, and police say they are examining the attacker's background and all circumstances. Police rejected claims of a slow response, saying the first patrol acted 23 seconds after the report, and the defence minister denied reports that the attacker was a Polish soldier. Such attacks usually lead to a review of how the attacker obtained his weapons, of security at crowded public places and of gun-licensing rules. The government spokesperson urged politicians and media not to exploit the tragedy for political ends."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Attacks on power lines from nuclear plants mean more blackouts and heating problems for Ukrainians as winter starts, which can push more people to leave the country, including to Poland. For Poland, the strikes also explain why the government keeps stressing air defence and support for Ukraine's grid.",
+      "id": "ukraine-kn23",
+      "importance": 4,
+      "markets": [
+        "European gas (TTF)",
+        "Defence stocks"
+      ],
+      "rank": 3,
+      "rankWhy": "Russia's mass strike on Ukraine's power grid days before US-brokered talks shows how weak air defences have become and affects the winter energy supply of millions of Ukrainians and the chances of peace.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/07/russia-fires-north-korean-missiles-at-key-ukrainian-energy-facility-zelenskyy-says"
+        },
+        {
+          "name": "AP via CP24",
+          "url": "https://www.cp24.com/news/world/2026/11/07/missile-attacks-wound-9-as-ukraine-prepares-for-talks-with-russia-and-the-us/"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us"
+        }
+      ],
+      "terms": [
+        "Ballistic missile",
+        "Interceptor",
+        "KN-23"
+      ],
+      "title": "Zelensky: only 4 of 36 Russian ballistic missiles were shot down, and North Korean KN-23s likely hit a key power facility",
+      "what": "President Volodymyr Zelensky said Russia fired 36 ballistic missiles at Kyiv and the surrounding region overnight into Saturday and launched 172 drones at Kyiv and 12 other regions; only four of the missiles were shot down, and he again urged allies to speed up deliveries of interceptor missiles. Preliminary findings show North Korean-made KN-23 missiles were used against one key energy facility, he said; the KN-23 is a short-range ballistic missile with a range of about 690 km, according to CSIS's Missile Threat project. Targets included a substation linking the Rivne and Khmelnytskyi nuclear power plants to Kyiv; at least nine people were wounded, including a child, and Kyiv's 816-metre Northern Bridge was closed for repairs, AP reported. In the front-line village of Komyshuvakha in Zaporizhzhia region, the death toll from Monday's Russian guided-bomb strike on a former school where people were waiting for aid rose to 55 early on Saturday.",
+      "why": "Zelensky said the strikes were likely meant to put pressure on Ukraine before trilateral talks with Russia and the US in Abu Dhabi, which AP says are due on Tuesday and would be the fourth round brokered by the Trump administration. Ballistic missiles fly very fast and high, so only advanced systems such as the US-made Patriot can stop them, and Ukraine says it is running short of interceptors. Ukraine, for its part, keeps hitting Russian oil refineries: Russian media reported a hit on the Saratov refinery, and Russia's defence ministry said it downed 411 Ukrainian drones overnight."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "For Poland this is about its own security: where NATO troops are stationed, how much it spends on defence and how safe its borders are. Sikorski said almost 2,000 Polish troops will join the Koalicja 26.2 exercise from 9 to 22 November, preparing for a possible multinational force in Ukraine after a ceasefire.",
+      "id": "eu-rejects-russia-deal",
+      "importance": 3,
+      "markets": [
+        "Defence stocks",
+        "Polish złoty"
+      ],
+      "rank": 4,
+      "rankWhy": "Whether the US and Russia can redraw Europe's security arrangements without Europeans matters most to Poland and the eastern flank, and shapes the Ukraine talks due on Tuesday.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/06/eu-rejects-trumps-big-beautiful-security-deal-with-russia-and-all-of-europe"
+        },
+        {
+          "name": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/89407"
+        }
+      ],
+      "terms": [
+        "Security architecture",
+        "Ceasefire",
+        "Schengen area"
+      ],
+      "title": "EU and Poland reject any US–Russia deal on Europe's security made 'over our heads'",
+      "what": "On Thursday President Trump said a deal with Russia was coming that would go beyond Ukraine and 'might involve all of Europe', without giving details, and his envoy Jared Kushner said Washington was working on a broader European security architecture. Speaking in Warsaw on Friday after a Council of the Baltic Sea States meeting, EU foreign policy chief Kaja Kallas said Europe already has a security architecture and that Putin has no veto over it. Polish Foreign Minister Radosław Sikorski said an arrangement on the future of Ukraine and Europe made without Europeans would be politically unacceptable and practically impossible, and set out a sequence: ceasefire first, then peace talks, and only later talks on European security and arms control. Sikorski also called for an end to Schengen tourist visas for Russians and announced 8 million zł for generators for Ukraine.",
+      "why": "Before its 2022 invasion, Russia demanded that NATO pull its forces back from countries that joined after 1997, which includes Poland; NATO rejected this. Countries on the eastern flank fear that a broad US–Russia deal could revive such demands. Kushner said the US would consult Europeans on the sidelines of next week's Abu Dhabi talks and move to a wider format including Europe if there is progress."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Little direct effect on Poland. It is a good example of how proportional voting systems, like Poland's, often produce coalition bargaining rather than a clear winner on election night.",
+      "id": "nz-election",
+      "importance": 3,
+      "markets": [
+        "New Zealand dollar"
+      ],
+      "rank": 5,
+      "rankWhy": "New Zealanders face weeks of uncertainty over who governs, with limited effects beyond the country.",
+      "region": "Asia-Pacific",
+      "sources": [
+        {
+          "name": "AP via Yahoo News",
+          "url": "https://www.yahoo.com/news/world/articles/no-clear-winner-tight-zealand-150016193.html"
+        },
+        {
+          "name": "GBC Ghana Online",
+          "url": "https://www.gbcghanaonline.com/world/new-zealand-election/2026/"
+        },
+        {
+          "name": "Wikipedia: 2026 New Zealand general election (dates)",
+          "url": "https://en.wikipedia.org/wiki/2026_New_Zealand_general_election"
+        }
+      ],
+      "terms": [
+        "Mixed-member proportional (MMP)",
+        "Special votes",
+        "Electoral threshold"
+      ],
+      "title": "New Zealand's election ends without a clear winner; official result due on 27 November",
+      "what": "With more than 99% of the preliminary count done, Prime Minister Christopher Luxon's National Party and Chris Hipkins' Labour Party were almost level, and together they won only about 60% of the vote, historically low for the two main parties, AP reported. National's share fell to about 29% from 38% in 2023, according to a GBC report. The governing bloc of National, ACT and New Zealand First is on course for a very slim majority, while the new Opportunity Party crossed the 5% threshold and entered parliament for the first time. Special votes, including those cast from abroad, take about three weeks to count, and the Electoral Commission will declare the official result on 27 November.",
+      "why": "Under New Zealand's mixed-member proportional (MMP) system, seats follow each party's share of the national party vote, so small parties often decide who governs. Special votes have in the past tilted slightly towards left-leaning parties, so the governing bloc's thin lead could shrink and push Luxon to seek Opportunity's support; its leader Qiulae Wong says it will talk first to whichever party wins the most seats. Hipkins said the next parliament will need compromise."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "French unrest matters for the whole euro area, Poland's largest trading partner: if markets demand higher interest rates to lend to France, borrowing costs can rise elsewhere in Europe too.",
+      "id": "france-protests",
+      "importance": 3,
+      "markets": [
+        "French government bonds (OAT)",
+        "CAC 40",
+        "Euro"
+      ],
+      "rank": 6,
+      "rankWhy": "A fourth weekend of cost-of-living protests in the euro area's second-largest economy, which already worries markets with its high debt, five months before a presidential election.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "AFP via Dawn",
+          "url": "https://www.dawn.com/news/2042809/clashes-in-paris-after-new-french-protests"
+        },
+        {
+          "name": "France 24 live (headline: unions say 250,000)",
+          "url": "https://www.france24.com/en/france/20261107-live-france-braces-for-more-nationwide-protests-as-yellow-vests-urge-mass-disobedience"
+        }
+      ],
+      "terms": [
+        "Purchasing power",
+        "Yellow vests"
+      ],
+      "title": "France: fourth weekend of cost-of-living protests; clashes in Paris and arrests of 'yellow vest' leaders",
+      "what": "France's interior ministry counted 146,000 protesters nationwide on Saturday, including 46,000 in Paris, while unions counted 250,000, AFP reported; turnout was lower than on the previous three weekends. Clashes broke out at the end of a union march from Place de la République to Place de la Nation, and police used tear gas against people throwing projectiles and fireworks. At a banned 'yellow vest' rally at Place de la Concorde, police surrounded about 100 people and arrested the movement's coordinator Benjamin Ball and spokeswoman Azelma Sigaux. About 70,000 police and security staff were deployed, and many shops boarded up their windows.",
+      "why": "The movement began in late September with school students protesting about conditions in their schools and has grown into a broad protest against the rising cost of living; on Thursday a union protest drew 575,000 people by official count and 1.6 million by union count. AFP notes the government has little room to spend because France's large debt is already unsettling markets. Prime Minister Sébastien Lecornu meets unions and employers on Monday to discuss wages and purchasing power."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "Measles also circulates in Europe, and vaccination rates are a public-health issue in Poland too. The US numbers are a reminder of why doctors urge parents to keep children's MMR (measles, mumps, rubella) vaccinations up to date.",
+      "id": "us-measles",
+      "importance": 3,
+      "markets": [],
+      "rank": 7,
+      "rankWhy": "The highest US measles count since 1991 shows how falling vaccination lets a preventable disease return, with lessons for every country, including Poland.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "AFP via Yahoo News",
+          "url": "https://au.news.yahoo.com/us-measles-cases-exceed-5-212405284.html"
+        },
+        {
+          "name": "US News (headline: 5,182 cases)",
+          "url": "https://www.usnews.com/news/us/articles/2026-11-06/us-measles-cases-rise-to-5-182-cdc-says"
+        }
+      ],
+      "terms": [
+        "Measles elimination",
+        "Herd immunity",
+        "MMR vaccine"
+      ],
+      "title": "US measles cases pass 5,000 this year, the most since 1991",
+      "what": "The US Centers for Disease Control and Prevention (CDC) has recorded 5,182 confirmed measles cases so far in 2026, more than double the 2,289 cases in all of 2025 and the highest number since 1991, according to AFP and US News reports of the CDC data published on Friday. State health authorities have reported at least eight measles-related deaths, including very young children. Measles was declared eliminated in the US in 2000, meaning it no longer spread continuously within the country, thanks largely to vaccination.",
+      "why": "Measles is one of the most contagious diseases known, so outbreaks start when the share of vaccinated people in a community falls. AFP links the rise to declining vaccination rates and growing distrust of health authorities, and notes that Health Secretary Robert F. Kennedy Jr., a long-time vaccine sceptic, has been criticised for adding to that distrust. Before the vaccine was introduced in 1963, an estimated 400 to 500 Americans died of measles each year, the CDC says."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "No direct effect on prices in Poland. It does show investors the political risk of doing business in Russia, a factor that affects how much risk premium investors demand in Central and Eastern Europe.",
+      "id": "jti-seizure",
+      "importance": 3,
+      "markets": [
+        "Japan Tobacco (Tokyo-listed)"
+      ],
+      "rank": 8,
+      "rankWhy": "Russia's takeover of Japan Tobacco's local business, which holds up to 40% of the Russian cigarette market, is one of the largest of this autumn's seizures of foreign companies.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "The Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/11/05/kremlin-seizes-japan-tobacco-internationals-russian-assets-a94186"
+        },
+        {
+          "name": "RBC-Ukraine",
+          "url": "https://newsukraine.rbc.ua/news/putin-seizes-more-assets-of-japanese-tobacco-1794069627.html"
+        }
+      ],
+      "terms": [
+        "Temporary management (Russia)",
+        "Nationalisation",
+        "Political risk"
+      ],
+      "title": "Russia takes over more of Japan Tobacco's Russian business",
+      "what": "On Thursday President Vladimir Putin signed a decree putting four Russian entities of Japan Tobacco International (JTI), which own tobacco factories in St Petersburg, Yelets and Rostov-on-Don, under state 'temporary management', The Moscow Times and RBC-Ukraine reported. On Saturday RBC-Ukraine, citing Russian media, reported that three more JTI entities, including J.T.I. Russia, were placed under temporary management. The production facilities are estimated to be worth about 60 billion roubles (about $730 million). JTI, in Russia since 1999, holds up to 40% of the market with brands such as Winston, Camel and LD, and said it is assessing the situation and its options.",
+      "why": "Putin describes such moves as a 'symmetrical' response to Western sanctions and the freezing of Russian state assets; some analysts say Moscow is also punishing Japan for supporting Ukraine and joining G7 sanctions. The seizure is part of an autumn wave affecting firms such as Metro, Auchan and Nestlé. For foreign companies, it shows that assets left in Russia can be taken without compensation, which is why many have written off their Russian operations."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Sudan's crisis can seem distant, but it is part of the wider pressure on humanitarian budgets and migration routes towards Europe, which shape EU migration policy debates that also involve Poland.",
+      "id": "sudan-shelter",
+      "importance": 3,
+      "markets": [],
+      "rank": 9,
+      "rankWhy": "The world's largest displacement crisis: millions of Sudanese face winter without shelter because aid money has run out.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns"
+        },
+        {
+          "name": "Africanews",
+          "url": "https://www.africanews.com/2026/11/06/un-says-struggling-to-help-millions-fleeing-sudan-war-find-shelter/"
+        }
+      ],
+      "terms": [
+        "Internally displaced person (IDP)",
+        "Refugee"
+      ],
+      "title": "UN agencies: they can help only about 10% of the 15.4 million Sudanese who need shelter",
+      "what": "In a joint statement on Friday, the UN refugee agency UNHCR and the International Organization for Migration (IOM) said an estimated 15.4 million people in Sudan need emergency shelter and basic household items, but agencies can prioritise only about 10% of them; 936,000 people have been helped so far. About 8.6 million people are displaced inside Sudan since the war began in 2023, and more than 4.6 million have fled abroad. More than 5.2 million have returned home, often to destroyed houses. IOM's Sudan chief, Mohamed Refaat, said its warehouses are now completely empty.",
+      "why": "The war between Sudan's army and the paramilitary Rapid Support Forces has destroyed homes and infrastructure, and international aid budgets have shrunk, leaving the agencies short of 'predictable and flexible funding'. Without shelter, people are more exposed to disease and violence, and displacement can rise again."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "No direct risk in Poland, but large outbreaks are watched by the World Health Organization and European health agencies because international travel can carry cases abroad.",
+      "id": "drc-adf-ebola",
+      "importance": 3,
+      "markets": [],
+      "rank": 10,
+      "rankWhy": "An armed attack in the centre of the world's fastest-spreading Ebola outbreak drove suspected patients out of a hospital, raising the risk that the disease spreads further.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/armed-men-kill-at-least-33-in-village-in-ebola-hit-eastern-drc"
+        }
+      ],
+      "terms": [
+        "Ebola",
+        "Contact tracing"
+      ],
+      "title": "Armed men kill at least 33 in an Ebola-hit village in eastern DR Congo; suspected Ebola patients flee hospital",
+      "what": "Armed men killed at least 33 people in an overnight attack on Cantine, about 50 km west of Beni in North Kivu province, local civil society head Justin Paluku said on Friday. More than 50 houses and a health post were set on fire, and about 180 patients fled the local hospital, including suspected Ebola cases and one confirmed case, Al Jazeera reported. Local officials blamed the Allied Democratic Forces (ADF), a group with roots in Uganda that pledged allegiance to ISIL (ISIS) in 2019. Africa CDC has recorded more than 10,000 cases and 5,300 deaths in the DRC's Bundibugyo-virus Ebola outbreak, and North Kivu accounts for almost half of new infections.",
+      "why": "Ebola is controlled by finding every patient, tracing their contacts and isolating them; violence breaks that chain because health workers cannot reach people and patients scatter. That is why attacks in outbreak zones can make an epidemic last much longer."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "The DSA applies in Poland as in every EU country, so any change TikTok makes would change what Polish users, including children, see in their feeds.",
+      "id": "tiktok-dsa",
+      "importance": 3,
+      "markets": [
+        "ByteDance (private)",
+        "Meta"
+      ],
+      "rank": 11,
+      "rankWhy": "The EU's push to change TikTok's main feed could reshape how social media apps used by hundreds of millions of Europeans, many of them teenagers, choose what to show.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines"
+        },
+        {
+          "name": "Euronews bulletin (headline)",
+          "url": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-evening"
+        }
+      ],
+      "terms": [
+        "Digital Services Act (DSA)",
+        "Recommendation algorithm"
+      ],
+      "title": "EU tells TikTok to change its 'For You' feed over 'rabbit hole' effects, threatening fines",
+      "what": "The European Commission said in preliminary findings on Friday that TikTok breached the Digital Services Act (DSA), the EU law that makes very large platforms assess and reduce risks to users, through the 'rabbit hole' effect of its For You feed. It said the feed keeps recommending similar clips, including content about sadness, isolation or body image, and that TikTok's changes so far are not enough. The Commission ordered TikTok to change the algorithm and could impose fines of up to 6% unless the issue is fixed, Al Jazeera reported. TikTok rejected the findings as 'fundamentally inaccurate' and can respond before a final decision.",
+      "why": "Recommendation algorithms are designed to maximise time spent in the app, which is how platforms earn advertising revenue; the EU argues this can harm users' mental health, especially minors. In February the EU had already found TikTok did not properly assess the risks of addictive features, and in July it ordered Meta to change Facebook and Instagram feeds under the same law."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Mainly a Belgian story, but it is part of a wider picture: several European governments, including Poland's, are struggling to agree how to cut deficits, as last week's S&P outlook cut on Poland showed.",
+      "id": "belgium-budget",
+      "importance": 3,
+      "markets": [
+        "Belgian government bonds"
+      ],
+      "rank": 12,
+      "rankWhy": "Belgium's government crisis over how to cut its deficit is a test of whether euro-area countries can repair their public finances.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/06/belgian-king-refuses-pm-bart-de-wevers-resignation-and-asks-him-to-restart-budget-talks"
+        },
+        {
+          "name": "Xinhua",
+          "url": "http://www.xinhuanet.com/english/20261106/d53ae0326f024b91ab0e2d66ab90956a/c.html"
+        }
+      ],
+      "terms": [
+        "Budget deficit",
+        "Value-added tax (VAT)"
+      ],
+      "title": "Belgium's king refuses PM De Wever's resignation and orders budget talks to restart",
+      "what": "King Philippe on Friday rejected the resignation that Prime Minister Bart De Wever had offered after the five coalition parties failed to agree a 2027 budget, and asked him to resume negotiations immediately, Euronews and Xinhua reported. De Wever is seeking €10 billion by 2029 to close the deficit gap; the parties disagree over spending cuts and a VAT increase, which the francophone liberal MR party opposes. The party leaders gave the king a formal commitment that they are ready to make concessions. The king meets party leaders on Tuesday, and De Wever reports back on Monday 16 November.",
+      "why": "Belgium, like France, has a large budget deficit, and EU budget rules ask countries with high deficits to bring them down. Failing to pass a budget can raise the interest rate investors demand to lend to the government. The king's move buys time without new elections."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Poland is one of the biggest recipients of EU funds, including for railways, so the case shows why the EU audits how such money is spent.",
+      "id": "spain-rail-eppo",
+      "importance": 3,
+      "markets": [
+        "Adif bonds",
+        "Spanish infrastructure firms"
+      ],
+      "rank": 13,
+      "rankWhy": "An EU fraud probe into money for Spain's high-speed rail safety after two deadly crashes this year raises questions about how EU funds are spent and checked.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Al Jazeera / Reuters",
+          "url": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain"
+        },
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/europe/2026/1106/1598254-spain-crash-investigation/"
+        }
+      ],
+      "terms": [
+        "European Public Prosecutor's Office (EPPO)",
+        "EU funds"
+      ],
+      "title": "EU prosecutors search Spain's rail bodies over possible fraud in safety funding after the Toledo crash",
+      "what": "The European Public Prosecutor's Office (EPPO), the EU body that investigates crimes against the EU budget, carried out searches on Friday at Spain's rail infrastructure manager Adif, the State Railway Safety Agency and the Court of Auditors, Al Jazeera reported, citing Reuters. It is investigating possible fraud in EU money meant to upgrade the safety, signalling and communications systems of the Madrid–Seville high-speed line. A high-speed train crash at Urda in Toledo province on 28 October killed at least 69 passengers; a crash at Adamuz in January killed 46. Transport Minister Óscar Puente resigned on 3 November and Adif's president the next day.",
+      "why": "If EU money for safety upgrades was misused, safety systems may not have been modernised as planned, which is why prosecutors are examining the funding after the crashes. The causes of the crashes themselves are still under investigation, with help from the EU Agency for Railways."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "No direct effect on Poland. It is an example of how courts can be used in political conflicts, a central question in debates about the rule of law, including in the EU.",
+      "id": "tanzania-lissu",
+      "importance": 3,
+      "markets": [],
+      "rank": 14,
+      "rankWhy": "The jailing of Tanzania's main opposition leader is a test of political freedom in one of East Africa's largest countries.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/tanzania-court-jails-opposition-leader-for-incitement-lifts-treason-charge"
+        },
+        {
+          "name": "Africanews (headline)",
+          "url": "https://www.africanews.com/"
+        }
+      ],
+      "terms": [
+        "Rule of law",
+        "Incitement"
+      ],
+      "title": "Tanzania jails opposition leader Tundu Lissu for four years for incitement but drops treason charge",
+      "what": "A three-judge High Court panel in Dar es Salaam on Friday sentenced Tundu Lissu, leader of the Chadema party, to four years in prison for incitement, while dismissing a treason charge that could have carried the death penalty, Al Jazeera reported. The court said his statements showed an intention to disrupt elections and incite violence; the judge said the ruling can be appealed. Lissu called the trial political persecution, and British and EU lawmakers called the case politically motivated and demanded his release.",
+      "why": "Lissu was arrested before the October 2025 presidential election, which President Samia Suluhu Hassan was declared to have won with 98% of the vote amid a crackdown on opponents. Opposition groups and rights organisations say security forces killed thousands of protesters; the government puts the death toll at 518."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Poland also has winter smog, mainly from burning coal and wood in home stoves, and uses a similar idea of alert levels that trigger warnings and restrictions.",
+      "id": "delhi-grap",
+      "importance": 2,
+      "markets": [],
+      "rank": 15,
+      "rankWhy": "Severe smog affects the health of millions of people in the Delhi region, with limited effects beyond India.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "The Week",
+          "url": "https://www.theweek.in/news/india/2026/11/07/aqi-what-is-the-imd-forecast-for-delhi-as-grap-iii-is-imposed-as-a-diwali-precautionary-measure.html"
+        },
+        {
+          "name": "Deccan Herald",
+          "url": "https://www.deccanherald.com/india/delhi/delhi-records-369-aqi-on-diwali-eve-readings-in-several-areas-cross-400-4211311"
+        }
+      ],
+      "terms": [
+        "Air quality index (AQI)",
+        "GRAP"
+      ],
+      "title": "Delhi tightens anti-smog rules as air quality hits 'severe' levels for Diwali",
+      "what": "Authorities imposed Stage III of Delhi's Graded Response Action Plan (GRAP) on Friday as a precaution before Diwali, banning polluting construction and demolition work across the capital region, restricting older, more polluting vehicles and recommending hybrid classes for younger pupils, The Week reported. The overall air quality index (AQI) was 364 ('very poor') at 8 am on Saturday, according to the Central Pollution Control Board, with some stations above 400 ('severe'). The Indian Institute of Tropical Meteorology's early-warning system expects severe air quality from 7 to 9 November.",
+      "why": "In autumn, cool, still air traps pollution near the ground, while crop-stubble burning, traffic, construction dust and festival fireworks add particles. GRAP stages switch on stricter rules automatically as pollution worsens."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Several large data centres are planned around Warsaw. Their power demand affects the grid and, potentially, electricity prices, which is why local communities want a say.",
+      "id": "data-centre-protests",
+      "importance": 2,
+      "markets": [
+        "Microsoft",
+        "Data-centre operators",
+        "Utilities"
+      ],
+      "rank": 16,
+      "rankWhy": "A Europe-wide protest against data centres, including about 100 people outside Poland's parliament, shows growing local resistance to the AI building boom over power and water use.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam"
+        },
+        {
+          "name": "Africanews (headline)",
+          "url": "https://www.africanews.com/"
+        }
+      ],
+      "terms": [
+        "Data centre"
+      ],
+      "title": "Protests against data centres in 15 countries; hundreds occupy Microsoft site in Amsterdam",
+      "what": "Several hundred activists from the group Geef Tegengas broke into the construction site of a planned Microsoft data centre in Amsterdam's Sloterdijk district on Friday, and Dutch police detained 150 to 200 people suspected of trespassing, Al Jazeera reported. The action was part of 'Stop Dirty Data Centres' protests held on Friday and Saturday in 15 countries; in Poland, about 100 people from communities near Warsaw where new centres are planned protested outside parliament. Microsoft said it respects peaceful expression but does not condone unlawful actions.",
+      "why": "Data centres, the buildings full of servers that run cloud services and AI, use large amounts of electricity and, for cooling, water. Protesters say construction is outpacing public consultation and environmental checks; supporters say the centres bring investment and jobs."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Mainly of interest to Catholics, including many in Poland, where the pope's foreign trips draw wide attention.",
+      "id": "pope-uruguay",
+      "importance": 2,
+      "markets": [],
+      "rank": 17,
+      "rankWhy": "The first Mass of Pope Leo XIV's South American tour drew about 40,000 people and matters to the region's Catholics.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "AP via PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/with-an-ode-to-mate-pope-leo-urges-faithful-in-uruguay-to-build-bridges-of-fraternity-and-faith"
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/world/americas/2026/11/07/pope-urges-faithful-in-uruguay-to-embrace-faith-and-unity-at-first-mass-in-south-america/"
+        }
+      ],
+      "terms": [],
+      "title": "Pope Leo XIV celebrates his first Mass in South America in Uruguay, calling for 'bridges of fraternity'",
+      "what": "Pope Leo XIV celebrated his first Mass in South America on Saturday in Paysandú, a Uruguayan city on the border with Argentina; AP estimated the crowd at about 40,000. Using mate, the shared tea ritual popular in Uruguay and Argentina, as a symbol of unity, he urged the faithful to build 'bridges of fraternity and faith'. The 12-day tour continues in Argentina, with stops in Buenos Aires, Luján and Córdoba, and ends in Peru.",
+      "why": "Uruguay is often described as one of Latin America's most secular countries, so the visit is also about reviving church life there; the pope said Catholicism must be passed on to future generations. Paysandú lies near a border area where, according to The News, there are tensions between Uruguay and Argentina."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Little direct effect on Poland; South Africa is a major emerging market, and its political stability matters for the rand and for mining companies.",
+      "id": "anc-local",
+      "importance": 2,
+      "markets": [
+        "South African rand"
+      ],
+      "rank": 18,
+      "rankWhy": "South Africa's governing ANC heading for its weakest result ever in local elections affects how the country's main cities are run.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls"
+        },
+        {
+          "name": "Africanews (headline)",
+          "url": "https://www.africanews.com/"
+        }
+      ],
+      "terms": [
+        "Coalition government"
+      ],
+      "title": "South Africa: ANC heads for an all-time low of about 32% in local elections; final results due Sunday",
+      "what": "With more than 60% of votes counted late on Thursday, the African National Congress (ANC) had about 32% of the vote, its lowest ever, followed by the Democratic Alliance (DA) with about 25% and former president Jacob Zuma's MK party with 8.5%, Al Jazeera reported, citing electoral commission data. Turnout was an estimated 54.5%, up from 46% in 2021. Final results are expected on Sunday.",
+      "why": "Weak results for the largest party mean more coalition deals in city councils, which often makes local government less stable."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "No direct effect in Poland. The case shows why deposit guarantees matter for ordinary savers when a bank fails.",
+      "id": "paraguay-alliana",
+      "importance": 2,
+      "markets": [],
+      "rank": 19,
+      "rankWhy": "Paraguay gets a new president after a bank collapse; the effects are mostly national.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/international/article-914103"
+        },
+        {
+          "name": "Al Jazeera (headline)",
+          "url": "https://www.aljazeera.com/news/"
+        }
+      ],
+      "terms": [
+        "Impeachment",
+        "Deposit guarantee"
+      ],
+      "title": "Paraguay: Pedro Alliana sworn in as president; ousted Santiago Peña stays under house arrest",
+      "what": "Former Vice President Pedro Alliana was sworn in as Paraguay's president after the Senate removed Santiago Peña on Friday over the collapse of Ueno bank, the Jerusalem Post reported, citing wire reports. Peña had offered to resign on Thursday, but the Senate chose to complete the impeachment; he is under house arrest while prosecutors decide his final charges, and said he would cooperate. Eight former Ueno executives have been detained, and prosecutors issued an arrest warrant for central bank chief Carlos Carvallo, who headed Ueno until 2023.",
+      "why": "Ueno, launched in 2021, attracted many customers who previously had no bank account; its failure froze people's savings and turned into a political crisis. Regulators say they guarantee most deposits."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "Poland is expanding wind power, so it will also face the question of what to do with old blades.",
+      "id": "wind-blades",
+      "importance": 1,
+      "markets": [],
+      "rank": 20,
+      "rankWhy": "A lab advance that could help recycle wind-turbine blades, with no immediate wider effect.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/07/brief-burst-of-intense-heat-could-give-hard-to-recycle-wind-turbine-blades-a-second-life"
+        }
+      ],
+      "terms": [
+        "Upcycling"
+      ],
+      "title": "Scientists heat old wind-turbine blades to about 2,000°C to turn them into material for new blades",
+      "what": "Researchers led by Bing Deng of Tsinghua University used 'flash Joule heating' to heat broken-down turbine blades to about 2,000°C in seconds, turning the fibreglass and resin into a mix of silicon carbide and graphene, Euronews reported on a study in Chem Circularity. Adding just 0.3% by weight of the recovered material made resin stiffer and stronger: 27% more resistant to deformation under tension and 9% when bent.",
+      "why": "Most of a wind turbine can be recycled, but blades are hard to reprocess and are usually landfilled or burned after about 20 years. Europe's decommissioned blade waste is projected to rise from 20,000 tonnes in 2025 to 55,000 tonnes by 2030."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "A reminder of one of Poland's best-known scientists, days before Independence Day on 11 November.",
+      "id": "curie-anniversary",
+      "importance": 1,
+      "markets": [],
+      "rank": 21,
+      "rankWhy": "A historical anniversary with no measurable effect today.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "TVP Info",
+          "url": "https://www.tvp.info/96348240/portal-tvpinfo-zapowiada-najwazniejsze-wydarzenia-w-piatek-7-listopada-2026-r"
+        },
+        {
+          "name": "Nobel Prize: Marie Curie facts",
+          "url": "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/facts/"
+        }
+      ],
+      "terms": [],
+      "title": "115 years since Maria Skłodowska-Curie's Nobel Prize in Chemistry",
+      "what": "TVP Info noted that Saturday marks the 115th anniversary of Maria Skłodowska-Curie being awarded the Nobel Prize in Chemistry for the discovery of polonium and radium. According to the Nobel Foundation, the 1911 prize also recognised her isolation of radium; it was her second Nobel Prize, after the 1903 Physics prize she shared with Pierre Curie.",
+      "why": "Her two prizes came in two different sciences, physics and chemistry, according to the Nobel Foundation's records."
+    }
+  ],
+  "watch": [
+    "Poland: investigation into Saturday's Kraków shooting; the government held an extraordinary meeting at 21:45 on Saturday (WP); developing.",
+    "Israel: President Isaac Herzog is due on Sunday 8 November to name who gets the first chance to form a government; Gadi Eisenkot has been recommended by 67 of 120 Knesset members (Al Jazeera, Times of Israel; time not announced).",
+    "COP31 UN climate conference opens in Antalya, Türkiye, on Monday 9 November and runs to 20 November (UNRIC).",
+    "G7 foreign ministers meet in France on Monday 9 and Tuesday 10 November, with Ukraine and Iran on the agenda (Italian Foreign Ministry; venue notes list Marseille and, in an update, Paris).",
+    "Poland: Koalicja 26.2 military exercise with almost 2,000 Polish troops and forces from 11 other countries runs 9–22 November (Kyiv Post, citing Sikorski).",
+    "France: PM Sébastien Lecornu meets unions and employers on Monday 9 November about wages and purchasing power; students and teachers plan a strike on Tuesday (AFP via Dawn).",
+    "Ukraine–Russia–US talks in Abu Dhabi are due on Tuesday 10 November (AP); developing.",
+    "US consumer price index for October: Tuesday 10 November, 08:30 US Eastern time = 14:30 Warsaw time (CappNotes)."
+  ],
+  "window": "Sat 7 Nov 10:00 → Sat 7 Nov 20:00 (Warsaw time)",
+  "id": "2026-11-07-2000",
+  "updatedAt": "2026-11-07T19:14:26.205966Z"
+}

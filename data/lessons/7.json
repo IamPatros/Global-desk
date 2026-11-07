@@ -1,0 +1,262 @@
+{
+  "checkQuestions": [
+    {
+      "a": "A bank with spare cash can always deposit it at the NBP at 3.25%, so it will not lend to another bank for less; a bank that needs money can always borrow from the NBP at 4.25% against collateral, so it will not pay more. Within this corridor, the NBP absorbs surplus liquidity by selling 7-day bills at the 3.75% reference rate, which keeps market rates in its neighbourhood. (Strictly, the floor binds for banks with NBP access; indices that include other lenders, such as POLSTR, can sit somewhat lower.)",
+      "q": "Explain step by step why the overnight interest rate between Polish banks stays between 3.25% and 4.25% after the November 2026 decision."
+    },
+    {
+      "a": "Interest-rate channel: POLSTR and other market rates rise, so variable loan payments and new loan rates rise, households and firms borrow and spend less, and saving becomes more attractive. Exchange-rate channel: higher returns attract capital, the złoty tends to strengthen and import prices fall. Expectations channel: a credible central bank signals it will keep inflation down, so wage and price demands moderate. Weaker demand and cheaper imports slow inflation, but with lags of many months.",
+      "q": "Trace how an unexpected rise in the NBP reference rate could reduce Polish inflation a year later. Name at least three channels."
+    },
+    {
+      "a": "An oil shock is a supply shock: it raises prices while weakening output, and rates cannot produce more oil, so raising them would deepen the slowdown to fight a price jump that may fade. The bank would act if the shock starts to spread into wages, other prices and inflation expectations (second-round effects), threatening to keep inflation above target.",
+      "q": "Why might a central bank 'look through' an oil-price surge instead of raising rates immediately, and when would it stop looking through it?"
+    },
+    {
+      "a": "Markets price expected future policy. Strong jobs data suggest an economy running hot and inflation pressure, raising the probability of a Fed rate rise in December. The 2-year yield reflects expected policy rates over two years, so it rose; higher expected US rates also attract capital into dollar assets, lifting the dollar.",
+      "q": "Friday's US jobs data were much stronger than expected, yet the Fed made no decision. Explain why the 2-year Treasury yield and the dollar still rose."
+    },
+    {
+      "a": "GPW Benchmark only calculates POLSTR from actual overnight transactions; it does not choose its level. Those overnight rates are kept close to the NBP reference rate by the corridor and open-market operations, so when the RPP changes the reference rate, POLSTR moves with it, and the friend's loan rate (index plus margin) changes at the next reset.",
+      "q": "A friend with a POLSTR-based mortgage says 'the RPP decisions don't affect me because my rate is set by GPW Benchmark'. Explain why this is mistaken."
+    }
+  ],
+  "createdAt": "2026-11-07T19:09:04Z",
+  "date": "7 Nov 2026",
+  "editionId": "2026-11-07-2000",
+  "intro": "Central banks set one short-term interest rate, yet that single number ends up in mortgage payments, savings accounts, the złoty exchange rate and, a year or two later, in the inflation rate. In this lesson you will learn who sets interest rates in Poland, the euro area and the United States, how a central bank actually makes a rate 'stick' in the money market, and the chain of cause and effect that runs from a rate decision to prices. You will be able to calculate a real policy rate, show how the interest-rate corridor works, estimate what a rate change does to a mortgage payment, and read what markets expect from the next decision.",
+  "lessonQuiz": [
+    {
+      "answer": 1,
+      "explain": "The lombard rate of 4.25% is the ceiling: with collateral, the bank can borrow from the NBP more cheaply than 4.40%. The reference rate is paid on NBP bills, not a lending facility on demand.",
+      "options": [
+        "Accept, because 4.40% is close to the reference rate",
+        "Borrow from the NBP lombard facility at 4.25% instead, because it is cheaper",
+        "Borrow from the NBP at the 3.75% reference rate whenever it wants",
+        "Deposit its bonds at the NBP to earn 3.25%"
+      ],
+      "q": "After the NBP's November decision, an overnight interbank loan is offered at 4.40%. A bank needing funds has eligible government bonds. What should it do and why?"
+    },
+    {
+      "answer": 2,
+      "explain": "(1.0375 ÷ 1.045) − 1 ≈ −0.0072, about −0.72%. An unchanged nominal rate with higher inflation means a looser real stance.",
+      "options": [
+        "It rises to about 0.72%",
+        "It stays at about 0.24% because the nominal rate did not change",
+        "It falls to about −0.72%",
+        "It falls to about −0.25%"
+      ],
+      "q": "Poland's reference rate is 3.75% and inflation 3.5%. If inflation rises to 4.5% while the RPP leaves rates unchanged, what happens to the real policy rate (exact formula)?"
+    },
+    {
+      "answer": 0,
+      "explain": "Higher expected returns attract capital, which tends to strengthen the currency; a stronger złoty lowers import prices, as in Lesson 5.",
+      "options": [
+        "Higher rates → foreign capital flows in → złoty strengthens → imports cheaper in złoty → lower inflation",
+        "Higher rates → złoty weakens → imports cheaper → lower inflation",
+        "Higher rates → exports rise → złoty weakens → higher inflation",
+        "Higher rates → banks lend more → more spending → stronger złoty"
+      ],
+      "q": "Which chain best describes the exchange-rate channel of an unexpected NBP rate rise?"
+    },
+    {
+      "answer": 0,
+      "explain": "2,560.12 − 2,439.66 = 120.46 zł; 120.46 ÷ 2,439.66 ≈ 4.9%. The 0.5-point rate rise is spread over the remaining 300 instalments.",
+      "options": [
+        "About 120 zł, about 4.9%",
+        "About 167 zł, about 6.6%",
+        "About 120 zł, about 8.7%",
+        "About 50 zł, about 2.0%"
+      ],
+      "q": "A 400,000 zł, 25-year equal-instalment mortgage at 5.43% costs about 2,439.66 zł a month. At 5.93% it costs about 2,560.12 zł. By how much, in złoty and per cent, does the payment rise?"
+    },
+    {
+      "answer": 2,
+      "explain": "Supply shocks raise prices and cut output; banks often look through the direct effect but react to second-round effects that threaten the target.",
+      "options": [
+        "Raise rates sharply at once to push prices back down",
+        "Cut rates to zero to offset the oil shock",
+        "Look through the first-round price jump, but tighten if it spreads into wages and inflation expectations",
+        "Ignore inflation entirely because oil is a foreign price"
+      ],
+      "q": "An economy is hit by a sudden jump in oil prices, while unemployment starts to rise. Which response is most consistent with mainstream central-bank practice?"
+    },
+    {
+      "answer": 2,
+      "explain": "Expected decisions are already in prices. Markets react to the unexpected part, such as new forecasts or guidance.",
+      "options": [
+        "A large appreciation, because rates stayed high",
+        "A large depreciation, because rates did not rise",
+        "Little direct effect, because the decision was already priced in; any move would come from surprises in guidance or the forecast",
+        "No effect ever, because exchange rates do not depend on interest rates"
+      ],
+      "q": "Markets expected the RPP to keep rates unchanged in November, and it did. Using what you know about expectations, what was the most likely effect of the decision itself on the złoty?"
+    },
+    {
+      "answer": 1,
+      "explain": "Midpoint 3.875% + 0.60 × 0.25 = 3.875 + 0.15 = 4.025%.",
+      "options": [
+        "4.125%",
+        "4.025%",
+        "3.975%",
+        "3.875%"
+      ],
+      "q": "The Fed's range is 3.75%–4.00%. Markets price a 60% chance of a 0.25-point rise and 40% of no change at the next meeting (hypothetical). What is the expected midpoint afterwards?"
+    },
+    {
+      "answer": 3,
+      "explain": "The main argument is credibility: an independent bank can resist short-term political pressure, which helps anchor inflation expectations.",
+      "options": [
+        "So they can finance government deficits directly",
+        "Because central banks are private companies",
+        "So that interest rates never change",
+        "Because elected politicians may be tempted to cut rates for short-term gains, causing inflation later; independence makes low-inflation promises more credible"
+      ],
+      "q": "Why do many democracies make central banks operationally independent?"
+    },
+    {
+      "answer": 3,
+      "explain": "Short-term yields reflect expected policy rates; the surprise raised expected Fed rates, and the 2-year yield rose 5 basis points to 4.51%.",
+      "options": [
+        "2-year yields fall because the Fed will cut",
+        "Yields are unchanged because the Fed did not meet",
+        "Only 30-year yields move, because short rates are fixed by the Fed",
+        "2-year yields rise as the expected path of Fed rates moves up"
+      ],
+      "q": "A US jobs report shows 165,000 new jobs against about 59,000 expected. Which outcome is most consistent with the theory in this lesson?"
+    },
+    {
+      "answer": 1,
+      "explain": "Policy acts on forecasts; a temporary, administratively driven fall in inflation may reverse, as analysts quoted by Stockwatch noted.",
+      "options": [
+        "Because the CPI basket excludes fuel",
+        "Because the drop may be temporary: when the programme ends, fuel prices are likely to jump and push inflation back up, so expected inflation is what matters",
+        "Because lower inflation always requires higher rates",
+        "Because fuel prices do not affect inflation expectations"
+      ],
+      "q": "Linking to Lesson 6: a government fuel-price programme helps lower measured CPI inflation from 4.1% to 3.5% but is due to end at year-end. Why might the RPP be cautious about cutting rates on this news?"
+    },
+    {
+      "answer": 3,
+      "explain": "This is the asset-price channel: higher discount rates reduce the present value of future profits, and costlier credit can slow profit growth.",
+      "options": [
+        "Higher rates raise company revenues",
+        "Index providers remove companies when rates rise",
+        "Shares pay fixed interest that becomes less attractive",
+        "Future profits are worth less in today's money when rates are higher, and borrowing costs rise, so share prices tend to fall"
+      ],
+      "q": "Linking to Lessons 3 and 4: why do share indices such as the S&P 500 often fall when markets expect higher interest rates?"
+    },
+    {
+      "answer": 0,
+      "explain": "GPW Benchmark administers POLSTR based on transactions; the NBP corridor keeps it near the reference rate. WIBOR continues for existing contracts during the transition.",
+      "options": [
+        "It is calculated by GPW Benchmark from actual unsecured overnight deposit transactions and tends to follow the NBP reference rate",
+        "It is set each month by the RPP",
+        "It is a fixed rate that never changes",
+        "It replaced WIBOR in all existing contracts on 1 January 2026"
+      ],
+      "q": "Which statement about POLSTR is correct?"
+    }
+  ],
+  "level": "Foundations",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "The central bank sets the interest rate on my mortgage and my savings account.",
+      "truth": "It sets only a very short-term rate. Banks set loan and deposit rates as a market index (such as WIBOR or POLSTR) plus a margin, influenced by competition and risk; the policy rate moves those indices, but the pass-through is partial and varies by product."
+    },
+    {
+      "myth": "Raising interest rates brings prices down quickly.",
+      "truth": "Higher rates mainly slow the rise in prices, and only after lags commonly estimated at one to two years. They do not usually make the price level fall; the goal is to bring inflation back to target."
+    },
+    {
+      "myth": "If inflation is 3.5% and the policy rate is 3.75%, policy is clearly tight.",
+      "truth": "The real rate is only about 0.24%. Whether that is tight depends on the neutral real rate, which is uncertain, and on expected inflation, which may differ from the latest reading."
+    },
+    {
+      "myth": "Markets move when a central bank changes rates.",
+      "truth": "Markets move on surprises. An expected change is already in prices; new information that changes expected future decisions, such as a strong jobs report, moves yields and currencies immediately."
+    },
+    {
+      "myth": "A higher interest rate always strengthens the currency.",
+      "truth": "Often, but not always. If investors see the rise as a sign of a bigger inflation problem or of rising risk, the currency can weaken; what matters is the rate relative to expectations, inflation and risk elsewhere."
+    }
+  ],
+  "number": 7,
+  "objectives": [
+    "Explain who sets interest rates in Poland, the euro area and the US, and what each central bank is legally trying to achieve.",
+    "Explain how the NBP's reference, deposit and lombard rates form a corridor that keeps the overnight money-market rate close to the policy rate.",
+    "Trace the transmission mechanism from a change in the policy rate to loans, deposits, the exchange rate, demand and inflation, and explain why it works with long lags.",
+    "Calculate a real policy rate and a change in a variable-rate loan payment after a change in the reference index.",
+    "Explain why markets react to surprises in data and decisions rather than to the decisions themselves, using the 2-year bond yield as a gauge.",
+    "Identify the limits of interest-rate policy: supply shocks, the lower bound near zero, lags, and conflicts with government budgets."
+  ],
+  "recap": "Lesson 6 defined inflation as a sustained rise in the general price level, measured with a weighted basket in the consumer price index, and introduced the real interest rate: (1 + nominal rate) ÷ (1 + inflation) − 1. You also saw that the NBP aims for 2.5% inflation with a ±1 point band, the ECB for 2% and the Fed for 2%. This lesson explains the main tool central banks use to hit those targets: the short-term interest rate, and how its effects travel through the economy.",
+  "sections": [
+    {
+      "body": "A central bank is the institution that issues a country's currency and acts as the bank for commercial banks and, usually, for the government. Commercial banks hold accounts at the central bank, called reserves, and use them to settle payments with each other; only the central bank can create these reserves. Because it controls the cheapest, safest form of money in the system, the central bank can set the price of very short-term borrowing, and that price is the policy interest rate. In Poland this is the job of Narodowy Bank Polski (NBP); rates are decided by the Monetary Policy Council (Rada Polityki Pieniężnej, RPP), chaired by NBP President Adam Glapiński. In the euro area, rates are set by the European Central Bank's Governing Council, and in the US by the Federal Reserve's Federal Open Market Committee (FOMC). Their mandates differ: the NBP and the ECB have price stability as their primary goal, while the Fed has a 'dual mandate' of maximum employment and stable prices. Most democracies make central banks operationally independent, because politicians facing elections are tempted to cut rates for a short-term boost even when it creates inflation later; an independent bank can commit more credibly to low inflation. Keep in mind the limit of this idea: independence is a design choice made by law, it is debated, and it does not guarantee good decisions.",
+      "heading": "1. What a central bank is and what it is for"
+    },
+    {
+      "body": "Announcing a rate is not enough; the central bank must make banks actually lend to each other at about that rate. After the RPP decision of 4 November 2026, the NBP reference rate is 3.75%, the deposit rate 3.25% and the lombard rate 4.25% (Stockwatch, Strefa Inwestorów). The deposit facility lets a bank park spare money overnight at the NBP at 3.25%, so a bank with access to it has no reason to lend to another bank for less: for banks, that is the floor. The lombard facility lets a bank borrow overnight from the NBP at 4.25% against collateral such as government bonds, so no bank needs to pay more: that is the ceiling. The reference rate sits in the middle of this symmetric ±0.5-point corridor. Inside the corridor, the NBP steers the market with open-market operations: because Polish banks have more liquidity than they need, the NBP's main tool, according to its 2024 liquidity report, is the weekly issue of 7-day NBP bills paying the reference rate, which absorbs surplus money. The result is that overnight rates stay in the neighbourhood of the policy rate, though not exactly on it. POLSTR, calculated by GPW Benchmark from actual unsecured overnight deposit transactions, also includes deposits from non-bank financial institutions that cannot use the NBP's deposit facility, so it can sit below what the floor logic for banks would suggest; it has generally traded somewhat below the 3.75% reference rate since the March 2026 rate cut (the compounded one-month POLSTR index was 3.43% on 6 November 2026, polstr.info), although on 5 November the overnight rate itself was 3.77% (Finwire). This is a reminder that the corridor is a simplified model: it binds tightly for banks, more loosely for the wider market. The ECB and the Fed use the same logic with different details: the ECB's key rate is now its deposit facility rate (2.50% after 29 October 2026), and the Fed sets a target range for its overnight rate (3.75%–4.00%) and pays 3.90% interest on banks' reserves.",
+      "heading": "2. How the NBP makes its rate 'stick': the corridor"
+    },
+    {
+      "body": "The transmission mechanism is the chain through which a rate change affects spending and prices. First, the interest-rate channel: banks' own funding costs move with the policy rate, so rates on new loans and deposits follow, and so do payments on existing variable-rate loans whose rate is tied to a market index. Higher borrowing costs make households postpone buying flats and cars and make firms delay investment, while higher deposit rates reward saving. Second, the asset-price channel: higher rates make future profits and rents worth less today, so share and property prices tend to fall, and people who feel poorer spend less. Third, the exchange-rate channel from Lesson 5: higher rates attract foreign capital looking for a better return, which tends to strengthen the currency and make imports cheaper. Fourth, the expectations channel: if people trust the central bank to keep inflation near target, they ask for smaller wage and price increases, which makes the target easier to hit. Together, weaker demand and a stronger currency slow inflation. The catch is time: the effects build up over many months, and central banks commonly speak of lags of roughly one to two years before the full effect on inflation, which is why they must act on forecasts, not on today's inflation alone.",
+      "heading": "3. From the policy rate to the economy: the transmission mechanism"
+    },
+    {
+      "body": "What matters for spending decisions is the real interest rate, the nominal rate adjusted for inflation, from Lesson 6: real = (1 + nominal) ÷ (1 + inflation) − 1. With the NBP reference rate at 3.75% and Poland's flash CPI inflation for October at 3.5%, the real policy rate is (1.0375 ÷ 1.035) − 1 ≈ 0.24%, barely positive. Economists compare the real rate with the 'neutral' real rate, the rate that would neither speed up nor slow down an economy running at its normal capacity. If the real rate is above neutral, policy is 'restrictive' or 'tight'; below neutral, it is 'accommodative' or 'loose'. The neutral rate cannot be observed directly; it is estimated with models, the estimates differ widely between economists, and they change over time, so judgements about the policy stance always carry uncertainty. Strictly, the real rate that matters for decisions uses expected future inflation, not last month's figure; using current inflation is a common simplification. This matters in Poland now: analysts quoted by Stockwatch say part of the drop in inflation to 3.5% came from the government's fuel-price programme, which is set to end at year-end, so expected inflation may be higher than the latest reading.",
+      "heading": "4. Nominal and real rates: is policy tight or loose?"
+    },
+    {
+      "body": "Most modern central banks practise 'inflation targeting': they adjust rates so that forecast inflation returns to target over the medium term. When the economy runs too hot (demand-pull inflation from Lesson 6), the answer is clear: raise rates to cool demand. Supply shocks, such as the 2026 oil price surge from the Iran war, are harder, because they push inflation up while weakening output; raising rates fights the inflation but deepens the slowdown. Central banks therefore often 'look through' a one-off price jump, but act if it starts to feed into wages and expectations. A well-known simplified guide is the Taylor rule: policy rate = neutral real rate + inflation + 0.5 × (inflation − target) + 0.5 × (output gap), where the output gap is the percentage difference between actual output and capacity. With hypothetical numbers (neutral real rate 1%, inflation 3.5%, target 2.5%, output gap 0%), it suggests 1 + 3.5 + 0.5 × 1 + 0 = 5.0%. Central banks do not follow such rules mechanically; they are a cross-check, and different rule versions give different answers. Real committees also disagree: at the Fed's 28 October 2026 meeting, which kept its range at 3.75%–4.00%, two of twelve voters, Lisa Cook and Beth Hammack, wanted a 0.25-point increase.",
+      "heading": "5. How central banks decide: forecasts, shocks and trade-offs"
+    },
+    {
+      "body": "Financial markets constantly price the most likely path of future rate decisions. Short-term government bond yields, especially the 2-year yield, are roughly an average of the policy rates investors expect over the next two years plus a small extra return for risk, so they move when expectations of central-bank decisions change. As a result, a decision that markets fully expected barely moves prices, while new information that changes expectations moves them immediately. Friday's US jobs report is a clear example: payrolls rose by 165,000 in October against about 59,000 expected, so investors raised the odds of a Fed rate rise in December, and the 2-year Treasury yield rose 5 basis points to 4.51% (a basis point is one hundredth of a percentage point). Central banks use this mechanism deliberately through 'forward guidance', statements about the likely future path of rates; credible guidance moves long-term borrowing costs today without any actual change in the policy rate. The flip side is that guidance that is later broken damages credibility, which weakens the expectations channel from section 3.",
+      "heading": "6. Expectations and markets: why surprises matter"
+    },
+    {
+      "body": "Most loan rates are not the policy rate itself but a market reference index plus a fixed bank margin. For years, variable-rate loans in Poland were tied to WIBOR, a rate based on banks' quotes for interbank lending. Poland is replacing it with POLSTR (Polish Short Term Rate), a risk-free-style rate administered by GPW Benchmark and based on actual unsecured overnight deposit transactions, from which compounded 1-, 3- and 6-month indices are built; the National Working Group recommended it in December 2024, and in August 2026 the financial regulator KNF designated it a significant benchmark (mFinanse). Banks began offering POLSTR-based mortgages in September 2026 (PKO Bank Polski on 3 September, then Erste, ING and others), and these loans use the compounded one-month index, POLSTR 1M Stopa Składana, rather than the overnight rate itself; and the KNF expects supervised firms to stop signing new WIBOR-based contracts by 31 December 2026; WIBOR publication for existing contracts is planned to end on 31 December 2036. Because POLSTR follows the overnight rate, which the NBP corridor keeps close to the reference rate, a change in the NBP rate reaches POLSTR-based loans almost directly. A rough rule of thumb follows: a change of 0.25 points in the reference index changes the yearly interest by about 0.25% of the outstanding balance (divide by 12 for a month); in an equal-instalment loan the instalment itself changes by somewhat less, as Example 3 shows. Note that the exact pass-through depends on the loan contract, the index used and how often the rate is reset.",
+      "heading": "7. What it means for Polish borrowers: from WIBOR to POLSTR"
+    },
+    {
+      "body": "Interest rates are a powerful but blunt tool. They act on demand, so they cannot produce more oil or food when supply is short; they can only reduce demand until price pressure fades, at a cost in output and jobs. Rates also face a practical lower bound around zero, because people can hold cash instead of accepting deeply negative deposit rates; when rates hit that floor, central banks such as the Fed, the ECB and the NBP have instead bought government bonds to push down longer-term rates, a policy known as quantitative easing. Monetary policy can be undermined by fiscal policy: if a government runs large deficits that add to demand, the central bank must keep rates higher than otherwise to hit the same inflation target. Lags mean that by the time a rate change works, the situation may already have changed, so central banks sometimes over- or under-shoot. Finally, the mainstream view that independent central banks deliver lower inflation is widely accepted, but economists and politicians debate how much power unelected officials should have and how they should be held accountable, especially when rate decisions have large effects on household budgets.",
+      "heading": "8. Limits: what interest rates cannot do"
+    }
+  ],
+  "takeaways": [
+    "The policy rate is the price of very short-term central-bank money: the RPP sets the NBP reference rate (3.75% after 4 November 2026), the ECB's key rate is its deposit rate (2.50%) and the Fed targets 3.75%–4.00%.",
+    "A corridor makes the rate stick: the deposit rate (3.25%) is the floor, the lombard rate (4.25%) the ceiling, and open-market operations at the reference rate keep overnight rates in its neighbourhood (POLSTR, which also reflects non-bank lenders, has recently traded somewhat below it).",
+    "Transmission runs through loan and deposit rates, asset prices, the exchange rate and expectations to demand and inflation, with lags of roughly one to two years.",
+    "The stance of policy depends on the real rate, (1 + nominal) ÷ (1 + expected inflation) − 1, compared with an uncertain neutral rate; Poland's real policy rate is now only about 0.24%.",
+    "Markets react to surprises: yields such as the US 2-year move when data change the expected path of rates, even without a decision.",
+    "Rates cannot fix supply shortages, hit a floor near zero, and can be offset by loose government budgets; Polish loans are moving from WIBOR to POLSTR, which follows NBP policy closely."
+  ],
+  "title": "Central banks and interest rates",
+  "workedExamples": [
+    {
+      "problem": "The NBP reference rate is 3.75% (RPP decision of 4 November 2026, Stockwatch) and Poland's flash CPI inflation for October 2026 was 3.5%. (a) Calculate the real policy rate exactly and with the quick approximation. (b) Analysts expect inflation to rise when the fuel-price programme ends. If inflation rose to 4.0% (hypothetical) with the rate unchanged, what would the real rate be? (c) What would that mean for the stance of policy?",
+      "solution": "(a) Exact: (1 + 0.0375) ÷ (1 + 0.035) − 1 = 1.0375 ÷ 1.035 − 1 = 1.002415 − 1 = 0.002415, i.e. about 0.24%. Approximation: 3.75% − 3.5% = 0.25%. The two are close because rates are small. (b) (1.0375 ÷ 1.04) − 1 = 0.997596 − 1 = −0.002404, i.e. about −0.24%. (c) Without any decision by the RPP, policy would become looser in real terms: the real rate would fall from slightly positive to slightly negative, so borrowing would be cheaper relative to rising prices. This is why central banks watch expected inflation: a fixed nominal rate can mean a looser stance if inflation rises.",
+      "title": "Example 1: Poland's real policy rate now, and if inflation rises"
+    },
+    {
+      "problem": "A Polish bank has 100 million zł of spare money overnight. Another bank offers to borrow it at 3.10%. The NBP deposit rate is 3.25% (after the 4 November 2026 decision). Using a 365-day year, compare the interest from lending to the other bank with the interest from the NBP deposit facility.",
+      "solution": "Interest from the NBP: 100,000,000 × 0.0325 ÷ 365 = 8,904.11 zł. Interest from the other bank: 100,000,000 × 0.0310 ÷ 365 = 8,493.15 zł. The NBP pays 8,904.11 − 8,493.15 = 410.96 zł more for one night, with no credit risk. So a bank with access to the NBP will not lend overnight below 3.25%: for banks, the deposit rate is a floor (lenders without NBP access, such as some non-bank financial firms, can accept less, which is one reason market indices such as POLSTR can sit below the reference rate). By the same logic, no bank will borrow above the lombard rate of 4.25%, because it can borrow from the NBP at that rate against collateral. This is how a corridor of 3.25%–4.25% keeps overnight rates in the neighbourhood of the 3.75% reference rate.",
+      "title": "Example 2: Why nobody lends below the floor of the corridor"
+    },
+    {
+      "problem": "Hypothetical numbers: a 400,000 zł variable-rate mortgage repaid over 25 years (300 monthly instalments) in equal instalments, with a bank margin of 2.00 points on top of the reference index. Take the index at 3.43% (the compounded one-month POLSTR index, the benchmark used for new POLSTR mortgages, was 3.4267% on 6 November 2026 according to polstr.info; rounded here). Calculate the monthly payment, then the payment if the index rises by 0.50 points.",
+      "solution": "Annual rate = 3.43% + 2.00% = 5.43%, monthly rate r = 0.0543 ÷ 12 = 0.004525. The equal-instalment formula is P = L × r ÷ (1 − (1 + r)^−n) with L = 400,000 and n = 300. This gives P ≈ 2,439.66 zł a month. After a 0.50-point rise, the annual rate is 5.93%, r ≈ 0.0049417, and P ≈ 2,560.12 zł. The payment rises by about 120.46 zł a month, or about 4.9%. As a check, the rule of thumb (0.5% × 400,000 ÷ 12 ≈ 166.67 zł more interest in the first month) overstates the change in the instalment, because in an equal-instalment loan part of the effect is spread over the remaining term. The lesson: small changes in the policy rate add up to noticeable sums for households with large variable-rate loans.",
+      "title": "Example 3: What a 0.5-point rise in the index does to a mortgage payment"
+    },
+    {
+      "problem": "The Fed's target range is 3.75%–4.00% after its 28 October 2026 meeting. Suppose (hypothetical) that markets price a 75% chance of a 0.25-point rise at the Fed's December meeting and a 25% chance of no change. (a) What is the market's expected midpoint after December? (b) The 2-year Treasury yield rose from 4.46% to 4.51% after Friday's jobs report (The Closing Print). Express the change in basis points and explain the link.",
+      "solution": "(a) Current midpoint = (3.75 + 4.00) ÷ 2 = 3.875%. Expected change = 0.75 × 0.25 + 0.25 × 0 = 0.1875 points. Expected midpoint = 3.875 + 0.1875 = 4.0625%. (b) 4.51 − 4.46 = 0.05 points = 5 basis points. The 2-year yield roughly reflects the average policy rate expected over two years; a stronger-than-expected jobs report (165,000 jobs versus about 59,000 expected) raised the expected path of Fed rates, so the yield rose even though the Fed did nothing that day.",
+      "title": "Example 4: Reading what the market expects from the Fed"
+    }
+  ],
+  "updatedAt": "2026-11-07T19:14:13.167831Z"
+}

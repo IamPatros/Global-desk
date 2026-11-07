@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-07T10:16:20Z",
+  "updated": "2026-11-07T19:16:07Z",
   "editions": [
+    {
+      "id": "2026-11-07-2000",
+      "createdAt": "2026-11-07T19:00:02Z",
+      "label": "Sat 7 Nov · evening",
+      "status": "complete",
+      "updatedAt": "2026-11-07T19:14:26.205966Z"
+    },
     {
       "id": "2026-11-07-1000",
       "createdAt": "2026-11-07T09:01:00Z",
