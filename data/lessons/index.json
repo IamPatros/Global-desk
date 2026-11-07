@@ -1,45 +1,53 @@
 {
- "updated": "2026-11-06T19:16:55Z",
- "lessons": [
-  {
-   "number": 1,
-   "title": "What a market is and why news moves it",
-   "level": "Foundations",
-   "date": "4 Nov 2026",
-   "createdAt": "2026-11-04T11:00:00Z",
-   "updatedAt": "2026-11-04T19:12:00.697549Z"
-  },
-  {
-   "number": 2,
-   "title": "Supply, demand and prices",
-   "level": "Foundations",
-   "date": "5 Nov 2026",
-   "createdAt": "2026-11-05T09:30:00Z",
-   "updatedAt": "2026-11-05T09:16:27.476802Z"
-  },
-  {
-   "number": 3,
-   "title": "What a share (stock) is",
-   "level": "Foundations",
-   "date": "5 Nov 2026",
-   "createdAt": "2026-11-05T18:58:28Z",
-   "updatedAt": "2026-11-05T19:13:00.317224Z"
-  },
-  {
-   "number": 4,
-   "title": "Stock indices: the market's thermometer",
-   "level": "Foundations",
-   "date": "6 Nov 2026",
-   "createdAt": "2026-11-06T09:05:48Z",
-   "updatedAt": "2026-11-06T09:14:46.035635Z"
-  },
-  {
-   "number": 5,
-   "title": "Money and currencies: why exchange rates move",
-   "level": "Foundations",
-   "date": "6 Nov 2026",
-   "createdAt": "2026-11-06T19:13:22Z",
-   "updatedAt": "2026-11-06T19:13:30.767674Z"
-  }
- ]
+  "updated": "2026-11-07T09:16:47Z",
+  "lessons": [
+    {
+      "number": 1,
+      "title": "What a market is and why news moves it",
+      "level": "Foundations",
+      "date": "4 Nov 2026",
+      "createdAt": "2026-11-04T11:00:00Z",
+      "updatedAt": "2026-11-04T19:12:00.697549Z"
+    },
+    {
+      "number": 2,
+      "title": "Supply, demand and prices",
+      "level": "Foundations",
+      "date": "5 Nov 2026",
+      "createdAt": "2026-11-05T09:30:00Z",
+      "updatedAt": "2026-11-05T09:16:27.476802Z"
+    },
+    {
+      "number": 3,
+      "title": "What a share (stock) is",
+      "level": "Foundations",
+      "date": "5 Nov 2026",
+      "createdAt": "2026-11-05T18:58:28Z",
+      "updatedAt": "2026-11-05T19:13:00.317224Z"
+    },
+    {
+      "number": 4,
+      "title": "Stock indices: the market's thermometer",
+      "level": "Foundations",
+      "date": "6 Nov 2026",
+      "createdAt": "2026-11-06T09:05:48Z",
+      "updatedAt": "2026-11-06T09:14:46.035635Z"
+    },
+    {
+      "number": 5,
+      "title": "Money and currencies: why exchange rates move",
+      "level": "Foundations",
+      "date": "6 Nov 2026",
+      "createdAt": "2026-11-06T19:13:22Z",
+      "updatedAt": "2026-11-06T19:13:30.767674Z"
+    },
+    {
+      "number": 6,
+      "title": "Inflation: why things get more expensive",
+      "level": "Foundations",
+      "date": "7 Nov 2026",
+      "createdAt": "2026-11-07T10:05:00Z",
+      "updatedAt": "2026-11-07T09:13:50.124258Z"
+    }
+  ]
 }

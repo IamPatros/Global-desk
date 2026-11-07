@@ -1,0 +1,1193 @@
+{
+  "bigPicture": "The United States carried out what President Trump called 'minor' strikes on Iranian air defences on Qeshm Island while saying talks with Iran have made 'a lot of progress', and Qatar insisted the negotiations have not failed. Oil ended its steepest week since 2020, with Brent settling at $98.32, as traders bet on de-escalation, while Wall Street's chip stocks bounced but the S&P 500 still lost 2.7% over the week after a strong US jobs report raised the odds of a Fed rate rise. In politics, Trump named Stephen Miller as his new chief of staff after the midterm defeat, and Paraguay's Senate removed President Santiago Peña over a bank collapse that froze the savings of about three million people. Russia struck Kyiv overnight, damaging a major bridge days before planned peace talks in Abu Dhabi. Late on Friday S&P cut the outlook on Poland's A− credit rating to negative, citing a deficit above 7% of GDP and political deadlock over vetoes.",
+  "createdAt": "2026-11-07T09:01:00Z",
+  "glossary": [
+    {
+      "def": "An index that tracks the cost of a fixed basket of goods and services bought by households; its percentage change is the inflation rate.",
+      "example": "GUS's flash CPI for October 2026 showed prices 3.5% higher than a year earlier.",
+      "term": "Consumer price index (CPI)"
+    },
+    {
+      "def": "A fall in the inflation rate while prices keep rising, only more slowly. Not the same as deflation, which is falling prices.",
+      "example": "Polish inflation easing from 4.1% to 3.5% is disinflation.",
+      "term": "Disinflation"
+    },
+    {
+      "def": "Inflation excluding the most volatile items, usually energy and food (and in the euro area also alcohol and tobacco), used to see the underlying trend.",
+      "example": "Euro-area core inflation was 2.5% in October while headline inflation was 4.0%.",
+      "term": "Core inflation"
+    },
+    {
+      "def": "A change in a year-on-year rate caused by what happened in the same period a year earlier, rather than by current price changes.",
+      "example": "When last year's big fuel price jump leaves the 12-month window, annual inflation falls.",
+      "term": "Base effect"
+    },
+    {
+      "def": "The interest rate after allowing for inflation: (1 + nominal rate) ÷ (1 + inflation) − 1, roughly nominal rate minus inflation.",
+      "example": "A 3.75% rate with 3.5% inflation gives a real rate of about 0.24%.",
+      "term": "Real interest rate"
+    },
+    {
+      "def": "An agency's opinion, expressed as a letter grade, of how likely a borrower such as a government is to repay its debts in full and on time.",
+      "example": "S&P rates Poland's foreign-currency debt A−.",
+      "term": "Credit rating"
+    },
+    {
+      "def": "An agency's signal of the likely direction of a rating in the future: positive, stable or negative.",
+      "example": "S&P moved Poland's outlook from stable to negative on 6 November.",
+      "term": "Rating outlook"
+    },
+    {
+      "def": "A procedure by which a legislature charges and can remove a senior official, such as a president, from office.",
+      "example": "Paraguay's Senate removed President Peña after an impeachment trial.",
+      "term": "Impeachment"
+    },
+    {
+      "def": "The situation of a company or bank that owes more than it owns or cannot pay its debts as they fall due.",
+      "example": "Paraguay's central bank took over Ueno Bank over insolvency.",
+      "term": "Insolvency"
+    },
+    {
+      "def": "An electoral system in which voters choose both a local representative and a party, and party votes largely decide each party's share of seats.",
+      "example": "New Zealand elects its parliament under MMP.",
+      "term": "Mixed-member proportional (MMP)"
+    },
+    {
+      "def": "An extra seat that arises under MMP when a party wins more electorate seats than its party-vote share entitles it to; it keeps them and parliament grows.",
+      "example": "Overhangs could enlarge New Zealand's parliament to 131 seats.",
+      "term": "Overhang seat"
+    },
+    {
+      "def": "A group of 17 metallic elements used in powerful magnets, electronics and weapons; their mining and processing are concentrated in a few countries.",
+      "example": "The US is pressing China to deliver rare earths promised in the Busan trade deal.",
+      "term": "Rare earths"
+    },
+    {
+      "def": "A greenhouse gas released by fossil-fuel production, agriculture and waste; it traps much more heat than carbon dioxide in the decades after release, though it breaks down faster.",
+      "example": "The EU delayed rules on methane emissions linked to imported gas, oil and coal.",
+      "term": "Methane"
+    },
+    {
+      "def": "Fine airborne particles 2.5 micrometres or smaller, small enough to reach deep into the lungs and the bloodstream.",
+      "example": "Smog in Delhi, and in Polish cities in winter, is measured largely by PM2.5.",
+      "term": "PM2.5"
+    }
+  ],
+  "label": "Sat 7 Nov · morning",
+  "lessonNumber": 6,
+  "markets": [
+    {
+      "change": 0.3,
+      "changeText": "+0.3%",
+      "group": "Stocks · Americas",
+      "key": true,
+      "name": "S&P 500",
+      "note": "Friday close; chip stocks rebounded but the index fell 2.7% over the week on AI and data-centre worries (AP).",
+      "region": "US",
+      "value": "7,376.86",
+      "what": "An index of 500 large US companies, weighted by size."
+    },
+    {
+      "change": 1.1,
+      "changeText": "+1.1%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Nasdaq Composite",
+      "note": "Friday close; led by chipmakers such as AMD (+11%); down 3.4% on the week (AP).",
+      "region": "US",
+      "value": "24,579.42",
+      "what": "An index of all shares listed on the Nasdaq exchange, heavy in technology."
+    },
+    {
+      "change": -0.5,
+      "changeText": "−0.5%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Dow Jones Industrial Average",
+      "note": "Friday close; down 0.9% on the week (AP).",
+      "region": "US",
+      "value": "51,285.73",
+      "what": "A price-weighted index of 30 big US companies."
+    },
+    {
+      "change": -1.92,
+      "changeText": "−1.9%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "DAX",
+      "note": "Friday close; global sell-off in tech and chip shares and fears of stricter US AI rules (ad-hoc-news).",
+      "region": "Germany",
+      "value": "25,820.36",
+      "what": "Index of 40 large German companies; it includes reinvested dividends."
+    },
+    {
+      "change": -1,
+      "changeText": "−1.0%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "Stoxx Europe 600",
+      "note": "Friday close, following the tech sell-off (Capp Notes closing data).",
+      "region": "Europe",
+      "value": "648.33",
+      "what": "Index of 600 large and mid-sized European companies."
+    },
+    {
+      "change": -1.01,
+      "changeText": "−1.0%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "FTSE 100",
+      "note": "Friday close (Capp Notes closing data).",
+      "region": "UK",
+      "value": "10,673.94",
+      "what": "Index of the 100 largest companies listed in London."
+    },
+    {
+      "change": -1.85,
+      "changeText": "−1.85%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "WIG20",
+      "note": "Friday close; Orlen fell about 7% after results below forecasts; investors also awaited S&P's rating review (ISBnews, XYZ).",
+      "region": "Poland",
+      "value": "4,131.37",
+      "what": "Index of the 20 largest companies on the Warsaw Stock Exchange."
+    },
+    {
+      "change": -5.96,
+      "changeText": "−6.0%",
+      "group": "Stocks · Asia-Pacific",
+      "key": true,
+      "name": "Nikkei 225",
+      "note": "Friday close; chip shares slumped after Thursday's US AI sell-off (AP, Capp Notes).",
+      "region": "Japan",
+      "value": "57,434.77",
+      "what": "Price-weighted index of 225 large Japanese companies."
+    },
+    {
+      "change": -6.02,
+      "changeText": "−6.0%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Kospi",
+      "note": "Friday close; heavy in chipmakers such as Samsung and SK Hynix (Capp Notes).",
+      "region": "South Korea",
+      "value": "5,059.69",
+      "what": "Index of all shares on South Korea's main market."
+    },
+    {
+      "change": -1.27,
+      "changeText": "−1.3%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Hang Seng",
+      "note": "Friday close (Capp Notes).",
+      "region": "Hong Kong",
+      "value": "24,481.86",
+      "what": "Index of the largest companies listed in Hong Kong."
+    },
+    {
+      "change": 2.01,
+      "changeText": "+2.0%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Nifty 50",
+      "note": "Friday close; India rose against the regional trend (Capp Notes).",
+      "region": "India",
+      "value": "25,030.35",
+      "what": "Index of 50 large Indian companies."
+    },
+    {
+      "change": -0.49,
+      "changeText": "−0.5%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "S&P/ASX 200",
+      "note": "Friday close (Capp Notes).",
+      "region": "Australia",
+      "value": "9,020.80",
+      "what": "Index of the 200 largest Australian companies."
+    },
+    {
+      "change": null,
+      "changeText": "steady",
+      "group": "Currencies",
+      "key": true,
+      "name": "EUR/PLN",
+      "note": "NBP average (fixing) rate for Friday 6 Nov; S&P's negative outlook came after markets closed (totalmoney.pl).",
+      "region": "Poland",
+      "value": "4.3925",
+      "what": "How many złoty one euro costs."
+    },
+    {
+      "change": null,
+      "changeText": "higher",
+      "group": "Currencies",
+      "key": true,
+      "name": "USD/PLN",
+      "note": "The dollar rose broadly on Friday after the strong US jobs report (dollar index +0.7%), so it also gained against the złoty (Closing Print, Capp Notes).",
+      "region": "Poland",
+      "value": "",
+      "what": "How many złoty one US dollar costs."
+    },
+    {
+      "change": -0.8,
+      "changeText": "−0.8%",
+      "group": "Currencies",
+      "key": false,
+      "name": "EUR/USD",
+      "note": "Late Friday level; the dollar strengthened as a December Fed rate rise became more likely (Capp Notes).",
+      "region": "Euro area / US",
+      "value": "≈1.114",
+      "what": "How many dollars one euro costs."
+    },
+    {
+      "change": null,
+      "changeText": "≈ flat",
+      "group": "Currencies",
+      "key": false,
+      "name": "USD/JPY",
+      "note": "Late Friday level (Capp Notes).",
+      "region": "Japan / US",
+      "value": "≈158.4",
+      "what": "How many yen one dollar costs."
+    },
+    {
+      "change": null,
+      "changeText": "≈ −16% on the week",
+      "group": "Commodities",
+      "key": true,
+      "name": "Brent crude oil",
+      "note": "Friday settlement; steepest weekly fall since 2020 on hopes of US–Iran de-escalation (Gulf News, Reuters).",
+      "region": "Global",
+      "value": "$98.32",
+      "what": "The main international oil benchmark, price per barrel."
+    },
+    {
+      "change": null,
+      "changeText": "≈ −13% on the week",
+      "group": "Commodities",
+      "key": false,
+      "name": "WTI crude oil",
+      "note": "Friday settlement (Gulf News, Reuters).",
+      "region": "US",
+      "value": "$90.83",
+      "what": "The main US oil benchmark, price per barrel."
+    },
+    {
+      "change": -0.8,
+      "changeText": "−0.8%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Gold (futures)",
+      "note": "Friday; a stronger dollar and higher yields after the jobs data weighed on gold, though it rose about 4.6% on the week (Closing Print).",
+      "region": "Global",
+      "value": "≈$4,080",
+      "what": "Price of one troy ounce of gold, a traditional safe haven."
+    },
+    {
+      "change": null,
+      "changeText": "+2 bp",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 10-year Treasury yield",
+      "note": "Friday; rose after the strong jobs report (AP).",
+      "region": "US",
+      "value": "4.86%",
+      "what": "The interest rate the US government pays to borrow for 10 years."
+    },
+    {
+      "change": null,
+      "changeText": "+5 bp",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 2-year Treasury yield",
+      "note": "Friday; short-term yields rose most as markets priced in a possible December Fed hike (Capp Notes).",
+      "region": "US",
+      "value": "4.51%",
+      "what": "The rate on 2-year US government debt; very sensitive to expected Fed decisions."
+    }
+  ],
+  "marketsAsOf": "Closing levels for Friday 6 November 2026 (markets are shut for the weekend); oil at Friday settlement; EUR/PLN is the NBP fixing for 6 Nov.",
+  "quiz": [
+    {
+      "answer": 2,
+      "explain": "Reuters linked the fall to hopes of de-escalation after Republican midterm losses and to spot premiums returning to pre-war levels. Attacks on ships limited the fall; no reopening of Hormuz has been announced.",
+      "options": [
+        "OPEC announced a large output increase",
+        "The Strait of Hormuz was fully reopened",
+        "Traders bet that US midterm results make US–Iran de-escalation more likely, and signs of oversupply appeared",
+        "US gasoline demand collapsed"
+      ],
+      "q": "Why did oil prices fall about 16% this week even though tanker attacks continued?"
+    },
+    {
+      "answer": 0,
+      "explain": "Limited strikes plus talk of progress suggest pressure and diplomacy at once; Qatar said talks have not failed, while Iran still demands concessions and no Hormuz deal exists.",
+      "options": [
+        "Washington keeps military pressure on while leaving room for a Qatar-mediated deal",
+        "The war has formally ended",
+        "The US has ruled out any future strikes",
+        "Iran has accepted all US conditions"
+      ],
+      "q": "Trump called the Qeshm strikes 'minor' while saying there had been 'a lot of progress' with Iran. Which reading best fits the reports?"
+    },
+    {
+      "answer": 3,
+      "explain": "Strong hiring signals demand pressure, so markets expect the Fed to raise rates; higher expected rates lift yields and attract money into dollars.",
+      "options": [
+        "It made Fed rate cuts certain",
+        "It reduced US government borrowing",
+        "It lowered oil prices",
+        "It made a Federal Reserve rate rise in December more likely"
+      ],
+      "q": "Why did a strong US jobs report coincide with higher Treasury yields and a stronger dollar?"
+    },
+    {
+      "answer": 1,
+      "explain": "Thursday's rout erased much of the week's gains; Friday's bounce was narrow, with more S&P 500 shares falling than rising.",
+      "options": [
+        "Friday's gains were larger than Thursday's losses",
+        "Thursday's sell-off on AI data-centre worries outweighed Friday's narrow rebound",
+        "Energy stocks rose too much",
+        "The Dow fell 2.7% on Friday"
+      ],
+      "q": "Chip stocks rose on Friday, yet the S&P 500 lost 2.7% over the week. What explains the weekly loss?"
+    },
+    {
+      "answer": 2,
+      "explain": "An outlook signals the likely direction of the rating. S&P cited a deficit above 7% of GDP, net debt rising above 70% of GDP by 2029, and political deadlock over vetoes.",
+      "options": [
+        "Poland has defaulted on its debt",
+        "The rating was cut two notches",
+        "A future downgrade has become more likely, mainly because of rising debt",
+        "Poland's GDP is shrinking"
+      ],
+      "q": "S&P kept Poland's rating at A− but changed the outlook to negative. What does that mean?"
+    },
+    {
+      "answer": 3,
+      "explain": "S&P said consolidation is harder before parliamentary elections and because President Nawrocki can veto laws; it still expects GDP growth of about 3% a year in 2027–2029.",
+      "options": [
+        "The NBP refuses to buy government bonds",
+        "EU funds have been stopped",
+        "Poland's economy is in recession",
+        "Upcoming elections and the president's ability to veto the government's laws"
+      ],
+      "q": "Which reason did S&P give for its view that cutting Poland's deficit will be difficult?"
+    },
+    {
+      "answer": 0,
+      "explain": "MercoPress reported that removal by impeachment means Peña loses the lifetime Senate seat and parliamentary immunity he would have gained had Congress accepted his resignation.",
+      "options": [
+        "Removal denies him the lifetime Senate seat and immunity a former president would get",
+        "The constitution forbids resignations",
+        "He refused to resign",
+        "The Supreme Court ordered it"
+      ],
+      "q": "Why did Paraguay's Senate remove President Peña rather than accept his resignation?"
+    },
+    {
+      "answer": 1,
+      "explain": "The central bank took over Ueno Bank over insolvency and irregular loans, freezing deposits of about 60% of the adult population; the bank's former CEO had been appointed central bank chief by Peña.",
+      "options": [
+        "A disputed election",
+        "The collapse of Ueno Bank, which froze the deposits of nearly three million customers",
+        "A currency devaluation",
+        "A general strike"
+      ],
+      "q": "What triggered the political crisis in Paraguay?"
+    },
+    {
+      "answer": 3,
+      "explain": "The story notes the pattern of escalation before negotiations; Russia hit Kyiv's Northern Bridge and power lines while Ukraine reportedly struck Russian refineries.",
+      "options": [
+        "A ceasefire has just been signed",
+        "NATO asked them to",
+        "Winter has ended",
+        "Each side seeks a stronger bargaining position before US-led talks in Abu Dhabi"
+      ],
+      "q": "Why do both Russia and Ukraine appear to be escalating strikes right now?"
+    },
+    {
+      "answer": 2,
+      "explain": "Greer and Bessent urged 'concrete actions' on commitments from the Busan deal, including rare earths and soybeans, before the truce expires on 10 January.",
+      "options": [
+        "China's yuan is too strong",
+        "China refuses to attend APEC",
+        "China has not fully delivered on commitments such as rare-earth supplies and farm purchases",
+        "China raised tariffs to 100%"
+      ],
+      "q": "What is the main US complaint in the latest trade call with China?"
+    },
+    {
+      "answer": 0,
+      "explain": "Under MMP the party vote mostly sets seat shares; the three right-leaning parties together won more seats than Labour, Greens and Te Pāti Māori on the early count.",
+      "options": [
+        "Seats depend on the combined party votes of possible coalition partners, plus overhang seats",
+        "Labour was disqualified",
+        "Only electorate seats count",
+        "The prime minister is chosen by referendum"
+      ],
+      "q": "New Zealand's Labour narrowly led the party vote, yet National, ACT and NZ First were projected to hold a bare majority. How is that possible?"
+    },
+    {
+      "answer": 1,
+      "explain": "The Commission proposed the delay because of rising energy prices; the Parliament wants an even longer, three-year moratorium.",
+      "options": [
+        "Methane was found to be harmless",
+        "Because of high energy prices and market pressures linked to the war with Iran",
+        "Because the European Parliament wanted stricter rules",
+        "Because COP31 was cancelled"
+      ],
+      "q": "Why did the EU decide to delay its methane rules on imported gas, oil and coal?"
+    },
+    {
+      "answer": 3,
+      "explain": "Reuters noted the two indices use different scales and methodologies; both put Delhi's air in a very unhealthy range.",
+      "options": [
+        "One of them is fake",
+        "They measured different cities",
+        "The official reading was taken a week earlier",
+        "They use different scales and methods, so they are not directly comparable"
+      ],
+      "q": "IQAir gave Delhi an AQI of 581 while India's official board gave 363. Why can both be reported?"
+    },
+    {
+      "answer": 0,
+      "explain": "Pulse reported the judge's reasons: preventing 'false martyrdom', sustained accountability and the chance of locating victims. Prosecutors had sought death.",
+      "options": [
+        "She said execution could make him a martyr to followers and would not deter, and that keeping convicts alive may help find graves",
+        "Kenya abolished it last year",
+        "Prosecutors did not ask for it",
+        "He was found not guilty of murder"
+      ],
+      "q": "Why did the Kenyan judge reject the death penalty for Paul Mackenzie?"
+    },
+    {
+      "answer": 2,
+      "explain": "The cap is the average wholesale price plus excise, fuel fee, 30 groszy and VAT, so falls in crude feed through within days.",
+      "options": [
+        "Excise duty was abolished",
+        "Orlen cut its margins voluntarily",
+        "The cap formula follows wholesale prices, which fell with crude oil",
+        "The NBP lowered interest rates"
+      ],
+      "q": "Why did Poland's maximum petrol price fall to 6.12 zł for the weekend?"
+    },
+    {
+      "answer": 1,
+      "explain": "Both Asian indices fell about 6% on Friday as chip shares slumped; the WIG20 fell 1.85% with Orlen down about 7%, gold slipped as the dollar rose, and Brent settled at $98.32.",
+      "options": [
+        "The WIG20 rose because of Orlen",
+        "The Nikkei and Kospi each fell about 6% after the US AI sell-off",
+        "Gold rose because the dollar weakened",
+        "Brent settled above $105"
+      ],
+      "q": "Which statement about Friday's market snapshot is correct?"
+    },
+    {
+      "answer": 0,
+      "explain": "USD/PLN = EUR/PLN ÷ EUR/USD = 4.39 ÷ 1.114 ≈ 3.94.",
+      "options": [
+        "About 3.94",
+        "About 4.89",
+        "About 3.28",
+        "About 4.39"
+      ],
+      "q": "Review (Lesson 5): EUR/PLN is 4.39 and EUR/USD is 1.114. What is the implied USD/PLN cross rate?"
+    },
+    {
+      "answer": 3,
+      "explain": "Required rise = 1 ÷ (1 − 0.20) − 1 = 25%.",
+      "options": [
+        "20%",
+        "15%",
+        "40%",
+        "25%"
+      ],
+      "q": "Review (Lesson 4): an index falls 20%. What rise is needed to get back to the starting level?"
+    },
+    {
+      "answer": 2,
+      "explain": "Cash leaves the company, so the share price drops by roughly the dividend amount.",
+      "options": [
+        "It rises by about 2 zł",
+        "It doubles",
+        "It falls by about 2 zł",
+        "Nothing, dividends do not affect prices"
+      ],
+      "q": "Review (Lesson 3): a company pays a dividend of 2 zł per share. What usually happens to the share price when it goes ex-dividend, other things equal?"
+    }
+  ],
+  "status": "partial",
+  "stories": [
+    {
+      "category": "Politics & conflict",
+      "everyday": "As long as Hormuz stays restricted, oil and fuel prices carry a 'war premium' that reaches Polish petrol stations and heating bills. Each sign of a deal tends to push oil prices down, and each strike pushes them up.",
+      "id": "iran-qeshm-minor-strikes",
+      "importance": 5,
+      "markets": [
+        "Brent crude",
+        "WTI crude",
+        "Gulf shipping and tanker insurance",
+        "Airlines"
+      ],
+      "rank": 1,
+      "rankWhy": "The US–Iran war decides whether oil keeps flowing through the Strait of Hormuz, which matters for fuel prices and inflation almost everywhere, Poland included.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Al Jazeera / AP – Trump confirms new US strikes on Iran's Qeshm island",
+          "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island"
+        },
+        {
+          "name": "Al Jazeera – Iran war live, 7 November",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal"
+        },
+        {
+          "name": "Gulf News – Key updates, 7 November",
+          "url": "https://gulfnews.com/uae/middle-east-war-5-things-uae-residents-need-to-know-today-nov-7-2026-1.500739193"
+        },
+        {
+          "name": "CBS News – Iran war live updates",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+        }
+      ],
+      "terms": [
+        "Strait of Hormuz",
+        "Drone (UAV)",
+        "Mediation"
+      ],
+      "title": "US carries out 'minor' strikes on Iran's Qeshm Island as Trump says talks have made 'a lot of progress'",
+      "what": "US forces struck Iranian air-defence systems on Qeshm Island, in the Strait of Hormuz, on Friday; Iranian state media reported two missile strikes in the island's Suza area and semi-official outlets reported no casualties. Speaking in West Palm Beach, Florida, President Donald Trump called them 'minor strikes' that knocked out a small anti-aircraft device, and said 'we've made a lot of progress with Iran' without giving details. Iran's state broadcaster said its air defences shot down an American MQ-9 drone (an unmanned surveillance and attack aircraft) over the island. Late on Friday the US Central Command (CENTCOM, the US military command for the Middle East) offered up to $20 million for information on Iran's nuclear programme. On Saturday Qatar's foreign ministry spokesman Majed al-Ansari rejected reports that US–Iran talks had failed, and Qatar's prime minister said the two sides cannot wait for a 'perfect moment' to make peace.",
+      "why": "These were the first US strikes since Trump's Republicans lost ground in the 3 November midterm elections, which Trump has partly blamed on the war, Al Jazeera and AP reported. Calling the strikes 'minor' while talking up progress suggests Washington is keeping military pressure on Tehran while leaving room for a deal mediated by Qatar. Iran, according to AP, still demands concessions before negotiating, and no agreement to reopen the Strait of Hormuz to normal shipping has been announced, Gulf News reported."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Cheaper crude usually reaches Polish fuel prices with a delay of days to weeks, and the effect is smaller in złoty terms if the dollar strengthens at the same time, as it did on Friday. Kpler's Matt Stanley warned that oil can still be 'expensive' at lower prices because the underlying problems remain.",
+      "id": "oil-biggest-weekly-fall",
+      "importance": 4,
+      "markets": [
+        "Brent crude",
+        "WTI crude",
+        "Energy stocks",
+        "Orlen"
+      ],
+      "rank": 2,
+      "rankWhy": "Oil feeds into the price of transport, food and heating everywhere; a fall of this size, if it lasts, eases inflation pressure worldwide.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "RTÉ / Reuters – Brent set for biggest weekly drop since 2020",
+          "url": "https://www.rte.ie/news/business/2026/1106/1598252-world-oil-prices/"
+        },
+        {
+          "name": "Euronext / Reuters – Crude gains on worries about renewed US attacks on Iran",
+          "url": "https://live.euronext.com/en/financial-news/brent-oil-price-benchmark-set-biggest-weekly-drop-2020"
+        },
+        {
+          "name": "Gulf News – Key updates, 7 November (settlement prices)",
+          "url": "https://gulfnews.com/uae/middle-east-war-5-things-uae-residents-need-to-know-today-nov-7-2026-1.500739193"
+        }
+      ],
+      "terms": [
+        "Brent crude",
+        "Spot premium",
+        "Benchmark"
+      ],
+      "title": "Oil ends its steepest week since 2020: Brent settles at $98.32 after a fall of about 16%",
+      "what": "Brent crude, the international benchmark, settled at $98.32 a barrel on Friday and US WTI crude at $90.83, Gulf News reported. Over the week Brent fell by about 16%, which Reuters (via RTÉ) described as its steepest weekly percentage fall since the start of the Covid-19 pandemic in 2020 and its largest absolute weekly drop in LSEG data going back to 1988; WTI fell about 13%. Prices had dropped 8% on Wednesday alone after the US midterm elections, then recovered slightly as tanker attacks in the Gulf continued.",
+      "why": "Traders reasoned that Republican losses make a US–Iran de-escalation more likely, which could let more Middle Eastern crude reach the market, Reuters reported. Spot premiums (the extra price paid for immediate delivery) for Middle Eastern crude have returned to pre-war levels, a sign of more supply than demand; Rystad Energy's Janiv Shah said the market is 'loosening to a state of oversupply'. Attacks on ships, which Britain's UKMTO says are near record levels, are what keeps prices from falling further."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Many Polish savers hold US shares indirectly through funds and PPK retirement plans, so weekly swings like this show up in statements. A stronger dollar also makes dollar-priced goods slightly more expensive in złoty.",
+      "id": "wall-street-week-chips-rebound",
+      "importance": 4,
+      "markets": [
+        "S&P 500",
+        "Nasdaq Composite",
+        "Dow Jones",
+        "Nvidia",
+        "AMD",
+        "US Treasuries",
+        "US dollar"
+      ],
+      "rank": 3,
+      "rankWhy": "US stocks set the mood for markets worldwide and the AI-chip boom underpins much of the market's value, so its swings reach pension funds and savers everywhere.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "AP via myMotherLode – How major US stock indexes fared Friday 11/6/2026",
+          "url": "https://mymotherlode.com/news/national/11287401/how-major-us-stock-indexes-fared-friday-11-6-2026.html"
+        },
+        {
+          "name": "AP via News4JAX – Asian benchmarks decline after AI worries",
+          "url": "https://www.news4jax.com/business/2026/11/06/japans-stock-benchmark-nikkei-tumbles-more-than-6-after-trading-opens/"
+        },
+        {
+          "name": "The Closing Print – Post-market and weekly summary, 6 Nov",
+          "url": "https://www.theclosingprint.net/2026/11/post-market-and-weekly-summary-2026-11-06/"
+        }
+      ],
+      "terms": [
+        "Treasury yield",
+        "Market breadth"
+      ],
+      "title": "Chip stocks bounce on Friday, but the S&P 500 still ends the week down 2.7%",
+      "what": "On Friday the Nasdaq Composite rose 1.1% to 24,579.42 and the S&P 500 rose 0.3% to 7,376.86, while the Dow Jones Industrial Average fell 0.5% to 51,285.73, AP reported. Over the week the S&P 500 lost 2.7%, the Nasdaq 3.4% and the Dow 0.9%. Chipmakers recovered part of Thursday's rout: AMD jumped about 11% and Nvidia rose 2.8%, while more S&P 500 shares fell than rose. The 10-year US Treasury yield rose to 4.86% from 4.84%.",
+      "why": "Thursday's sell-off was driven by fears that Democratic wins in the midterms, including in Texas, could slow the building of AI data centres, and by worries that higher borrowing costs make them more expensive to build, AP said. Friday's stronger-than-expected jobs report (165,000 new jobs in October) pushed up Treasury yields and the dollar, because it makes a Federal Reserve rate rise in December more likely; higher rates tend to weigh on the value of fast-growing tech companies. The rebound was narrow, concentrated in chip stocks."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Russian attacks on Ukraine keep Polish air defences on alert near the border and keep European defence spending, and therefore budgets, under pressure. They also affect energy prices in the region.",
+      "id": "kyiv-north-bridge-strike",
+      "importance": 4,
+      "markets": [
+        "European gas (TTF)",
+        "Diesel",
+        "European defence stocks"
+      ],
+      "rank": 4,
+      "rankWhy": "Russia's war on Ukraine is Europe's biggest security threat and directly affects Poland; strikes on bridges and power lines come days before planned peace talks.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Ukrinform – Air defense downs four missiles, 149 drones",
+          "url": "https://www.ukrinform.net/rubric-ato/4182349-air-defense-downs-four-missiles-149-drones-used-by-russia-to-attack-ukraine-overnight.html"
+        },
+        {
+          "name": "Al Jazeera – Russia launches missile attack on Kyiv",
+          "url": "https://aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents"
+        },
+        {
+          "name": "Kyiv Independent – Ukraine strikes Saratov oil refinery",
+          "url": "https://kyivindependent.com/ukraine-strikes-saratov-oil-refinery-in-mass-attack-on-several-regions-reports-say/"
+        }
+      ],
+      "terms": [
+        "Ballistic missile",
+        "Critical infrastructure"
+      ],
+      "title": "Russia hits Kyiv with missiles and drones overnight, damaging the Northern Bridge; Ukraine strikes Russian refineries",
+      "what": "Russia attacked Ukraine from 18:00 on Friday with several types of missiles (Iskander-M, Zircon, KN-23 and S-400) and 172 drones, the Ukrainian Air Force said; four missiles and 149 drones were shot down or jammed, and hits were recorded at 24 locations. In Kyiv several missiles hit the Northern Bridge across the Dnipro, damaging the roadway, trolleybus wires and a power line, Ukrinform reported. Five people were injured in Kyiv, including a 14-year-old, according to Ukrinform (Al Jazeera, reporting earlier, said two). Overnight, Ukrainian drones reportedly set the Saratov oil refinery in Russia on fire and caused a large fire near a military plant in Rostov, the Kyiv Independent reported, citing unverified local channels.",
+      "why": "President Volodymyr Zelensky had warned in his nightly address that Russia was preparing new strikes on energy sites, bridges and other infrastructure, Al Jazeera reported; such attacks aim to cut power and transport as winter starts. Ukraine's strikes on refineries aim to cut Russia's fuel output and export income. Both sides are escalating ahead of US-led Ukrainian–Russian talks in Abu Dhabi due early next week, a common pattern when each side wants a stronger bargaining position."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Rare-earth shortages raise the cost of electric cars, wind turbines and electronics in Europe too. A breakdown of the US–China truce would hit world trade and growth, which matters for an export-oriented economy like Poland's.",
+      "id": "us-china-trade-summit",
+      "importance": 4,
+      "markets": [
+        "Soybeans",
+        "Rare-earth miners",
+        "Chinese yuan",
+        "Chinese and US stocks"
+      ],
+      "rank": 5,
+      "rankWhy": "The US–China trade truce covers the world's two biggest economies and supplies of rare earths needed for cars, chips and weapons; a three-way summit with Russia would be historic.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Jakarta Post (Reuters) – US urges China to meet rare earths commitments",
+          "url": "https://www.thejakartapost.com/business/2026/11/07/us-urges-china-to-meet-rare-earths-commitments-ahead-of-trump-xi-meetings"
+        },
+        {
+          "name": "The Independent via Yahoo – China confirms discussions on Xi–Trump–Putin meeting",
+          "url": "https://sg.news.yahoo.com/china-confirms-discussions-underway-historic-062503040.html"
+        }
+      ],
+      "terms": [
+        "Rare earths",
+        "Trade truce",
+        "APEC"
+      ],
+      "title": "US presses China on rare earths and soybeans as Beijing confirms talks on a Xi–Trump–Putin meeting",
+      "what": "US Trade Representative Jamieson Greer and Treasury Secretary Scott Bessent spoke by video on Friday with Chinese Vice-Premier He Lifeng and urged Beijing to take 'concrete actions' on its commitments under the trade deal reached in Busan, South Korea, in October 2025, including farm purchases and supplies of rare earths (metals essential for magnets in electric motors and electronics), the Jakarta Post reported. Under that deal China pledged to buy 25 million tonnes of US soybeans over three years and US tariffs on Chinese goods were capped at about 20%; it expires on 10 January. China's state agency Xinhua called the call 'in-depth and constructive', while China voiced 'serious concern' about recent US trade restrictions. Separately, foreign ministry spokeswoman Mao Ning said China 'is in communication with relevant parties' about a meeting of Xi Jinping, Donald Trump and Vladimir Putin, The Independent reported; it would take place at the APEC summit in Shenzhen on 18–19 November, but nothing is confirmed.",
+      "why": "With the truce running out in January, both sides are positioning before Trump and Xi meet at APEC in Shenzhen and the G20 in Miami (14–15 December). The US says its companies have struggled to get enough rare earths from China, so supply is a central complaint. Experts quoted by The Independent expect a three-way meeting, if it happens, to be largely symbolic; Danny Russel, a former US State Department official, said Putin stands to gain the most from it."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Little direct effect in Poland, but US migration policy affects Polish and other European citizens living or working in the US, and conflict in Washington can unsettle markets.",
+      "id": "miller-chief-of-staff",
+      "importance": 4,
+      "markets": [],
+      "rank": 6,
+      "rankWhy": "The White House chief of staff runs the US president's team and agenda, so the change shapes US policy on immigration, Iran and trade for the next two years.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Al Jazeera – Trump names Stephen Miller as new chief of staff",
+          "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff"
+        },
+        {
+          "name": "CNN – Stephen Miller replacing Susie Wiles as chief of staff",
+          "url": "https://www.cnn.com/2026/11/06/politics/stephen-miller-trump-susie-wiles"
+        },
+        {
+          "name": "The Hill – Susie Wiles out, Stephen Miller in",
+          "url": "https://thehill.com/homenews/administration/6204745-susie-wiles-out-stephen-miller-in-as-trumps-chief-of-staff/"
+        }
+      ],
+      "terms": [
+        "Chief of staff",
+        "Divided government"
+      ],
+      "title": "Trump names Stephen Miller White House chief of staff as Susie Wiles steps aside after the midterms",
+      "what": "President Donald Trump said on Friday on his Truth Social platform that Stephen Miller, whom he called one of his most trusted advisers, will become White House chief of staff from Monday, replacing Susie Wiles. Wiles moves to what Trump called the 'Trump Political Operation', and Trump said she 'has done a great job'. Miller, most recently deputy chief of staff, was the main architect of the administration's hard-line border and deportation policies, Al Jazeera reported. CNN, citing sources, reported that the change came as Trump grew furious over the midterm results.",
+      "why": "A chief of staff controls who sees the president and how decisions are prepared, so the job shapes how policy is made. Choosing Miller signals that immigration enforcement will remain central. Democrats, who take control of both the House and the Senate in January, are widely expected to launch investigations into Miller, Al Jazeera reported, which points to more confrontation between the White House and Congress."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "The case shows why bank supervision and deposit protection matter: when a bank fails and deposits are frozen, ordinary families cannot pay bills. In the EU, including Poland, deposits are guaranteed up to €100,000 per person per bank (in Poland by the BFG).",
+      "id": "paraguay-pena-removed",
+      "importance": 4,
+      "markets": [
+        "Paraguayan guaraní",
+        "Paraguayan banks"
+      ],
+      "rank": 7,
+      "rankWhy": "A bank collapse has frozen the savings of about 3 million people, roughly 60% of Paraguay's adults, and has now brought down the president.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "MercoPress – Paraguay's Senate removes Santiago Peña",
+          "url": "https://en.mercopress.com/2026/11/07/paraguay-s-senate-removes-santiago-pena-who-is-placed-under-arrest-and-pedro-alliana-takes-office"
+        },
+        {
+          "name": "US News / Reuters – Alliana sworn in as president after Peña impeachment",
+          "url": "https://www.usnews.com/news/world/articles/2026-11-06/paraguays-alliana-sworn-in-as-president-after-pena-impeachment"
+        },
+        {
+          "name": "The Tribune – Paraguay Senate votes to impeach President Peña",
+          "url": "https://www.tribuneindia.com/news/impeachment/paraguay-senate-votes-to-impeach-prez-santiago-pena-over-bank-collapse-vp-sworn-in"
+        }
+      ],
+      "terms": [
+        "Impeachment",
+        "Insolvency",
+        "House arrest"
+      ],
+      "title": "Paraguay's Senate removes President Peña over the Ueno bank collapse; he is placed under house arrest",
+      "what": "Paraguay's Senate removed President Santiago Peña on Friday evening for 'poor performance of his duties' linked to the collapse of Ueno Bank: all 44 senators present out of 45 voted in favour after a trial of about ten hours, MercoPress reported. Hours later, prosecutor Christian Benítez ordered Peña held under house arrest; according to La Nación the investigation covers alleged breach of trust, influence peddling and self-serving administration, and Peña denies wrongdoing. Vice-President Pedro Alliana, 52, was sworn in as president minutes after the vote and will serve until 15 August 2028. On Tuesday the central bank had taken over Ueno Bank over insolvency (owing more than it owns) and irregular loans, freezing the deposits of nearly three million customers.",
+      "why": "Anger grew because the bank's former chief executive, Carlos Carvallo, had been appointed by Peña to run the central bank, and Peña held shares in the bank's holding company until April 2025, MercoPress reported. Removal by impeachment, rather than accepting the resignation Peña offered on Thursday, means he loses the lifetime Senate seat and immunity a former president would otherwise get. The ruling Colorado Party, led by former president Horacio Cartes, withdrew its support, which made the vote possible."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "If investors demand higher interest on Polish government bonds, that cost can spread to bank loans and, over time, to mortgages; markets were closed when the decision came, so the first reaction will show on Monday.",
+      "id": "sp-poland-negative-outlook",
+      "importance": 3,
+      "markets": [
+        "Polish government bonds",
+        "Złoty",
+        "Polish banks"
+      ],
+      "rank": 8,
+      "rankWhy": "A worse credit outlook can raise what the Polish state, and eventually companies and households, pay to borrow; it also puts public finances at the centre of politics.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "WNP.pl / PAP – Ministry of Finance on S&P's decision",
+          "url": "https://www.wnp.pl/rynki/mf-s-p-potwierdza-dotychczasowy-rating-polski-w-walucie-obcej-na-poziomie-a-a-2-zmieniajac-jednoczesnie-perspektywe-ratingu-na-n,1117395.html"
+        },
+        {
+          "name": "Polsat News – S&P lowers Poland's outlook to negative",
+          "url": "https://www.polsatnews.pl/wiadomosc/2026-11-06/agencja-sp-zdecydowala-w-sprawie-ratingu-polski-perspektywa-obnizona-do-negatywnej/"
+        },
+        {
+          "name": "Money.pl – Poland gets a warning; minister points to the president",
+          "url": "https://www.money.pl/gospodarka/polska-dostala-ostrzezenie-minister-wskazuje-na-prezydenta-7348336363571680a.html"
+        }
+      ],
+      "terms": [
+        "Credit rating",
+        "Rating outlook",
+        "Budget deficit",
+        "Public debt"
+      ],
+      "title": "S&P keeps Poland at A− but cuts the outlook to negative over rising debt and political deadlock",
+      "what": "S&P Global Ratings on Friday evening affirmed Poland's long-term foreign-currency rating at A− and changed the outlook from stable to negative, the Finance Ministry said; it also cut the local-currency rating (for debt in złoty) from A to A−. A credit rating is an agency's opinion of how likely a borrower is to repay; a negative outlook signals that a downgrade has become more likely in the coming period. S&P expects the general government deficit (the gap between all public spending and revenue) to stay above 7% of GDP through 2027 and net public debt to rise from 53% of GDP in 2025 to more than 70% by 2029. It still expects real GDP growth of about 3% a year in 2027–2029.",
+      "why": "S&P said rapidly rising debt could limit the government's ability to respond to shocks, and that consolidation (cutting the deficit) is harder before parliamentary elections and because President Karol Nawrocki, politically linked to the opposition PiS, can veto the government's laws, Polsat News and WNP reported. Finance Minister Andrzej Domański blamed the president's vetoes and said the government would keep strengthening public finances. In September Moody's had already downgraded Poland to A3."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Little direct effect on Poland, but it is a clear example of how proportional systems, like Poland's, often produce coalitions and why small parties near the threshold can decide who governs.",
+      "id": "nz-election-knife-edge",
+      "importance": 3,
+      "markets": [
+        "New Zealand dollar"
+      ],
+      "rank": 9,
+      "rankWhy": "Decides who governs New Zealand, a developed economy and close US and Australian ally, for three years.",
+      "region": "Asia-Pacific",
+      "sources": [
+        {
+          "name": "NewsWire NZ – Labour narrowly leads; coalition holds bare majority with 40% counted",
+          "url": "https://newswire.co.nz/2026/11/new-zealand-election-night-2026-labour-national-overhang-count/"
+        },
+        {
+          "name": "AAP via Corowa Free Press – Too close to call in New Zealand",
+          "url": "https://www.corowafreepress.com.au/world/too-close-to-call-in-new-zealand-election-count/"
+        },
+        {
+          "name": "Al Jazeera – Two main parties neck and neck",
+          "url": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results"
+        }
+      ],
+      "terms": [
+        "Mixed-member proportional (MMP)",
+        "Overhang seat",
+        "Electoral threshold"
+      ],
+      "title": "New Zealand's election is on a knife edge, with Labour and National almost level in the early count",
+      "what": "With about 40% of votes counted on Saturday evening New Zealand time, the opposition Labour Party led by Chris Hipkins had 29.9% of the party vote and Prime Minister Christopher Luxon's National Party 29.4%, AAP and the NZ news site NewsWire reported. The Greens (14%) and ACT (10.5%) were heading for record results, NZ First had 9.4% and the Opportunity Party 5.4%, just above the 5% threshold needed to win list seats. On the projection at that point, National, ACT and NZ First would hold a bare majority of 66 seats in a parliament enlarged to 131 by 'overhang' seats. More than 172,000 special votes are not yet included, and the official result is due on 27 November.",
+      "why": "New Zealand uses mixed-member proportional representation (MMP): each voter has an electorate vote and a party vote, and the party vote mainly decides the share of seats. When a party wins more electorates than its party vote entitles it to, it keeps them as 'overhang' seats, which enlarges parliament; that is happening for National and for Te Pāti Māori. National campaigned on returning the budget to surplus, and Labour on cheaper healthcare and transport, Al Jazeera reported."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Travellers face delays and diversions; flights to and from Central European cities, including routes used by Poles, have been affected.",
+      "id": "europe-hoax-threats-third-wave",
+      "importance": 3,
+      "markets": [
+        "European airlines"
+      ],
+      "rank": 10,
+      "rankWhy": "A coordinated hoax campaign is disrupting flights and newsrooms in several EU countries and has drawn in NATO air patrols.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Al Jazeera – New bomb threats target European broadcasters, air traffic",
+          "url": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic"
+        },
+        {
+          "name": "The Globe and Mail – European flights, broadcasters targeted with another wave of bomb threats",
+          "url": "https://www.theglobeandmail.com/world/article-european-flights-bomb-threats-hoax/"
+        }
+      ],
+      "terms": [
+        "Hoax threat"
+      ],
+      "title": "New wave of hoax bomb threats hits European flights and broadcasters; Hungary escorts airliners with fighter jets",
+      "what": "A new wave of bomb threats targeted flights and newsrooms across Europe on Friday, Al Jazeera reported. Czech police registered threats against nine flights to or from Prague, France reported four threats against aircraft over its territory, and all landed safely. Hungary's defence minister said jets escorted airliners through Hungarian airspace, and NATO ordered an air patrol near the Hungarian–Romanian border. Ireland's broadcaster RTÉ briefly evacuated staff after an emailed threat, and Sky in the UK and Bulgaria's Nova TV also received threats.",
+      "why": "No explosives have been found and it is unclear who is behind the threats; the Irish government said it 'seems likely' to be a coordinated campaign of disruption. Hoaxes are cheap to send but force costly responses, because authorities must treat every threat to an aircraft as potentially real."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "The delay may help keep gas supply options open and prices a little lower this winter, at the cost of slower action on a major cause of warming.",
+      "id": "eu-methane-delay",
+      "importance": 3,
+      "markets": [
+        "European gas (TTF)",
+        "LNG exporters"
+      ],
+      "rank": 11,
+      "rankWhy": "Methane is a powerful greenhouse gas, and the EU rules cover the large share of oil, gas and coal it imports; the delay trades climate ambition for energy security.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Eunews – Council approves one-year delay to methane import rules",
+          "url": "https://www.eunews.it/en/2026/11/06/eu-council-approves-one-year-delay-to-methane-restrictions-with-possible-extension/"
+        },
+        {
+          "name": "Al-Monitor – EU states back one-year delay for methane rules amid Iran war",
+          "url": "https://www.al-monitor.com/originals/2026/11/eu-states-back-one-year-delay-methane-rules-amid-iran-war"
+        }
+      ],
+      "terms": [
+        "Methane",
+        "Moratorium"
+      ],
+      "title": "EU governments back a one-year delay to methane rules on imported gas, oil and coal",
+      "what": "EU member states on Friday approved a one-year postponement of parts of the 2024 methane regulation, Eunews reported. Monitoring, reporting and verification of methane for importers of gas, oil and coal moves from 1 January 2027 to 1 January 2028, and maximum methane-intensity limits move from August 2030 to August 2031. The European Commission must check by 30 September 2027 whether the rules can work and may delay them further. The European Parliament wants a three-year moratorium, so negotiations between the two now begin.",
+      "why": "The Commission proposed the delay because of high energy prices and market pressures linked to the war with Iran, Eunews and Al-Monitor reported; importers feared the rules could shut out some suppliers. Methane traps far more heat than carbon dioxide over the first decades after it is released, so cutting leaks from fossil-fuel production slows warming quickly; the delay comes days before the COP31 climate talks open in Antalya on 9 November."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "Fine particles (PM2.5) reach deep into the lungs and blood and raise the risk of heart and lung disease. Polish cities also suffer winter smog, mostly from burning coal and wood in home stoves.",
+      "id": "delhi-pollution-diwali",
+      "importance": 3,
+      "markets": [],
+      "rank": 12,
+      "rankWhy": "Air pollution in the Delhi region harms the health of tens of millions of people every winter.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "The Star (Reuters) – Delhi world's most polluted major city on eve of Diwali",
+          "url": "https://www.thestar.com.my/news/world/2026/11/07/delhi-world039s-most-polluted-major-city-on-eve-of-diwali-swiss-group-says"
+        },
+        {
+          "name": "US News (Reuters) – same report",
+          "url": "https://www.usnews.com/news/world/articles/2026-11-07/delhi-worlds-most-polluted-major-city-on-eve-of-diwali-swiss-group-says"
+        }
+      ],
+      "terms": [
+        "Air quality index (AQI)",
+        "PM2.5"
+      ],
+      "title": "Delhi is the world's most polluted major city on the eve of Diwali, and schools move online",
+      "what": "At 10:35 local time on Saturday the Swiss company IQAir ranked Delhi the world's most polluted major city, with a US-scale air quality index (AQI) of 581, about double Lahore's 285, Reuters reported. India's Central Pollution Control Board put Delhi's AQI at 363 at 10:00, in its 'very poor' category; the two figures are not directly comparable because they use different scales. Schools in and around Delhi were ordered to offer online classes and people were encouraged to work from home. Diwali, the Hindu festival of lights usually marked with fireworks, falls on Sunday 8 November.",
+      "why": "In winter, cold, still air traps pollution near the ground, while vehicle exhaust, construction dust and smoke from farmers burning crop waste add to it, Reuters said. Fireworks during Diwali usually make the air worse for several days."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Mainly affects the victims' families in Kenya. The case is a reminder of how vulnerable people can be exploited by groups that cut them off from family, medicine and the state.",
+      "id": "kenya-mackenzie-200-years",
+      "importance": 3,
+      "markets": [],
+      "rank": 13,
+      "rankWhy": "One of the world's deadliest cult cases; the sentence matters for victims' families and for how Kenya regulates religious groups.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "IBTimes UK – Kenyan cult leader gets 200 years",
+          "url": "https://www.ibtimes.co.uk/kenya-cult-leader-mackenzie-shakahola-sentence-1830684"
+        },
+        {
+          "name": "Pulse Kenya – Why Mackenzie was spared the death penalty",
+          "url": "https://www.pulse.co.ke/story/paul-mackenzie-why-shakahola-cult-leader-was-spared-death-penalty-2026110612565140078"
+        },
+        {
+          "name": "Nation (Kenya) – State seeks death penalty",
+          "url": "https://nation.africa/kenya/counties/mombasa/shakahola-mackenzie-begs-for-mercy-as-state-seeks-death-penalty-5657240"
+        }
+      ],
+      "terms": [
+        "High Court"
+      ],
+      "title": "Kenyan court jails cult leader Paul Mackenzie for 200 years over the starvation deaths of 191 people, most of them children",
+      "what": "Kenya's High Court on Friday sentenced self-proclaimed pastor Paul Mackenzie to 200 years in prison over the deaths of 190 children and one adult in Shakahola Forest near Malindi, IBTimes UK reported; Justice Diana Kavedza-Mochache gave 100 years for 'murder by starvation' and 100 years for direct homicide. Mackenzie, who had urged followers to starve themselves, denied forcing anyone to fast. Prosecutors had sought the death penalty, Kenya's Nation newspaper reported. According to the Kenya National Commission on Human Rights, 448 bodies were recovered from the forest.",
+      "why": "Justice Kavedza said execution could let followers see Mackenzie as a martyr and so would not deter others, the Kenyan outlet Pulse reported; keeping the convicts alive also preserves the chance that they help locate unmarked graves. Mackenzie's 28 co-accused were also convicted of the 191 murders and spared the death penalty."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Filling a 40-litre tank with petrol at the cap now costs about 245 zł. Cheaper fuel helps lower inflation, which the NBP watches when setting interest rates.",
+      "id": "poland-fuel-cap-lowest",
+      "importance": 3,
+      "markets": [
+        "Orlen",
+        "Diesel",
+        "Petrol"
+      ],
+      "rank": 14,
+      "rankWhy": "Fuel prices affect every Polish driver and the cost of transporting goods, and they feed directly into inflation.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Gazeta Prawna – Fuel prices 7–9 November and forecast",
+          "url": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/11342013,nowe-ceny-paliw-od-7-listopada-2026-i-prognoza-na-kolejny-tydzien.html"
+        }
+      ],
+      "terms": [
+        "Price cap",
+        "Excise duty"
+      ],
+      "title": "Poland's maximum petrol price falls to 6.12 zł a litre for the weekend as oil slides",
+      "what": "From Saturday to Monday the maximum price of 95-octane petrol in Poland is 6.12 zł a litre, 8 groszy lower than on Friday, and diesel is capped at 7.83 zł, also 8 groszy lower, according to the Energy Minister's notice in Monitor Polski reported by Gazeta Prawna. The cap is calculated from the average wholesale price of the five largest suppliers, plus excise duty, the fuel fee, 30 groszy a litre for station costs and VAT. The portal e-petrol.pl forecasts 95-octane petrol at 5.99–6.15 zł in the week of 9–15 November. The next caps are due to be announced on Tuesday 10 November.",
+      "why": "Wholesale fuel prices follow crude oil, which fell about 16% (Brent) this week on hopes of US–Iran de-escalation. Because the cap is a formula tied to wholesale prices, falls in oil pass through to the limit within days."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Mainly affects South Africans, whose rubbish collection, water and electricity are run by municipalities.",
+      "id": "south-africa-count-buffalo-city",
+      "importance": 2,
+      "markets": [
+        "South African rand"
+      ],
+      "rank": 15,
+      "rankWhy": "Shows the continued decline of South Africa's long-ruling ANC in its traditional strongholds, with coalition talks under way in big cities.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "BusinessTech – First major city reaches final count",
+          "url": "https://businesstech.co.za/news/government/883133/2026-election-results-first-major-city-in-south-africa-reaches-final-count-with-the-anc-suffering-a-blow/"
+        },
+        {
+          "name": "Nova News – IEC to announce official results on Sunday",
+          "url": "https://novanews.co.za/iec-confirms-official-2026-local-election-results-to-be-announced-on-sunday/"
+        }
+      ],
+      "terms": [
+        "Coalition government"
+      ],
+      "title": "South Africa's ANC loses its majority in Buffalo City as the local-election count nears its end",
+      "what": "Buffalo City in the Eastern Cape became the first major city to finish counting: the ANC won 42.0%, down from 59.4% in 2021, losing its majority even though it won 38 of 50 wards, BusinessTech reported. The UDM jumped to 18.3% and the DA got 16.9%. Nationally, with about 88% of votes counted, the ANC had 31.8% and the DA just under 24%; the MK Party led in eThekwini (Durban) with almost 41% at a 57% count. The electoral commission is to announce official results on Sunday, according to Nova News.",
+      "why": "Turnout in Buffalo City rose to 55.6% from 45% in 2021. Because no party will rule alone in most big cities, coalition talks have already started, BusinessTech reported; councils then depend on deals between several parties."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "No direct effect in Poland; it shows how close elections are decided by rules on which ballots count.",
+      "id": "mississippi-senate-count",
+      "importance": 2,
+      "markets": [],
+      "rank": 16,
+      "rankWhy": "One uncalled Senate seat decides the size of the Democrats' new majority from January.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Democracy Docket – Mississippi Senate ballot fight heats up",
+          "url": "https://www.democracydocket.com/news-alerts/live-mississippi-senate-ballot-fight-heats-up/"
+        }
+      ],
+      "terms": [
+        "Provisional (affidavit) ballot"
+      ],
+      "title": "Mississippi Senate race still too close to call, with Democrat Scott Colom about 1,900 votes ahead",
+      "what": "As of Friday at 12:30 US Eastern time, Democrat Scott Colom had 466,959 votes and Republican Senator Cindy Hyde-Smith 465,023, a lead of about 1,900, according to AP figures reported by Democracy Docket. More than 950,000 votes have been counted, and estimates of the affidavit (provisional) ballots still to be checked ranged from about 8,000 to 20,000. Voters have until 10 November to fix ('cure') problems with their affidavit ballots, and Mississippi has no recount law.",
+      "why": "Affidavit ballots are cast when a voter's eligibility is in doubt and are counted only after checks, which is why the result is slow. Their number is unusually high; Democracy Docket links it to the state moving voters to 'inactive' status using commercial data that has been described as error-prone. Republicans have asked officials to preserve the ballots, a possible first step towards a legal challenge."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "The conflict slows law-making, including on the budget, which can affect taxes and public spending.",
+      "id": "metsola-sejm-protest",
+      "importance": 2,
+      "markets": [],
+      "rank": 17,
+      "rankWhy": "Highlights Poland's deep political split over the Constitutional Tribunal, which also weighs on its credit outlook.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Euronews Polska – Metsola in the Sejm",
+          "url": "https://pl.euronews.com/2026/11/06/roberta-metsola-w-sejmie-polska-pcha-cala-europe-naprzod-pis-z-transparentem-tusk-dictator"
+        }
+      ],
+      "terms": [
+        "Constitutional Tribunal"
+      ],
+      "title": "European Parliament President Metsola tells the Sejm 'Europe needs Poland' as PiS MPs hold up a 'Tusk = Dictator' banner",
+      "what": "Roberta Metsola, President of the European Parliament, addressed Poland's Sejm on Friday, praising Polish leadership on defence and saying Poland had seen the dangers from Russia earlier than others, Euronews reported. She closed with 'Europe needs Poland. Poland needs Europe.' While she spoke, Law and Justice (PiS) MPs held up posters claiming a coup is under way and unfurled a banner reading 'Tusk = Dictator'. Prime Minister Donald Tusk responded by posting a selfie in front of the banners.",
+      "why": "The protest is part of the dispute over the Constitutional Tribunal, Poland's constitutional court, in which the opposition accuses the government of breaking the constitution, Euronews reported; police were visible outside the Tribunal on Friday. The same political deadlock was cited by S&P on Friday as a reason for Poland's weaker credit outlook."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Mostly of interest to Catholics, including many in Poland.",
+      "id": "pope-leo-uruguay",
+      "importance": 2,
+      "markets": [],
+      "rank": 18,
+      "rankWhy": "The pope leads the Catholic Church; his first long trip after cancer surgery is closely watched across Latin America.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "EWTN News – Live updates: Pope Leo XIV in South America",
+          "url": "https://www.ewtnnews.com/vatican/live-updates-pope-leo-xiv-in-south-america"
+        }
+      ],
+      "terms": [
+        "Secularism"
+      ],
+      "title": "Pope Leo XIV arrives in Uruguay at the start of a 12-day South American tour",
+      "what": "Pope Leo XIV landed in Montevideo at 16:17 local time on Friday (20:17 in Warsaw), starting a tour of Uruguay, Argentina and Peru that runs until 17 November, EWTN News reported. Addressing President Yamandú Orsi and other officials, he spoke about protecting life and guaranteeing healthcare for all; he did not directly mention euthanasia, which Uruguay legalised last year. He had lung-cancer surgery a little over three weeks ago and told reporters the trip 'had to go forward'. Peru is the longest leg, from 11 to 16 November.",
+      "why": "Uruguay is one of Latin America's most secular countries, and the pope urged the small Catholic minority to bear witness, EWTN said. The trip is also a test of his health after surgery."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Travellers connecting through the Gulf, including from Poland, should expect changes on some routes.",
+      "id": "etihad-saudi-flights",
+      "importance": 2,
+      "markets": [
+        "Gulf airlines"
+      ],
+      "rank": 19,
+      "rankWhy": "Air links inside the Gulf remain disrupted by the regional war, affecting travellers and business.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Gulf News – Key updates, 7 November",
+          "url": "https://gulfnews.com/uae/middle-east-war-5-things-uae-residents-need-to-know-today-nov-7-2026-1.500739193"
+        },
+        {
+          "name": "CBS News – Iran war live updates",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+        }
+      ],
+      "terms": [],
+      "title": "Etihad keeps flights between Abu Dhabi and Riyadh and Dammam cancelled until 19 November",
+      "what": "Etihad Airways says all passenger and cargo flights between Abu Dhabi and the Saudi cities of Riyadh and Dammam remain cancelled through 19 November, Gulf News reported. Four Abu Dhabi–Jeddah flights were scheduled to resume from Friday 6 November, and the airline warned that further changes are possible.",
+      "why": "Saudi Arabia has faced Houthi attacks during the regional war, which killed at least 20 people in October, CBS News reported, and an attack hit Riyadh airport on 10 October, according to Gulf News; the airline did not give a reason for the cancellations."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "No direct effect in Poland.",
+      "id": "tesla-cybertruck-end",
+      "importance": 2,
+      "markets": [
+        "Tesla"
+      ],
+      "rank": 20,
+      "rankWhy": "Tesla is one of the world's most valuable carmakers; the decision shows its shift from car sales to self-driving taxis.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "CBS News – Musk says Tesla will end Cybertruck production in 2027",
+          "url": "https://www.cbsnews.com/news/tesla-ending-cybertruck-production-next-year/"
+        }
+      ],
+      "terms": [
+        "Recall"
+      ],
+      "title": "Tesla will stop making the Cybertruck by mid-2027 to make room for its Cybercab robotaxi",
+      "what": "Tesla chief executive Elon Musk said on X on Friday that the company will wind down production of the Cybertruck pickup at its Texas factory by mid-2027, CBS News reported. Musk said the move would 'make room for increased Cybercab production', Tesla's planned self-driving taxi. The Cybertruck has faced quality problems and numerous recalls.",
+      "why": "By Musk's own explanation, factory capacity is being moved to the Cybercab, reflecting Tesla's bet on self-driving ride services; the Cybertruck's recalls and quality problems had weighed on its reputation, CBS noted."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "No everyday effect; a reminder that science often overturns accepted assumptions.",
+      "id": "dinosaur-blood-cells",
+      "importance": 1,
+      "markets": [],
+      "rank": 21,
+      "rankWhy": "A scientific first with little practical effect, but it changes what scientists think can survive in fossils.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "ScienceDaily – Scientists find dinosaur blood that survived 115 million years",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
+        }
+      ],
+      "terms": [
+        "Fossil"
+      ],
+      "title": "Scientists find chemical traces of blood in 115-million-year-old dinosaur bone",
+      "what": "An international team led by Curtin University in Australia found fossilised red blood cells with chemical signatures of heme, the iron-carrying part of haemoglobin, in the limb bones of Aratasaurus museunacionali, a meat-eating dinosaur from north-eastern Brazil, ScienceDaily reported. The study, in the journal PNAS, calls this the first definitive chemical confirmation of haemoglobin-derived molecules in dinosaur red blood cells. The researchers think rapid burial in low-oxygen sediment and the mineral hausmannite helped preserve them.",
+      "why": "Many scientists assumed such fragile molecules could not survive tens of millions of years; finding them could reveal more about dinosaur metabolism and guide where to look for traces of ancient life, the researchers said."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "No wider effect; under the presumption of innocence he is considered innocent unless proven guilty.",
+      "id": "thomas-markle-arrest",
+      "importance": 1,
+      "markets": [],
+      "rank": 22,
+      "rankWhy": "A criminal case against a public figure's relative with limited wider effect.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Global News – Thomas Markle arrested by FBI in Florida",
+          "url": "https://globalnews.ca/news/12139806/meghan-markles-father-thomas-markle-arrested-fbi-florida/"
+        }
+      ],
+      "terms": [
+        "Presumption of innocence"
+      ],
+      "title": "Thomas Markle, father of the Duchess of Sussex, is charged in Florida with possessing child sexual abuse material",
+      "what": "Thomas Markle Sr., 82, the estranged father of Meghan, Duchess of Sussex, was arrested by federal agents in Florida on Friday morning and charged with one count of possessing child sexual abuse material, Global News reported. The FBI says the material was kept in two storage units in the Los Angeles area. He was due to make a first court appearance in Tampa, and he told the Daily Mail he was shocked and upset by the accusations. A charge is an accusation, not a conviction.",
+      "why": "The case was brought on a federal criminal complaint after an FBI investigation, according to prosecutors."
+    }
+  ],
+  "watch": [
+    "Israel: President Isaac Herzog is due on Sunday 8 November to name who gets the first chance to form a government; Gadi Eisenkot has 67 Knesset recommendations (Nocta digest, previous editions; time not announced).",
+    "US: Stephen Miller starts as White House chief of staff on Monday 9 November (Al Jazeera).",
+    "G7 foreign ministers meet in Paris on Monday 9 and Tuesday 10 November; Iran is expected to be discussed (CBS News).",
+    "COP31 UN climate conference opens in Antalya, Türkiye, on Monday 9 November and runs to 20 November; leaders' segment 11–12 November (Climate Home News).",
+    "Poland: first market reaction to S&P's negative outlook when trading opens on Monday 9 November (bonds and złoty).",
+    "Poland: new maximum fuel prices to be announced on Tuesday 10 November, valid 10–12 November (Gazeta Prawna).",
+    "Ukraine–Russia: US-led talks in Abu Dhabi are due to open early next week (Al Jazeera); developing.",
+    "Iran: whether the US resumes large-scale strikes or Qatar's mediation produces a deal; developing.",
+    "US Federal Reserve meeting 8–9 December: markets price a high chance of a rate rise after Friday's jobs data (developing).",
+    "South Africa: the electoral commission is due to announce official local-election results on Sunday 8 November (Nova News)."
+  ],
+  "window": "Fri 6 Nov 20:00 → Sat 7 Nov 10:00 (Warsaw time)",
+  "id": "2026-11-07-1000",
+  "updatedAt": "2026-11-07T09:13:50.13752Z"
+}

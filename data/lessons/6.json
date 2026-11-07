@@ -1,0 +1,263 @@
+{
+  "checkQuestions": [
+    {
+      "a": "The monthly figure compares October with September, while the annual figure compares October with October 2025. Fuel prices rose strongly during the year, mainly because of the Iran war, so even after a big monthly fall they remain well above last year's level. You should always check which comparison a figure uses, and remember that annual rates move slowly because they sum twelve months of changes.",
+      "q": "Polish fuel prices fell 9.7% in October but were 21.7% higher than a year earlier. Explain how both can be true and what it says about how to read inflation data."
+    },
+    {
+      "a": "The gap shows that much of the inflation comes from energy, whose prices were up 20.8%, which points to a cost-push supply shock rather than broad overheating. Raising rates cannot produce more oil and would further weaken an economy already hurt by high energy costs, so a central bank may 'look through' the shock as long as core inflation and expectations stay stable, while staying ready to act if the shock spreads into wages and services.",
+      "q": "Euro-area headline inflation was 4.0% in October while core inflation was 2.5%. What does the gap suggest about the cause of inflation, and why might a central bank react cautiously?"
+    },
+    {
+      "a": "Cheaper crude lowers wholesale fuel prices; Poland's fuel cap formula passes this to the maximum pump price within days; lower fuel costs reduce the fuel component of CPI and, later, transport and food costs. The effect can be weakened if the dollar strengthens against the złoty (oil is priced in dollars), if refiners' margins widen, if the fall in oil reverses, or because only part of the basket is fuel; effects on services take months.",
+      "q": "Trace the chain from a 16% weekly fall in Brent crude to Polish CPI. Which links could weaken or delay the effect?"
+    },
+    {
+      "a": "Expected inflation feeds into wage demands and price-setting, so high expectations can keep inflation going even after the original shock fades. If people believe the central bank will bring inflation back to target, they set wages and prices closer to the target, so inflation falls without the central bank needing to squeeze demand as hard, meaning fewer lost jobs and less lost output.",
+      "q": "Why do central banks pay so much attention to inflation expectations, and how could a credible target reduce the cost of fighting inflation?"
+    },
+    {
+      "a": "Borrowers with fixed-rate loans gain, because the real value of their debt falls; savers in low-interest deposits and lenders on fixed terms lose. People whose incomes are fixed in złoty or adjusted only once a year, such as pensioners before valorisation, lose purchasing power in the meantime. The government, as a large borrower, can gain from a lower real debt burden, while workers lose if wages lag behind prices.",
+      "q": "Who gains and who loses if inflation turns out much higher than people expected when they signed contracts? Give at least three groups."
+    }
+  ],
+  "createdAt": "2026-11-07T10:05:00Z",
+  "date": "7 Nov 2026",
+  "editionId": "2026-11-07-1000",
+  "intro": "Inflation is one of the most quoted numbers in the news and one of the most misunderstood. In this lesson you will learn what inflation measures and what it does not, how statistics offices such as Poland's GUS calculate it from a basket of goods, and how to read year-on-year and month-on-month figures without being fooled by base effects. You will be able to tell demand-driven inflation from supply shocks, explain why expectations matter, and calculate what inflation does to savings and interest rates.",
+  "lessonQuiz": [
+    {
+      "answer": 1,
+      "explain": "Lower inflation is disinflation: prices still rose, by about 4% over the year. They would fall only if inflation were negative.",
+      "options": [
+        "It fell by 2%",
+        "It rose by about 4%",
+        "It stayed the same",
+        "It rose by about 10%"
+      ],
+      "q": "Annual inflation in a country falls from 6% to 4%. What happened to the average price level over the last year?"
+    },
+    {
+      "answer": 2,
+      "explain": "0.3 × 4 + 0.2 × 10 + 0.5 × 2 = 1.2 + 2.0 + 1.0 = 4.2%. A simple average of the three changes (5.33%) ignores the weights.",
+      "options": [
+        "5.33%",
+        "16.0%",
+        "4.2%",
+        "3.2%"
+      ],
+      "q": "A basket has three items with weights food 0.3, energy 0.2 and other 0.5. Food prices rise 4%, energy 10% and other items 2%. What is the inflation rate?"
+    },
+    {
+      "answer": 0,
+      "explain": "Monthly changes compound: 1.005^12 − 1 ≈ 6.17%, slightly more than 12 × 0.5% = 6%.",
+      "options": [
+        "About 6.2%",
+        "Exactly 6.0%",
+        "0.5%",
+        "About 5.5%"
+      ],
+      "q": "Prices rise 0.5% every month for a year. What is the annual inflation rate?"
+    },
+    {
+      "answer": 3,
+      "explain": "1.06 ÷ 1.04 − 1 ≈ 1.92%. The approximation 6 − 4 = 2 points is close but slightly too high.",
+      "options": [
+        "2.00%",
+        "10.24%",
+        "−2.0%",
+        "About 1.92%"
+      ],
+      "q": "A bank deposit pays 6% and inflation is 4%. Using the exact Fisher relation, what is the real return?"
+    },
+    {
+      "answer": 1,
+      "explain": "Rising prices together with falling output is the signature of a supply shock, as in Lesson 2 when supply shifts left.",
+      "options": [
+        "Demand-pull inflation from an overheating economy",
+        "A cost-push supply shock: the supply curve shifts left",
+        "Deflation caused by falling demand",
+        "A pure relative price change with no effect on inflation"
+      ],
+      "q": "Oil prices jump because of a war, output falls and inflation rises. Which explanation fits best?"
+    },
+    {
+      "answer": 0,
+      "explain": "P rises by 1.10 ÷ 1.03 − 1 ≈ 6.8% (about 10 − 3 = 7 points). This holds only if velocity really stays constant, which is rarely true in the short run.",
+      "options": [
+        "About 6.8%",
+        "13%",
+        "10%",
+        "3%"
+      ],
+      "q": "In the identity M × V = P × Y, money supply rises 10%, velocity is unchanged and real output grows 3%. Roughly how much does the price level rise?"
+    },
+    {
+      "answer": 2,
+      "explain": "The annual rate sums the last twelve monthly changes; when a large rise drops out and is replaced by zero, the annual rate falls even though prices did not fall.",
+      "options": [
+        "It rises because prices are flat",
+        "It stays the same until prices fall",
+        "It falls sharply: a base effect",
+        "It turns into deflation automatically"
+      ],
+      "q": "Last year inflation jumped because energy prices rose 20% in a single month. This year prices are flat month to month. What happens to the annual rate when that month leaves the 12-month window?"
+    },
+    {
+      "answer": 3,
+      "explain": "Fixed-rate borrowers repay in money that buys less, so the real value of their debt falls; the other groups lose purchasing power.",
+      "options": [
+        "Savers holding cash",
+        "Pensioners whose benefits are adjusted once a year",
+        "Lenders who agreed fixed-rate loans",
+        "Borrowers with fixed-rate loans"
+      ],
+      "q": "Which group is most likely to GAIN from unexpectedly high inflation?"
+    },
+    {
+      "answer": 0,
+      "explain": "The złoty price goes from 439 zł to 450 zł: 450 ÷ 439 − 1 ≈ 2.5%. A weaker złoty raises import prices, a channel of cost-push inflation.",
+      "options": [
+        "About 2.5%",
+        "0.11%",
+        "About 2.4% fall",
+        "11%"
+      ],
+      "q": "Connecting to Lesson 5: an imported product costs €100. EUR/PLN rises from 4.39 to 4.50 and the euro price stays the same. By how much does its złoty price rise?"
+    },
+    {
+      "answer": 1,
+      "explain": "0.9 × 1.1 = 0.99, so the price ends 1% lower. As with index recoveries, percentage changes do not cancel out.",
+      "options": [
+        "Unchanged",
+        "1% lower",
+        "1% higher",
+        "20% higher"
+      ],
+      "q": "Connecting to Lesson 4: a price falls 10% and then rises 10%. Compared with the start, the price is:"
+    },
+    {
+      "answer": 2,
+      "explain": "Indices slightly overstate inflation, deflation is harmful, and positive inflation keeps nominal rates high enough to be cut in a slump.",
+      "options": [
+        "Because inflation helps savers",
+        "Because measured inflation tends to understate true price rises",
+        "Because a small positive rate guards against deflation, offsets measurement bias and leaves room to cut interest rates",
+        "Because governments require inflation to repay their debts"
+      ],
+      "q": "Why do the NBP and ECB target positive inflation instead of 0%?"
+    },
+    {
+      "answer": 1,
+      "explain": "The gap between headline and core shows that volatile energy prices are pushing up the headline rate; it does not show by itself that wages or core prices will follow.",
+      "options": [
+        "Wages are clearly the main driver",
+        "Energy is lifting the headline rate well above the underlying trend",
+        "Core inflation must soon jump to 4%",
+        "The data show deflation in services"
+      ],
+      "q": "Headline inflation is 4.0% and core inflation 2.5%, with energy prices up 20.8%. Which conclusion is most justified?"
+    }
+  ],
+  "level": "Foundations",
+  "minutes": 18,
+  "misconceptions": [
+    {
+      "myth": "Falling inflation means prices are falling.",
+      "truth": "Falling inflation (disinflation) means prices are rising more slowly. Prices fall only when inflation is negative (deflation). Poland's drop from 4.1% to 3.5% still means prices are 3.5% higher than a year ago."
+    },
+    {
+      "myth": "Any price rise is inflation.",
+      "truth": "A rise in one price is a relative price change. Inflation is a broad and sustained rise in the general price level; one-off jumps, such as a tax change, lift the level once and drop out of the annual rate after twelve months."
+    },
+    {
+      "myth": "The CPI is the inflation every household experiences.",
+      "truth": "The CPI follows an average basket. A household that spends more on energy or food than average, often a poorer one, experiences higher inflation when those prices surge."
+    },
+    {
+      "myth": "Zero inflation would be ideal.",
+      "truth": "Central banks aim for about 2–2.5% because measured indices slightly overstate true inflation, deflation can trap an economy in falling demand, and positive inflation gives room to cut interest rates in a slump."
+    },
+    {
+      "myth": "Printing money always causes inflation immediately.",
+      "truth": "The link between money and prices is strong over long periods but loose in the short run, because velocity and output change. Inflation depends also on spending, supply shocks and expectations."
+    }
+  ],
+  "number": 6,
+  "objectives": [
+    "Explain the difference between inflation, a change in relative prices, disinflation and deflation, using a concrete example.",
+    "Calculate a simple price index and an inflation rate from a weighted basket, and each item's contribution in percentage points.",
+    "Interpret month-on-month and year-on-year inflation, annualise a monthly rate, and explain how a base effect can move the annual rate.",
+    "Trace how demand-pull and cost-push forces, including oil prices and the exchange rate, feed into consumer prices.",
+    "Calculate a real interest rate with the Fisher relation and explain who gains and who loses from unexpected inflation.",
+    "Explain why central banks such as the NBP, the ECB and the Fed target low positive inflation rather than zero."
+  ],
+  "recap": "In Lesson 5 you saw that an exchange rate is the price of one currency in another, that expected interest rates and risk appetite move currencies in the short run, and that a weaker złoty raises the złoty price of imports. You also met the NBP's inflation target of 2.5% with a band of ±1 percentage point. This lesson explains what that target is aiming at: the general rise in prices, why it happens and why central banks care so much about it.",
+  "sections": [
+    {
+      "body": "Inflation is a sustained rise in the general level of prices across the economy, not a rise in the price of one product. If petrol becomes dearer while computers become cheaper, that is first of all a change in relative prices: one good becomes expensive compared with another. Inflation means that, on average, money buys less than before, so it is also described as a fall in the purchasing power of money. The opposite, a fall in the general price level, is deflation. A fall in the inflation rate, for example from 4.1% to 3.5%, is called disinflation: prices are still rising, only more slowly. Mixing these up is one of the most common mistakes in news coverage. For example, Poland's flash inflation estimate for October 2026 was 3.5% year on year, down from 4.1% in September (GUS via Analizy.pl): that is disinflation, and prices were on average still 3.5% higher than a year earlier. The word 'sustained' matters too: a one-off jump caused by a tax rise lifts the price level once, but if nothing else changes, the inflation rate falls back a year later.",
+      "heading": "1. What inflation is, and what it is not"
+    },
+    {
+      "body": "Statistics offices cannot track every price, so they define a basket of goods and services that a typical household buys and record the prices of its items every month. Each item gets a weight equal to its share in household spending, taken from household budget surveys. A price index then compares the cost of the same basket today with its cost in a base period, set to 100. If the basket costs 1,000 zł in the base period and 1,050 zł a year later, the index rises from 100 to 105 and inflation is 5%. Because the weights are fixed, the index can be broken down: each item's contribution in percentage points equals its weight times its own price change. In Poland the main measure is the consumer price index (CPI) published by GUS; across the EU, Eurostat publishes the Harmonised Index of Consumer Prices (HICP) so that countries can be compared on a common method. A flash estimate is an early reading based on incomplete data; GUS's final October figure is due on 13 November. A fixed basket has known limits: it reacts slowly when people switch to cheaper substitutes and struggles to capture quality improvements, so measured inflation can differ from any one household's own experience.",
+      "heading": "2. How inflation is measured: the basket and the price index"
+    },
+    {
+      "body": "A month-on-month (m/m) rate compares this month's index with last month's; a year-on-year (y/y) rate compares it with the same month a year earlier. The y/y rate is the headline figure because it is not distorted by seasons, but it reacts slowly, since it adds up twelve months of changes. To compare a monthly change with an annual one you annualise it by compounding: (1 + m/m)^12 − 1. Poland's October flash showed prices falling 0.4% m/m, which, if repeated for a whole year, would mean about −4.7%, yet the y/y rate was still +3.5%. The reason is that y/y also depends on what happened twelve months ago: each month the newest m/m change is added and the m/m change from a year earlier drops out. When a big price jump from last year leaves the twelve-month window, the annual rate falls even if prices are flat now; this is a base effect. The same logic explains why fuel prices in Poland fell 9.7% in October alone but were still 21.7% higher than a year before (GUS via Analizy.pl). Economists also watch core inflation, which excludes the most volatile items such as energy and food, to see the underlying trend: in the euro area, October headline inflation was 4.0% while core inflation was 2.5% (Eurostat flash estimate).",
+      "heading": "3. Reading the numbers: month on month, year on year and base effects"
+    },
+    {
+      "body": "From Lesson 2 you know that when demand for a good shifts right while supply stays the same, its price rises. Demand-pull inflation is the same idea applied to the whole economy: when households, firms and the government together try to buy more than the economy can produce at full capacity, sellers can raise prices across many markets at once. The gap between actual output and the output the economy can produce without overheating is called the output gap; when it is positive, inflation pressure builds. Typical triggers are fast credit growth, large government deficits, tax cuts or a boom in exports. A tight labour market adds to the pressure: firms competing for scarce workers raise wages, and if wages grow faster than productivity, unit labour costs rise and firms pass them on to prices. This mechanism is why strong job reports, like the 165,000 jobs the US added in October, can make markets expect higher interest rates: a central bank tries to cool demand before it turns into inflation. Demand-pull inflation usually comes with strong output and employment, which is how you can recognise it in the data.",
+      "heading": "4. Cause one: demand-pull inflation"
+    },
+    {
+      "body": "Prices can also rise because producing goods becomes more expensive: this is cost-push inflation, a leftward shift of supply in the Lesson 2 diagram. The classic case is energy. Oil and gas are inputs into transport, heating, fertiliser, plastics and electricity, so a jump in their price spreads through the economy in stages: first fuel and heating bills, then transport and food, and later services as firms raise prices to cover costs. In the euro area, energy prices were 20.8% higher in October 2026 than a year earlier, which is why headline inflation (4.0%) was far above core inflation (2.5%) (Eurostat). A weaker currency works the same way, as you saw in Lesson 5: if the złoty falls, the złoty price of imported goods and of dollar-priced oil rises. Cost-push shocks are especially painful because they raise prices while reducing output, which is the combination economists call stagflation. They also create a dilemma for central banks: raising interest rates fights the price rise but further weakens an economy that is already being hurt.",
+      "heading": "5. Cause two: cost-push inflation and supply shocks"
+    },
+    {
+      "body": "A useful accounting identity is the equation of exchange, M × V = P × Y, where M is the money supply, V is velocity (how many times a unit of money is spent per year), P is the price level and Y is real output. It is true by definition, so it explains nothing on its own; it becomes a theory once you assume that V is fairly stable and Y is set by real factors such as workers and technology. Then, in the long run, money growing much faster than output shows up as rising prices, which is the mainstream view that persistent high inflation is ultimately a monetary phenomenon. In the short run, however, velocity changes a lot, and the link between money growth and inflation is loose, so central banks today steer interest rates rather than money quantities (Lesson 7 will explain how). The second key ingredient is expectations: if workers expect 5% inflation, they ask for wage rises that cover it, and firms that expect their costs to rise 5% raise prices in advance. Expectations can therefore make inflation self-sustaining, which is why central banks care about credibility. A central bank whose target is believed can bring inflation down at a lower cost in lost output, because people adjust their wage and price decisions to the target.",
+      "heading": "6. Money, expectations and the long run"
+    },
+    {
+      "body": "Inflation redistributes wealth, especially when it is unexpected. The real interest rate, which measures what a saver actually earns in goods rather than in złoty, is given by the Fisher relation: (1 + nominal rate) ÷ (1 + inflation) − 1, often approximated as nominal rate minus inflation. Savers holding cash or deposits paying less than inflation lose purchasing power, while borrowers with fixed-rate loans gain, because they repay in money that is worth less. People on fixed incomes, such as pensions or benefits that are not indexed to prices, lose until those incomes are adjusted; in Poland pensions are raised once a year in a process called valorisation, so they lag behind prices during a surge. High and unpredictable inflation also makes planning harder, wastes effort on constantly changing prices and can push taxpayers into higher brackets if thresholds are not adjusted. Poland knows this well: CPI inflation reached 18.4% in February 2023, the highest since December 1996, with food prices up 24.0% (Statistics Poland via TVN24). Because poorer households spend a larger share of their budget on food and energy, a surge in those prices hits them hardest.",
+      "heading": "7. Who wins and who loses"
+    },
+    {
+      "body": "Most central banks target low and stable positive inflation. The NBP aims for 2.5% CPI inflation with a tolerance band of ±1 percentage point, so 1.5–3.5%; the ECB targets 2% HICP inflation over the medium term; and the US Federal Reserve targets 2% as measured by the price index for personal consumption expenditures (PCE). There are three main reasons not to aim at zero. First, price indices tend to overstate true inflation slightly because of substitution and quality improvements, so measured zero could mean real deflation. Second, deflation is dangerous: if people expect prices to fall they postpone purchases, and the real burden of debts rises, which can deepen a recession. Third, a little positive inflation leaves central banks more room to cut interest rates in a downturn, because nominal rates cannot easily go far below zero. The targets are about the medium term: central banks look through one-off shocks if expectations stay anchored. In its November 2026 projection the NBP expects inflation to rise to 4.2% in 2027, above the band, mainly because of higher energy prices linked to the Iran war, and to return to the 2.5% target only in the third quarter of 2028 (NBP projection reported by S.O.S. dla gospodarki).",
+      "heading": "8. Why central banks aim for low inflation, not zero"
+    }
+  ],
+  "takeaways": [
+    "Inflation is a sustained rise in the general price level; disinflation is slower inflation, deflation is falling prices, and a single price rise is a relative price change.",
+    "A CPI compares the cost of a fixed, weighted basket over time; each item's contribution in points equals its weight times its price change.",
+    "Year-on-year rates add up twelve months of changes, so base effects can move them; annualise monthly rates with (1 + m/m)^12 − 1.",
+    "Demand-pull inflation comes with an overheating economy; cost-push inflation, such as an energy shock or a weaker currency, raises prices while hurting output.",
+    "The real interest rate is (1 + nominal) ÷ (1 + inflation) − 1; unexpected inflation helps fixed-rate borrowers and hurts savers and people on fixed incomes.",
+    "The NBP targets 2.5% ±1 pp, the ECB 2% (HICP) and the Fed 2% (PCE); low positive targets guard against deflation and leave room to cut rates."
+  ],
+  "title": "Inflation: why things get more expensive",
+  "todayExample": "This edition's oil story shows cost-push inflation in action, and in reverse. Brent crude fell about 16% this week on hopes of US–Iran de-escalation, and Poland's formula-based fuel cap passed the fall to petrol stations within days: the maximum price of 95-octane petrol dropped to 6.12 zł a litre for the weekend. Because fuel is part of the CPI basket, lower pump prices pull down measured inflation directly; but the NBP still projects 4.2% inflation in 2027 because energy costs feed into other prices with a delay. At the same time, S&P's warning about Poland's deficit above 7% of GDP is a reminder that large budget deficits can add to demand-side pressure.",
+  "workedExamples": [
+    {
+      "problem": "A household basket in the base year costs 1,000 zł: food 400 zł, energy 200 zł and other goods and services 400 zł. A year later the same quantities cost: food 412 zł, energy 230 zł, other 408 zł. Calculate the price index, the inflation rate and each component's contribution in percentage points. (Hypothetical numbers.)",
+      "solution": "Step 1: new cost of the basket = 412 + 230 + 408 = 1,050 zł. Step 2: index = 1,050 ÷ 1,000 × 100 = 105, so inflation = 5.0%. Step 3: weights are the base-year shares: food 400/1,000 = 0.4, energy 0.2, other 0.4. Step 4: own price changes: food 412/400 − 1 = 3%; energy 230/200 − 1 = 15%; other 408/400 − 1 = 2%. Step 5: contributions = weight × change: food 0.4 × 3% = 1.2 pp; energy 0.2 × 15% = 3.0 pp; other 0.4 × 2% = 0.8 pp. Check: 1.2 + 3.0 + 0.8 = 5.0 pp. Interpretation: energy is only a fifth of the basket but causes 60% of the inflation (3.0 of 5.0 pp), which is exactly what happens during an oil shock.",
+      "title": "Building a price index from a basket (hypothetical numbers)"
+    },
+    {
+      "problem": "The NBP reference rate is 3.75% (held on 4 November 2026) and Poland's flash CPI inflation for October was 3.5% y/y. (a) What is the real reference rate using the exact Fisher relation and the approximation? (b) A saver's deposit pays 3.0% a year (hypothetical rate). What is the saver's real return?",
+      "solution": "(a) Exact: (1 + 0.0375) ÷ (1 + 0.035) − 1 = 1.0375 ÷ 1.035 − 1 = 0.00242, so about 0.24%. Approximation: 3.75% − 3.5% = 0.25 percentage points. The two are close because the rates are small. (b) 1.03 ÷ 1.035 − 1 = −0.00483, so about −0.48%: the saver's money grows in złoty but buys about 0.5% less after a year. Interpretation: a real rate near zero means monetary policy is not very restrictive, one reason the NBP watches inflation forecasts closely.",
+      "title": "The real interest rate in Poland today"
+    },
+    {
+      "problem": "(a) The NBP projects 4.2% inflation for 2027. How much would 1,000 zł of cash be worth in today's prices after one year at that rate? (b) At a constant 3.5% inflation, roughly how long until prices double and cash loses half its purchasing power? Use the exact formula and the 'rule of 70'.",
+      "solution": "(a) Real value = 1,000 ÷ 1.042 = 959.69 zł, so the cash loses about 40 zł of purchasing power. (b) Prices double when 1.035^n = 2, so n = ln 2 ÷ ln 1.035 = 0.6931 ÷ 0.0344 = 20.15 years. The rule of 70 gives 70 ÷ 3.5 = 20 years, a good shortcut for small rates. Interpretation: even 'moderate' inflation halves the value of idle cash within a working life, which is why savers look for returns at least equal to inflation.",
+      "title": "How fast inflation eats savings"
+    },
+    {
+      "problem": "In October 2026 Polish prices fell 0.4% m/m, while annual inflation fell from 4.1% in September to 3.5% in October (GUS flash). (a) Annualise the October monthly change. (b) Using (1 + y/y new) = (1 + y/y old) × (1 + m/m now) ÷ (1 + m/m a year ago), what monthly change in October 2025 is implied by these rounded figures?",
+      "solution": "(a) (1 − 0.004)^12 − 1 = 0.996^12 − 1 = −0.0470, about −4.7% a year if the October fall were repeated every month. (b) 1.035 = 1.041 × 0.996 ÷ (1 + m), so 1 + m = 1.041 × 0.996 ÷ 1.035 = 1.00177, giving m ≈ +0.18%. This is an implied value from rounded data, not an official statistic. Interpretation: the annual rate fell by 0.6 percentage points because a −0.4% month replaced a month of roughly +0.2% in the twelve-month window; a single month moves the annual rate, but one month does not make a trend.",
+      "title": "Month-on-month falls, year-on-year rises: a base effect"
+    }
+  ],
+  "updatedAt": "2026-11-07T09:13:50.124258Z"
+}
