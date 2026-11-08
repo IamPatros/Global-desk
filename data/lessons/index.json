@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T19:16:07Z",
+  "updated": "2026-11-08T09:16:41Z",
   "lessons": [
     {
       "number": 1,
@@ -56,6 +56,14 @@
       "date": "7 Nov 2026",
       "createdAt": "2026-11-07T19:09:04Z",
       "updatedAt": "2026-11-07T19:14:13.167831Z"
+    },
+    {
+      "number": 8,
+      "title": "Bonds and yields: lending to governments",
+      "level": "Foundations",
+      "date": "8 Nov 2026",
+      "createdAt": "2026-11-08T09:11:47Z",
+      "updatedAt": "2026-11-08T09:11:57.069137Z"
     }
   ]
 }

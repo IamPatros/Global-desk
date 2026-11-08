@@ -1,0 +1,1218 @@
+{
+  "bigPicture": "Overnight the US tightened its blockade of Iran, disabling another cargo ship and launching a task force against Iran's land and Caspian trade routes, while Iran's Revolutionary Guard said it no longer limits the range of its missiles; Saudi Arabia and the Houthis also traded strikes, with 33 reported killed near Sanaa. Poland is in national mourning after the Kraków attack, where investigators found three more bodies at the gunman's family home and the interior minister said he may have held ultranationalist views. In Israel, President Herzog gave opposition leader Gadi Eisenkot the first chance to form a government, a setback for Benjamin Netanyahu. WHO reported that the Bundibugyo Ebola outbreak in DR Congo has passed 10,600 confirmed cases. Markets are closed for the weekend after a week in which Brent oil fell about 16% and Asian chip stocks slumped.",
+  "createdAt": "2026-11-08T08:59:40Z",
+  "glossary": [
+    {
+      "def": "A tradable loan: the issuer promises to repay a fixed face value on a set date (maturity) and usually to pay regular interest (coupons).",
+      "example": "Poland's finance ministry sells treasury bonds to cover a deficit projected by the finance ministry at 6.7% of GDP in 2026.",
+      "term": "Bond"
+    },
+    {
+      "def": "The fixed interest a bond pays, as a percentage of its face value.",
+      "example": "A 1,000 zł bond with a 5% annual coupon pays 50 zł a year.",
+      "term": "Coupon"
+    },
+    {
+      "def": "The single interest rate that makes the present value of a bond's future payments equal to its price; it moves opposite to the price.",
+      "example": "The US 10-year Treasury yield closed at 4.86% on 6 November 2026.",
+      "term": "Yield to maturity"
+    },
+    {
+      "def": "A chart of yields on one issuer's bonds against their maturities; usually upward-sloping, sometimes inverted.",
+      "example": "US yields on 6 November: 2-year 4.51%, 10-year 4.86%, 30-year 5.26%.",
+      "term": "Yield curve"
+    },
+    {
+      "def": "The difference between two yields, usually a country's yield minus a benchmark such as Germany's, in basis points.",
+      "example": "Poland's 10-year (≈6.09%) minus Germany's (≈3.25%) ≈ 284 bp.",
+      "term": "Spread (bond)"
+    },
+    {
+      "def": "A measure of how sensitive a bond's price is to changes in yield; % price change ≈ −modified duration × yield change.",
+      "example": "A bond with modified duration 7.7 loses about 3.9% if its yield rises 0.5 points.",
+      "term": "Duration"
+    },
+    {
+      "def": "A rating agency's signal of the likely direction of a future rating change (positive, stable or negative).",
+      "example": "S&P moved Poland's outlook to negative on 6 November 2026.",
+      "term": "Credit rating outlook"
+    },
+    {
+      "def": "Using warships to stop ships entering or leaving a country's ports.",
+      "example": "CENTCOM says its blockade of Iranian ports has redirected 147 ships since July.",
+      "term": "Naval blockade"
+    },
+    {
+      "def": "Products and technology with both civilian and military uses, such as some electronics and chemicals.",
+      "example": "Task Force Iron Gate targets dual-use technologies moving into Iran.",
+      "term": "Dual-use goods"
+    },
+    {
+      "def": "An official period of grief declared by the state, with flags at half-mast and entertainment events cancelled or scaled down.",
+      "example": "Poland declared national mourning on 8–9 November after the Kraków attack.",
+      "term": "National mourning"
+    },
+    {
+      "def": "A government formed by several parties together because none has a majority alone.",
+      "example": "Gadi Eisenkot needs a coalition of 61 of the Knesset's 120 seats.",
+      "term": "Coalition government"
+    },
+    {
+      "def": "A local council where no party has a majority, so parties must cooperate to govern.",
+      "example": "eThekwini (Durban) is heading for a hung council after South Africa's local elections.",
+      "term": "Hung council"
+    },
+    {
+      "def": "The share of confirmed cases of a disease that end in death.",
+      "example": "WHO reports a 48.7% case fatality ratio for Bundibugyo disease in DR Congo.",
+      "term": "Case fatality ratio"
+    },
+    {
+      "def": "Money that migrants send to family in their home country.",
+      "example": "Kenyan workers in Gulf states send remittances home; travel curbs threaten them.",
+      "term": "Remittances"
+    }
+  ],
+  "label": "Sun 8 Nov · morning",
+  "lessonNumber": 8,
+  "markets": [
+    {
+      "change": 0.31,
+      "changeText": "+0.3%",
+      "group": "Stocks · Americas",
+      "key": true,
+      "name": "S&P 500",
+      "note": "Friday close. Chip stocks rebounded from Thursday's sell-off, but the index still lost about 2.7% over the week (CappNotes).",
+      "region": "US",
+      "value": "7,376.86",
+      "what": "An index of 500 large US companies; the main gauge of the US stock market."
+    },
+    {
+      "change": 1.09,
+      "changeText": "+1.1%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Nasdaq Composite",
+      "note": "Friday close; tech and AI chip shares bounced (CappNotes).",
+      "region": "US",
+      "value": "24,579.42",
+      "what": "An index of over 3,000 Nasdaq-listed shares, heavy in technology."
+    },
+    {
+      "change": -0.46,
+      "changeText": "−0.5%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Dow Jones Industrial Average",
+      "note": "Friday close; fell 237 points as most shares declined (CappNotes).",
+      "region": "US",
+      "value": "51,285.73",
+      "what": "An index of 30 large US companies, weighted by share price."
+    },
+    {
+      "change": -1.92,
+      "changeText": "−1.9%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "DAX",
+      "note": "Friday close; sources differ on the level (about 25,700–25,820). Fell from a record after chip-stock losses and a strong US jobs report that raised fears of higher US rates (wallstreet-online, ad-hoc-news).",
+      "region": "Germany",
+      "value": "",
+      "what": "An index of 40 large German companies."
+    },
+    {
+      "change": -1,
+      "changeText": "−1.0%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "Stoxx Europe 600",
+      "note": "Friday close; AI-related selling spread to Europe (CappNotes, Reuters via Yahoo Finance).",
+      "region": "Europe",
+      "value": "648.33",
+      "what": "An index of 600 large and mid-sized European companies."
+    },
+    {
+      "change": -1.01,
+      "changeText": "−1.0%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "FTSE 100",
+      "note": "Friday 6 Nov close (CappNotes).",
+      "region": "UK",
+      "value": "10,673.94",
+      "what": "An index of the 100 largest companies listed in London."
+    },
+    {
+      "change": -1.85,
+      "changeText": "−1.85%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "WIG20",
+      "note": "Friday close; PKN Orlen fell 7.5% and the fuel-sector index 7.4% as oil prices slumped over the week (Strefa Inwestorów).",
+      "region": "Poland",
+      "value": "4,131.37",
+      "what": "An index of the 20 largest companies on the Warsaw Stock Exchange."
+    },
+    {
+      "change": -5.96,
+      "changeText": "−6.0%",
+      "group": "Stocks · Asia-Pacific",
+      "key": true,
+      "name": "Nikkei 225",
+      "note": "Friday close; chip stocks fell after Thursday's Wall Street drop on worries about AI regulation and data-centre growth after the US midterms (CappNotes, AP).",
+      "region": "Japan",
+      "value": "57,434.77",
+      "what": "An index of 225 large companies on the Tokyo Stock Exchange."
+    },
+    {
+      "change": -6.02,
+      "changeText": "−6.0%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Kospi",
+      "note": "Friday close; chipmakers led the fall (CappNotes).",
+      "region": "South Korea",
+      "value": "5,059.69",
+      "what": "South Korea's main stock index, dominated by Samsung and SK Hynix."
+    },
+    {
+      "change": -1.27,
+      "changeText": "−1.3%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Hang Seng",
+      "note": "Friday 6 Nov close (CappNotes).",
+      "region": "Hong Kong",
+      "value": "24,481.86",
+      "what": "Hong Kong's main stock index."
+    },
+    {
+      "change": 2.01,
+      "changeText": "+2.0%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Nifty 50",
+      "note": "Friday close; India was the region's main gainer (CappNotes).",
+      "region": "India",
+      "value": "25,030.35",
+      "what": "An index of 50 large companies on India's National Stock Exchange."
+    },
+    {
+      "change": -0.49,
+      "changeText": "−0.5%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "ASX 200",
+      "note": "Friday 6 Nov close (CappNotes).",
+      "region": "Australia",
+      "value": "9,020.80",
+      "what": "An index of the 200 largest Australian listed companies."
+    },
+    {
+      "change": -0.13,
+      "changeText": "−0.1%",
+      "group": "Currencies",
+      "key": true,
+      "name": "EUR/PLN",
+      "note": "Friday 17:05 (PAP via Forsal); the złoty firmed slightly after two RPP members said a December rate hike was quite likely.",
+      "region": "Poland",
+      "value": "4.3926",
+      "what": "How many złoty one euro costs."
+    },
+    {
+      "change": 0.68,
+      "changeText": "+0.7%",
+      "group": "Currencies",
+      "key": true,
+      "name": "USD/PLN",
+      "note": "Friday 17:05 (PAP via Forsal); the dollar rose after a stronger-than-expected US jobs report.",
+      "region": "Poland",
+      "value": "3.9396",
+      "what": "How many złoty one US dollar costs."
+    },
+    {
+      "change": -0.82,
+      "changeText": "−0.8%",
+      "group": "Currencies",
+      "key": false,
+      "name": "EUR/USD",
+      "note": "Friday close; the dollar strengthened as US jobs data raised the chance of a Fed rate hike (CappNotes).",
+      "region": "Global",
+      "value": "≈1.114",
+      "what": "How many US dollars one euro buys."
+    },
+    {
+      "change": 0.04,
+      "changeText": "+0.0%",
+      "group": "Currencies",
+      "key": false,
+      "name": "USD/JPY",
+      "note": "Friday 6 Nov close (CappNotes).",
+      "region": "Japan",
+      "value": "≈158.4",
+      "what": "How many yen one US dollar buys."
+    },
+    {
+      "change": -0.51,
+      "changeText": "≈ −16% on the week",
+      "group": "Commodities",
+      "key": true,
+      "name": "Brent crude oil",
+      "note": "Friday close about $97.8 (CappNotes); Reuters said Brent was heading for its steepest weekly fall since 2020 on hopes of US–Iran de-escalation after the midterms.",
+      "region": "Global",
+      "value": "≈$97.8",
+      "what": "The main world benchmark price for a barrel of crude oil."
+    },
+    {
+      "change": -0.17,
+      "changeText": "≈ −13% on the week",
+      "group": "Commodities",
+      "key": false,
+      "name": "WTI crude oil",
+      "note": "Friday close (CappNotes); weekly fall about 13% (Reuters via RTÉ).",
+      "region": "US",
+      "value": "≈$90.4",
+      "what": "The US benchmark price for a barrel of crude oil."
+    },
+    {
+      "change": -0.79,
+      "changeText": "−0.8%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Gold",
+      "note": "Friday close of gold futures; fell as the dollar and bond yields rose (CappNotes).",
+      "region": "Global",
+      "value": "≈$4,081",
+      "what": "Price of one troy ounce (31.1 g) of gold in US dollars."
+    },
+    {
+      "change": null,
+      "changeText": "flat",
+      "group": "Commodities",
+      "key": false,
+      "name": "Bitcoin",
+      "note": "Roughly flat on Friday (CappNotes); crypto trades at weekends too.",
+      "region": "Global",
+      "value": "≈$75,900",
+      "what": "The largest cryptocurrency, priced in US dollars."
+    },
+    {
+      "change": null,
+      "changeText": "+2 bp",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 10-year Treasury yield",
+      "note": "Friday close; rose after strong jobs data (CappNotes).",
+      "region": "US",
+      "value": "4.86%",
+      "what": "The interest rate investors earn for lending to the US government for 10 years."
+    },
+    {
+      "change": null,
+      "changeText": "+5 bp",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 2-year Treasury yield",
+      "note": "Friday close; the 2-year is most sensitive to expected Fed moves (CappNotes).",
+      "region": "US",
+      "value": "4.51%",
+      "what": "The interest rate on 2-year US government debt; tracks expected Fed policy."
+    }
+  ],
+  "marketsAsOf": "Markets closed for the weekend: figures are Friday 6 November closes (US, Europe, Asia) unless stated otherwise; złoty rates are PAP quotes at 17:05 Warsaw on Friday.",
+  "quiz": [
+    {
+      "answer": 2,
+      "explain": "CBS reported China and Russia increasingly trade with Iran via land and Caspian routes because Iranian ports are blockaded.",
+      "options": [
+        "To escort oil tankers through Hormuz for Iran",
+        "To negotiate directly with Iran in Doha",
+        "To stop weapons and sanctioned goods reaching or leaving Iran over land and across the Caspian, which the naval blockade does not cover",
+        "To protect Saudi oil sites from the Houthis"
+      ],
+      "q": "Why did CENTCOM create 'Task Force Iron Gate'?"
+    },
+    {
+      "answer": 3,
+      "explain": "The step raises the stakes during Qatar-mediated talks; it does not reopen Hormuz or end production.",
+      "options": [
+        "That Iran has signed a peace deal",
+        "That Iran will stop producing missiles",
+        "That the Strait of Hormuz has reopened",
+        "Pressure: Iran is warning it could threaten more distant targets while talks continue"
+      ],
+      "q": "What does Iran's Revolutionary Guard ending its self-imposed 2,000-km missile-range limit most likely signal?"
+    },
+    {
+      "answer": 1,
+      "explain": "Kierwiński said the views were still being verified; the Defence Ministry said he had no army link and police say he acted alone.",
+      "options": [
+        "The suspect was a serving soldier",
+        "The suspect may have held very radical, ultranationalist views, which is still being checked",
+        "The suspect had a long criminal record",
+        "Several people helped plan the attack"
+      ],
+      "q": "Investigators found three bodies at the Kraków suspect's family home. What else did Interior Minister Kierwiński say?"
+    },
+    {
+      "answer": 0,
+      "explain": "Reports say he held a permit; Poland actually has among the EU's lowest gun ownership rates (about 2–3 per 100 people).",
+      "options": [
+        "The suspect reportedly had a valid permit and the rifle may have come from the family home, where his father held a permit",
+        "Poland has no gun permits at all",
+        "The weapon was smuggled from Ukraine, police confirmed",
+        "Gun ownership in Poland is the highest in the EU"
+      ],
+      "q": "Why does the Kraków attack put Poland's gun-permit system under scrutiny?"
+    },
+    {
+      "answer": 3,
+      "explain": "His bloc has 48 seats; adding UTJ (7) and Shas (6) would give 61. He ruled out governing with Arab-led parties.",
+      "options": [
+        "Joining with Netanyahu's Likud",
+        "Relying on the Arab-led parties",
+        "He already has 61 seats from the election",
+        "Winning over the ultra-Orthodox parties United Torah Judaism and Shas"
+      ],
+      "q": "Gadi Eisenkot got the first chance to form Israel's government. What is his clearest route to 61 seats, according to the Times of Israel?"
+    },
+    {
+      "answer": 2,
+      "explain": "Threats to Saudi oil facilities can affect world supply and prices; the fighting is a spillover of the US–Iran war.",
+      "options": [
+        "The Houthis control the Suez Canal",
+        "Saudi Arabia uses the złoty",
+        "Saudi Arabia is a major oil exporter, and alerts covered oil areas such as Abqaiq",
+        "Yemen is the world's biggest oil producer"
+      ],
+      "q": "Why do renewed Houthi attacks on Saudi Arabia matter for the world beyond Yemen?"
+    },
+    {
+      "answer": 0,
+      "explain": "WHO linked community deaths to late detection and poor access to care; it advises against travel or trade restrictions.",
+      "options": [
+        "Late detection and limited timely access to care",
+        "Travel bans by neighbouring countries",
+        "Too many vaccines being given",
+        "The virus only affects children"
+      ],
+      "q": "WHO says no approved vaccine or specific treatment exists for Bundibugyo virus disease. What explains the many community deaths, especially among children, according to WHO?"
+    },
+    {
+      "answer": 1,
+      "explain": "Gulf restrictions affect labour migration and the remittances families depend on, even though WHO advises against such bans.",
+      "options": [
+        "To get Ebola vaccines",
+        "To lift Ebola-related travel curbs that stop Kenyan workers travelling to the Gulf",
+        "To buy cheaper oil",
+        "To host COP31"
+      ],
+      "q": "Why are some Kenyan recruitment agencies asking their government to talk to Saudi Arabia and Kuwait?"
+    },
+    {
+      "answer": 3,
+      "explain": "Attacks on the grid as winter starts aim to cause blackouts; US-brokered talks are due in Abu Dhabi on 10 November.",
+      "options": [
+        "Because Ukraine has no air defences",
+        "Because the talks were cancelled",
+        "To lower European gas prices",
+        "To cut electricity and heating as winter begins; Ukraine says also to pressure it before talks"
+      ],
+      "q": "Russia launched 164 drones and three missiles at Ukraine overnight. Why does Russia focus on substations and power plants now?"
+    },
+    {
+      "answer": 2,
+      "explain": "With no majority, councils need coalitions; hung councils often see frequent changes of mayor.",
+      "options": [
+        "The national government will be dissolved",
+        "The ANC keeps full control anyway",
+        "Cities will be run by coalitions, which in South Africa have often been unstable",
+        "Local elections will be repeated next month"
+      ],
+      "q": "South Africa's ANC fell to about 31% and lost its majority in six of eight metros. What is the most likely practical consequence for those cities?"
+    },
+    {
+      "answer": 1,
+      "explain": "ABC News reported the withdrawal; over 100 US state and local leaders still attend.",
+      "options": [
+        "The US was not invited",
+        "The US is withdrawing from the Paris Agreement and the UNFCCC",
+        "Türkiye banned US officials",
+        "The US hosts its own summit"
+      ],
+      "q": "COP31 opens in Antalya without an official US federal delegation. Why?"
+    },
+    {
+      "answer": 0,
+      "explain": "Hopes for a deal and signs of surplus pushed prices down, though attacks on ships continue.",
+      "options": [
+        "Republican losses in the midterms raised hopes of de-escalation with Iran, and Middle East crude premiums returned to pre-war levels",
+        "OPEC announced a big production increase",
+        "Hormuz fully reopened",
+        "China banned oil imports"
+      ],
+      "q": "Brent fell about 16% last week. Which explanation did Reuters give?"
+    },
+    {
+      "answer": 3,
+      "explain": "The fuel-sector index fell 7.4% as oil slumped; a single sector moves more than a broad index.",
+      "options": [
+        "Orlen was removed from the WIG20",
+        "The złoty collapsed",
+        "Orlen's shares are priced in dollars",
+        "Orlen is an oil company, so a sharp fall in oil prices hits its expected earnings more than the broad index"
+      ],
+      "q": "Why did PKN Orlen fall 7.5% on Friday while the WIG20 fell 1.85%?"
+    },
+    {
+      "answer": 2,
+      "explain": "Chip-heavy Asian markets were hit hardest after Wall Street's tech sell-off on Thursday.",
+      "options": [
+        "A rate hike by the Bank of Japan",
+        "An earthquake closed Tokyo's exchange",
+        "Chip stocks fell on worries about AI regulation and data-centre growth after the US midterms",
+        "Oil prices spiked"
+      ],
+      "q": "Japan's Nikkei and Korea's Kospi both fell about 6% on Friday. What drove the fall, according to the market reports?"
+    },
+    {
+      "answer": 1,
+      "explain": "When sources disagree, good reporting gives the range and attributes each figure.",
+      "options": [
+        "Use only the larger number",
+        "Give both figures and say who gave each, because sources differ",
+        "Use only the government number",
+        "Report that nobody knows anything"
+      ],
+      "q": "France's Interior Ministry counted 146,000 protesters on Saturday; unions said 250,000. What is the best way to report this?"
+    },
+    {
+      "answer": 0,
+      "explain": "(1.0375 ÷ 1.035) − 1 ≈ 0.24%: the nominal rate is only slightly above inflation.",
+      "options": [
+        "About 0.24%",
+        "About 7.25%",
+        "About −3.5%",
+        "Exactly 3.75%"
+      ],
+      "q": "Review (Lesson 7): The RPP left the NBP reference rate at 3.75% on 4 November, and October inflation was 3.5%. Roughly what is Poland's real policy rate?"
+    },
+    {
+      "answer": 2,
+      "explain": "More supply at each price pushes the equilibrium price down (Lesson 2: supply, demand and prices).",
+      "options": [
+        "Higher demand always lowers prices",
+        "The government printed money",
+        "Higher supply with similar demand lowers the market price",
+        "Inflation always makes food cheaper"
+      ],
+      "q": "Review (Lesson 2): Kenya's sugar output rose 56.7% and shop prices fell. Which basic mechanism explains this?"
+    },
+    {
+      "answer": 3,
+      "explain": "Expected interest-rate differences move exchange rates: higher US rates draw money into dollars.",
+      "options": [
+        "The złoty was devalued by the NBP",
+        "Poland joined the euro",
+        "Oil is priced in złoty",
+        "Higher expected US interest rates made dollar assets more attractive, strengthening the dollar"
+      ],
+      "q": "Review (Lesson 5): Friday's strong US jobs report raised the chance of a Fed hike. Why did USD/PLN rise about 0.7%?"
+    }
+  ],
+  "status": "complete",
+  "stories": [
+    {
+      "category": "Politics & conflict",
+      "everyday": "Oil fell about 16% last week on hopes of a deal, but incidents like these can reverse that quickly. Petrol and diesel prices in Poland follow oil prices with a lag of a few weeks.",
+      "id": "iran-blockade-land",
+      "importance": 5,
+      "markets": [
+        "Brent crude",
+        "WTI crude",
+        "Shipping and tanker insurance",
+        "Airlines"
+      ],
+      "rank": 1,
+      "rankWhy": "The US–Iran war keeps the Strait of Hormuz, the route for a large share of the world's oil and LNG, effectively closed, so every escalation step affects fuel prices worldwide, including in Poland.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "RFE/RL Iran live blog",
+          "url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html"
+        },
+        {
+          "name": "CBS News live updates",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+        }
+      ],
+      "terms": [
+        "Naval blockade",
+        "Dual-use goods"
+      ],
+      "title": "US disables another ship trying to breach its Iran blockade and widens the blockade to land and Caspian routes; Iran drops its missile-range limit",
+      "what": "On Saturday evening the US military's Central Command (CENTCOM) said its forces fired on and disabled a St. Kitts-flagged cargo ship, the M/V Huda, in the Gulf of Oman after its crew repeatedly tried to break the US naval blockade of Iranian ports; CENTCOM said it has redirected 147 commercial vessels and disabled five merchant ships since July. Earlier on Saturday CENTCOM announced 'Task Force Iron Gate', a team of about 20 civilian and military staff based in Florida meant to stop weapons, dual-use technology and sanctioned goods moving across Iran's land borders and the Caspian Sea; it did not say how it would operate. Iran's Revolutionary Guard (IRGC) said it was ending its self-imposed 2,000-km limit on missile range. Early on Sunday the UAE National Guard said it rescued 22 people after a fire on a cargo ship in the Sea of Oman, without saying whether it was the ship the US disabled.",
+      "why": "CBS News reported that China and Russia have increasingly traded with Iran over land and across the Caspian because Iranian ports are blockaded, so the new task force tries to close that gap. CENTCOM's commander Brad Cooper said the blockade has stopped Iran exporting more than $25 billion of crude in recent months. Iran's step on missile range is a signal that it could threaten targets farther away; both moves come while Qatar-mediated talks continue, so each side is raising pressure ahead of any deal."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Expect heavier policing around public gatherings, including Independence Day events on 11 November. Authorities asked witnesses to give their videos to the police instead of posting them online.",
+      "id": "krakow-update",
+      "importance": 4,
+      "markets": [],
+      "rank": 2,
+      "rankWhy": "Poland's deadliest attack in decades, now with nine dead including the suspect's family and signs of extremist views, shapes national security policy, the gun-permit debate and the public mood of a country of 37 million.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Rzeczpospolita live blog",
+          "url": "https://www.rp.pl/polityka/art45459471-strzelanina-na-rynku-glownym-w-krakowie-relacja-minuta-po-minucie"
+        },
+        {
+          "name": "IKC (Kraków)",
+          "url": "https://ikc.pl/dorozkarze-po-ataku-na-rynku-trwamy-dwoje-walczy-o-zycie-krakow-w-zalobie-do-srody"
+        },
+        {
+          "name": "Niedziela.pl",
+          "url": "https://www.niedziela.pl/artykul/129647/Krakow-po-tragicznej-sobocie-Rynek-czesciowo-otwarty-wszyscy-ranni-w-ataku-zyja"
+        },
+        {
+          "name": "The Week",
+          "url": "https://www.theweek.in/news/world/2026/11/08/who-is-the-polish-shooter-behind-the-deadly-krakow-shooting-key-details-emerge-as-country-reels-in-shock.html"
+        }
+      ],
+      "terms": [
+        "National mourning",
+        "Firearms permit"
+      ],
+      "title": "Kraków attack: three more bodies found at the gunman's family home; minister says he held 'ultranationalist' views; national mourning declared",
+      "what": "Six people (four women and two men, among them a British citizen) were killed when a gunman drove onto Kraków's Main Market Square at about 15:00 on Saturday and fired at people from his car; about 15–16 people were injured, including two police officers, and two horse-carriage drivers are fighting for their lives. Police say the suspect is a 24-year-old Polish man from Ostrowiec Świętokrzyski, named in media as Michał O., who was shot by police and is in hospital; police say he acted alone. On Sunday a police spokeswoman said all the injured were alive, and part of the square reopened. Hours after the attack three bodies, believed to be his mother, father and sister, were found at the family home. Interior Minister Marcin Kierwiński said the suspect may have held very radical, ultranationalist views, which is still being checked; the Defence Ministry said he had no link to the army. President Karol Nawrocki ordered national mourning, countersigned by PM Donald Tusk for two days, 8–9 November, and Kraków is in local mourning until Wednesday 11 November.",
+      "why": "Prosecutors from district, regional and national offices are investigating, including whether anyone helped him, and cybercrime police are examining his online activity, rp.pl reported. The rifle, an AR-15-type weapon, may have come from the family home, where his father reportedly held a gun permit, Kierwiński said; this puts Poland's rules on firearm permits and how weapons are stored at home under scrutiny. Tusk called the attack terrorism and urged politicians not to exploit it."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Israel's next government will shape decisions on the Iran war and Gaza, which affect energy prices and security across the region.",
+      "id": "israel-eisenkot",
+      "importance": 4,
+      "markets": [
+        "Israeli shekel",
+        "Tel Aviv stocks"
+      ],
+      "rank": 3,
+      "rankWhy": "A possible end to Benjamin Netanyahu's long rule would change Israel's government in the middle of a regional war involving Iran, the US, Gaza and Lebanon.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+        },
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/"
+        },
+        {
+          "name": "AP News in Brief (via Ottumwa Courier)",
+          "url": "https://www.ottumwacourier.com/news/national_news/ap-news-in-brief-at-11-04-p-m-est/article_dcd7171e-408b-526d-96eb-98dad07082ec.html"
+        }
+      ],
+      "terms": [
+        "Coalition government",
+        "Knesset"
+      ],
+      "title": "Israel's president gives Gadi Eisenkot, not Netanyahu, the first chance to form a government",
+      "what": "On Saturday evening President Isaac Herzog said he would task Gadi Eisenkot, a former army chief who leads the Yashar party, with forming a government; the formal ceremony is set for Sunday at 17:00 Israel time (16:00 Warsaw). Eisenkot was recommended by 67 of the 120 members of the Knesset (parliament), including Arab-led parties, against 46 for Netanyahu. In the 27 October election Eisenkot's four-party alliance won 48 seats and Netanyahu's right-wing and religious bloc 53, so neither side has the 61 seats needed for a majority. Eisenkot has 28 days, with a possible 14-day extension.",
+      "why": "Eisenkot has ruled out governing with the Arab-led parties, so his clearest route to 61 seats is winning over the ultra-Orthodox parties United Torah Judaism (7 seats) and Shas (6), the Times of Israel reported; Shas denied reports it would join him. Netanyahu called for a 'national unity government' and warned against a government backed by Arab parties. If no government can be formed, Israel would hold another election within 90 days, with Netanyahu as caretaker prime minister, Al Jazeera reported."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Yemen was already one of the world's worst humanitarian crises; the IOM said in October that more than 200,000 people had been displaced since the latest round began. Attacks on Saudi oil sites can push up fuel prices far away.",
+      "id": "saudi-houthi-strikes",
+      "importance": 4,
+      "markets": [
+        "Brent crude",
+        "Saudi stocks"
+      ],
+      "rank": 4,
+      "rankWhy": "Renewed Saudi–Houthi fighting kills civilians in Yemen and puts Saudi cities and oil facilities, central to world oil supply, under missile fire.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Jerusalem Post (Reuters)",
+          "url": "https://www.jpost.com/middle-east/article-914167"
+        },
+        {
+          "name": "CBS News live updates",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+        },
+        {
+          "name": "Washington Times (AP)",
+          "url": "https://www.washingtontimes.com/news/2026/nov/7/airstrike-killed-25-people-near-yemens-capital-houthi-official-says/"
+        }
+      ],
+      "terms": [
+        "Houthis",
+        "Truce"
+      ],
+      "title": "Houthis say Saudi strikes killed 33 near Sanaa; a projectile damages a tower in Riyadh's financial district",
+      "what": "The Houthi-run Saba news agency said Saudi air strikes on a village in Bani Hushaysh, east of Yemen's capital Sanaa, killed at least 33 people and wounded 39 on Saturday, most of them women and children according to the Houthi-run health ministry; Reuters could not verify the figures and Saudi Arabia said it was investigating the report. The Saudi-led coalition said it intercepted a ballistic missile aimed at the Eastern region and two cruise missiles over Riyadh and the south. Four people familiar with the matter told Reuters a projectile damaged a tower in Riyadh's King Abdullah Financial District; on Sunday Saudi Civil Defense lifted alerts in Eastern Province areas including Dhahran, Dammam and Abqaiq.",
+      "why": "Fighting between Saudi Arabia and the Iran-aligned Houthis resumed in July 2026, breaking a 2022 UN-brokered truce, as a spillover of the wider US–Iran war that began in February, Reuters reported. The Houthis have targeted Saudi airports, ports and oil facilities. Abqaiq, where alerts were raised, is home to one of the world's most important oil-processing sites, so threats there matter for oil supply."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "The risk to Europe is assessed as low (WHO's latest assessment rates the global risk low), but the outbreak shows why vaccines, surveillance and health funding in poorer countries matter to everyone.",
+      "id": "ebola-who-update",
+      "importance": 4,
+      "markets": [],
+      "rank": 5,
+      "rankWhy": "The largest Ebola-type outbreak in Congo's history, with more than 10,000 confirmed cases and no approved vaccine for this strain, threatens millions in Central Africa and has reached five countries.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "WHO Disease Outbreak News",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625"
+        },
+        {
+          "name": "ICIR Nigeria",
+          "url": "https://www.icirnigeria.org/ebola-drc-records-10668-cases-5198-deaths-who/"
+        }
+      ],
+      "terms": [
+        "Case fatality ratio",
+        "Bundibugyo virus"
+      ],
+      "title": "WHO: Bundibugyo Ebola outbreak in DR Congo passes 10,600 cases and 5,198 deaths; transmission still high",
+      "what": "In an update published on 6 November with data to 3 November, the World Health Organization reported 10,668 confirmed cases and 5,198 deaths from Bundibugyo virus disease (a type of Ebola) in the Democratic Republic of the Congo, a case fatality ratio of 48.7%. Active transmission continues in 51 of 67 affected health zones in eight provinces; Ituri (7,485 cases) and North Kivu (2,593) are worst hit. Five countries have reported cases since the outbreak was declared on 15 May: DRC, France, Kenya, Nigeria and Uganda; France and Uganda have controlled theirs. WHO says no approved vaccine or specific treatment exists for this virus, though a vaccine trial began in Bunia on 23 October.",
+      "why": "WHO said it is concerned by the many deaths in communities, especially among young children, linked to late detection and poor access to care. The outbreak is centred in areas of eastern Congo affected by armed conflict, which makes tracing contacts and treating patients harder (on Saturday armed men killed at least 33 people in an Ebola-hit village). WHO advises against travel or trade restrictions on affected countries."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Attacks on Ukraine's grid can mean longer blackouts for Ukrainians, including relatives of the large Ukrainian community in Poland, and keep European gas and power markets nervous.",
+      "id": "ukraine-night-attack",
+      "importance": 3,
+      "markets": [
+        "European gas (TTF)",
+        "Ukrainian bonds"
+      ],
+      "rank": 6,
+      "rankWhy": "A second night of large Russian strikes keeps pressure on Ukraine's power grid and on millions of civilians just before US-brokered talks.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Ukrinform (Ukrainian Air Force data)",
+          "url": "https://www.ukrinform.net/rubric-ato/4182552-adf-neutralises-137-of-164-russian-drones-overnight.html"
+        },
+        {
+          "name": "UNN",
+          "url": "https://unn.ua/en/news/russia-attacked-ukraine-with-164-drones-air-defense-shot-down-137-uavs"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-attacks-kill-2-injure-37-across-ukraine-over-past-day-hit-substations-connecting-nuclear-power-plants-to-kyiv/"
+        }
+      ],
+      "terms": [
+        "Decoy drone"
+      ],
+      "title": "Russia launches 164 drones and three missiles at Ukraine overnight, two days before Abu Dhabi talks",
+      "what": "Ukraine's Air Force said Russia attacked from 18:00 on Saturday with three Kh-59/69 guided missiles launched from the Sea of Azov and 164 attack drones, 112 of them jet-powered, plus decoy drones. By 08:00 on Sunday air defences had shot down or suppressed 137 drones; hits were recorded at 23 locations and debris fell at six. The night before, Russia launched 172 long-range drones plus missiles including KN-23s; Zelensky said a substation linking the Rivne and Khmelnytskyi nuclear plants to Kyiv was hit, and the Kyiv Independent reported 2 killed and 37 injured over that day.",
+      "why": "Russia has concentrated strikes on substations and power plants as winter begins, aiming to cut electricity and heating; Ukraine says this is meant to pressure it before talks. US-brokered Ukraine–Russia–US talks are due in Abu Dhabi on Tuesday 10 November."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "US politics affects the dollar, oil and US tech shares that many European pension and investment funds hold.",
+      "id": "us-congress-count",
+      "importance": 3,
+      "markets": [
+        "US dollar",
+        "US tech stocks"
+      ],
+      "rank": 7,
+      "rankWhy": "The size of the Democrats' new majorities in Congress decides how far they can check President Trump on spending, the Iran war and tech regulation, which markets are watching.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Yahoo News live (AP data)",
+          "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+        },
+        {
+          "name": "AP News in Brief",
+          "url": "https://www.ottumwacourier.com/news/national_news/ap-news-in-brief-at-11-04-p-m-est/article_dcd7171e-408b-526d-96eb-98dad07082ec.html"
+        }
+      ],
+      "terms": [
+        "Ranked-choice voting",
+        "Certification (of election results)"
+      ],
+      "title": "US midterms: Democrats hold at least 54 Senate seats as Mississippi and Alaska races stay too close to call",
+      "what": "According to AP figures reported by Yahoo News on Saturday, Democrats have 54 Senate seats and Republicans 44, with Alaska and Mississippi undecided; in the House Democrats have 254 seats to 162, with 19 races uncalled, well above the 218 needed for a majority. In Mississippi Democrat Scott Colom led Senator Cindy Hyde-Smith by 2,574 votes with 97% counted; counties must certify by 13 November and state law allows no recount in this race. In Alaska Mary Peltola led Senator Dan Sullivan by 637 votes with 74% counted; ranked-choice counting begins on 18 November if no one passes 50%. AP reported that House Democrats plan to focus their new majority on health care and ending the Iran war.",
+      "why": "Control of both chambers lets Democrats block legislation and run investigations; Senate leader Chuck Schumer promised to 'entangle' Trump in 'legislative razor wire', CBS reported. Investors partly linked last week's tech sell-off to expectations of tougher regulation of big tech and AI after the result, Reuters reported."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "City councils run water, electricity distribution, roads and rubbish collection, so who governs them directly affects daily services.",
+      "id": "sa-local-elections",
+      "importance": 3,
+      "markets": [
+        "South African rand"
+      ],
+      "rank": 8,
+      "rankWhy": "The ANC's worst result since apartheid ended reshapes who runs South Africa's big cities, home to tens of millions, and tests the national coalition government.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "3News (Electoral Commission figures)",
+          "url": "https://3news.com/world/anc-historic-defeat-south-africa-local-elections"
+        },
+        {
+          "name": "BusinessTech",
+          "url": "https://businesstech.co.za/news/government/883133/2026-election-results-first-major-city-in-south-africa-reaches-final-count-with-the-anc-suffering-a-blow/"
+        }
+      ],
+      "terms": [
+        "Hung council"
+      ],
+      "title": "South Africa: ANC falls to about 31% in local elections and loses its majority in six of eight big cities",
+      "what": "With 98% of ballots counted, Electoral Commission figures reported on Saturday put the ANC at 30.95%, the Democratic Alliance (DA) at 24.56%, Jacob Zuma's MK Party at 9.62% and the EFF at 6.26%. The ANC lost its majority in six of eight metropolitan municipalities; the DA leads in Tshwane (Pretoria) and Johannesburg. In Buffalo City, the first big city to finish counting, the ANC fell from 59.43% in 2021 to 42.02%, BusinessTech reported.",
+      "why": "Where no party wins a majority, councils must be run by coalitions, which in South Africa have often been unstable, with frequent changes of mayor."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Climate deals feed into EU rules such as carbon prices, which affect Polish electricity and heating bills because Poland still relies heavily on coal.",
+      "id": "cop31-preview",
+      "importance": 3,
+      "markets": [
+        "EU carbon allowances",
+        "Renewable-energy stocks"
+      ],
+      "rank": 9,
+      "rankWhy": "Nearly 200 countries meet to negotiate how fast the world cuts emissions and who pays, decisions that shape energy policy, prices and climate risks everywhere.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/US/cop31-international-climate-conference-begins-monday/story?id=137885179"
+        },
+        {
+          "name": "UNFCCC",
+          "url": "https://unfccc.int/cop31"
+        },
+        {
+          "name": "COP31 programme 9–20 November (Zero Waste Foundation)",
+          "url": "https://cop.sifiratikvakfi.org/en/cop31-programme/"
+        }
+      ],
+      "terms": [
+        "COP (Conference of the Parties)",
+        "Adaptation"
+      ],
+      "title": "COP31 climate summit opens in Antalya on Monday without an official US delegation",
+      "what": "The 31st UN climate conference (COP31) runs in Antalya, Türkiye, from 9 to 20 November; nearly 200 countries take part in the UN Framework Convention on Climate Change. For the second year there is no official US federal delegation, as the US is withdrawing from the Paris Agreement and the UNFCCC, though more than 100 US state and local leaders are attending, ABC News reported. Topics include climate finance, adaptation, methane and a proposal to raise electricity's share of energy demand from just over 20% in 2024 to 35% by 2035; the agenda also includes the energy use of AI data centres.",
+      "why": "UNEP says the world is on track to pass 1.5°C of warming within a few years, and the WMO says CO₂ reached a record in 2025, so pressure to cut emissions faster is rising; poorer countries want more money to adapt, a long-running sticking point."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Cheaper crude usually reaches Polish petrol stations after a few weeks, but a weaker złoty against the dollar (oil is priced in dollars) can offset part of the fall.",
+      "id": "oil-week",
+      "importance": 3,
+      "markets": [
+        "Brent crude",
+        "WTI crude",
+        "PKN Orlen",
+        "WIG20"
+      ],
+      "rank": 10,
+      "rankWhy": "Oil's biggest weekly fall since 2020 changes fuel costs and inflation outlooks for every importing country, and hit Poland's biggest company, Orlen.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "RTÉ (Reuters)",
+          "url": "https://www.rte.ie/news/business/2026/1106/1598252-world-oil-prices/"
+        },
+        {
+          "name": "CappNotes closing look",
+          "url": "https://cappnotes.substack.com/p/closing-look-friday-november-6-2026"
+        },
+        {
+          "name": "Strefa Inwestorów",
+          "url": "https://strefainwestorow.pl/wiadomosci/20261106/wig20-na-zamknieciu-wyniosl-413137-pkt-185"
+        }
+      ],
+      "terms": [
+        "Benchmark (oil)"
+      ],
+      "title": "Week in review: Brent oil falls about 16%, its steepest weekly drop since 2020, as traders bet on a US–Iran deal",
+      "what": "Brent crude ended Friday near $97.8 a barrel, down about 16% over the week, which Reuters said was its steepest weekly percentage fall since the Covid-19 pandemic began; US crude (WTI) fell about 13%. Oil had dropped 8% on Wednesday after Democrats won the US midterms. In Warsaw, shares of PKN Orlen fell 7.5% on Friday and the fuel-sector index 7.4%, helping push the WIG20 down 1.85%.",
+      "why": "Reuters reported that Republican losses raised hopes of de-escalation in the war with Iran, which could let more crude leave the Gulf, while Middle East crude premiums returned to pre-war levels, a sign of surplus. Analysts quoted by Reuters warned the problems have not disappeared: attacks on ships near Hormuz continue and a deal has not been signed."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Rejoining Erasmus+ would make it easier for Polish and British students to study in each other's countries again.",
+      "id": "uk-eu-erasmus",
+      "importance": 3,
+      "markets": [
+        "British pound"
+      ],
+      "rank": 11,
+      "rankWhy": "Britain's push for closer EU ties ahead of a 20 November summit could ease trade and student exchange for millions of people on both sides.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "UKLIVE morning briefing (citing Sunday Mirror, GB News, BBC)",
+          "url": "https://uklive.substack.com/p/rise-and-shine-with-uklive-sunday"
+        },
+        {
+          "name": "Euronews (Dec 2025: UK to rejoin Erasmus in 2027)",
+          "url": "https://www.euronews.com/my-europe/2025/12/17/uk-to-rejoin-eus-erasmus-student-mobility-fund-in-2027"
+        },
+        {
+          "name": "ITV News (summit plans)",
+          "url": "https://www.itv.com/news/2026-10-12/burnham-to-use-key-uk-eu-summit-next-month-to-seek-new-post-brexit-deals"
+        }
+      ],
+      "terms": [
+        "Erasmus+",
+        "Single market"
+      ],
+      "title": "UK steps up its EU 'reset' before the 20 November summit; minister confirms return to Erasmus+",
+      "what": "UK Prime Minister Andy Burnham told the Sunday Mirror that closer ties with the EU would help bring down the cost of living, ahead of a UK–EU summit in Brussels on 20 November where a series of deals is due to be signed. Culture Secretary Lisa Nandy confirmed Britain will rejoin the EU's Erasmus+ student and youth exchange programme; the government agreed in December 2025 to rejoin from 2027. Opposition politicians criticised her for linking the announcement to Remembrance Sunday.",
+      "why": "Since Brexit, UK trade with the EU faces extra checks and paperwork; Burnham's government says easing these would support growth. EU officials, including former negotiator Michel Barnier, say the UK cannot choose only the parts of the single market it likes."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Even with the recent rise, Poland has about two to three guns per 100 residents, among the lowest rates in the EU (Bezprawnik); any change in the rules would affect hundreds of thousands of hunters, sport shooters and collectors.",
+      "id": "poland-gun-debate",
+      "importance": 3,
+      "markets": [],
+      "rank": 12,
+      "rankWhy": "The Kraków attack reopens the debate on gun permits in Poland, where legally held firearms have passed one million, a policy question affecting public safety for the whole country.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Bezprawnik (police data via RMF FM)",
+          "url": "https://bezprawnik.pl/prawo-do-broni-w-polsce/"
+        },
+        {
+          "name": "Forsal",
+          "url": "https://forsal.pl/kraj/bezpieczenstwo/artykuly/10640725,polacy-zbroja-sie-na-potege-mamy-juz-milion-sztuk-broni-w-domach-liczba-pozwolen-pobila-rekord.html"
+        },
+        {
+          "name": "Rzeczpospolita live blog",
+          "url": "https://www.rp.pl/polityka/art45459471-strzelanina-na-rynku-glownym-w-krakowie-relacja-minuta-po-minucie"
+        }
+      ],
+      "terms": [
+        "Firearms permit"
+      ],
+      "title": "After Kraków, Poland debates its gun-permit rules as legal firearms pass one million",
+      "what": "Police statistics reported by RMF FM and cited by Bezprawnik show a record 50,700 gun permits issued in 2025, 411,769 valid permits at the end of 2025 and 1,037,778 firearms held by civilians, the first time the total passed one million; Forsal also reported that Poles now keep over a million guns at home. Of the new 2025 permits, more than 21,000 were for collector weapons and about 17,600 for sport. Permits are issued by regional police commanders after medical and psychological tests and an exam. The Kraków suspect reportedly had a valid permit, and rp.pl noted that AR-15-type rifles can be bought legally in Poland only with a sport or collector permit.",
+      "why": "Bezprawnik reported that some commentators argue armed citizens could stop attackers sooner, while others say the attack shows the rules must be tightened; the key open question is how the weapon was obtained and whether checks failed. Politicians from Polska 2050 proposed tighter rules earlier in 2026, citing the record number of permits."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Rising living costs are a shared European problem; how France responds (wage talks, fuel measures) may be watched by other governments, including Poland's.",
+      "id": "france-protest-turnout",
+      "importance": 2,
+      "markets": [
+        "French government bonds"
+      ],
+      "rank": 13,
+      "rankWhy": "A fourth weekend of cost-of-living protests shows lasting social tension in the EU's second-largest economy months before a presidential election.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france"
+        },
+        {
+          "name": "Dawn (AFP)",
+          "url": "https://www.dawn.com/"
+        }
+      ],
+      "terms": [
+        "Cost-of-living crisis"
+      ],
+      "title": "France: 146,000 marched on Saturday by official count, 250,000 by unions; tear gas in Paris and Lyon",
+      "what": "The Interior Ministry counted about 146,000 protesters nationwide on Saturday, including 46,000 in Paris; unions said 250,000, including 75,000 in Paris. Turnout was lower than in previous weeks, but police in Paris charged protesters and used tear gas, and in Lyon police dispersed several hundred people blocking a road. About 70,000 security personnel were deployed, Al Jazeera reported.",
+      "why": "The movement began in September over conditions in high schools and has widened to fuel prices, wages and the cost of living. It comes before the April presidential election, in which Al Jazeera said polls are led by Marine Le Pen."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Japan's strict building codes and early-warning systems are why a quake of this size usually causes injuries but few deaths.",
+      "id": "japan-quake",
+      "importance": 2,
+      "markets": [
+        "Central Japan Railway"
+      ],
+      "rank": 14,
+      "rankWhy": "A moderate quake in Japan's industrial heartland injured over 20 people and briefly disrupted the country's busiest rail line, with no tsunami.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Nation Thailand",
+          "url": "https://nationthailand.com/news/world/40073252"
+        },
+        {
+          "name": "LaPresse",
+          "url": "https://uk.lapresse.it/world-en/2026/11/08/earthquakes-5-7-magnitude-quake-in-japan-at-least-22-injured"
+        }
+      ],
+      "terms": [
+        "Seismic intensity (shindo)"
+      ],
+      "title": "Magnitude 5.7 earthquake shakes central Japan, injuring more than 20; no tsunami and no problems at Hamaoka nuclear plant",
+      "what": "The Japan Meteorological Agency said a magnitude 5.7 quake struck western Shizuoka Prefecture at about 01:04 local time on Sunday (17:04 Saturday Warsaw time) at a depth of about 40 km; the US Geological Survey put it at 5.5. Shaking reached 'upper 5' on Japan's 0–7 scale in Chita, Aichi Prefecture, and more than 20 people were hurt in Aichi and Shizuoka, some falling on stairs while fleeing. No tsunami warning was issued; Chubu Electric reported no abnormalities at the Hamaoka nuclear plant, and Tokaido Shinkansen trains were delayed for checks.",
+      "why": "Japan sits where several tectonic plates meet. The quake was near the area of a feared future 'Nankai Trough' megaquake, but the JMA considered a link unlikely."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Large papal visits bring hundreds of thousands of pilgrims and heavy security to host cities.",
+      "id": "pope-argentina",
+      "importance": 2,
+      "markets": [],
+      "rank": 15,
+      "rankWhy": "Pope Leo XIV's tour of South America draws huge crowds and attention to poverty and social issues in the region.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Tico Times",
+          "url": "https://ticotimes.net/2026/11/06/pope-leo-xiv-latin-america-visit-uruguay-argentina-peru"
+        },
+        {
+          "name": "Vatican News (itinerary)",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-09/hspo-programme-latin-america-logos-mottos-itinerary.html"
+        }
+      ],
+      "terms": [],
+      "title": "Pope Leo XIV leaves Uruguay for Argentina, where he meets President Milei",
+      "what": "On Sunday Pope Leo XIV was due to celebrate Mass at the National Shrine of Our Lady of the Thirty-Three in Florida, Uruguay, and then fly to Buenos Aires for a welcome at the Casa Rosada and a meeting with President Javier Milei, according to the published schedule. In Argentina he is due to visit Córdoba, a federal prison and the Basilica of Luján before going to Peru on 11 November.",
+      "why": "The visit's programme focuses on workers, prisoners and the poor, themes central to Catholic social teaching."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "More mediators mean more channels for a possible deal, which markets watch for signs on oil.",
+      "id": "erdogan-trump-call",
+      "importance": 2,
+      "markets": [],
+      "rank": 16,
+      "rankWhy": "Türkiye joins Qatar in trying to mediate the US–Iran war, a small but notable diplomatic signal.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Jerusalem Post (Reuters)",
+          "url": "https://www.jpost.com/middle-east/article-914146"
+        },
+        {
+          "name": "Türkiye Today",
+          "url": "https://www.turkiyetoday.com/nation/erdogan-urges-diplomatic-end-to-iran-us-tensions-in-call-with-trump-3231940"
+        }
+      ],
+      "terms": [],
+      "title": "Erdoğan tells Trump that Türkiye will keep pushing for US–Iran peace",
+      "what": "In a phone call reported on Saturday evening by his office, Turkish President Recep Tayyip Erdoğan told President Donald Trump that Ankara would continue its efforts for peace between the US and Iran and that tensions should be settled through diplomacy. He also said Türkiye would keep helping efforts to end the war in Ukraine and that contacts with both Kyiv and Moscow should increase.",
+      "why": "Türkiye borders Iran and hosts COP31 this week; a long war threatens its trade and energy supplies, giving it a reason to mediate."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Little direct effect on daily life; it shapes how the White House communicates.",
+      "id": "dana-white",
+      "importance": 2,
+      "markets": [],
+      "rank": 17,
+      "rankWhy": "A reshuffle of the White House team after the midterm defeat signals how President Trump plans to govern with a hostile Congress.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "AP News in Brief",
+          "url": "https://www.ottumwacourier.com/news/national_news/ap-news-in-brief-at-11-04-p-m-est/article_dcd7171e-408b-526d-96eb-98dad07082ec.html"
+        },
+        {
+          "name": "Dawn",
+          "url": "https://www.dawn.com/"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html"
+        }
+      ],
+      "terms": [],
+      "title": "Trump says he offered the White House press secretary job to UFC boss Dana White",
+      "what": "President Trump said on Saturday that he had offered the job of White House press secretary to his friend Dana White, head of the UFC mixed-martial-arts organisation, AP reported. Dawn, citing the report, said Trump also asked six current or former UFC champions to join the White House. On Friday Trump named Stephen Miller as chief of staff, replacing Susie Wiles, CNBC reported.",
+      "why": "Presidents often reshuffle staff after a midterm defeat; the press secretary is the administration's main public voice in daily briefings."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "For Pakistanis, cheaper cars and less dependence on imported fuel could ease household costs over time.",
+      "id": "pakistan-auto-policy",
+      "importance": 2,
+      "markets": [
+        "Pakistani carmakers"
+      ],
+      "rank": 18,
+      "rankWhy": "A new car policy in one of Asia's most populous countries aims to cut car prices and build an export industry.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Dawn",
+          "url": "https://www.dawn.com/"
+        }
+      ],
+      "terms": [
+        "Import duty"
+      ],
+      "title": "Pakistan unveils car policy aimed at cheaper vehicles, electric cars and $6 billion in exports",
+      "what": "Pakistan's government announced a new automotive policy focused on cheaper vehicles and electric vehicles (EVs), Dawn reported. An adviser to the prime minister said car prices would fall gradually over the next few years; the policy includes incentives for EVs and a five-year export target of $6 billion.",
+      "why": "Cars in Pakistan have been expensive partly because of high import duties and a small, protected local industry; opening up and encouraging EVs aims to lower prices and fuel imports, which drain foreign currency."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Remittances (money sent home by workers abroad) support millions of families in countries like Kenya.",
+      "id": "kenya-ebola-travel",
+      "importance": 2,
+      "markets": [
+        "Kenyan shilling"
+      ],
+      "rank": 19,
+      "rankWhy": "Gulf travel restrictions linked to Ebola affect thousands of Kenyan migrant workers and the money they send home.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Kenyans.co.ke",
+          "url": "https://www.kenyans.co.ke/"
+        },
+        {
+          "name": "WHO Disease Outbreak News",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625"
+        }
+      ],
+      "terms": [
+        "Remittances"
+      ],
+      "title": "Kenyan recruitment agencies ask government to press Saudi Arabia and Kuwait to lift Ebola-related travel curbs",
+      "what": "Private employment agencies in Kenya asked the government to pursue diplomatic talks with Saudi Arabia and Kuwait to lift travel restrictions linked to Ebola that are affecting the movement of workers, Kenyans.co.ke reported. Kenya has recorded 9 Bundibugyo cases and 2 deaths, according to WHO, which advises against travel or trade restrictions on affected countries.",
+      "why": "Many Kenyans work in Gulf states and send money home; restrictions stop new workers travelling even though WHO says such bans are not justified."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Similar debates about AI in classrooms and workplaces are taking place in Europe, including Poland.",
+      "id": "china-ai-classroom",
+      "importance": 2,
+      "markets": [],
+      "rank": 20,
+      "rankWhy": "A rare climb-down over AI surveillance in China shows growing public sensitivity to privacy.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "url": "https://www.scmp.com/"
+        }
+      ],
+      "terms": [],
+      "title": "Chinese university stops using AI to monitor students' attention after leaked images spark outcry",
+      "what": "A Chinese university stopped using artificial intelligence to monitor how attentive students were in class after leaked images caused a public outcry over privacy, the South China Morning Post reported.",
+      "why": "Monitoring students with AI raises questions about privacy and consent, and public pressure can lead institutions to drop such systems."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Many countries, including Poland, are debating how to make protection orders work in practice.",
+      "id": "japan-stalking",
+      "importance": 1,
+      "markets": [],
+      "rank": 21,
+      "rankWhy": "A debate about protecting stalking victims in Japan, with limited effect beyond the country.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "South China Morning Post",
+          "url": "https://www.scmp.com/"
+        }
+      ],
+      "terms": [
+        "Restraining order"
+      ],
+      "title": "Japan debates GPS tags for convicted stalkers after a Tokyo shop worker's murder",
+      "what": "Calls are growing in Japan to fit convicted stalkers with GPS tags after a Tokyo shop worker was murdered despite a restraining order, the South China Morning Post reported.",
+      "why": "Supporters argue electronic tracking would make restraining orders enforceable; critics usually raise privacy and rights concerns."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "No direct effect expected on land.",
+      "id": "typhoon-cempaka",
+      "importance": 1,
+      "markets": [],
+      "rank": 22,
+      "rankWhy": "A strengthening storm far out at sea is not expected to hit land directly.",
+      "region": "Asia-Pacific",
+      "sources": [
+        {
+          "name": "Philstar (PAGASA)",
+          "url": "https://www.philstar.com/headlines/weather/2026/11/08/2568769/cempaka-expected-intensify-typhoon-entering-par"
+        }
+      ],
+      "terms": [],
+      "title": "Storm Cempaka set to become a typhoon but stay far from the Philippines",
+      "what": "Philippine weather agency PAGASA said severe tropical storm Cempaka, with winds of 110 km/h, was about 1,720 km east of northern Luzon on Sunday morning and expected to become a typhoon. It should briefly enter the Philippine area of responsibility late on Sunday or early Monday, where it will be named 'Samuel', then turn north-northeast; PAGASA said it is not expected to directly affect the country, though seas off northern Luzon will be rough.",
+      "why": "Late-season typhoons are common in the western Pacific; this one's track keeps it over open sea."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "A moment of national celebration for Nigerians.",
+      "id": "nigeria-u17",
+      "importance": 1,
+      "markets": [],
+      "rank": 23,
+      "rankWhy": "A sporting first for Nigeria, celebrated nationally, with little measurable wider effect.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Premium Times",
+          "url": "https://www.premiumtimesng.com/"
+        },
+        {
+          "name": "NAN News (semi-final)",
+          "url": "https://nannews.ng/flamingos-humble-brazilian-counterparts-3-1-to-reach-world-cup-final/"
+        }
+      ],
+      "terms": [],
+      "title": "Nigeria's Flamingos win their first U-17 Women's World Cup, beating Japan in the final",
+      "what": "Nigeria's under-17 women's team, the Flamingos, beat Japan in the final to win the country's first U-17 Women's World Cup title, Premium Times reported; President Bola Tinubu congratulated the team. They had reached the final by beating Brazil 3–1.",
+      "why": "Investment in youth women's football in Africa has been growing, and success raises the sport's profile."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Cheaper sugar eases food costs for Kenyan families.",
+      "id": "kenya-sugar",
+      "importance": 1,
+      "markets": [],
+      "rank": 24,
+      "rankWhy": "Higher local sugar output lowers prices for Kenyan households, a modest regional effect.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Kenyans.co.ke",
+          "url": "https://www.kenyans.co.ke/"
+        }
+      ],
+      "terms": [],
+      "title": "Kenya's sugar output rises 56.7% in nine months, and shop prices fall",
+      "what": "Kenya's sugar production rose 56.7% in the first nine months of 2026, and retail prices fell by 32 Kenyan shillings per 2-kg packet compared with a year earlier, Kenyans.co.ke reported.",
+      "why": "This is supply and demand at work: when more sugar is produced at home, supply rises and prices tend to fall."
+    }
+  ],
+  "watch": [
+    "Israel: Gadi Eisenkot formally receives the mandate to form a government on Sunday 8 November at 17:00 Israel time = 16:00 Warsaw (Times of Israel).",
+    "Poland: national mourning after the Kraków attack (8–9 November); Kraków's local mourning lasts until Wednesday 11 November; investigation developing.",
+    "COP31 UN climate conference opens in Antalya, Türkiye, on Monday 9 November and runs to 20 November (UNFCCC).",
+    "China: October consumer and producer price data on Monday 9 November in the early Asian session (CappNotes calendar).",
+    "Pope Leo XIV in Argentina from Sunday 8 November (meeting President Javier Milei), then Peru from 11 November (Tico Times, Vatican schedule).",
+    "Ukraine–Russia–US talks in Abu Dhabi due on Tuesday 10 November; developing.",
+    "US consumer price index for October: Tuesday 10 November, 08:30 US Eastern = 14:30 Warsaw (CappNotes).",
+    "US Senate races in Mississippi and Alaska still uncounted; Alaska ranked-choice tabulation from 18 November if needed (Yahoo News/AP)."
+  ],
+  "window": "Sat 7 Nov 20:00 → Sun 8 Nov 10:00 (Warsaw time)",
+  "id": "2026-11-08-1000",
+  "updatedAt": "2026-11-08T09:12:08.830252Z"
+}

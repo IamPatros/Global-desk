@@ -1,0 +1,263 @@
+{
+  "checkQuestions": [
+    {
+      "a": "The bond's cash flows (coupons and face value) are fixed. If newly issued bonds offer a higher yield, a buyer will only buy the old bond if its price is low enough that its fixed cash flows give the same yield. Mathematically, discounting the same cash flows at a higher rate gives a lower present value, so the price falls.",
+      "q": "Explain, step by step, why the price of an existing bond falls when market yields rise."
+    },
+    {
+      "a": "Short-maturity yields mostly reflect expected policy rates over the next couple of years. Strong jobs data raised the chance that the Fed hikes soon, which directly lifts the expected rate path in that window. The 10-year also depends on rates further out and on the term premium, so a change in near-term expectations is diluted.",
+      "q": "On Friday a strong US jobs report pushed the 2-year yield up 5 bp and the 10-year up only 2 bp. Explain why the short end moved more."
+    },
+    {
+      "a": "The outlook signals a higher chance of a future downgrade. Investors may demand extra compensation now for the higher perceived risk and for the possibility that some funds with rating limits will have to sell later. Higher required yields mean the government must offer higher coupons on new bonds, raising its interest bill.",
+      "q": "Why might S&P's negative outlook on Poland raise Poland's borrowing costs even before any downgrade happens?"
+    },
+    {
+      "a": "Over a year when inflation exceeds 2.40%, the indexed bond pays more than 4.40% (inflation + 2), so it wins; when inflation is below 2.40%, the fixed bond pays more. The fixed bond is a bet that inflation will be low; the indexed bond protects purchasing power whatever happens. (The indexed bond's first-year rate is fixed separately, and early redemption fees and taxes are ignored here.)",
+      "q": "Hypothetical: a Polish saver compares, for one year, a bond paying a fixed 4.40% with an inflation-indexed bond paying inflation + 2% (in the real offer these come with different maturities, 3 and 10 years). Explain under what inflation scenario each one turns out better."
+    },
+    {
+      "a": "The 10-year, because its cash flows are further in the future, so its duration is larger and the higher discount rate reduces their present value more. With modified durations of about 1.9 and 7.7, the losses are roughly 0.9% and 3.9%.",
+      "q": "Two bonds both see their yield rise by 0.5 percentage points: a 2-year and a 10-year. Which loses more value and why?"
+    }
+  ],
+  "createdAt": "2026-11-08T09:11:47Z",
+  "date": "8 Nov 2026",
+  "editionId": "2026-11-08-1000",
+  "intro": "Governments spend more than they collect in taxes and borrow the difference by selling bonds. In this lesson you will learn what a bond is, why its price and its yield always move in opposite directions, and what decides how much a government must pay to borrow. By the end you will be able to calculate a bond's price from its yield, read a yield curve, explain a country's 'spread' over Germany, and trace how a jobs report in Washington or a rating decision on Poland reaches bond prices.",
+  "lessonQuiz": [
+    {
+      "answer": 1,
+      "explain": "Price = 1,050 ÷ 1.06 = 990.57 zł. 943.40 would be 1,000 ÷ 1.06, forgetting the coupon.",
+      "options": [
+        "1,000.00 zł",
+        "990.57 zł",
+        "1,010.00 zł",
+        "943.40 zł"
+      ],
+      "q": "You own a 1-year bond: face value 1,000 zł, 5% coupon paid at maturity. Market 1-year yields jump to 6%. What is its fair price?"
+    },
+    {
+      "answer": 3,
+      "explain": "Price and yield are two sides of the same calculation; coupons on existing bonds never change.",
+      "options": [
+        "Two separate events happened: selling, then yields rose by coincidence",
+        "Investors received higher coupons on their existing bonds",
+        "The central bank raised the coupon on government bonds",
+        "Selling pushed bond prices down, and lower prices for the same fixed cash flows mean higher yields"
+      ],
+      "q": "A headline says 'Bonds sold off; yields rose 20 bp.' Which explanation is correct?"
+    },
+    {
+      "answer": 0,
+      "explain": "Buying below face value adds a gain at maturity on top of the coupon, so the yield to maturity exceeds the coupon.",
+      "options": [
+        "Its yield to maturity is above 4%",
+        "Its yield to maturity is below 4%",
+        "Its yield to maturity equals 4% because the coupon is fixed",
+        "Its coupon will rise to compensate buyers"
+      ],
+      "q": "A bond with a 4% coupon trades at 95% of face value. Which statement is true?"
+    },
+    {
+      "answer": 1,
+      "explain": "The short end mainly reflects expected policy rates over the next years; a higher chance of a hike lifts it most.",
+      "options": [
+        "Investors expect US inflation to collapse",
+        "Markets raised their expected path for Fed rates in the near term",
+        "The Fed directly raised the 2-year yield",
+        "The US government's credit rating was cut"
+      ],
+      "q": "On 6 November strong US jobs data lifted the 2-year Treasury yield 5 bp and the 10-year 2 bp. What does this pattern best suggest?"
+    },
+    {
+      "answer": 2,
+      "explain": "4.86 − 4.51 = 0.35 pp = 35 bp; longer yields are higher, so the curve slopes upward. 75 bp is the 30y–2y gap.",
+      "options": [
+        "Inverted, −35 bp",
+        "Flat, 0 bp",
+        "Upward-sloping, +35 bp",
+        "Upward-sloping, +75 bp"
+      ],
+      "q": "US yields on 6 November: 2y 4.51%, 10y 4.86%, 30y 5.26%. How would you describe the curve and its 10y–2y slope?"
+    },
+    {
+      "answer": 3,
+      "explain": "Poland borrows in złoty with a higher policy rate and inflation, so the spread is not a pure default probability.",
+      "options": [
+        "Markets expect Poland to default with a probability of 2.84% a year",
+        "Poland's bonds are a better investment than Germany's",
+        "The spread is set by the ECB",
+        "It reflects higher złoty interest rates and inflation, currency risk and some credit risk combined"
+      ],
+      "q": "Poland's 10-year yield is about 6.09% and Germany's about 3.25%. Which interpretation of the 284 bp spread is most accurate?"
+    },
+    {
+      "answer": 0,
+      "explain": "%ΔP ≈ −7.7 × (−0.004) = +3.08%: falling yields raise prices, scaled by duration.",
+      "options": [
+        "Rises about 3.1%",
+        "Falls about 3.1%",
+        "Rises about 0.4%",
+        "Rises about 7.7%"
+      ],
+      "q": "A 10-year bond has modified duration 7.7. Its yield falls by 0.4 percentage points. Approximately what happens to its price?"
+    },
+    {
+      "answer": 1,
+      "explain": "Discounting compounds over time, so distant payments are more sensitive; this is what duration measures.",
+      "options": [
+        "Long bonds always have lower coupons",
+        "More of its cash flows are far in the future, where a higher discount rate cuts present value more",
+        "Short bonds are guaranteed by the central bank",
+        "Long bonds are traded less often"
+      ],
+      "q": "Why does a 10-year bond lose more value than a 2-year bond when both yields rise by the same amount?"
+    },
+    {
+      "answer": 2,
+      "explain": "1.0609 ÷ 1.035 − 1 ≈ 2.50%. 2.59% is the simple subtraction approximation.",
+      "options": [
+        "2.59%",
+        "9.59%",
+        "2.50%",
+        "1.74%"
+      ],
+      "q": "Poland's nominal 10-year yield is 6.09% and expected inflation is assumed to be 3.5%. Using the exact formula from Lessons 6–7, the real yield is closest to:"
+    },
+    {
+      "answer": 2,
+      "explain": "Markets price expected policy rates immediately: lower expected rates cut short yields (prices up) and reduce the złoty's yield appeal (Lesson 5).",
+      "options": [
+        "Polish bond yields rise and bond prices fall",
+        "Only the coupons of existing bonds fall",
+        "Polish 2-year yields fall and prices of existing bonds rise, with the złoty likely weakening",
+        "Nothing happens until the cuts take place"
+      ],
+      "q": "Connecting to Lesson 7: the RPP unexpectedly signals two rate cuts next year. What is the most likely immediate effect?"
+    },
+    {
+      "answer": 0,
+      "explain": "Fixed payments buy less when prices rise, and market yields would rise, cutting the bond's price. The indexed bond adjusts; borrowers repaying fixed sums gain.",
+      "options": [
+        "A holder of a 10-year fixed-coupon bond bought at a 5% yield",
+        "A holder of an inflation-indexed savings bond paying inflation + 2%",
+        "A borrower who must repay a fixed nominal amount",
+        "The government that issued fixed-rate bonds"
+      ],
+      "q": "Connecting to Lesson 6: inflation unexpectedly jumps to 8% and stays high. Who loses most in real terms?"
+    },
+    {
+      "answer": 1,
+      "explain": "An outlook signals the likely direction of a future rating action; it is not a default and does not change existing coupons.",
+      "options": [
+        "Poland has missed a debt payment",
+        "A downgrade within the coming period is more likely than an upgrade",
+        "Poland's bonds will automatically pay higher coupons",
+        "The EU will take over Poland's debt"
+      ],
+      "q": "S&P keeps Poland's foreign-currency rating at A− but moves the outlook to negative. What does the outlook change mean?"
+    }
+  ],
+  "level": "Foundations",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "When bond yields rise, bonds become better investments for people who already own them.",
+      "truth": "Rising yields lower the price of existing bonds; only new buyers get the higher yield. Holders who sell before maturity take a loss."
+    },
+    {
+      "myth": "A bond's coupon rate and its yield are the same thing.",
+      "truth": "The coupon is fixed at issue; the yield changes with the market price. A bond bought below face value yields more than its coupon."
+    },
+    {
+      "myth": "The central bank sets all interest rates, including 10-year yields.",
+      "truth": "It sets a very short rate directly; long yields are set in the market by expectations of future policy rates, inflation and risk premia."
+    },
+    {
+      "myth": "A country's spread over Germany measures only its risk of default.",
+      "truth": "Spreads also reflect different policy rates, inflation and currency risk. Poland's 284 bp spread is largely about higher złoty interest rates and inflation, not just credit risk."
+    },
+    {
+      "myth": "Government bonds are risk-free, so their value never changes.",
+      "truth": "A strong government may be very unlikely to default, but market prices of its bonds still change daily with yields, and inflation can erode their real value."
+    }
+  ],
+  "number": 8,
+  "objectives": [
+    "Explain what a bond is using the terms issuer, face value, coupon and maturity, and why governments issue them.",
+    "Calculate the price of a simple bond from its cash flows and a market yield, and explain why price and yield move in opposite directions.",
+    "Explain the main building blocks of a government bond yield: expected policy rates, a term premium, expected inflation and credit risk.",
+    "Read a yield curve and interpret its slope using real US Treasury yields.",
+    "Calculate a spread in basis points and explain what it does and does not tell you about a country's risk, using Poland and Germany.",
+    "Use (modified) duration to estimate how much a bond's price changes when its yield moves."
+  ],
+  "recap": "In Lesson 7 you saw that a central bank sets a very short-term interest rate (in Poland the NBP reference rate, 3.75%, which the RPP left unchanged on 4 November) and that markets react to surprises about the future path of that rate. Bonds are where those expectations are priced for longer horizons: a 2-year or 10-year yield is largely the market's forecast of policy rates over that period plus extra compensation for risk. You also met the real interest rate (nominal rate adjusted for inflation, Lesson 6), which we now apply to bond yields.",
+  "sections": [
+    {
+      "body": "A bond is a loan cut into standard pieces that investors can buy and sell. The borrower (the issuer) promises to pay a fixed amount, the face value or principal, on a set date called maturity, and usually also regular interest payments called coupons. A coupon is stated as a percentage of face value: a bond with face value 1,000 zł and a 5% annual coupon pays 50 zł a year. Governments issue bonds because they often spend more than they collect in taxes; the gap is the budget deficit, and it must be borrowed. Poland is a big borrower right now: Poland's deficit was 7.3% of GDP in 2025 and the finance ministry projects 6.7% in 2026 (Notes from Poland, reporting on S&P's 6 November review), which is why the finance ministry sells large amounts of treasury bonds. Very short government debt (under one year) is often called a bill; longer debt is called a note or bond, but the logic is the same. Who buys? Banks, pension funds, insurers, foreign investors, central banks and, through special savings bonds, households. The key idea for the rest of the lesson: once a bond exists, its coupon and face value are fixed, but its market price changes every day.",
+      "heading": "1. What a bond is: a tradable IOU"
+    },
+    {
+      "body": "The yield of a bond (more precisely its yield to maturity) is the single interest rate that makes the present value of all its future payments equal to today's price. Present value means what a future payment is worth today: 1,050 zł in one year is worth 1,050 ÷ (1 + r) today if you could otherwise earn r. Suppose you hold a 1-year bond paying 1,000 zł plus a 50 zł coupon at maturity (a 5% coupon). If new 1-year bonds now yield 6%, nobody will pay 1,000 zł for your 5% bond; they will pay only the amount that gives them 6%, which is 1,050 ÷ 1.06 ≈ 990.57 zł. If instead market yields fall to 4%, buyers will pay up to 1,050 ÷ 1.04 ≈ 1,009.62 zł. So when market yields rise, prices of existing bonds fall, and vice versa: this is not a coincidence or a habit of markets but arithmetic, because the cash flows are fixed and only the price can adjust. That is also why newspapers say 'bonds sold off and yields rose' — these describe the same event. A simplification to keep in mind: real bonds pay several coupons, and yields are compounded; the principle is identical, only the formula has more terms.",
+      "heading": "2. Why price and yield move in opposite directions"
+    },
+    {
+      "body": "Beginners often confuse three numbers. The coupon rate is fixed at issue and never changes (5% in our example). The current yield is the annual coupon divided by today's price: 50 ÷ 990.57 ≈ 5.05%. The yield to maturity also includes the gain or loss you make because the bond will be repaid at face value: buying at 990.57 and receiving 1,000 adds about 9.43 zł, which is why the yield to maturity in our example is 6%, higher than the current yield. When a bond trades below face value (at a discount), its yield to maturity is above its coupon; above face value (at a premium), below its coupon. Yield to maturity assumes you hold the bond to the end and that the issuer pays in full; if you sell early, your actual return depends on the price at that moment. Market quotes such as 'the US 10-year yield is 4.86%' (Friday 6 November close, CappNotes) normally refer to the yield to maturity of a benchmark bond. (US Treasury yields are conventionally quoted with semi-annual compounding; this lesson uses annual compounding to keep the arithmetic simple.)",
+      "heading": "3. Coupon, current yield and yield to maturity are different things"
+    },
+    {
+      "body": "A useful (textbook) way to think about a government yield is as the sum of building blocks. First, the expected average of the central bank's policy rate over the life of the bond: if investors expect the Fed to keep its rate around today's 3.75%–4.00% range, a 2-year Treasury yield should not be far from that. Second, a term premium: extra pay for locking money away longer, because many things can go wrong over ten years (inflation surprises, heavy borrowing). Third, inflation: lenders care about what their money will buy, so higher expected inflation pushes nominal yields up; the real yield is approximately the nominal yield minus expected inflation (exactly, (1 + nominal) ÷ (1 + inflation) − 1, as in Lessons 6–7). Fourth, credit risk: the chance that the government pays late or not in full, which matters more for countries that borrow in a currency they do not print. These blocks are not directly observed, and economists disagree about how big the term premium is at any moment, so treat this as a framework rather than an exact decomposition. It explains real moves: on Friday 6 November a stronger-than-expected US jobs report raised the chance of a Fed hike, and the 2-year yield rose 5 basis points against 2 for the 10-year (CappNotes) — the short end reacts most to policy expectations.",
+      "heading": "4. What a government bond yield is made of"
+    },
+    {
+      "body": "The yield curve plots yields of the same issuer's bonds against their maturities. On Friday 6 November 2026 US Treasury yields were 4.51% for 2 years, 4.86% for 10 years and 5.26% for 30 years (CappNotes): an upward-sloping or 'normal' curve. A normal slope fits the building blocks: longer bonds usually carry a larger term premium, and investors may expect policy rates to rise. The slope is often measured as the 10-year minus the 2-year yield, here 4.86 − 4.51 = 0.35 percentage points, or 35 basis points (one basis point is 0.01 percentage point). When short yields are above long yields the curve is inverted, which usually means markets expect the central bank to cut rates later, often because they expect the economy to weaken; inversions have preceded many US recessions, but not every inversion has been followed by one, so it is a warning sign, not a law. Central banks control the very short end directly (Lesson 7) but influence the long end only through expectations and, sometimes, by buying bonds themselves (quantitative easing).",
+      "heading": "5. The yield curve"
+    },
+    {
+      "body": "Investors compare a country's yield with a 'safe' benchmark; in Europe the benchmark is usually the German Bund. The difference is the spread, quoted in basis points. Using sources read for this edition, Poland's 10-year yield fell to just below 6.09% late last week, its lowest in two months (finwire, 7 November) and Germany's about 3.25% (Trading Economics), a spread of about 2.84 percentage points, or 284 basis points. A spread is NOT a pure measure of default risk: Poland borrows in złoty, its policy rate (3.75%) is higher than the euro area's and its inflation (3.5% in October, GUS flash estimate via finwire) is higher too, so a large part of the gap reflects expected interest rates, inflation and currency risk, not just the chance of non-payment. Credit-rating agencies such as S&P, Moody's and Fitch publish opinions on default risk: on 6 November S&P kept Poland's foreign-currency rating at A−, lowered its local-currency rating from A to A−, and changed the outlook to negative, citing high deficits and rising debt (Notes from Poland). A negative outlook signals a possible future downgrade; downgrades can raise borrowing costs because some investors may only hold bonds above certain ratings, but markets often move before the agencies do. Countries that borrow in foreign currency face an extra risk: if their currency falls, the debt becomes harder to repay.",
+      "heading": "6. Credit risk, ratings and spreads"
+    },
+    {
+      "body": "Longer bonds react more to yield changes because more of their cash flows lie far in the future, where discounting bites hardest. Duration measures this. Macaulay duration is the weighted average time (in years) until you receive the bond's cash flows; modified duration (Macaulay duration ÷ (1 + yield)) gives an approximation: percentage price change ≈ −modified duration × change in yield. For a 10-year bond with a 5% annual coupon priced at a 5% yield, Macaulay duration is about 8.11 years and modified duration about 7.72 (hypothetical bond, calculated exactly). If its yield rises by 0.31 percentage points, the rule predicts a price fall of about 7.72 × 0.31 ≈ 2.39%; the exact recalculation gives 2.36%. A 2-year bond with the same coupon has a modified duration of only about 1.86, so the same yield rise costs it under 0.6%. The approximation works well for small moves; for large moves it overstates losses and understates gains because the price–yield relationship is curved (convexity). This is why falling yields after the US midterms, which pulled Poland's 10-year yield down about 31 bp from Tuesday's peak (finwire), meant noticeable price gains for holders of long Polish bonds.",
+      "heading": "7. Duration: how sensitive is a bond to rate changes?"
+    },
+    {
+      "body": "Polish households can buy special treasury savings bonds that are not traded on the market: they are sold at 100 zł (face value) and repaid at 100 zł plus interest, minus a fee if you cash in early, so their value does not swing with market yields. The finance ministry's November 2026 offer includes, for example, a 3-year fixed-rate bond (TOS) paying 4.40% a year with interest capitalised, and a 10-year inflation-indexed bond (EDO) paying 5.35% in the first year and then inflation plus a 2.00% margin, using the 12-month inflation rate published by GUS (Ministry of Finance). Fixed-rate bonds protect you if rates fall but lose real value if inflation jumps; inflation-indexed bonds protect purchasing power after the first year, while their first-year rate is fixed in advance (in the November 2026 offer EDO's first-year 5.35% is actually above TOS's 4.40%, but EDO locks money up for 10 years rather than 3). Market bond yields also matter for people who never buy a bond: banks price fixed-rate loans and deposits partly from government yields, pension funds and insurers hold large amounts of them, and the government's interest bill (paid from taxes) rises when yields rise. This lesson is for understanding only and is not investment advice.",
+      "heading": "8. Bonds and households: Polish savings bonds and beyond"
+    }
+  ],
+  "takeaways": [
+    "A bond is a tradable loan: fixed coupons and face value, a price that changes every day.",
+    "Price and yield move in opposite directions because fixed cash flows are discounted at the market yield.",
+    "A government yield ≈ expected policy rates + term premium, shaped by inflation expectations and credit risk; the real yield ≈ nominal yield − expected inflation.",
+    "The yield curve shows yields by maturity; US yields on 6 November (2y 4.51%, 10y 4.86%, 30y 5.26%) form a normal, upward slope.",
+    "A spread (Poland 10-year ≈ 6.09% vs Germany ≈ 3.25% = 284 bp) mixes credit, inflation, interest-rate and currency differences.",
+    "Duration measures sensitivity: % price change ≈ −modified duration × change in yield; long bonds move far more than short ones."
+  ],
+  "title": "Bonds and yields: lending to governments",
+  "todayExample": "S&P's decision on Friday evening to cut the outlook on Poland's rating to negative and lower its local-currency rating to A− (reported in Saturday's edition) is a bond-market story: it is about the price at which investors will lend to the Polish state. Meanwhile oil's 16% weekly fall and the US midterm result pulled Polish 10-year yields down about 31 bp from Tuesday's peak to just below 6.09% late in the week (finwire). Combining this lesson's tools: lower yields mean higher prices for existing Polish bonds, but the spread over Germany of about 284 bp shows that Poland still pays much more than Germany to borrow, partly because of higher złoty interest rates and inflation and partly because of fiscal risk.",
+  "workedExamples": [
+    {
+      "problem": "A 1-year government bond has face value 1,000 zł and a 5% annual coupon paid at maturity. What price will buyers pay if market yields for 1-year bonds are (a) 6% and (b) 4%? What is the current yield in case (a)? (Hypothetical numbers.)",
+      "solution": "At maturity the bond pays 1,000 + 50 = 1,050 zł. (a) Price = 1,050 ÷ 1.06 = 990.57 zł. Check: buying at 990.57 and receiving 1,050 is a gain of 59.43 zł, and 59.43 ÷ 990.57 = 6.0%. (b) Price = 1,050 ÷ 1.04 = 1,009.62 zł. Current yield in (a) = 50 ÷ 990.57 = 5.05%, below the 6% yield to maturity because it ignores the 9.43 zł gain from being repaid at 1,000. Interpretation: a 2-point move in market yields (from 4% to 6%) moves the price of even a short bond by about 19 zł per 1,000.",
+      "title": "Pricing a bond when market yields change"
+    },
+    {
+      "problem": "On Friday 6 November the US 2-year yield rose from 4.46% to 4.51% and the 10-year from 4.84% to 4.86%; the 30-year closed at 5.26% (CappNotes). The Fed's target range is 3.75%–4.00%. Compute (a) each change in basis points, (b) the 10-year minus 2-year slope before and after, (c) the gap between the 10-year yield and the midpoint of the Fed range, and explain what the pattern suggests.",
+      "solution": "(a) 2-year: 4.51 − 4.46 = 0.05 pp = 5 bp. 10-year: 4.86 − 4.84 = 0.02 pp = 2 bp. (b) Before: 4.84 − 4.46 = 0.38 pp = 38 bp; after: 4.86 − 4.51 = 0.35 pp = 35 bp, so the curve flattened by 3 bp. (c) Midpoint of the Fed range = (3.75 + 4.00) ÷ 2 = 3.875%; 4.86 − 3.875 = 0.985 pp ≈ 99 bp. Interpretation: the 2-year rose most because strong jobs data raised the chance of a Fed hike; the 10-year sits about 1 point above today's policy rate, consistent with expectations of rates staying high plus a term premium. The curve is upward-sloping (normal), not inverted.",
+      "title": "Reading the US yield curve after Friday's jobs report"
+    },
+    {
+      "problem": "Using Poland's 10-year yield of about 6.09% (late last week, finwire) and Germany's 3.25% (6 November, Trading Economics), and Polish CPI inflation of 3.5% in October (GUS), compute (a) the spread in basis points, (b) the approximate and exact real yield on the Polish bond. Why is the spread not simply 'the risk that Poland defaults'?",
+      "solution": "(a) 6.09 − 3.25 = 2.84 pp = 284 bp. (b) Approximate real yield = 6.09 − 3.5 = 2.59%. Exact (Fisher) = 1.0609 ÷ 1.035 − 1 = 0.0250 = 2.50%. (Simplification: we used the latest inflation rate instead of expected inflation over 10 years, which is what really matters.) The spread also reflects Poland's higher policy rate (3.75%) and higher inflation than the euro area, and the risk that the złoty weakens for a euro-based investor, so only part of it is compensation for credit risk. That is why the spread can fall when markets expect calmer inflation even if the rating does not change.",
+      "title": "Poland's spread over Germany and its real yield"
+    },
+    {
+      "problem": "A hypothetical 10-year bond pays a 5% annual coupon and trades at 100 (yield 5%). Its modified duration is 7.72. Polish 10-year yields fell about 31 bp from Tuesday's peak (finwire). (a) Estimate the % price change for a 31 bp FALL in this bond's yield (to 4.69%) using duration. (b) Recalculate exactly. (c) How would a 2-year 5% bond with modified duration 1.86 react? (d) What if instead the yield had risen 31 bp?",
+      "solution": "(a) ΔP/P ≈ −7.72 × (−0.0031) = +0.0239, a gain of about 2.39%. (b) Exact price at 4.69%: sum of 5 ÷ 1.0469^t for t = 1…10 plus 100 ÷ 1.0469^10 = 102.43, a gain of 2.43%; duration slightly understates the gain because of convexity. (c) +1.86 × 0.0031 = +0.58%; exact price 100.58. (d) For a 31 bp rise to 5.31% the exact price is 97.64 (−2.36%) against the estimate of −2.39%: duration slightly overstates losses. Interpretation: the same yield move hurts (or, if yields fall, helps) the 10-year bond about four times more than the 2-year, which is why the 31 bp fall in Polish 10-year yields meant sizeable price gains for holders of long bonds.",
+      "title": "Duration: estimating a price change"
+    }
+  ],
+  "updatedAt": "2026-11-08T09:11:57.069137Z"
+}
