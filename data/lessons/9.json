@@ -1,0 +1,263 @@
+{
+  "checkQuestions": [
+    {
+      "a": "Pensions are transfers: the state does not buy any good or service in exchange, so they are excluded from G. They raise households' disposable income; if pensioners spend part of it on goods and services produced in Poland, consumption (C) and therefore GDP rise. Spending on imports or saving the money would not add to domestic production.",
+      "q": "A Polish government raises pensions by 5 billion zł. Explain why this does not raise G in the GDP identity, and through which channel it might still raise GDP."
+    },
+    {
+      "a": "Converting to dollars uses the exchange rate. If the home currency weakened against the dollar by more than the combined nominal growth in local currency (real growth plus inflation), the dollar value falls even though production rose. That is why international comparisons of living standards use PPPs rather than market exchange rates.",
+      "q": "Why can a country's GDP measured in US dollars fall in a year when its real GDP grew 3%?"
+    },
+    {
+      "a": "Inventory accumulation counts as investment (I), so GDP that quarter rises even though the goods were not sold to final users. If the firm later cuts production to sell from stock, inventory investment turns negative and subtracts from GDP, so analysts look at final sales to judge underlying demand.",
+      "q": "A firm builds up large unsold inventories in one quarter. Explain the effect on GDP that quarter and what may happen next."
+    },
+    {
+      "a": "Households and firms must spend more on imported fuel, leaving less income for other domestic goods and services, so real consumption and investment slow. Higher costs squeeze firms' margins and can reduce hiring. Higher inflation may keep interest rates high (Lessons 6–7), which further dampens borrowing and investment. Imports rise in value, which does not itself subtract production, but the drain on purchasing power lowers domestic demand.",
+      "q": "Trace how a sharp rise in oil prices could reduce real GDP growth in an oil-importing country such as Poland."
+    },
+    {
+      "a": "GDP per capita is an average and ignores distribution, so one country may have much more inequality. It also ignores unpaid work, leisure time, health, environmental quality and how much income flows abroad (e.g. profits of foreign owners, captured by GNI). Price levels also differ unless PPPs are used.",
+      "q": "Why might two countries with the same GDP per capita have very different living standards?"
+    }
+  ],
+  "createdAt": "2026-11-08T19:13:17Z",
+  "date": "8 Nov 2026",
+  "editionId": "2026-11-08-2000",
+  "intro": "GDP is the single number most often used to say whether an economy is 'doing well', and it sits behind headlines about recessions, budget deficits ('% of GDP') and central bank decisions. In this lesson you will learn exactly what GDP counts and what it leaves out, the three equivalent ways statisticians measure it, and how to tell nominal from real growth. You will practise converting between quarterly, annualised and year-on-year growth rates, which is where many news readers get confused, and use compounding to see why a difference of 1–2 percentage points a year transforms a country over a generation. By the end you will be able to read a GDP release from the US, the euro area or Poland and say what it really means.",
+  "lessonQuiz": [
+    {
+      "answer": 1,
+      "explain": "Only the final good counts (equal to total value added 100 + 60 + 90). 510 zł double-counts intermediate goods.",
+      "options": [
+        "510 zł",
+        "250 zł",
+        "160 zł",
+        "410 zł"
+      ],
+      "q": "Wheat is sold for 100 zł, flour made from it for 160 zł and bread made from the flour to households for 250 zł. By how much does GDP rise?"
+    },
+    {
+      "answer": 2,
+      "explain": "1.034^0.25 − 1 ≈ 0.84% q/q versus 0.4% q/q, about 2.1 times. Dividing 3.4 by 0.4 mixes bases.",
+      "options": [
+        "The US grew about 8.5 times faster",
+        "Both grew at the same pace",
+        "The US grew roughly twice as fast; 3.4% annualised is about 0.84% q/q",
+        "The euro area grew faster, because 0.4% is a quarterly figure"
+      ],
+      "q": "The US reports Q3 real growth of 3.4% at an annual rate; the euro area reports 0.4% quarter-on-quarter. Which statement is correct?"
+    },
+    {
+      "answer": 0,
+      "explain": "1.056 ÷ 1.034 − 1 ≈ 2.13% from these rounded figures; 2.2% is the subtraction approximation. (BEA also publishes its own GDP price index.)",
+      "options": [
+        "About 2.13%",
+        "Exactly 2.2%",
+        "About 9.2%",
+        "About 1.64%"
+      ],
+      "q": "Nominal GDP grew 5.6% and real GDP 3.4% (both annualised). What was the exact growth of the GDP deflator?"
+    },
+    {
+      "answer": 2,
+      "explain": "The agent provides a current service. The flat already existed, pensions are transfers and shares are a change of ownership.",
+      "options": [
+        "A family buys a 20-year-old flat in Gdańsk",
+        "The state pays a monthly pension",
+        "An estate agent's fee for arranging a flat sale",
+        "An investor buys shares of Orlen on the stock exchange"
+      ],
+      "q": "Which of these is counted in Poland's GDP?"
+    },
+    {
+      "answer": 3,
+      "explain": "C rises by 5,000 but M rises by 4,000, so GDP rises by the shop's value added, 1,000 zł (transport, retail service).",
+      "options": [
+        "+5,000 zł",
+        "−4,000 zł",
+        "+9,000 zł",
+        "+1,000 zł"
+      ],
+      "q": "A Polish shop imports a 4,000 zł television from South Korea and sells it to a household for 5,000 zł. What is the effect on Polish GDP?"
+    },
+    {
+      "answer": 0,
+      "explain": "Two consecutive quarterly falls is a rule of thumb; bodies like the US NBER use employment, income and other data. Y/y change also depends on earlier quarters.",
+      "options": [
+        "It meets a common rule-of-thumb definition of a 'technical' recession, but official bodies may judge it using wider data",
+        "It is officially in a depression",
+        "It is not a recession because the declines are below 1%",
+        "GDP must have fallen 0.3% y/y"
+      ],
+      "q": "A country's real GDP falls 0.2% q/q in Q1 and 0.1% q/q in Q2. Which statement is most accurate?"
+    },
+    {
+      "answer": 1,
+      "explain": "50 × 1.04 ÷ 1.06 ≈ 49.06%. Faster nominal growth than debt growth lowers the ratio.",
+      "options": [
+        "It rises to 51%",
+        "It falls to about 49.1%",
+        "It stays at 50%",
+        "It falls to 48%"
+      ],
+      "q": "Connecting to Lesson 8: a government's debt is 50% of GDP. Next year debt grows 4% and nominal GDP grows 6%. What happens to the debt-to-GDP ratio?"
+    },
+    {
+      "answer": 2,
+      "explain": "Real ≈ 9 − 8 = 1% (exactly 1.09 ÷ 1.08 − 1 ≈ 0.93%). Production rose only slightly.",
+      "options": [
+        "About 17%, because both add up",
+        "About 9%, nominal is what counts",
+        "About 1%: most nominal growth is price increases, so output barely rose",
+        "Negative, because inflation is high"
+      ],
+      "q": "Connecting to Lesson 6: inflation is 8% and nominal GDP grows 9%. Approximately what is real growth, and why does it matter?"
+    },
+    {
+      "answer": 0,
+      "explain": "PPPs correct for price-level differences across countries; inflation over time is handled by real (constant-price) measures.",
+      "options": [
+        "PPS removes the effect of different price levels, so it compares what incomes can actually buy",
+        "PPS removes the effect of inflation over time",
+        "PPS is required by EU law for all statistics",
+        "Market exchange rates are not published for the złoty"
+      ],
+      "q": "Poland's GDP per capita is 81% of the EU average in PPS. Why use PPS rather than euros at market exchange rates?"
+    },
+    {
+      "answer": 0,
+      "explain": "70 ÷ 2.5 = 28 years; 70 ÷ 3.5 = 20 years; difference 8 years.",
+      "options": [
+        "28 years; 8 years longer",
+        "28 years; 10 years longer",
+        "35 years; 15 years longer",
+        "20 years; same"
+      ],
+      "q": "Using the rule of 70, how long does an economy growing 2.5% a year take to double, and how much longer than one growing 3.5%?"
+    },
+    {
+      "answer": 1,
+      "explain": "GDP counts current production; it does not subtract the destroyed wealth (a stock). This is a known limitation of GDP as a welfare measure.",
+      "options": [
+        "GDP falls by 2 billion zł",
+        "GDP includes the rebuilding as output, even though the country is not better off than before the storm",
+        "Rebuilding is excluded because it replaces existing assets",
+        "GDP is unchanged because destruction and rebuilding cancel out"
+      ],
+      "q": "A storm destroys homes and the rebuilding adds 2 billion zł of construction output this year. Which statement is correct?"
+    },
+    {
+      "answer": 3,
+      "explain": "Inventory investment counts in I, but it can reverse; analysts check final sales for underlying demand. 'Definitely' is too strong.",
+      "options": [
+        "Consumer demand must have been very strong",
+        "Imports must have fallen",
+        "GDP will definitely fall next quarter",
+        "Part of the growth reflects unsold goods, and it may reverse if firms later cut production to run down stocks"
+      ],
+      "q": "An inventory build-up added strongly to a quarter's GDP growth. What is the most likely implication?"
+    }
+  ],
+  "level": "Foundations",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "GDP measures how happy or well-off people are.",
+      "truth": "GDP measures the market value of production. It ignores unpaid work, environmental damage and how income is shared, so it is only one input to judging well-being."
+    },
+    {
+      "myth": "Imports reduce GDP, so a country grows faster if it imports less.",
+      "truth": "Imports are subtracted only because they are already counted inside consumption, investment and government spending; they were not produced at home. Cutting imports raises GDP only if domestic production replaces them."
+    },
+    {
+      "myth": "Buying shares or a second-hand flat counts as investment in GDP.",
+      "truth": "In GDP, 'investment' means new capital goods, new housing and inventory changes. Buying existing assets just transfers ownership; only the fees for the service (e.g. a broker's commission) count."
+    },
+    {
+      "myth": "A US growth figure of 3.4% and a euro-area figure of 0.4% mean the US grew more than eight times faster.",
+      "truth": "The US figure is annualised, the euro-area figure is quarter-on-quarter. Converted to the same basis, the US grew roughly twice as fast in Q3 2026 (about 0.84% vs 0.4% q/q)."
+    },
+    {
+      "myth": "If nominal GDP rises 6%, people are producing 6% more.",
+      "truth": "Nominal GDP includes price changes. Real output growth is roughly nominal growth minus inflation of the GDP deflator, which can be much smaller."
+    }
+  ],
+  "number": 9,
+  "objectives": [
+    "Explain what GDP measures, including the difference between final and intermediate goods and why only value added is counted.",
+    "Explain the production, expenditure and income approaches and why they give (almost) the same total.",
+    "Calculate real growth from nominal growth and a price index, and explain why the distinction matters.",
+    "Convert between quarter-on-quarter, annualised and year-on-year growth rates, and compare US, euro-area and Polish figures correctly.",
+    "Use compounding and the rule of 70 to calculate doubling times and catch-up periods.",
+    "Explain at least four important things GDP does not measure and why GDP figures get revised."
+  ],
+  "recap": "In Lesson 8 you learned that a government bond is a tradable loan whose yield reflects expected policy rates, inflation and risk, and that Poland borrows heavily because its budget deficit was about 7.2% of GDP in 2025 (GUS, revised in October 2026 from 7.3%). That last phrase, 'of GDP', is the yardstick we now explain: deficits, debts and many other quantities are measured relative to the size of the economy. You also saw in Lessons 6 and 7 that central banks watch inflation and the strength of demand; real GDP growth is the broadest measure of that demand and output.",
+  "sections": [
+    {
+      "body": "Gross domestic product (GDP) is the market value of all final goods and services produced within a country's borders in a given period, usually a quarter or a year. Each word matters. 'Market value' means we add things up in money, because you cannot add tonnes of steel to haircuts directly; prices act as weights. 'Final' means goods and services bought by their end user, not intermediate goods used up to make something else, such as flour sold to a bakery. If we counted both the flour and the bread, the flour would be counted twice, because its value is already inside the bread's price. 'Produced within a country' means location, not nationality: a German-owned car factory in Poland adds to Polish GDP. 'In a given period' means GDP is a flow, like income per month, not a stock, like the value of all houses that already exist. Selling a second-hand flat, buying shares or a pension payment from the state are not production, so they are not in GDP (an estate agent's fee for arranging the sale is a service and is counted). Simplification: some things without market prices, such as government services like schools and police, are included at their cost, because there is no sale price to use.",
+      "heading": "1. What GDP is: the value of final output"
+    },
+    {
+      "body": "Statisticians can measure GDP in three ways, and in principle they must give the same total. The production (value-added) approach adds up, for every firm, the value of its output minus the value of the intermediate inputs it bought; this 'value added' is what the firm itself contributes. (Strictly, summed value added is 'gross value added'; GDP equals it plus taxes on products, such as VAT, minus subsidies on products. We ignore these taxes in the simple examples below.) The expenditure approach adds up spending on final output. The income approach adds up the incomes generated by production: wages and salaries, profits and other operating surplus, plus taxes on production minus subsidies. They match because every złoty spent on a final product is received by someone as income, and the value of what is sold equals the value added along the chain that made it. Example (hypothetical numbers): a farmer grows wheat and sells it for 100 zł, a miller turns it into flour sold for 160 zł, and a baker sells bread for 250 zł. Value added is 100 + 60 + 90 = 250 zł, exactly the final spending on bread, and that 250 zł becomes the incomes of the farmer, miller, baker and their workers. In practice the three totals differ slightly because data come from different surveys and tax records, and statistical offices publish a 'statistical discrepancy' or reconcile them.",
+      "heading": "2. Three ways to measure the same thing"
+    },
+    {
+      "body": "News reports usually describe GDP through the expenditure identity: GDP = C + I + G + (X − M). C is household consumption: food, rent, phones, holidays, health spending paid by households. I is investment in the economist's sense: firms' spending on machines, buildings and software, households' purchases of newly built homes, and the change in inventories (stocks of unsold goods). Buying shares is not 'investment' in GDP; it is a transfer of ownership. G is government consumption and investment, meaning goods and services the state buys, such as teachers' salaries or new roads; pensions and child benefits are transfers and are excluded here, because they are counted when households spend them in C. X is exports and M is imports. Imports are subtracted not because they are bad but because they are already included inside C, I and G (an imported phone is in consumption), and they were not produced at home. Example from this week: the US Bureau of Economic Analysis (BEA) said real GDP rose at a 3.4% annual rate in the third quarter of 2026, helped by inventory investment, equipment spending (led by computers) and consumer spending, while falling exports and rising imports subtracted from growth (BEA advance estimate, 29 October 2026). An inventory build-up adds to GDP now but may reverse later, which is why analysts watch 'final sales' as well.",
+      "heading": "3. The expenditure side: C + I + G + (X − M)"
+    },
+    {
+      "body": "Nominal GDP values output at the prices of the current period, so it rises if the economy produces more or if prices rise. Real GDP values output at constant prices (prices of a base period, in practice chain-linked from year to year), so it changes only when quantities change. Growth in real GDP is what people mean by 'economic growth'. The link is a price index called the GDP deflator: real GDP = nominal GDP ÷ (deflator ÷ 100). In growth rates, a good approximation is: real growth ≈ nominal growth − inflation of the deflator; the exact formula is (1 + nominal growth) ÷ (1 + price growth) − 1. US example: BEA reports current-dollar (nominal) GDP grew at a 5.6% annual rate in Q3 2026 and real GDP at 3.4%, which implies prices of output rose at about (1.056 ÷ 1.034) − 1 ≈ 2.1% annualised. This connects to Lesson 6: high inflation can make nominal GDP grow fast even if real output stagnates, and that matters for government finances, because tax revenue and the debt-to-GDP ratio (Lesson 8) are measured in nominal terms. The GDP deflator is not the same as the consumer price index (CPI): the deflator covers everything produced at home (including machines and exports), while CPI covers what households buy (including imports).",
+      "heading": "4. Nominal versus real GDP"
+    },
+    {
+      "body": "The same economy can be described by three different growth numbers, and comparing the wrong ones is the most common mistake in economic news. Quarter-on-quarter (q/q) growth compares a quarter with the previous quarter, using seasonally adjusted data (statistically removing regular patterns like Christmas shopping). The US reports q/q growth 'at an annual rate', meaning the quarterly change compounded over four quarters: annualised = (1 + q/q)^4 − 1. So the US 3.4% annualised in Q3 2026 corresponds to only about 0.84% quarter-on-quarter. Eurostat reports plain q/q growth: euro-area GDP rose 0.4% q/q in Q3 2026 and 1.3% compared with Q3 2025 (Eurostat preliminary flash estimate, 30 October 2026); annualised, 0.4% q/q is about 1.6%. Year-on-year (y/y) growth compares a quarter with the same quarter a year earlier; it is smoother and is the headline number in Poland, where Statistics Poland (GUS) put Q2 2026 real growth at 4.1% y/y (revised up from 3.9%, reported 16 October 2026). Rule: before comparing two countries, convert both figures to the same basis. Limitation: annualising a single noisy quarter can exaggerate swings, so a strong annualised number may partly reflect one-off factors like inventories.",
+      "heading": "5. Growth rates: quarter-on-quarter, annualised, year-on-year"
+    },
+    {
+      "body": "Growth rates tell you the direction; levels tell you how big or rich an economy is. Poland's nominal GDP in 2025 was about 3.9 trillion złoty (GUS: 3,912.7 billion in its first estimate of May 2026, revised slightly up in October). To compare countries, you must convert to a common currency, and here exchange rates (Lesson 5) cause trouble: if the dollar becomes 10% more expensive in złoty, Poland's GDP measured in dollars falls by about 9% (1 − 1 ÷ 1.10) overnight, although nothing was produced differently. Total GDP also reflects population size, so living standards are better compared per person (GDP per capita = GDP ÷ population). A further problem is that the same money buys more in some countries than others: a haircut costs less in Kraków than in Copenhagen. Purchasing power parities (PPPs) correct for price-level differences; Eurostat expresses the result in purchasing power standards (PPS), an artificial common currency. On this measure Poland's GDP per capita was 81% of the EU average in 2025, compared with 115% for Germany, 68% for Bulgaria and about 239% for Luxembourg (Eurostat preliminary estimates, reported by Euronews, April 2026). Caveat: Luxembourg and Ireland are outliers because many people who work in Luxembourg live abroad and because multinational profits are booked in Ireland; GDP counts production on the territory, not income of residents, for which gross national income (GNI) is a better guide.",
+      "heading": "6. Comparing levels: size, per person and purchasing power"
+    },
+    {
+      "body": "In the short run, real GDP moves mainly with demand: when households, firms, government and foreigners spend more, firms produce more, and when spending drops, output falls. A common rule of thumb calls two consecutive quarters of falling real GDP a 'technical recession', but official judgements look wider: in the US, a committee of the National Bureau of Economic Research dates recessions using employment, income and other data as well. In the long run, output depends on supply: how many people work and for how many hours, how much capital (machines, infrastructure, software) they have, and how efficiently they combine them, called productivity, driven by technology, skills and institutions. Because growth compounds, small differences add up: at 3.8% a year (Poland's revised real growth for 2025, GUS) the size of the economy doubles in about 18.6 years, while at 1% a year it takes about 70 years. The 'rule of 70' approximates doubling time as 70 ÷ growth rate in percent. Convergence theory says poorer economies can grow faster by adopting existing technologies and building capital, which is part of why Poland's income per head has been catching up with the EU average; it is a tendency, not a law, and it depends on institutions, investment and demographics.",
+      "heading": "7. What makes economies grow, and the power of compounding"
+    },
+    {
+      "body": "GDP is a measure of market production, not of well-being. It leaves out unpaid work at home, such as childcare and cooking, even though it has real value. It does not subtract the depletion of natural resources or the damage from pollution and emissions, so an economy can raise GDP while running down its environment. It says nothing about distribution: average income per head can rise while many households fall behind. It counts spending on repairing damage, such as rebuilding after a flood, as output, even though people are not better off than before the flood. The informal or 'shadow' economy is only partly captured, through statistical estimates. Finally, GDP figures are estimates that are revised as better data arrive: GUS raised its estimate of Poland's Q2 2026 growth from 3.9% to 4.1%, and the US publishes advance, second and third estimates for each quarter. Markets react to the first release, so a later revision can change the story. Because of these limits, economists also look at indicators such as unemployment, real wages, poverty rates and life expectancy, and statistical offices publish broader 'beyond GDP' dashboards.",
+      "heading": "8. What GDP misses, and why it gets revised"
+    }
+  ],
+  "takeaways": [
+    "GDP is the market value of final goods and services produced on a country's territory in a period; counting value added avoids double counting.",
+    "Production, expenditure (C + I + G + X − M) and income measures give the same total in principle; transfers and second-hand sales are not in GDP.",
+    "Real growth ≈ nominal growth − inflation of the GDP deflator; exactly, (1 + nominal) ÷ (1 + prices) − 1. US Q3 2026: 5.6% nominal, 3.4% real.",
+    "Always compare like with like: US growth is annualised (3.4% ≈ 0.84% q/q), euro-area growth is q/q (0.4%), Polish headlines are y/y (4.1% in Q2 2026).",
+    "Compounding is powerful: at 3.8% a year an economy doubles in about 18.6 years; the rule of 70 gives a quick estimate.",
+    "GDP ignores unpaid work, the environment and distribution, and it is revised; Poland's GDP per capita was 81% of the EU average in PPS in 2025."
+  ],
+  "title": "GDP and economic growth",
+  "todayExample": "In this edition, Canada's finance minister defended a budget with deficits above C$50 billion a year through 2030, arguing that borrowing for investment that grows the economy differs from day-to-day spending. That argument is about GDP: if borrowing raises future real growth, nominal GDP grows faster and the debt-to-GDP ratio can stabilise even with deficits. His critics point to debt-interest costs of C$60.2 billion next year, more than the C$57.4 billion in health transfers to provinces. Whether the investment actually raises growth, and by how much, is exactly what the GDP figures of the coming years will show.",
+  "workedExamples": [
+    {
+      "problem": "Hypothetical numbers: a farmer sells wheat to a miller for 100 zł; the miller sells flour to a baker for 160 zł; the baker sells bread to households for 250 zł. (a) What does this chain add to GDP? (b) What would a careless statistician get by adding all sales? (c) Show that the value-added method gives the same answer as the expenditure method.",
+      "solution": "(a) Only final spending counts: households buy bread worth 250 zł, so GDP rises by 250 zł. (b) Adding all sales gives 100 + 160 + 250 = 510 zł, which counts the wheat three times and the flour's extra value twice; it overstates output by 510 − 250 = 260 zł. (c) Value added (ignoring taxes on products): farmer 100 − 0 = 100 zł (assuming no purchased inputs, a simplification); miller 160 − 100 = 60 zł; baker 250 − 160 = 90 zł. Total value added = 100 + 60 + 90 = 250 zł, the same as final expenditure. Interpretation: each firm's value added becomes wages and profits, which is why the income approach also gives 250 zł.",
+      "title": "Value added and double counting"
+    },
+    {
+      "problem": "BEA: US real GDP grew at a 3.4% annual rate in Q3 2026. Eurostat: euro-area GDP grew 0.4% quarter-on-quarter in Q3 2026. (a) Convert the US figure to quarter-on-quarter. (b) Convert the euro-area figure to an annualised rate. (c) How many times faster did the US grow in that quarter?",
+      "solution": "(a) q/q = (1 + 0.034)^(1/4) − 1 = 1.034^0.25 − 1 ≈ 0.0084, i.e. about 0.84% q/q. (b) Annualised = (1 + 0.004)^4 − 1 = 1.004^4 − 1 ≈ 0.0161, i.e. about 1.61%. (c) 3.4 ÷ 1.61 ≈ 2.1 (or 0.84 ÷ 0.4 = 2.1). Interpretation: comparing the headlines '3.4%' and '0.4%' directly would suggest the US grew 8.5 times faster (3.4 ÷ 0.4); on a like-for-like basis it grew about twice as fast in that quarter. One quarter is noisy, so the year-on-year euro-area figure (1.3%) is also worth checking.",
+      "title": "Comparing US and euro-area growth on the same basis"
+    },
+    {
+      "problem": "BEA reports that US current-dollar (nominal) GDP grew at a 5.6% annual rate in Q3 2026, while real GDP grew at 3.4%. (a) Estimate the annualised rise in the overall price level of US output using the approximation. (b) Calculate it exactly. (c) Why does the difference matter for the US government's debt-to-GDP ratio?",
+      "solution": "(a) Approximation: price growth ≈ nominal growth − real growth = 5.6% − 3.4% = 2.2 percentage points. (b) Exact: (1 + 0.056) ÷ (1 + 0.034) − 1 = 1.056 ÷ 1.034 − 1 ≈ 1.02128 − 1 = 0.0213, i.e. about 2.13% annualised. The approximation (2.2%) is close because the rates are small. (c) Debt is measured in money (nominal) terms, so it is divided by nominal GDP; when nominal GDP grows 5.6% a year, the ratio falls unless debt (which rises with every deficit) grows faster. Inflation therefore helps shrink debt ratios, which links to Lesson 8: bond investors demand higher yields when they expect inflation to erode what they are repaid.",
+      "title": "Nominal growth, real growth and implied inflation"
+    },
+    {
+      "problem": "(a) GUS puts Poland's real GDP growth in 2025 at 3.8% (revised). If that rate continued, how many years would it take for the economy to double? Use the rule of 70 and then the exact formula. (b) Eurostat put Poland's GDP per capita at 81% of the EU average (in PPS) in 2025. Hypothetical: if Poland's GDP per capita grew 2 percentage points a year faster than the EU average (modelled as a relative growth factor of 1.02), how many years until it reached 100%?",
+      "solution": "(a) Rule of 70: 70 ÷ 3.8 ≈ 18.4 years. Exact: solve 1.038^n = 2, so n = ln 2 ÷ ln 1.038 = 0.6931 ÷ 0.0373 ≈ 18.6 years. (b) We need 81 × 1.02^n = 100, so 1.02^n = 100 ÷ 81 = 1.2346; n = ln 1.2346 ÷ ln 1.02 = 0.2107 ÷ 0.0198 ≈ 10.6 years. Interpretation: steady growth differences compound into large changes within a decade; but the result is very sensitive to the assumed gap (with a 1-point gap, n = ln 1.2346 ÷ ln 1.01 ≈ 21.2 years), and convergence usually slows as a country gets richer.",
+      "title": "Compounding: doubling time and catching up"
+    }
+  ],
+  "updatedAt": "2026-11-08T19:13:47.130933Z"
+}

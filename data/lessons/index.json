@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T09:16:41Z",
+  "updated": "2026-11-08T19:16:12Z",
   "lessons": [
     {
       "number": 1,
@@ -64,6 +64,14 @@
       "date": "8 Nov 2026",
       "createdAt": "2026-11-08T09:11:47Z",
       "updatedAt": "2026-11-08T09:11:57.069137Z"
+    },
+    {
+      "number": 9,
+      "title": "GDP and economic growth",
+      "level": "Foundations",
+      "date": "8 Nov 2026",
+      "createdAt": "2026-11-08T19:13:17Z",
+      "updatedAt": "2026-11-08T19:13:47.130933Z"
     }
   ]
 }

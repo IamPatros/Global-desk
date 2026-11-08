@@ -1,0 +1,1181 @@
+{
+  "bigPicture": "The Gulf conflict widened on Sunday: Iran's Revolutionary Guard said three more tankers burned in the Strait of Hormuz, where traffic is about a fifth of pre-war levels, the US launched a task force to choke Iran's land and Caspian trade, and Houthi missiles aimed at Riyadh left debris damage on Aramco's tower; Saudi stocks fell 0.8%, while Trump said new strikes on Iran were unlikely if talks progress. In Israel, Gadi Eisenkot formally received 28 days to try to form a government, and in Poland prosecutors opened a terrorism investigation into the Kraków attack as national mourning began. Russian strikes cut power to more than 850,000 Ukrainians and the Zaporizhzhia nuclear plant again lost outside power, two days before talks in Abu Dhabi that Europeans will join. Socially, storms flooded 70,000 tents in Gaza, Spain's island of El Hierro declared a migration emergency, and Iran executed three men over January's protests; the COP31 climate summit opens on Monday.",
+  "createdAt": "2026-11-08T18:58:39Z",
+  "glossary": [
+    {
+      "def": "The market value of all final goods and services produced in a country in a period.",
+      "example": "Poland's nominal GDP in 2025 was about 3.9 trillion złoty (GUS).",
+      "term": "GDP (gross domestic product)"
+    },
+    {
+      "def": "GDP measured at constant prices, so it changes only when quantities produced change.",
+      "example": "US real GDP grew at a 3.4% annual rate in Q3 2026.",
+      "term": "Real GDP"
+    },
+    {
+      "def": "A price index for everything produced in an economy; nominal GDP divided by real GDP.",
+      "example": "US nominal growth of 5.6% and real growth of 3.4% (rounded) imply price growth of about 2.1%.",
+      "term": "GDP deflator"
+    },
+    {
+      "def": "A firm's output minus the intermediate inputs it bought; summed across firms (plus taxes less subsidies on products) it gives GDP.",
+      "example": "A baker buying flour for 160 zł and selling bread for 250 zł adds 90 zł.",
+      "term": "Value added"
+    },
+    {
+      "def": "A quarterly growth rate compounded over four quarters to show the pace per year.",
+      "example": "0.4% q/q growth is about 1.6% annualised.",
+      "term": "Annualised growth rate"
+    },
+    {
+      "def": "An artificial common currency used by Eurostat that removes price-level differences between countries.",
+      "example": "Poland's GDP per capita was 81% of the EU average in PPS in 2025.",
+      "term": "Purchasing power standard (PPS)"
+    },
+    {
+      "def": "A significant, broad decline in economic activity; a rule of thumb is two quarters in a row of falling real GDP.",
+      "example": "Official bodies such as the US NBER also look at jobs and incomes.",
+      "term": "Recession"
+    },
+    {
+      "def": "A government that stays in office with limited powers until a new one is formed.",
+      "example": "Netanyahu's cabinet and New Zealand's coalition are both caretakers for now.",
+      "term": "Caretaker government"
+    },
+    {
+      "def": "A crime prosecutors classify as aimed at intimidating the public or forcing authorities to act, which allows wider investigation and heavier penalties.",
+      "example": "Polish prosecutors are treating the Kraków killings as a terrorist offence.",
+      "term": "Terrorist offence"
+    },
+    {
+      "def": "The International Atomic Energy Agency, the UN body that monitors nuclear safety and safeguards.",
+      "example": "The IAEA reported that Zaporizhzhia lost its outside power line on Sunday.",
+      "term": "IAEA"
+    },
+    {
+      "def": "Money to help countries cope with climate impacts, such as flood defences or drought-resistant crops.",
+      "example": "African negotiators at COP31 want a pledge to triple it.",
+      "term": "Adaptation finance"
+    },
+    {
+      "def": "An electoral system where parties win seats roughly in proportion to their share of the vote.",
+      "example": "New Zealand's mixed-member proportional system makes coalitions the norm.",
+      "term": "Proportional representation"
+    },
+    {
+      "def": "When a company uses cash to buy its own shares, reducing the number held by other investors.",
+      "example": "Berkshire Hathaway bought back about $9.6 billion of shares in Q3.",
+      "term": "Share buyback"
+    },
+    {
+      "def": "Movement of people across borders outside regular legal channels, such as by unauthorised boat crossings.",
+      "example": "More than 3,300 people reached El Hierro by boat in early November.",
+      "term": "Irregular migration"
+    }
+  ],
+  "label": "Sun 8 Nov · evening",
+  "lessonNumber": 9,
+  "markets": [
+    {
+      "change": 0.31,
+      "changeText": "+0.3%",
+      "group": "Stocks · Americas",
+      "key": true,
+      "name": "S&P 500",
+      "note": "Friday 6 Nov close; chip and AI shares rebounded after Thursday's sell-off, but the index still lost about 2.7% on the week (CappNotes).",
+      "region": "US",
+      "value": "7,376.86",
+      "what": "An index of 500 large US companies, the most watched gauge of the US stock market."
+    },
+    {
+      "change": 1.09,
+      "changeText": "+1.1%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Nasdaq Composite",
+      "note": "Friday close; tech-heavy index led the rebound in AI and chip stocks (CappNotes).",
+      "region": "US",
+      "value": "24,579.42",
+      "what": "An index of more than 3,000 shares listed on the Nasdaq exchange, dominated by technology firms."
+    },
+    {
+      "change": -0.46,
+      "changeText": "−0.5%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Dow Jones Industrial Average",
+      "note": "Friday close; slipped as more shares fell than rose (CappNotes).",
+      "region": "US",
+      "value": "51,285.73",
+      "what": "An index of 30 large US companies, weighted by share price."
+    },
+    {
+      "change": -1.92,
+      "changeText": "−1.9%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "DAX",
+      "note": "Friday close; global sell-off in tech and chip stocks and fears of tighter AI rules after the US midterms, a day after a record high of 26,692.90 (ad-hoc-news).",
+      "region": "Germany",
+      "value": "25,820.36",
+      "what": "Germany's main index of 40 large listed companies."
+    },
+    {
+      "change": -1,
+      "changeText": "−1.0%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "Stoxx Europe 600",
+      "note": "Friday close; hit by the spillover from the AI-stock sell-off (CappNotes).",
+      "region": "Europe",
+      "value": "648.33",
+      "what": "An index of 600 large and mid-sized companies from 17 European countries."
+    },
+    {
+      "change": -1.01,
+      "changeText": "−1.0%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "FTSE 100",
+      "note": "Friday close (CappNotes).",
+      "region": "UK",
+      "value": "10,673.94",
+      "what": "An index of the 100 largest companies on the London Stock Exchange."
+    },
+    {
+      "change": -1.85,
+      "changeText": "−1.85%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "WIG20",
+      "note": "Friday close; Orlen fell about 7% after quarterly results slightly below forecasts, and Warsaw followed the US sell-off (Strefa Inwestorów, XYZ.pl).",
+      "region": "Poland",
+      "value": "4,131.37",
+      "what": "An index of the 20 largest and most traded companies on the Warsaw Stock Exchange."
+    },
+    {
+      "change": -5.96,
+      "changeText": "−6.0%",
+      "group": "Stocks · Asia-Pacific",
+      "key": true,
+      "name": "Nikkei 225",
+      "note": "Friday close; chip stocks slumped on fears of AI regulation (CappNotes).",
+      "region": "Japan",
+      "value": "57,434.77",
+      "what": "Japan's best-known index of 225 large Tokyo-listed companies."
+    },
+    {
+      "change": -6.02,
+      "changeText": "−6.0%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Kospi",
+      "note": "Friday close; heavy chip-stock losses (CappNotes).",
+      "region": "South Korea",
+      "value": "5,059.69",
+      "what": "South Korea's main stock index."
+    },
+    {
+      "change": -1.27,
+      "changeText": "−1.3%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Hang Seng",
+      "note": "Friday close (CappNotes).",
+      "region": "Hong Kong",
+      "value": "24,481.86",
+      "what": "The main index of large companies listed in Hong Kong."
+    },
+    {
+      "change": 2.01,
+      "changeText": "+2.0%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Nifty 50",
+      "note": "Friday close; India rose against the regional trend (CappNotes).",
+      "region": "India",
+      "value": "25,030.35",
+      "what": "An index of 50 large companies on India's National Stock Exchange."
+    },
+    {
+      "change": -0.49,
+      "changeText": "−0.5%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "ASX 200",
+      "note": "Friday close (CappNotes).",
+      "region": "Australia",
+      "value": "9,020.80",
+      "what": "Australia's main index of 200 large listed companies."
+    },
+    {
+      "change": -0.78,
+      "changeText": "−0.8%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Tadawul All Share (TASI)",
+      "note": "Sunday 8 Nov close (Gulf markets trade on Sundays); fell on the day Houthi missiles targeted Riyadh, though Arab News did not state a cause.",
+      "region": "Saudi Arabia",
+      "value": "10,016.92",
+      "what": "Saudi Arabia's main stock index; Saudi Aramco carries a large weight in it."
+    },
+    {
+      "change": null,
+      "changeText": "steady",
+      "group": "Currencies",
+      "key": true,
+      "name": "EUR/PLN",
+      "note": "Friday morning quote 4.4036 (money.pl, 07:00); markets are closed for the weekend.",
+      "region": "Poland",
+      "value": "≈4.40",
+      "what": "How many Polish złoty one euro costs."
+    },
+    {
+      "change": null,
+      "changeText": "dollar firmer",
+      "group": "Currencies",
+      "key": true,
+      "name": "USD/PLN",
+      "note": "Implied from Friday-morning EUR/PLN and EUR/USD; the dollar strengthened later on Friday after a strong US jobs report (dollar index +0.76%, CappNotes).",
+      "region": "Poland",
+      "value": "≈3.93",
+      "what": "How many złoty one US dollar costs."
+    },
+    {
+      "change": null,
+      "changeText": "lower",
+      "group": "Currencies",
+      "key": false,
+      "name": "EUR/USD",
+      "note": "Friday-morning quote 1.1196 (money.pl); the dollar gained later on Friday as US yields rose (CappNotes).",
+      "region": "Global",
+      "value": "≈1.12",
+      "what": "How many US dollars one euro costs; the world's most traded currency pair."
+    },
+    {
+      "change": 0.03,
+      "changeText": "+0.03%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Brent crude oil",
+      "note": "Friday settlement; front-month oil fell about 13% on the week, the biggest weekly drop since 2022 (Rigzone; some reports put Brent's weekly fall at about 16%, sources differ), on bets of a US–Iran deal and recovering Saudi and UAE exports.",
+      "region": "Global",
+      "value": "$98.32",
+      "what": "The main global benchmark price for crude oil, per barrel."
+    },
+    {
+      "change": 0.3,
+      "changeText": "+0.3%",
+      "group": "Commodities",
+      "key": false,
+      "name": "WTI crude oil",
+      "note": "Friday settlement (Rigzone).",
+      "region": "US",
+      "value": "$90.83",
+      "what": "The US benchmark oil price, per barrel."
+    },
+    {
+      "change": -0.79,
+      "changeText": "−0.8%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Gold",
+      "note": "Friday; a stronger dollar and higher US yields weighed on gold (CappNotes).",
+      "region": "Global",
+      "value": "≈$4,081",
+      "what": "Price of one troy ounce (about 31.1 g) of gold in US dollars."
+    },
+    {
+      "change": null,
+      "changeText": "flat",
+      "group": "Commodities",
+      "key": false,
+      "name": "Bitcoin",
+      "note": "Friday level, roughly flat (CappNotes); crypto trades at weekends too.",
+      "region": "Global",
+      "value": "≈$75,900",
+      "what": "The largest cryptocurrency, priced in US dollars."
+    },
+    {
+      "change": null,
+      "changeText": "+2 bp",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 10-year Treasury yield",
+      "note": "Friday; rose after October payrolls of 165,000 beat forecasts, raising bets on a December Fed rate rise (CappNotes).",
+      "region": "US",
+      "value": "4.86%",
+      "what": "The annual return on lending to the US government for 10 years; a benchmark for borrowing costs worldwide."
+    },
+    {
+      "change": null,
+      "changeText": "+5 bp",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 2-year Treasury yield",
+      "note": "Friday; short-term yields rose most as traders priced a possible Fed hike (CappNotes).",
+      "region": "US",
+      "value": "4.51%",
+      "what": "The yield on 2-year US government bonds, closely tied to expected Fed policy."
+    }
+  ],
+  "marketsAsOf": "Markets closed for the weekend: figures are Friday 6 November closes/settlements unless marked; currencies are Friday-morning quotes.",
+  "quiz": [
+    {
+      "answer": 0,
+      "explain": "Iran says the strait stays closed until the US makes concessions; ISW analysts said its claims likely aim to raise shipping companies' perceived risk.",
+      "options": [
+        "To raise shipping firms' sense of risk and use the strait as leverage for US concessions such as ending the blockade",
+        "Because the UN ordered the strait closed",
+        "To raise its own oil exports through the strait",
+        "Because the US asked Iran to close it"
+      ],
+      "q": "Why does Iran threaten ships in the Strait of Hormuz even while talks continue?"
+    },
+    {
+      "answer": 3,
+      "explain": "CENTCOM says the Tampa-based task force targets weapons, dual-use goods and money moving across Iran's land borders and the Caspian, extending the naval blockade.",
+      "options": [
+        "It ends the naval blockade",
+        "It escorts tankers through Hormuz",
+        "It is a UN peacekeeping mission",
+        "It extends pressure on Iran from sea routes to its land borders and the Caspian Sea"
+      ],
+      "q": "What is new about the US 'Task Force Iron Gate'?"
+    },
+    {
+      "answer": 2,
+      "explain": "Oil is priced globally, so reduced supply through Hormuz pushes up prices everywhere, regardless of where a country buys its oil.",
+      "options": [
+        "Cheaper petrol, because less oil is shipped",
+        "No effect, because Poland imports no oil from the Gulf",
+        "Upward pressure on global oil and fuel prices, which feeds into transport costs",
+        "A stronger złoty"
+      ],
+      "q": "Traffic through Hormuz is about 20% of pre-war levels (Lloyd's List). What is the most likely effect for an oil-importing country like Poland?"
+    },
+    {
+      "answer": 2,
+      "explain": "The ministry reported minor shrapnel damage and no casualties; the Houthi claims of hits on Abqaiq were not verified.",
+      "options": [
+        "The Aramco Tower was destroyed and dozens were killed",
+        "Abqaiq was set on fire",
+        "An Aramco administrative building suffered minor damage from falling shrapnel, with no injuries",
+        "No missiles reached Saudi airspace"
+      ],
+      "q": "What did Saudi Arabia's Energy Ministry say about the Houthi attack on Riyadh?"
+    },
+    {
+      "answer": 0,
+      "explain": "In a market-value-weighted index large companies dominate; Arab News did not attribute the fall to a specific cause.",
+      "options": [
+        "The index is weighted by company value, so falls in a few large companies can outweigh more numerous small gainers",
+        "The data must be wrong",
+        "Rising shares are not included in the index",
+        "The index only includes foreign companies"
+      ],
+      "q": "Saudi Arabia's TASI fell 0.78% on Sunday, yet 140 shares rose and 119 fell. What best explains this?"
+    },
+    {
+      "answer": 3,
+      "explain": "Prosecutors opened a terrorism probe and believe the same person killed three relatives; the motive is not yet established.",
+      "options": [
+        "Because a foreign state claimed the attack",
+        "Because six people died, which is the legal threshold",
+        "Because the suspect had no gun licence",
+        "It is investigating the case as terrorism; the interior minister said the suspect appears to hold far-right, ultranationalist views, which must still be verified"
+      ],
+      "q": "Which statement about the Kraków investigation is accurate?"
+    },
+    {
+      "answer": 1,
+      "explain": "He had a licence and no criminal record; the defence minister denied he was ever a soldier.",
+      "options": [
+        "The weapons were smuggled from Ukraine",
+        "The suspect held a valid firearms licence and police believe he used a licensed weapon",
+        "Poland has no gun laws",
+        "He was a serving soldier"
+      ],
+      "q": "What makes the Kraków case especially important for Poland's gun-permit debate?"
+    },
+    {
+      "answer": 0,
+      "explain": "Netanyahu's coalition won 53, Eisenkot's bloc 48 and Arab-led parties 19 of 120 seats; Yisrael Beytenu rules out Arab-led partners.",
+      "options": [
+        "No bloc has the 61 seats needed, and possible partners (Arab-led, ultra-Orthodox parties, Likud) clash with each other",
+        "He already has 67 seats",
+        "The president can dissolve parliament at will",
+        "Netanyahu has formally conceded"
+      ],
+      "q": "Eisenkot received the mandate to form Israel's government. Why is success uncertain?"
+    },
+    {
+      "answer": 2,
+      "explain": "AP reports Netanyahu could be given a chance, and failing that Israel returns to elections, likely in spring.",
+      "options": [
+        "He automatically becomes prime minister",
+        "The Knesset is abolished",
+        "Netanyahu could get a chance, and if neither succeeds Israel would hold new elections",
+        "The US appoints a caretaker"
+      ],
+      "q": "If Eisenkot fails within his 28 days (plus a possible 14-day extension), what happens next?"
+    },
+    {
+      "answer": 1,
+      "explain": "Zelensky said Moscow is intensifying attacks before the US-brokered talks; Russia's defence ministry says it will keep hitting energy infrastructure.",
+      "options": [
+        "To test new weapons only",
+        "To raise pressure on Kyiv's negotiating position before the Abu Dhabi talks on 10–11 November",
+        "Because the talks were cancelled",
+        "To prevent Europe joining the war"
+      ],
+      "q": "Why is Russia striking Ukraine's power grid now, according to Zelensky?"
+    },
+    {
+      "answer": 2,
+      "explain": "Shut-down reactors still need cooling; the IAEA says generator fuel lasts about two weeks.",
+      "options": [
+        "Its reactors explode without power",
+        "It stops paying Ukraine",
+        "Reactor fuel must be cooled continuously, so it depends on backup diesel generators with limited fuel",
+        "The IAEA charges fines"
+      ],
+      "q": "Why is it a safety concern when the Zaporizhzhia nuclear plant loses outside power, even though it produces no electricity?"
+    },
+    {
+      "answer": 0,
+      "explain": "Longer journeys from further south raise the risk; 21 bodies were recovered after a boat sank off Senegal.",
+      "options": [
+        "Patrols off Senegal, Mauritania and Morocco pushed departures further south, to The Gambia, Guinea-Bissau and Guinea",
+        "Spain closed its ports",
+        "Boats are now larger",
+        "The EU banned the route"
+      ],
+      "q": "Why are crossings to the Canary Islands becoming longer and more dangerous, according to Al Jazeera?"
+    },
+    {
+      "answer": 1,
+      "explain": "The Government Media Office reported 70,000 flooded tents; nearly 400,000 displaced people are in highly vulnerable areas.",
+      "options": [
+        "Most people live in new apartment blocks",
+        "About 70,000 tents flooded and Civil Defence says at least 300,000 tents are needed, showing how many displaced people live in fragile shelter",
+        "The ceasefire ended",
+        "Aid deliveries tripled"
+      ],
+      "q": "What did the storm in Gaza reveal about living conditions there?"
+    },
+    {
+      "answer": 3,
+      "explain": "The hosts want the electrification goal in the cover decision; African negotiators want tripled adaptation finance.",
+      "options": [
+        "Banning all coal by 2027",
+        "A global carbon tax",
+        "Ending all climate finance",
+        "Raising electricity's share of global energy use from about 20% to 35% by 2035"
+      ],
+      "q": "What is the centrepiece goal Türkiye and Australia want at COP31?"
+    },
+    {
+      "answer": 3,
+      "explain": "The charges come from Iran's judiciary and were not independently verified; rights groups say security forces fired on protesters.",
+      "options": [
+        "For tax evasion",
+        "For drug trafficking",
+        "For criticising the war online",
+        "For 'operational activities' for Israel, the US and 'hostile groups' during January's protests in Karaj"
+      ],
+      "q": "Why did the three men executed in Iran on Sunday face death sentences, according to Iran's judiciary?"
+    },
+    {
+      "answer": 0,
+      "explain": "The governing coalition's majority is one or two seats; the final result is due on 27 November.",
+      "options": [
+        "About 700,000 special votes, which have historically favoured the left, are still to be counted",
+        "The prime minister can annul votes",
+        "Voting continues until Christmas",
+        "The courts pick the winner"
+      ],
+      "q": "In New Zealand, why could the preliminary election result still change?"
+    },
+    {
+      "answer": 1,
+      "explain": "Rigzone cites US–Iran deal hopes and Gulf exports returning toward pre-war levels; sources differ on the size of the weekly fall.",
+      "options": [
+        "A new OPEC production cut",
+        "Bets on a US–Iran deal plus Saudi and UAE exports recovering toward pre-war levels",
+        "A ban on oil imports by China",
+        "Hurricane damage in the US"
+      ],
+      "q": "Brent fell about 13–16% in the week to Friday 6 November. Which explanation do the sources give?"
+    },
+    {
+      "answer": 0,
+      "explain": "Price and yield move in opposite directions.",
+      "options": [
+        "It falls, because its fixed payments are discounted at a higher rate",
+        "It rises",
+        "It is unchanged until maturity",
+        "Its coupon increases"
+      ],
+      "q": "Review (Lesson 8): if market yields on comparable bonds rise, what happens to the price of an existing fixed-coupon bond?"
+    },
+    {
+      "answer": 1,
+      "explain": "Central banks lean against persistent inflation by keeping policy rates higher.",
+      "options": [
+        "Cut rates to boost spending",
+        "Keep rates higher for longer or raise them to restrain demand and inflation expectations",
+        "Print money to buy oil",
+        "Fix the exchange rate"
+      ],
+      "q": "Review (Lesson 7): a central bank expects inflation to stay above target as oil prices rise. What is its most likely policy reaction?"
+    },
+    {
+      "answer": 2,
+      "explain": "Real change ≈ 5% − 7% = −2% (exactly 1.05 ÷ 1.07 − 1 ≈ −1.9%).",
+      "options": [
+        "It rises about 12%",
+        "It rises 5%",
+        "It falls about 2%",
+        "It is unchanged"
+      ],
+      "q": "Review (Lesson 6): your wage rises 5% while prices rise 7%. What happens to your real wage?"
+    }
+  ],
+  "status": "complete",
+  "stories": [
+    {
+      "category": "Politics & conflict",
+      "everyday": "When fewer tankers can pass Hormuz, oil and fuel become more expensive worldwide, which reaches Polish drivers at the pump and businesses through transport costs. Markets were closed on Sunday, so the first reaction will come when oil futures reopen on Sunday night (Warsaw time).",
+      "id": "iran-hormuz-tankers-ironGate",
+      "importance": 5,
+      "markets": [
+        "Brent crude",
+        "WTI crude",
+        "Tanker shipping",
+        "Marine insurance"
+      ],
+      "rank": 1,
+      "rankWhy": "The Strait of Hormuz normally carries a large share of the world's seaborne oil, so every new attack or blockade step affects energy prices and supply chains for most countries.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/08/smoke-blanketing-the-strait-iran-steps-up-campaign-of-threats-to-shipping/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
+        },
+        {
+          "name": "Fox News live",
+          "url": "https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8"
+        },
+        {
+          "name": "ThePrint (Reuters)",
+          "url": "https://theprint.in/world/trump-says-he-is-unlikely-to-order-iran-attack-if-talks-progress-cnn-reports/3093772/"
+        }
+      ],
+      "terms": [
+        "Naval blockade",
+        "Naval mine",
+        "UKMTO"
+      ],
+      "title": "Iran's Revolutionary Guard says three tankers burned in Hormuz as the US starts 'Task Force Iron Gate' against Iran's land and Caspian trade",
+      "what": "Early on Sunday the navy of Iran's Islamic Revolutionary Guard Corps (IRGC) said three tankers caught fire after using 'unauthorised routes' through the Strait of Hormuz, and warned other ships of the same fate; the IRGC says at least 12 ships have burned since 1 November, mostly after hitting naval mines, though few of these incidents have been independently confirmed. The UK Maritime Trade Operations centre (UKMTO, a British navy office that tracks shipping security) reported further incidents near the strait late on Saturday and on Sunday, and the UAE National Guard rescued 22 crew from a burning cargo ship in the Gulf of Oman. Traffic through the strait is about 20% of pre-war levels, according to Lloyd's List Intelligence. Meanwhile US Central Command (CENTCOM) has set up Task Force Iron Gate, based in Tampa, Florida, to stop weapons, dual-use goods and money reaching Iran across its land borders and the Caspian Sea, extending the naval blockade of Iranian ports in place since July; an IRGC spokesman dismissed it as 'merely a play on words'.",
+      "why": "Iran is using the threat to shipping as leverage: it says the strait will not reopen until the US makes concessions, including ending the blockade, while analysts at the Institute for the Study of War said Iran's claims are likely meant to raise shipping firms' sense of risk. The US is trying the opposite squeeze, cutting off Iran's revenue (it says the blockade has cost Iran more than $25 billion in oil export income) by sea and now by land. Qatar, Pakistan and other mediators are trying to stop a return to full-scale war; President Trump had confirmed 'minor' US strikes on Iran's Qeshm Island on Saturday. On Sunday Trump told CNN that renewed attacks on Iran were 'highly unlikely' to be necessary if talks make progress, though he said the US had identified targets including 38 bridges (Reuters via ThePrint)."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Any damage to Saudi oil sites would push oil prices up for everyone; for civilians in Yemen, one of the world's poorest countries, the renewed air war means more deaths and displacement.",
+      "id": "houthi-riyadh-aramco-tower",
+      "importance": 4,
+      "markets": [
+        "Saudi Aramco",
+        "Brent crude",
+        "Gulf stock markets"
+      ],
+      "rank": 2,
+      "rankWhy": "A rare strike on Riyadh's financial district and Houthi claims of attacks on Saudi oil sites raise the risk to the world's largest oil exporter and widen the regional war.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Middle East Eye (with Reuters, Al Jazeera)",
+          "url": "https://www.middleeasteye.net/news/saudi-aramco-tower-damaged-after-houthi-missile-attacks-riyadh"
+        },
+        {
+          "name": "Xinhua",
+          "url": "https://english.news.cn/20261109/9c9df5ecf0c04489a304bca46e70238d/c.html"
+        },
+        {
+          "name": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/08/smoke-blanketing-the-strait-iran-steps-up-campaign-of-threats-to-shipping/"
+        }
+      ],
+      "terms": [
+        "Ballistic missile",
+        "Cruise missile"
+      ],
+      "title": "Houthi missiles target Riyadh; falling debris damages Aramco's tower in the financial district as the Saudi-Houthi war escalates",
+      "what": "On Sunday Saudi Arabia's Energy Ministry said an Aramco administrative building in Riyadh suffered minor damage from falling shrapnel, with no injuries; a Reuters witness saw windows blown out on several floors of the Aramco Tower in the King Abdullah Financial District. The Saudi-led coalition said it intercepted two ballistic missiles fired at Riyadh, two cruise missiles, and another ballistic missile aimed at the Eastern Province, where much of the kingdom's oil industry sits. The Houthi movement, which controls Yemen's capital Sanaa, claimed attacks on Aramco facilities in Riyadh and at the Abqaiq oil-processing hub and on Riyadh's airport; these claims were not independently verified. The Houthis said the attacks were revenge for Saudi-led air strikes, including one on Saturday near Sanaa that the Houthi-run health ministry says killed at least 33 people, among them 13 children.",
+      "why": "The fighting follows the collapse of a 2022 truce after Yemen's internationally recognised government launched a campaign last month to retake Houthi-held territory, including Sanaa (Middle East Eye). Because the Houthis are allied with Iran, the Saudi front links to the wider US–Iran confrontation; Iran has hinted that the Houthis could also disrupt the Bab al-Mandab strait at the mouth of the Red Sea if the war resumes (The National)."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Police stepped up patrols in crowded places in Warsaw, Gdańsk, Wrocław, Lublin and Poznań (TVP World); entertainment events are cancelled during mourning, and a public fundraiser for the injured officers raised more than 3.5 million złoty (Notes from Poland). The case is likely to prompt debate on gun permits and on monitoring online extremism.",
+      "id": "krakow-terror-probe",
+      "importance": 4,
+      "markets": [],
+      "rank": 3,
+      "rankWhy": "Poland's deadliest attack in decades affects national security policy, gun rules and public safety debates for a country of about 37 million.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/International/deadly-mass-shooting-poland-investigated-terror-act-prosecutor/story?id=137951543"
+        },
+        {
+          "name": "Notes from Poland",
+          "url": "https://notesfrompoland.com/2026/11/08/prosecutors-launcher-terror-investigation-as-poland-reels-from-fatal-shootings/"
+        },
+        {
+          "name": "TVP World",
+          "url": "https://tvpworld.com/96370528/poland-boosts-security-measures-after-krakow-shooting"
+        }
+      ],
+      "terms": [
+        "Terrorist offence",
+        "National mourning"
+      ],
+      "title": "Kraków attack: prosecutors open a terrorism investigation; nine people dead in total, including the gunman's family",
+      "what": "On Sunday Poland's National Prosecutor's Office said it is treating the killings as a terrorist offence; its spokesperson Daniel Prokopowicz said it was 'highly likely' that the same person carried out the shooting in Kraków's Main Market Square on Saturday and the killing of three people at his family home in Ostrowiec Świętokrzyski, about 150 km away. Six people were killed in Kraków (one was British) and 16 were wounded, including two police officers in critical condition (Notes from Poland; Al Jazeera gave 15); police say the three found at the home were the suspect's father, mother and sister. The suspect, a 24-year-old Polish man with a valid gun licence and no criminal record, was wounded by police and is in hospital; Defence Minister Władysław Kosiniak-Kamysz said he 'has never had anything to do with the military' (Euronews); Interior Minister Marcin Kierwiński said he was influenced by far-right and ultranationalist ideas. Two days of national mourning began at midnight, the square stayed closed on Sunday, and the hourly trumpet call from St Mary's Church was halted for 12 hours, for the first time since 1939 (Al Jazeera).",
+      "why": "Classing the case as terrorism lets prosecutors examine motive, possible accomplices and online radicalisation, not only the killings. Because the gunman appears to have used a legally held weapon, the case is putting Poland's firearms licensing system under scrutiny; Prime Minister Donald Tusk called the attack an act of terrorism."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "A long period of caretaker government in Israel means uncertainty for the Gaza ceasefire and for the regional war that is keeping oil prices high.",
+      "id": "israel-eisenkot-mandate",
+      "importance": 4,
+      "markets": [
+        "Israeli shekel",
+        "Tel Aviv stocks"
+      ],
+      "rank": 4,
+      "rankWhy": "Who governs Israel shapes the Gaza ceasefire, the Iran confrontation and relations with the US and Arab states.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "PBS NewsHour (AP)",
+          "url": "https://www.pbs.org/newshour/world/israels-president-formally-gives-eisenkot-the-first-chance-to-form-the-next-government"
+        },
+        {
+          "name": "Jerusalem Post live",
+          "url": "https://www.jpost.com/israel-election-2026/2026-11-08/live-updates-914159"
+        },
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/"
+        }
+      ],
+      "terms": [
+        "Coalition government",
+        "Caretaker government"
+      ],
+      "title": "Eisenkot formally receives the mandate to form Israel's next government; he has 28 days, with a possible 14-day extension",
+      "what": "President Isaac Herzog formally handed opposition leader Gadi Eisenkot, of the Yashar party, the mandate to form a government at the President's Residence in Jerusalem on Sunday around 17:00 Israel time (16:00 Warsaw). After the 27 October election no bloc has the 61 seats needed for a majority in the 120-seat Knesset: Netanyahu's coalition won 53, Eisenkot's bloc 48 and Arab-led parties 19 (AP via PBS). Eisenkot has 28 days, extendable by 14, and is due to meet Avigdor Liberman of Yisrael Beytenu, which rules out partnering with Arab-led parties, on Monday (Jerusalem Post). Benjamin Netanyahu, who stays caretaker prime minister until a new coalition forms, has called for a 'national unity' government and claimed without offering much evidence that the vote was 'stolen'; the Central Elections Commission and Herzog say it was valid.",
+      "why": "Eisenkot needs support from at least one group that is uncomfortable with the others: Arab-led parties (Ra'am says it will back him), ultra-Orthodox parties (which want military-service exemptions) or Netanyahu's Likud. If he fails, Netanyahu could get a chance; if neither succeeds, Israel would hold another election, likely next spring (PBS)."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Blackouts and lost heating in winter push more Ukrainians to move within the country or abroad, including to Poland, and keep European gas and power markets sensitive to the war.",
+      "id": "ukraine-power-850k",
+      "importance": 4,
+      "markets": [
+        "European gas (TTF)",
+        "Ukrainian bonds"
+      ],
+      "rank": 5,
+      "rankWhy": "Russian strikes on Ukraine's energy grid before winter affect millions of civilians and Europe's security, two days before planned US–Russia–Ukraine talks.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/08/russian-strikes-on-ukraine-leave-850000-without-power-as-zelenskyy-reports-drone-attack-on"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity"
+        },
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/11/08/europe/ukraine-russia-attacks-energy-infrastructure-economy-intl"
+        },
+        {
+          "name": "Cyprus Mail (Reuters)",
+          "url": "https://cyprus-mail.com/2026/11/08/europeans-will-join-ukraine-talks-in-abu-dhabi-french-foreign-minister-says"
+        }
+      ],
+      "terms": [
+        "Energy infrastructure",
+        "Air defence interceptor"
+      ],
+      "title": "Russian strikes cut power to more than 850,000 people in Ukraine; drone hits rescue site in Komyshuvakha",
+      "what": "Russian overnight strikes left more than 850,000 people without electricity, Euronews reported: the energy company DTEK said over 600,000 residents of Dnipropetrovsk region lost power and about 250,000 customers in Kharkiv region were cut off before supply was restored there. President Volodymyr Zelensky said 140 apartment buildings in Zhytomyr region lost heating, and that in the past week Russia used 115 missiles, almost 1,900 guided aerial bombs and more than 3,000 attack drones. On Sunday a Russian drone struck Komyshuvakha, where a bombing on Monday killed at least 55 people, while rescuers were searching the rubble; Ukraine's emergency service said no one was hurt. One person was killed in a strike on Dnipro, the regional head said.",
+      "why": "Zelensky accused Moscow of escalating to weaken Kyiv's position before trilateral talks with the US in Abu Dhabi; CNN reported that Russia appears to be targeting Ukraine's economy and energy before winter, at a time when Ukraine is short of interceptor missiles. The talks are set for 10–11 November in Abu Dhabi, and French Foreign Minister Jean-Noël Barrot said on Sunday that Europeans, including France, will take part (Reuters via Cyprus Mail)."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "No danger has been reported, but the plant's status is a recurring concern for all of Europe, including Poland, because a serious accident could spread contamination across borders.",
+      "id": "znpp-power-loss",
+      "importance": 3,
+      "markets": [],
+      "rank": 6,
+      "rankWhy": "Europe's largest nuclear plant losing outside power again is a safety risk for a wide region, though radiation levels are reported normal.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Arab News (Reuters)",
+          "url": "https://www.arabnews.com/world/zaporizhzhia-nuclear-plant-relying-on-generators-again-after-losing-external-power-supply-3010499"
+        },
+        {
+          "name": "Ukrainska Pravda",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/08/8061781/"
+        },
+        {
+          "name": "The Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/11/08/zaporizhzhia-nuclear-plant-loses-external-power-supply-russian-installed-management-says-a94202"
+        }
+      ],
+      "terms": [
+        "IAEA",
+        "Diesel generator backup"
+      ],
+      "title": "Zaporizhzhia nuclear plant loses its outside power line again and runs on diesel generators",
+      "what": "The Russian-occupied Zaporizhzhia nuclear power plant in southern Ukraine lost its external electricity on Sunday and is using emergency diesel generators to keep its reactors' nuclear fuel cool, according to the International Atomic Energy Agency (IAEA, the UN nuclear watchdog) and the Russian-installed management. The IAEA said the Ferosplavna line disconnected and that the cause and location of the fault were not yet known; the management blamed 'automatic protection' and said radiation levels are normal. The IAEA says the plant has fuel to run a limited number of generators for about two weeks. Ukrainian media reported it was the 16th such blackout this year.",
+      "why": "The six-reactor plant produces no electricity now, but even shut-down reactors need constant power for cooling pumps; without cooling, fuel can overheat. Each loss of outside power increases dependence on backup generators, which is why the IAEA brokered local ceasefires earlier this autumn so lines could be repaired (Arab News/Reuters)."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Flooded tents and delayed food aid make winter far harder for families, and increase pressure on donors, including the EU, to fund shelter.",
+      "id": "gaza-floods",
+      "importance": 3,
+      "markets": [],
+      "rank": 7,
+      "rankWhy": "Hundreds of thousands of displaced people in Gaza face winter storms in tents, deepening a humanitarian emergency.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter"
+        }
+      ],
+      "terms": [
+        "Humanitarian aid",
+        "Internally displaced person"
+      ],
+      "title": "Storm floods 70,000 tents in Gaza; nearly 400,000 displaced people in high-risk areas",
+      "what": "Heavy rain and strong winds since late Friday flooded about 70,000 tents and knocked down dozens of walls, according to Gaza's Government Media Office; Gaza Civil Defence received at least 1,500 emergency calls and says more than 2,000 damaged buildings risk collapse. Civil Defence says at least 300,000 tents are needed for adequate shelter, and an Al Jazeera reporter said nearly 400,000 displaced Palestinians are in places highly vulnerable to further flooding. Jonathan Veitch, UNICEF's special representative in Palestine, said most people live in 'terrible conditions' and called for more funding.",
+      "why": "Hundreds of thousands of people displaced by the war that began in October 2023 live in tents, which give little protection from storms. A ceasefire took effect in October 2025, but Al Jazeera, citing local figures, reports more than 1,600 Palestinians killed by Israel since, and aid deliveries remain limited."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Migration is a central issue in EU politics, including Poland's, and shapes debates on the EU migration pact and border policy.",
+      "id": "canaries-el-hierro-emergency",
+      "importance": 3,
+      "markets": [],
+      "rank": 8,
+      "rankWhy": "A surge of boat arrivals on Spain's smallest Canary island strains local services and revives the EU migration debate.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Al Jazeera – El Hierro",
+          "url": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx"
+        },
+        {
+          "name": "Al Jazeera – Senegal",
+          "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal"
+        }
+      ],
+      "terms": [
+        "Irregular migration",
+        "Atlantic route"
+      ],
+      "title": "Canary island of El Hierro declares an emergency after more than 3,300 migrants arrive in a week",
+      "what": "Authorities on El Hierro, one of Spain's Canary Islands with about 11,400 residents, declared an emergency and asked Madrid for help after more than 3,300 people arrived on about 30 boats since 1 November. Rescue services pulled 3,261 people from the sea off the Canaries in the first six days of November, and regional leader Fernando Clavijo called the situation 'absolutely unsustainable' (Reuters via Al Jazeera). On Saturday a boat sank off northwestern Senegal on the same Atlantic route; Senegal's Interior Ministry said 21 bodies were recovered and one person rescued, a provisional toll.",
+      "why": "Arrivals on this route hit a record of more than 46,000 in 2024 and then fell; from January to October 2026 they were 5.5% below the year before, according to Spain's Interior Ministry. Patrols off Senegal, Mauritania and Morocco have pushed departures further south to The Gambia, Guinea-Bissau and Guinea, making crossings longer and more dangerous (Al Jazeera)."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "A clash between the White House and Congress can lead to gridlock on budgets and debt limits, which markets watch because it affects US borrowing and the dollar.",
+      "id": "us-doj-probe-democrats",
+      "importance": 3,
+      "markets": [],
+      "rank": 9,
+      "rankWhy": "Using the Justice Department against opposition lawmakers would test the independence of US institutions after Democrats won Congress.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Fox News",
+          "url": "https://www.foxnews.com/politics/trump-orders-doj-probe-democrats-over-alleged-threats-against-admin-officials"
+        },
+        {
+          "name": "Axios",
+          "url": "https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight"
+        },
+        {
+          "name": "CNN live",
+          "url": "https://www.cnn.com/2026/11/08/politics/live-news/midterm-election-trump-congress"
+        }
+      ],
+      "terms": [
+        "Impeachment",
+        "Separation of powers"
+      ],
+      "title": "Trump orders a Justice Department probe of Democrats; Attorney General Blanche does not rule out prosecutions",
+      "what": "In a Truth Social post on Saturday, President Donald Trump said he had ordered the Department of Justice to investigate Democratic lawmakers for 'threatening' to impeach Attorney General Todd Blanche and others, calling them 'extortionists' who should be imprisoned; he named only Senator Elissa Slotkin (Fox News). On Sunday, asked on CNN, Blanche did not rule out prosecuting Democrats over their oversight threats (Axios, CNN). The move follows Democratic wins in the 3 November midterms, which give them majorities in both the House and the Senate from January.",
+      "why": "Impeachment is a constitutional power of Congress, so critics argue that investigating lawmakers for threatening it targets normal political activity; Trump says the alleged conduct is criminal. Democrats have signalled investigations of the administration and some Republican donors once they control committees (Reuters via Fox News)."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "COP decisions feed into EU climate rules, which influence Polish electricity prices, coal phase-out plans and the cost of emissions permits for industry.",
+      "id": "cop31-eve",
+      "importance": 3,
+      "markets": [
+        "EU carbon allowances",
+        "Renewable energy stocks"
+      ],
+      "rank": 10,
+      "rankWhy": "Nearly 200 countries negotiate climate policy that shapes energy investment and the cost of emissions worldwide.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Türkiye Today (AFP)",
+          "url": "https://www.turkiyetoday.com/nation/what-to-watch-as-cop31-climate-talks-begin-in-antalya-3231859"
+        }
+      ],
+      "terms": [
+        "COP (Conference of the Parties)",
+        "Adaptation finance",
+        "Electrification"
+      ],
+      "title": "COP31 climate talks open in Antalya on Monday, with electrification as the centrepiece and no US negotiators",
+      "what": "The UN climate conference COP31 opens in Antalya, Türkiye, on Monday 9 November and runs to 20 November, with nearly 200 countries negotiating and more than 100,000 people expected (AFP via Türkiye Today). Türkiye holds the presidency, led by Environment Minister Murat Kurum, while Australia leads the negotiations under a deal that settled the hosting dispute. The hosts want a goal to raise electricity's share of global energy use from about 20% to 35% by 2035; African negotiators want a pledge to triple adaptation finance. The Trump administration is not taking part in the negotiations, though a US congressional delegation will attend.",
+      "why": "A UNEP report in October found that fully carrying out current national pledges would still put the world on course for about 2.6°C of warming this century, well above the Paris Agreement's 1.5°C goal. The Middle East war's energy-price shock also weighs on the talks, as countries balance energy security against cutting fossil fuels."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Executions and repression shape EU sanctions policy towards Iran and the situation of Iranian refugees and diaspora communities in Europe.",
+      "id": "iran-executions-protesters",
+      "importance": 3,
+      "markets": [],
+      "rank": 11,
+      "rankWhy": "Executions linked to January's mass protests are a major human-rights concern and affect Iran's relations with Europe.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Arab News (AFP)",
+          "url": "https://arabnews.com/middle-east/iran-executes-three-men-linked-to-anti-government-protests-3010471"
+        },
+        {
+          "name": "MTV Lebanon",
+          "url": "https://www.mtv.com.lb/en/news/1756152"
+        }
+      ],
+      "terms": [
+        "Death penalty",
+        "Human rights"
+      ],
+      "title": "Iran executes three men over January protests, accusing them of acting for Israel and the US",
+      "what": "Iran's judiciary said three men, Hassan Divband, Hamid Kazemi and Reza Zanganeh, were executed on Sunday morning after the Supreme Court upheld their death sentences (AFP via Arab News). They were convicted of 'operational activities' on behalf of Israel, the US and 'hostile groups' during anti-government protests in Karaj, west of Tehran; according to the judiciary's Mizan news agency, they used firebombs and weapons and set fire to public buildings. These accounts come from Iranian authorities and could not be independently verified.",
+      "why": "The protests began in December 2025 over the high cost of living and peaked on 8–9 January 2026; authorities reported more than 3,000 deaths and blamed foreign-organised 'terrorist acts', while foreign-based rights groups give higher figures and say security forces fired on protesters. AFP reports that executions have increased since the war with the US and Israel began in late February 2026."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "The case shows how proportional voting systems, like Poland's, often lead to coalition bargaining rather than a single-party winner.",
+      "id": "new-zealand-election",
+      "importance": 3,
+      "markets": [
+        "New Zealand dollar"
+      ],
+      "rank": 12,
+      "rankWhy": "New Zealand's government is in limbo for weeks, affecting policy on the cost of living and the budget in a small advanced economy.",
+      "region": "Asia-Pacific",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results"
+        },
+        {
+          "name": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-07/nz-election-2026-live-blog/107355448"
+        }
+      ],
+      "terms": [
+        "Proportional representation",
+        "Caretaker government"
+      ],
+      "title": "New Zealand's knife-edge election: Luxon's coalition has a one- or two-seat majority on the preliminary count, final result due 27 November",
+      "what": "In Saturday's general election, Prime Minister Christopher Luxon's National-led coalition with ACT and New Zealand First won 67 seats on the preliminary count, just above the 66 needed in a parliament projected at 131 seats (Al Jazeera; ABC Australia reported 67 of 130 — sources differ on the projected size). National and Labour, led by Chris Hipkins, each won just under 30% of the vote, and the centrist Opportunity Party is expected to enter parliament. About 700,000 'special votes' (from overseas voters and people voting outside their district) are still uncounted; they have historically favoured the left, and the official result is due on 27 November.",
+      "why": "New Zealand uses a mixed-member proportional system, so seat totals depend on each party's national vote share and can shift when special votes are counted. Cost of living and grocery prices dominated the campaign (Al Jazeera)."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Rail safety is a daily concern for millions of Egyptians who commute by train.",
+      "id": "egypt-train-crash",
+      "importance": 2,
+      "markets": [],
+      "rank": 13,
+      "rankWhy": "A deadly rail crash in a country of about 110 million people that relies heavily on trains; effects mostly local.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/08/at-least-four-dead-88-injured-as-two-trains-collide-south-of-cairo"
+        }
+      ],
+      "terms": [],
+      "title": "Train collision south of Cairo kills at least seven and injures more than 100",
+      "what": "A train heading to Fayoum hit the back of another train bound for Aswan in the al-Ayyat district of Giza province, about 52 km south of Cairo, on Sunday, and one train derailed. Egypt's Health Ministry first reported four dead and 88 injured (Euronews), then at least seven dead and more than 112 injured (Al Jazeera). President Abdel Fattah al-Sisi ordered an immediate investigation.",
+      "why": "Egypt's rail network, one of the largest in Africa, needs modernisation despite billions spent on highways and high-speed rail; al-Ayyat was also the site of the country's worst rail disaster, a 2002 train fire that killed more than 370 people (Al Jazeera)."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Large protests can push EU governments towards trade or arms measures, which matter for EU–Israel trade relations.",
+      "id": "amsterdam-red-line-protest",
+      "importance": 2,
+      "markets": [],
+      "rank": 14,
+      "rankWhy": "One of Europe's largest recent protests shows public pressure on EU governments over Israel and Gaza; direct effects are political.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam"
+        },
+        {
+          "name": "France 24 (AFP)",
+          "url": "https://www.france24.com/en/live-news/20261108-dutch-take-to-the-streets-to-support-palestinians"
+        }
+      ],
+      "terms": [
+        "Arms embargo"
+      ],
+      "title": "More than 200,000 march in Amsterdam demanding an end to arms sales to Israel, organisers say",
+      "what": "More than 200,000 people joined the fourth 'Red Line' march in Amsterdam on Sunday under the slogan 'No Money for Genocide', according to Amnesty International's Dutch branch, one of the organisers; no police estimate was reported (Al Jazeera). Marchers demanded stricter trade limits on Israel and an end to all arms sales. Prime Minister Rob Jetten, whose minority coalition took office in February and banned imports from Israeli settlements, did not attend but said his government is increasing political and diplomatic pressure on Israel.",
+      "why": "Despite the ceasefire that took effect in October 2025, Israeli strikes and killings in Gaza have continued almost daily, which keeps public anger high in several European countries (Al Jazeera)."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Insecurity in Colombia affects coffee, oil and gold regions and pushes people to migrate.",
+      "id": "colombia-drone-attack",
+      "importance": 2,
+      "markets": [],
+      "rank": 15,
+      "rankWhy": "Rising armed-group violence in Colombia threatens rural security and oil and gold areas.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16"
+        }
+      ],
+      "terms": [
+        "Armed group",
+        "ACLED"
+      ],
+      "title": "Drone attack on a Colombian army base kills three soldiers and wounds 16",
+      "what": "A drone attack hit a military base in Santa Rosa del Sur in northern Colombia, killing three soldiers and wounding at least 16, the military said; no group has claimed it. President Abelardo de la Espriella, a conservative who took office in August and cancelled peace talks with rebel groups, said those responsible 'will have nowhere to hide'. The area, rich in gold mines, is disputed by the Gulf Clan, the National Liberation Army (ELN) and groups led by former FARC members.",
+      "why": "Armed groups increasingly use cheap drones and improvised explosives; ACLED data cited by Al Jazeera show 34 bomb or explosive attacks in the four weeks to 16 October, 9% above last year's four-week average."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "The visit highlights the social cost of austerity programmes, a debate familiar in many countries.",
+      "id": "pope-leo-argentina",
+      "importance": 2,
+      "markets": [],
+      "rank": 16,
+      "rankWhy": "The first papal visit to Argentina since Francis's election puts poverty and welfare cuts in the spotlight.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "America Magazine",
+          "url": "https://www.americamagazine.org/vatican-dispatch/2026/11/08/pope-leo-xvi-argentina-pope-francis/"
+        }
+      ],
+      "terms": [
+        "Austerity"
+      ],
+      "title": "Pope Leo XIV arrives in Argentina to meet President Milei amid a dispute over disability-support cuts",
+      "what": "Pope Leo XIV was due to land in Buenos Aires from Uruguay at 16:30 local time on Sunday (20:30 Warsaw), to be greeted by President Javier Milei and then hold a private meeting with him at the Casa Rosada presidential palace (America Magazine). He stays until 11 November, with a Mass in Luján where about two million people are expected, before flying to Peru. The Catholic Church has opposed the government's proposed changes to disability support in the 2027 budget, which critics call cuts.",
+      "why": "Argentina's statistics office INDEC says 32.3% of the population was in poverty in the first half of 2026 (America Magazine). About 2 million people fell into poverty since late 2025, and the pope is expected to stress care for the poor during a visit to a centre for people with disabilities on Monday."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Berkshire is widely seen as a barometer of the US economy, because it owns railways, energy firms, insurers and retailers.",
+      "id": "berkshire-q3",
+      "importance": 2,
+      "markets": [
+        "Berkshire Hathaway"
+      ],
+      "rank": 17,
+      "rankWhy": "Results of one of the world's largest conglomerates; a signal on US insurance and the wider economy rather than a market mover.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Berkshire Hathaway release",
+          "url": "https://berkshirehathaway.com/news/nov0726.pdf"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
+        }
+      ],
+      "terms": [
+        "Operating earnings",
+        "Share buyback"
+      ],
+      "title": "Berkshire Hathaway's operating profit falls 6% in the third quarter while share buybacks jump to about $9.6 billion",
+      "what": "Berkshire Hathaway reported on Saturday operating earnings of $12.7 billion for July–September, down from $13.5 billion a year earlier; insurance underwriting profit fell to $1.35 billion from $2.37 billion (company release). Net earnings were $22.1 billion, including $9.4 billion of investment gains, which Berkshire says are usually 'meaningless' for judging quarterly performance. It bought back about $9.6 billion of its own shares in the quarter.",
+      "why": "A company buys back its own shares when it judges them cheap relative to their value or has spare cash; lower insurance profits usually reflect higher claims or weaker pricing (the release does not explain the fall in detail)."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "The debate mirrors Poland's: S&P cut Poland's outlook to negative last week over rising debt.",
+      "id": "canada-budget-deficit",
+      "importance": 2,
+      "markets": [
+        "Canadian government bonds",
+        "Canadian dollar"
+      ],
+      "rank": 18,
+      "rankWhy": "Canada's budget sets borrowing for a G7 economy; it matters mainly for Canadian bonds and the Canadian dollar.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "CP24 / CTV News",
+          "url": "https://www.cp24.com/politics/2026/11/08/deficits-are-lower-thats-a-fact-finance-minister-defends-budget/"
+        }
+      ],
+      "terms": [
+        "Budget deficit",
+        "Debt interest"
+      ],
+      "title": "Canada's finance minister defends a budget with deficits above C$50 billion a year to 2030",
+      "what": "Finance Minister François-Philippe Champagne defended the budget tabled on 5 November in a Sunday interview on CTV, arguing that borrowing for investment that grows the economy differs from day-to-day spending. The budget projects a deficit of more than C$62 billion next year, staying above C$50 billion through 2030, and debt-interest costs of C$60.2 billion next year, more than the C$57.4 billion of health transfers to provinces (CTV/CP24). Conservative leader Pierre Poilievre says debt interest is the fastest-growing item.",
+      "why": "About two-thirds of the C$146 billion in new measures targets economic growth, the government says; critics argue rising interest costs crowd out other spending, a typical trade-off when debt grows while interest rates are high."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "A sign of how investors may react when larger markets open on Monday.",
+      "id": "saudi-stocks-sunday",
+      "importance": 2,
+      "markets": [
+        "Tadawul (TASI)"
+      ],
+      "rank": 19,
+      "rankWhy": "Gulf markets were the only major ones open on Sunday, giving a first read on investor nerves.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Arab News",
+          "url": "https://www.arabnews.com/business/closing-bell-saudi-main-index-edges-lower-to-close-at-10016-3010514"
+        }
+      ],
+      "terms": [
+        "Market breadth"
+      ],
+      "title": "Saudi stocks fall 0.8% on the day of the Riyadh missile attack",
+      "what": "Saudi Arabia's main stock index, the TASI, closed Sunday down 78.50 points, or 0.78%, at 10,016.92, with turnover of 2.74 billion riyals (Arab News). Gulf markets trade on Sundays, so this was the first market session after the weekend's escalation in Hormuz and the Houthi attack on Riyadh. Arab News did not attribute the fall to a specific cause, and more shares rose (140) than fell (119), suggesting the decline was concentrated in large companies.",
+      "why": "Large companies carry most weight in a market-value-weighted index, so the index can fall even when more individual shares rise."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "",
+      "id": "pakistan-youth-loans",
+      "importance": 1,
+      "markets": [],
+      "rank": 20,
+      "rankWhy": "A national credit scheme for young entrepreneurs; effects mainly within Pakistan.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Express Tribune",
+          "url": "https://tribune.com.pk/story/2639308/pm-shehbaz-raises-youth-loan-limit-to-rs25m-under-business-agriculture-schemes"
+        }
+      ],
+      "terms": [],
+      "title": "Pakistan raises the limit on state-backed youth business loans to 25 million rupees",
+      "what": "Prime Minister Shehbaz Sharif on Sunday raised the individual limit under the Prime Minister's Youth Business and Agriculture Loan Schemes from Rs7.5 million to Rs25 million and lowered the minimum age from 21 to 18, with 30% of loans reserved for women (Express Tribune). Rs292 billion is allocated for 2026-27, for about 266,700 young people.",
+      "why": "Cheap, state-backed credit aims to support small businesses and farming jobs for a young population."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "",
+      "id": "typhoon-cempaka",
+      "importance": 1,
+      "markets": [],
+      "rank": 21,
+      "rankWhy": "A typhoon over open ocean with no forecast landfall in the Philippines.",
+      "region": "Asia-Pacific",
+      "sources": [
+        {
+          "name": "Manila Times",
+          "url": "https://www.manilatimes.net/2026/11/08/news/cempaka-intensifies-into-typhoon/2464716"
+        }
+      ],
+      "terms": [
+        "Typhoon"
+      ],
+      "title": "Cempaka strengthens into a typhoon far east of the Philippines",
+      "what": "Cempaka became a typhoon on Sunday with maximum sustained winds of 120 km/h, about 1,600 km east of northern Luzon, the Philippine weather agency PAGASA said; it will be named 'Samuel' when it enters the Philippine area of responsibility on Monday morning and is expected to leave it between Monday and Tuesday (Manila Times). No landfall in the Philippines was forecast.",
+      "why": ""
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "",
+      "id": "texas-flood-watch",
+      "importance": 1,
+      "markets": [],
+      "rank": 22,
+      "rankWhy": "A regional weather risk in South Texas; no casualties reported so far.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/US/south-texas-bracing-flash-flooding-governor-bolsters-emergency/story?id=137952523"
+        }
+      ],
+      "terms": [
+        "Flash flood"
+      ],
+      "title": "South Texas braces for flash floods as days of rain saturate the ground",
+      "what": "Corpus Christi, San Antonio, Brownsville and Kerrville were under a flood watch through Monday morning, with 2 to 4 inches (about 5–10 cm) of rain likely and more than 5 inches in places, ABC News reported on Sunday. Governor Greg Abbott had ordered additional state emergency resources on Friday. Earlier in the week, floods on the Tennessee–Georgia border forced evacuations and water rescues.",
+      "why": "Several days of rain have already saturated the soil and raised rivers, so further heavy rain runs off quickly and can cause flash floods."
+    }
+  ],
+  "watch": [
+    "Oil markets reopen after the weekend, following new tanker fires in Hormuz and Houthi missile attacks on Riyadh: the first market test of the escalation.",
+    "China: October consumer and producer price data on Monday 9 November in the early Asian session (CappNotes calendar).",
+    "COP31 UN climate conference opens in Antalya, Türkiye, on Monday 9 November and runs to 20 November (UNFCCC).",
+    "Israel: Gadi Eisenkot due to meet Avigdor Liberman for coalition talks on Monday 9 November (Jerusalem Post); new Knesset members sworn in on Tuesday evening (AP).",
+    "US–Russia–Ukraine talks in Abu Dhabi scheduled for Tuesday and Wednesday, 10–11 November (Al Jazeera).",
+    "US consumer price index for October: Tuesday 10 November, 08:30 US Eastern = 14:30 Warsaw (CappNotes).",
+    "US Senate: Mississippi mail ballots count if they arrive by 10 November; Alaska ranked-choice tabulation from 18 November if no one passes 50% (Yahoo News/AP).",
+    "Poland: national mourning after the Kraków attack ends on Monday 9 November; terrorism investigation continuing."
+  ],
+  "window": "Sun 8 Nov 10:00 → Sun 8 Nov 20:00 (Warsaw time)",
+  "id": "2026-11-08-2000",
+  "updatedAt": "2026-11-08T19:13:57.463706Z"
+}
