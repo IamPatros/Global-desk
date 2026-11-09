@@ -509,7 +509,7 @@
       "q": "Review (Lesson 10): Poland's registered unemployment is 5.8%. Why can it differ from Eurostat's survey-based rate?"
     }
   ],
-  "status": "partial",
+  "status": "complete",
   "stories": [
     {
       "category": "Economy & markets",
@@ -1379,5 +1379,5 @@
   ],
   "window": "Mon 9 Nov 10:00 → Mon 9 Nov 20:00 (Warsaw time)",
   "id": "2026-11-09-2000",
-  "updatedAt": "2026-11-09T19:16:18.856961Z"
+  "updatedAt": "2026-11-09T19:16:34.554173Z"
 }
