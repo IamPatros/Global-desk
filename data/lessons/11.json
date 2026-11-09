@@ -1,0 +1,263 @@
+{
+  "checkQuestions": [
+    {
+      "a": "In the short run both demand and supply are inelastic: consumers cannot quickly cut driving or heating and producers cannot quickly add wells. With steep curves, the price must rise a lot to reduce consumption enough to match the lost supply. Over time demand becomes more elastic (efficient cars, fuel switching) and supply responds (new drilling, rerouting, stock releases), so a smaller price increase is needed to clear the market and the price tends to fall back.",
+      "q": "Explain, using elasticities, why a disruption affecting a small share of world oil supply can cause a large jump in price within days, but why the jump tends to shrink over the following year."
+    },
+    {
+      "a": "Futures prices include a risk premium for possible future losses. Trump's statement that new strikes were 'highly unlikely' and reports of a Qatari-brokered proposal lowered the perceived probability of escalation, so traders cut the premium. Analysts also pointed to weak physical demand and a surplus, so fundamentals pushed the same way. The price reflects expectations, not only today's flows.",
+      "q": "On Monday Brent fell about 5% even though Iran's foreign minister said mediators had made no headway and ships were still being attacked. How can both be true?"
+    },
+    {
+      "a": "Cheaper oil lowers fuel and transport costs directly and, with a lag, the costs of many goods, so inflation falls. As an importer, Poland spends fewer dollars on oil, which reduces demand for dollars and tends to support the złoty; a stronger złoty further lowers import prices. Lower inflation gives the central bank room to keep rates unchanged or cut them, all else equal — though it also watches wages and fiscal policy.",
+      "q": "Trace how a sustained fall in oil prices could affect Poland's inflation, the złoty and the National Bank of Poland's interest-rate decisions."
+    },
+    {
+      "a": "High prices reward cheating, because each member earns more by producing above quota; they also encourage non-members such as US shale producers to drill more, and they reduce demand over time as consumers switch or economise. All three erode the cartel's market share and push prices back down, so its power depends on discipline and spare capacity.",
+      "q": "Why is a cartel like OPEC+ unable to keep prices high forever, even if it controls a large share of exports?"
+    },
+    {
+      "a": "For an oil producer, crude is what it sells, so lower prices cut revenue; a refiner buys crude as an input, so it loses mainly on the value of stocks bought earlier, while its margin depends on the fuel–crude price gap; Orlen, an integrated group that also produces oil, is exposed to both. For an airline or chemical maker, oil is an input cost, so a lower price raises profit margins. Whether a firm wins depends on whether oil is mainly its revenue or its cost.",
+      "q": "Orlen's share price fell while airline and chemical shares tended to benefit from cheaper oil. Explain why the same price move helps some firms and hurts others."
+    }
+  ],
+  "createdAt": "2026-11-09T19:00:00Z",
+  "date": "9 Nov 2026",
+  "editionId": "2026-11-09-2000",
+  "intro": "Oil is the one price that seems to appear in every news bulletin, from wars in the Gulf to petrol stations in Poland. In this lesson you will learn how oil is priced (benchmarks, barrels and futures), why its price swings so violently, who controls supply, and why chokepoints such as the Strait of Hormuz and political decisions such as embargoes and sanctions move it so much. You will convert a barrel price into złoty per litre, measure a risk premium falling out of the price, and trace how an oil shock reaches inflation, interest rates and exchange rates. By the end you should be able to read an oil headline and say which force is moving the price and who wins or loses.",
+  "lessonQuiz": [
+    {
+      "answer": 0,
+      "explain": "20 ÷ 80 = 25% up; 20 ÷ 100 = 20% down. Percentages are measured from different starting points.",
+      "options": [
+        "It rose 25% and then fell 20%",
+        "It rose 20% and then fell 20%",
+        "It rose 25% and then fell 25%",
+        "It rose 20% and then fell 25%"
+      ],
+      "q": "Brent rises from $80 to $100, then falls back to $80. Which statement is correct?"
+    },
+    {
+      "answer": 2,
+      "explain": "Required % price change ≈ % quantity change ÷ elasticity = 3 ÷ 0.1 = 30% (a linear approximation).",
+      "options": [
+        "About 0.3%",
+        "About 3%",
+        "About 30%",
+        "About 300%"
+      ],
+      "q": "Short-run oil demand has a (hypothetical) elasticity of −0.1. A sudden outage removes 3% of supply. Roughly what price rise is needed to restore balance, if supply cannot respond?"
+    },
+    {
+      "answer": 3,
+      "explain": "90 × 4.00 = 360 zł per barrel; 360 ÷ 159 = 2.26 zł per litre.",
+      "options": [
+        "About 0.57 zł",
+        "About 3.60 zł",
+        "About 22.5 zł",
+        "About 2.26 zł"
+      ],
+      "q": "Brent is $90 a barrel and USD/PLN is 4.00. What does one litre of crude cost in złoty (1 barrel ≈ 159 litres)?"
+    },
+    {
+      "answer": 1,
+      "explain": "Futures price expectations; a lower chance of escalation shrinks the risk premium before physical flows change.",
+      "options": [
+        "More oil immediately reaches refineries, so stocks jump and prices fall",
+        "The perceived probability of future supply losses falls, so traders cut the risk premium in futures prices",
+        "OPEC+ automatically raises quotas when talks begin",
+        "The dollar weakens, which mechanically lowers the dollar price of oil by the same percentage"
+      ],
+      "q": "Hopes of a US–Iran deal rise while tanker attacks continue. Which chain best explains a sharp fall in oil futures?"
+    },
+    {
+      "answer": 2,
+      "explain": "Cartels erode through cheating, rival supply and demand responses; the other options are false.",
+      "options": [
+        "Oil is priced in dollars",
+        "OPEC+ members are legally required to produce at capacity",
+        "High prices encourage quota-cheating, non-OPEC output such as US shale, and lower demand over time",
+        "Futures markets are closed to producers"
+      ],
+      "q": "Which fact most limits OPEC+'s ability to keep prices high for years?"
+    },
+    {
+      "answer": 0,
+      "explain": "0.90 × 1.10 = 0.99, so the złoty cost falls only about 1%: the currency move offsets the dollar fall (Lesson 5).",
+      "options": [
+        "Is roughly unchanged (falls about 1%)",
+        "Falls about 10%",
+        "Falls about 20%",
+        "Rises about 10%"
+      ],
+      "q": "Crude falls 10% in dollars on the same day the złoty weakens 10% against the dollar. Ignoring taxes and lags, the złoty cost of crude:"
+    },
+    {
+      "answer": 3,
+      "explain": "With nowhere to store oil and the contract about to expire, sellers paid buyers to take barrels.",
+      "options": [
+        "OPEC banned exports to the US",
+        "The US government fixed a negative price",
+        "A cyberattack corrupted exchange prices",
+        "Storage at Cushing was nearly full and demand had collapsed, so holders paid others to take delivery"
+      ],
+      "q": "Why did the expiring May 2020 WTI contract close at −$37.63?"
+    },
+    {
+      "answer": 1,
+      "explain": "Rates cannot pump oil; banks act mainly if the one-off jump threatens to become persistent inflation via wages and expectations.",
+      "options": [
+        "Whether oil companies' share prices rise",
+        "Whether the shock spreads to wages and inflation expectations (second-round effects)",
+        "Whether petrol stations raise prices at all",
+        "Whether OPEC+ holds a meeting"
+      ],
+      "q": "An oil-price spike lifts headline inflation while growth slows. What does Lesson 7's logic suggest a central bank will most likely watch before raising rates?"
+    },
+    {
+      "answer": 0,
+      "explain": "1.062 ÷ 1.04 − 1 = 2.1%; 1.062 ÷ 1.07 − 1 = −0.7%. The oil shock turns real wage growth negative (hypothetical inflation figures).",
+      "options": [
+        "It falls from about 2.1% to about −0.7%",
+        "It rises from about 2.1% to about 5.5%",
+        "It stays at 6.2% because nominal pay is unchanged",
+        "It falls from 2.2% to −0.8% exactly as nominal minus inflation"
+      ],
+      "q": "Lesson 10 link: Polish nominal wages grow 6.2% while a fuel shock pushes inflation from 4% to 7%. What happens to real wage growth (exact formula)?"
+    },
+    {
+      "answer": 3,
+      "explain": "For airlines fuel is a major cost; for producers and inventory-holding refiners, oil is revenue or stock whose value falls.",
+      "options": [
+        "An oil producer",
+        "A refiner holding large crude inventories bought earlier",
+        "A country's state oil exporter",
+        "An airline"
+      ],
+      "q": "Which company is most likely to see profits rise when crude prices fall, all else equal?"
+    },
+    {
+      "answer": 2,
+      "explain": "20.9 − 4.7 = 16.2 mb/d could not be rerouted by pipeline, roughly 15–16% of world demand.",
+      "options": [
+        "4.7 mb/d",
+        "20.9 mb/d",
+        "16.2 mb/d",
+        "25.6 mb/d"
+      ],
+      "q": "Using EIA data (20.9 mb/d through Hormuz, 4.7 mb/d of bypass pipelines), roughly how much oil would be stranded if the strait closed completely?"
+    },
+    {
+      "answer": 1,
+      "explain": "Lower expected inflation lowers required yields; bond prices move inversely to yields, so existing bonds gain.",
+      "options": [
+        "Their prices tend to fall as yields rise",
+        "Their prices tend to rise as yields fall",
+        "Their coupons are cut",
+        "Nothing, because bonds do not depend on inflation"
+      ],
+      "q": "Lesson 8 link: oil falls sharply and markets expect lower inflation. What usually happens to existing fixed-coupon government bonds, all else equal?"
+    }
+  ],
+  "level": "Core",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "When oil falls 5%, petrol should fall 5% too.",
+      "truth": "Crude is only part of the pump price (about 38% of Poland's Pb95 cap at Monday's prices); taxes, refining and retail costs do not fall, and stations pass changes on with a lag."
+    },
+    {
+      "myth": "OPEC sets the price of oil.",
+      "truth": "OPEC+ influences supply through quotas, but prices are set in markets by all buyers and sellers; members cheat, non-members such as the US (the largest producer) respond, and demand can collapse."
+    },
+    {
+      "myth": "If oil is still blocked, the price cannot fall.",
+      "truth": "Futures prices reflect expectations; if traders see a lower probability of future losses, the risk premium shrinks immediately, even before a single extra tanker sails."
+    },
+    {
+      "myth": "Higher oil prices always mean central banks raise interest rates.",
+      "truth": "An oil shock raises inflation but also slows growth; central banks often look through a one-off jump and act only if it spreads to wages and inflation expectations."
+    },
+    {
+      "myth": "Oil prices can never go below zero.",
+      "truth": "On 20 April 2020 the expiring May WTI futures contract closed at −$37.63, because storage was nearly full and holders paid others to take delivery."
+    }
+  ],
+  "number": 11,
+  "objectives": [
+    "Explain what Brent, WTI and Dated Brent are, why oil is quoted in US dollars per barrel, and what a futures price is.",
+    "Explain, using supply and demand, why small changes in oil supply or expected supply can cause large price moves in the short run.",
+    "Calculate percentage price changes and convert a dollar-per-barrel price into złoty per litre, and interpret the result against pump prices.",
+    "Describe how OPEC+ quotas, spare capacity and US shale output influence supply, and what a cartel can and cannot do.",
+    "Trace how a chokepoint threat (the Strait of Hormuz) creates a risk premium, and why hopes of a deal can remove it even when shipping is still disrupted.",
+    "Trace the chain from an oil-price shock to inflation, central-bank decisions and the currencies of importers and exporters, and state the limits of the 'oil is all politics' view."
+  ],
+  "recap": "Lesson 10 showed that the unemployment rate divides the unemployed by the labour force, that real wage growth is (1 + nominal) ÷ (1 + inflation) − 1, and that tight labour markets tend to push up wages and inflation — while supply shocks such as oil can raise inflation regardless of jobs. This lesson opens the 'Core' course with that supply shock. It builds on Lesson 2 (supply and demand), Lesson 5 (exchange rates, because oil is priced in dollars), Lesson 6 (inflation) and Lesson 7 (central banks).",
+  "sections": [
+    {
+      "body": "Crude oil is not one product but many grades that differ in density and sulphur content, so markets use benchmarks: reference grades whose price others are quoted against. Brent, based on North Sea crudes (since 2023 the Dated Brent basket also includes US WTI Midland crude), is the main global benchmark; WTI (West Texas Intermediate) is the US benchmark, delivered at the storage hub of Cushing, Oklahoma; and for Gulf crude sold to Asia, Dubai/Oman and Murban serve as benchmarks. Prices are quoted in US dollars per barrel, and one barrel is 42 US gallons, about 159 litres. The headline 'oil price' is usually the price of the nearest futures contract — an agreement traded on an exchange to buy or sell a set quantity at a set price on a future date — while 'Dated Brent' is the price of physical cargoes loading soon. Example from this edition: Brent futures closed at $98.32 on Friday 6 November and traded at $93.27 at 14:27 GMT on Monday (Reuters), a fall of $5.05 or 5.1%. Because futures can be traded without ever taking delivery, prices react within seconds to news about the future, not only to today's barrels. Simplification: there are dozens of other price markers (Urals, Dubai, regional products prices), and the gaps between them can matter a lot to individual refiners.",
+      "heading": "1. What 'the oil price' actually is"
+    },
+    {
+      "body": "Recall from Lesson 2 that price elasticity measures how much quantity responds to price. In the short run, demand for oil is very inelastic: people still need to drive to work and lorries must still deliver food, so a big price rise reduces consumption only a little. Supply is also inelastic in the short run: new wells take months to drill, and most producers already pump close to capacity. When both curves are steep, a small shift in either one forces a large change in price to restore balance. Hypothetical numbers: if demand elasticity is −0.1 and 2% of supply suddenly disappears, the price must rise by roughly 2% ÷ 0.1 = 20% to cut consumption by 2%, assuming supply cannot respond at all. Over months and years elasticities rise — people buy efficient cars, factories switch fuels, and new supply arrives — which is why very high prices tend to undo themselves; Reuters reported this week that some analysts already see demand falling because of high prices. Limits: the elasticity is not a fixed constant; estimates vary across studies, countries and periods, and the formula above is only a linear approximation for small changes.",
+      "heading": "2. Why oil prices swing so violently: inelastic supply and demand"
+    },
+    {
+      "body": "According to the US Energy Information Administration (EIA, July 2026), the United States was the world's largest crude producer in 2025 at a record 13.6 million barrels a day (mb/d), ahead of Russia (about 9.9 mb/d) and Saudi Arabia (9.6 mb/d). OPEC+ is a group of oil exporters led by Saudi Arabia and Russia that sets production targets (quotas) to influence prices; a group of producers coordinating output in this way is what economists call a cartel. On 1 November 2026 seven core OPEC+ members kept their December targets unchanged at about 31 mb/d combined, including 10.478 mb/d for Saudi Arabia, and kept a further 2 mb/d of cuts agreed in 2022 until year-end, The National reported; their next meeting is on 29 November. A cartel's power rests on spare capacity — oil it could pump quickly but chooses not to — because that lets it add or withhold supply. Its power is limited: members often cheat on quotas, high prices encourage rivals such as US shale producers to drill more, and The National noted that most members are currently producing below target because of the war. In other words OPEC+ can lean on the price, but it cannot set it.",
+      "heading": "3. Who controls supply: producers, OPEC+ and spare capacity"
+    },
+    {
+      "body": "A chokepoint is a narrow sea route that a large share of trade must pass through. The EIA estimates that about 20.9 mb/d of oil passed through the Strait of Hormuz in the first half of 2025 — roughly 20% of world consumption of petroleum liquids and about a quarter of seaborne oil trade — while pipelines in Saudi Arabia and the UAE can bypass the strait with only about 4.7 mb/d of capacity. Since the US–Iran war began on 28 February 2026, the strait has been effectively shut to normal traffic, The National reported, and Brent climbed to a six-month high of $117.64 on 30 October. Traders then price not only today's supply but the probability of further losses: the extra amount is the risk premium. Mechanism: if traders think there is a 50% chance of a disruption that would add $30 to the price, they bid up futures by about half of that today (hypothetical numbers). This is why the price can fall sharply on mere hopes of a deal — as on Monday, when Brent dropped about 5% after President Trump said new strikes were 'highly unlikely' — even though Iran's foreign minister said mediators had made no headway. A risk premium can vanish faster than physical supply returns, and come back just as fast.",
+      "heading": "4. Chokepoints and the risk premium"
+    },
+    {
+      "body": "Oil is 'political' because governments use it deliberately. In October 1973 Arab oil exporters declared an embargo on the United States, and over the following months the oil price rose from about $3 to about $12 a barrel — a fourfold increase — staying high after the embargo ended in March 1974 (MoneyWeek). Simplification: much of that rise came from OPEC's own increases in its official 'posted' prices, which happened alongside the embargo. Sanctions and import bans work in the opposite direction: importing countries refuse to buy from a producer. Orlen says its Polish and Lithuanian refineries have processed only non-Russian crude since April 2023, and its whole group, including the Czech refineries, since March 2025 (the last Russian contract ended in June 2025); in 2025 Saudi Arabia supplied 13.5 million tonnes, 47% of Polish refineries' crude needs, via the Northern Port in Gdańsk (BSSC). Oil infrastructure is also a military target: Ukraine strikes Russian refineries such as KINEF near St Petersburg to cut Moscow's fuel and export revenues, and this month a drone hit Iraq's Khor Mor gas field while debris from intercepted Houthi missiles damaged an Aramco office tower in Riyadh. The economic logic is the same each time: reduce an opponent's revenue or raise a rival's costs by changing who can buy or sell oil, and where.",
+      "heading": "5. Oil as a weapon, a target and a sanction"
+    },
+    {
+      "body": "To compare crude with fuel, convert units. At Monday's prices, $93.27 per barrel × 3.9188 złoty per dollar ÷ 158.987 litres per barrel ≈ 2.30 zł per litre of crude. Poland's government publishes maximum retail fuel prices; the cap for 10 November is 6.04 zł per litre of Pb95 petrol and 7.74 zł for diesel (PAP Biznes). So crude makes up only about 38% of the petrol cap; the rest is refining, transport, retail margins and taxes such as excise duty, the fuel surcharge and VAT (some of which the government has temporarily cut, one reason the cap is relatively low). Two consequences follow. First, a 5% fall in crude moves the pump price by much less than 5%, because the other components do not fall. Second, the exchange rate matters: oil is priced in dollars, so if the złoty weakens against the dollar (Lesson 5), Polish fuel gets dearer even when the dollar oil price is unchanged. There is also a lag of days to weeks, because refiners process crude bought earlier. Diesel has its own market and can be dearer than petrol when diesel supplies are tight, as the cap shows.",
+      "heading": "6. From barrel to pump: why petrol does not follow crude one-for-one"
+    },
+    {
+      "body": "An oil price rise is a supply shock (Lesson 6): it raises costs for transport, heating, plastics and fertiliser, so headline inflation rises even if demand is weak. Central banks face a dilemma (Lesson 7): raising rates fights second-round effects such as wage demands, but cannot pump more oil and may deepen a slowdown, so many look through one-off energy jumps unless they spread to wages and expectations. Oil also redistributes income between countries: importers such as Poland, India and most of Europe pay more abroad, which tends to weaken their currencies, while exporters gain. On Monday the Indian rupee firmed and shares of India's state-owned banks rallied as crude fell, the Indian Awaaz reported, and the złoty strengthened as cheaper oil eased inflation worries (PAP). Companies are hit unevenly: oil producers lose revenue when prices fall; refiners can lose on the value of crude stocks bought earlier, but their margins depend mainly on the gap between fuel and crude prices (the 'crack spread'); integrated groups such as Orlen, which also produce oil, tend to fall; airlines and chemical makers usually gain. Because oil feeds into so many prices, markets watch it as a forecast of inflation, which is why bond yields (Lesson 8) and rate expectations often move with it.",
+      "heading": "7. Oil and the whole economy: inflation, interest rates and currencies"
+    },
+    {
+      "body": "Politics explains spikes, but fundamentals usually decide where prices settle. When supply runs ahead of demand, prices fall regardless of headlines: JPMorgan estimated a global surplus of 1.4 mb/d in October 2026, and Morgan Stanley noted that Dated Brent had slipped below the nearby futures price, a sign of ample physical supply (Reuters). The most extreme example came on 20 April 2020, when the expiring May WTI contract closed at −$37.63 a barrel: Covid had crushed demand and storage at Cushing was nearly full, so holders of contracts paid others to take the oil (World Oil). Long-term, the role of oil depends on the energy transition, where forecasts differ widely between agencies and experts; COP31 in Antalya is debating faster electrification, but no global agreement to phase out fossil fuels is on the formal agenda. The balanced view: politics creates shocks and risk premiums, while supply, demand, storage and technology set the trend.",
+      "heading": "8. Limits: when oil is not about politics"
+    }
+  ],
+  "takeaways": [
+    "The 'oil price' is usually the nearest Brent futures contract in dollars per barrel (≈159 litres); WTI is the US benchmark and Dated Brent is the price of physical cargoes.",
+    "Short-run demand and supply are both inelastic, so small supply changes cause large price moves; over time elasticities rise and extreme prices tend to reverse.",
+    "OPEC+ can lean on prices through quotas and spare capacity, but cheating, US shale and demand responses limit its power; the US was the largest producer in 2025 (13.6 mb/d, EIA).",
+    "About 20% of world oil consumption passed through the Strait of Hormuz in 1H 2025 (EIA); the threat of losing it creates a risk premium that can vanish on hopes of a deal.",
+    "At Monday's prices crude is about 2.30 zł per litre, roughly 38% of Poland's Pb95 price cap; taxes, refining, margins and the USD/PLN rate explain the rest.",
+    "Oil shocks raise inflation and slow growth, shift income from importers to exporters, and move currencies, bond yields and company profits in opposite directions."
+  ],
+  "title": "Oil: the world's most political commodity",
+  "todayExample": "This edition's top story shows every idea in this lesson at once. Brent fell from $98.32 to about $93.27 (−5.1%) on Monday, a two-month low, after President Trump said new strikes on Iran were 'highly unlikely' and Israeli media reported a Qatari-carried Iranian proposal to reopen the Strait of Hormuz — terms neither government has confirmed. That is a risk premium leaving the price on expectations, while UBS and Morgan Stanley pointed to weak physical demand and plentiful prompt supply. Downstream, the złoty firmed, Indian shares rose as an oil importer gained, and Orlen fell on the Warsaw exchange.",
+  "workedExamples": [
+    {
+      "problem": "Brent futures closed at $98.32 on Friday 6 November and traded at $93.27 at 14:27 GMT on Monday 9 November (Reuters). Brent reached a six-month high of $117.64 on Friday 30 October (The National). (a) Find the dollar and percentage change on Monday. (b) Find the percentage fall from the 30 October high to Monday's price.",
+      "solution": "(a) Change = 93.27 − 98.32 = −$5.05. Percentage = −5.05 ÷ 98.32 × 100 = −5.14%, reported as about −5.1% (Reuters reported 5.2%; our calculation from the same dollar figures gives 5.14%). (b) Change = 93.27 − 117.64 = −$24.37; percentage = −24.37 ÷ 117.64 × 100 = −20.72%. Interpretation: a fall of more than 20% from a recent high is often called a 'bear market' in that asset. Note the asymmetry: to get back from $93.27 to $117.64, the price would need to rise by 24.37 ÷ 93.27 = 26.1%, because percentage changes are measured from different starting points.",
+      "title": "How big was Monday's fall — and the fall from the peak?"
+    },
+    {
+      "problem": "Use Monday's Brent price of $93.27 a barrel and the USD/PLN rate of 3.9188 at 17:00 Warsaw time (PAP). One barrel is 158.987 litres. (a) What does one litre of crude cost in złoty? (b) The maximum Pb95 petrol price for 10 November is 6.04 zł/l (PAP Biznes). What share of that is the cost of the crude? (c) If the złoty weakened to 4.10 per dollar with Brent unchanged, what would a litre of crude cost?",
+      "solution": "(a) Price per barrel in złoty = 93.27 × 3.9188 = 365.51 zł. Per litre = 365.51 ÷ 158.987 = 2.299 ≈ 2.30 zł. (b) 2.299 ÷ 6.04 × 100 = 38.1%. Roughly three-eighths of the capped petrol price is crude; the rest is refining, logistics, margins and taxes. (A litre of crude does not make exactly a litre of petrol, so this is an approximation.) (c) 93.27 × 4.10 ÷ 158.987 = 2.405 zł, i.e. 0.106 zł (about 4.6%) more per litre with no change in the dollar oil price — the currency channel from Lesson 5.",
+      "title": "From dollars per barrel to złoty per litre"
+    },
+    {
+      "problem": "EIA: about 20.9 mb/d of oil passed through the Strait of Hormuz in the first half of 2025, and bypass pipelines can carry about 4.7 mb/d. In its October 2026 report the IEA said world oil demand would fall by about 2.6 mb/d in 2026 to about 102.4 mb/d (the flow figure is from 2025 and the demand figure from 2026, so the shares are approximate). (a) What share of world demand passes through the strait? (b) If the strait were fully closed and bypass pipelines ran at capacity, how much oil could not reach the market, as a share of demand? (c) Using a hypothetical short-run demand elasticity of −0.1, what price rise would be needed to cut consumption by that share? Why is the real-world rise smaller?",
+      "solution": "(a) 20.9 ÷ 102.4 × 100 = 20.41% ≈ 20%. (b) Stranded = 20.9 − 4.7 = 16.2 mb/d; 16.2 ÷ 102.4 × 100 = 15.82%. (c) Required price rise ≈ 15.82 ÷ 0.1 = 158.2% (hypothetical, assuming supply cannot respond, and the linear formula is unreliable for such a large shock). In reality Brent's highest point in the war was about $126 on 30 April 2026 (Euronews), and it reached $117.64 again on 30 October — far less than a 150% rise above pre-war levels — because other supply responded (record US output, stock releases, cargoes rerouted to Red Sea ports such as Yanbu), demand fell, and traders expected the closure to be temporary. The example shows why even a partial threat to Hormuz moves prices so much.",
+      "title": "Why Hormuz matters: the arithmetic of a chokepoint"
+    },
+    {
+      "problem": "In 2025 Saudi Arabia supplied 13.5 million tonnes of crude, which was 47% of Polish refineries' crude needs (BSSC). (a) Estimate the refineries' total annual crude needs. (b) Using an approximate conversion of 7.33 barrels per tonne (it varies with the crude's density), convert to barrels. (c) How much would a sustained $10-per-barrel fall in oil prices save per year, in dollars?",
+      "solution": "(a) Total ≈ 13.5 ÷ 0.47 = 28.72 million tonnes. (b) 28.72 × 7.33 ≈ 210.5 million barrels. (c) 210.5 million × $10 = $2.105 billion, about $2.1 billion a year. Interpretation: for an oil importer, a lower price works like a tax cut for the whole economy — money that stays at home instead of going abroad — which tends to support the złoty and lower inflation. But the gain is split: part goes to consumers through lower pump prices, part to refiners' margins and part to the state through VAT changes, while an oil producer's revenue falls.",
+      "title": "Who wins when oil falls? An importer's bill"
+    }
+  ],
+  "updatedAt": "2026-11-09T19:16:18.845523Z"
+}

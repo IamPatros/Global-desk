@@ -1,0 +1,1383 @@
+{
+  "bigPicture": "Hopes of a US–Iran deal to reopen the Strait of Hormuz pushed oil about 5% lower to a two-month low, even though officials on both sides said no breakthrough was agreed. Cheaper oil and a rebound in chip shares lifted stock markets in Europe and the US by 1–2.5%, while Nvidia fell as its board investigates whether CEO Jensen Huang was targeted by Chinese intelligence. China extended its suspension of a 24% tariff on US goods for two more months, keeping the trade truce alive. In Poland, markets calmly absorbed S&P's negative outlook, while the Constitutional Tribunal dispute heads into a contested judges' assembly on Tuesday and prosecutors revealed more about the Kraków attacker's arsenal. France blamed Iran's Revolutionary Guards for a cyberattack that overheated fridges in about 700 supermarkets. Socially, at least 21 migrants died off Crete, floods swept away tens of thousands of tents in Gaza, migrant arrivals surged in Spain's Canary Islands, and COP31 opened in Antalya with finance and fossil fuels as the main fights.",
+  "createdAt": "2026-11-09T19:00:00Z",
+  "glossary": [
+    {
+      "def": "The main global oil price benchmark, based on North Sea crude grades and quoted in dollars per barrel.",
+      "example": "Brent fell to about $93 on Monday, its lowest since early September.",
+      "term": "Brent crude"
+    },
+    {
+      "def": "An exchange-traded agreement to buy or sell a set amount of something at a fixed price on a future date.",
+      "example": "The headline oil price is usually the nearest Brent futures contract.",
+      "term": "Futures contract"
+    },
+    {
+      "def": "A group of oil exporters led by Saudi Arabia and Russia that sets production targets to influence prices.",
+      "example": "OPEC+ kept December targets unchanged at about 31 mb/d for seven core members.",
+      "term": "OPEC+"
+    },
+    {
+      "def": "Oil output a producer could start quickly but chooses not to; it gives cartels power to add or withhold supply.",
+      "example": "Saudi Arabia's spare capacity lets it calm markets in a crisis.",
+      "term": "Spare capacity"
+    },
+    {
+      "def": "An agency's opinion of how likely a borrower is to repay its debt; lower ratings usually mean higher borrowing costs.",
+      "example": "S&P rates Poland's foreign-currency debt A-.",
+      "term": "Credit rating"
+    },
+    {
+      "def": "An agency's signal of the likely direction of a rating over the next one to two years (positive, stable or negative).",
+      "example": "S&P moved Poland's outlook to negative.",
+      "term": "Rating outlook"
+    },
+    {
+      "def": "Cost savings or extra revenue expected when two companies combine, for example from shared IT or fewer overlapping branches.",
+      "example": "Crédit Agricole expects €800 million a year of pre-tax synergies.",
+      "term": "Synergies"
+    },
+    {
+      "def": "Italy's legal powers allowing the government to screen or block deals in strategic sectors such as banking and energy.",
+      "example": "The Banco BPM merger would need golden-power clearance.",
+      "term": "Golden power"
+    },
+    {
+      "def": "Malicious software that encrypts a victim's files and demands payment for the key.",
+      "example": "A ransomware attack disrupted the Russian cloud host ESTT.",
+      "term": "Ransomware"
+    },
+    {
+      "def": "Access to a medicine or vaccine outside normal approval or trial rules, for people at serious risk when no alternative exists.",
+      "example": "Ebola frontline workers can get ERVEBO through compassionate-use programmes.",
+      "term": "Compassionate use"
+    },
+    {
+      "def": "The legal principle that a suspect is treated as innocent until proven guilty in court.",
+      "example": "Áron Orbán's detention is not a conviction.",
+      "term": "Presumption of innocence"
+    },
+    {
+      "def": "Money that helps countries cope with climate impacts, such as flood defences or drought-resistant crops.",
+      "example": "COP30 agreed to push for tripling adaptation finance by 2035.",
+      "term": "Adaptation finance"
+    },
+    {
+      "def": "The first sale of a company's shares to the public, after which they trade on a stock exchange.",
+      "example": "Alibaba's chip unit T-Head plans a Hong Kong IPO.",
+      "term": "Initial public offering (IPO)"
+    },
+    {
+      "def": "Magnitude measures the energy an earthquake releases; intensity measures how strongly it shakes a particular place.",
+      "example": "The Shizuoka quake was magnitude 5.7 but reached 'upper 5' intensity in Chita.",
+      "term": "Magnitude vs intensity"
+    }
+  ],
+  "label": "Mon 9 Nov · evening",
+  "lessonNumber": 11,
+  "markets": [
+    {
+      "change": 2.34,
+      "changeText": "+2.3%",
+      "group": "Stocks · Americas",
+      "key": true,
+      "name": "S&P 500",
+      "note": "Afternoon New York trading (~19:30 Warsaw), Reuters data: AI and chip shares rebounded after last week's rout and falling oil eased inflation worries.",
+      "region": "US",
+      "value": "7,549.79",
+      "what": "An index of 500 large US companies; the main gauge of the US stock market."
+    },
+    {
+      "change": 2.65,
+      "changeText": "+2.7%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Nasdaq Composite",
+      "note": "Afternoon New York trading: tech led the rebound (AMD about +13%), although Nvidia fell about 5%.",
+      "region": "US",
+      "value": "25,230.65",
+      "what": "An index of all shares on the Nasdaq exchange, heavy in technology companies."
+    },
+    {
+      "change": 2.13,
+      "changeText": "+2.1%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Dow Jones Industrial Average",
+      "note": "Afternoon New York trading, Reuters data.",
+      "region": "US",
+      "value": "52,378.20",
+      "what": "An older index of 30 big US companies, weighted by share price."
+    },
+    {
+      "change": 1.73,
+      "changeText": "+1.7%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "DAX",
+      "note": "Close: chipmakers recovered and oil fell; German exports also beat forecasts (Anadolu, FXMAG).",
+      "region": "Germany",
+      "value": "26,267.19",
+      "what": "Index of the 40 biggest companies on the Frankfurt exchange."
+    },
+    {
+      "change": 1.26,
+      "changeText": "+1.3%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "Stoxx Europe 600",
+      "note": "Close: tech rebound led by ASML (+4.7%); banks rose on deal news (Anadolu, Reuters).",
+      "region": "Europe",
+      "value": "656.52",
+      "what": "Index of 600 large and mid-sized companies from 17 European countries."
+    },
+    {
+      "change": 1.02,
+      "changeText": "+1.0%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "FTSE 100",
+      "note": "Close (Anadolu Agency).",
+      "region": "UK",
+      "value": "10,782.87",
+      "what": "Index of the 100 biggest companies on the London Stock Exchange."
+    },
+    {
+      "change": 0.82,
+      "changeText": "+0.8%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "WIG20",
+      "note": "Close (PAP Biznes): rebound after Friday's 1.85% fall; KGHM and banks rose, while Orlen fell again on cheaper oil (FXMAG).",
+      "region": "Poland",
+      "value": "4,165.30",
+      "what": "Index of the 20 biggest companies on the Warsaw Stock Exchange."
+    },
+    {
+      "change": 2.3,
+      "changeText": "+2.3%",
+      "group": "Stocks · Asia-Pacific",
+      "key": true,
+      "name": "Nikkei 225",
+      "note": "Monday close (AP): AI-linked shares recovered after last week's sell-off; SoftBank fell 4.2%.",
+      "region": "Japan",
+      "value": "58,775.50",
+      "what": "Index of 225 major companies on the Tokyo exchange."
+    },
+    {
+      "change": -0.8,
+      "changeText": "−0.8%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Kospi",
+      "note": "Monday close (AP): early gains faded.",
+      "region": "South Korea",
+      "value": "5,018.85",
+      "what": "Main index of the Korea Exchange, dominated by Samsung and SK Hynix."
+    },
+    {
+      "change": -0.13,
+      "changeText": "−0.1%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Hang Seng",
+      "note": "Monday close: early gains faded.",
+      "region": "Hong Kong",
+      "value": "24,448.95",
+      "what": "Main index of the Hong Kong stock exchange, heavy in Chinese firms."
+    },
+    {
+      "change": 0.3,
+      "changeText": "+0.3%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Shanghai Composite",
+      "note": "Monday (AP).",
+      "region": "China",
+      "value": "3,660.79",
+      "what": "Index of all shares listed in Shanghai."
+    },
+    {
+      "change": 0.1,
+      "changeText": "+0.1%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "S&P/ASX 200",
+      "note": "Monday (AP).",
+      "region": "Australia",
+      "value": "9,029.70",
+      "what": "Index of the 200 biggest Australian companies."
+    },
+    {
+      "change": 0.23,
+      "changeText": "+0.2%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Nifty 50",
+      "note": "Monday close: state-owned banks rallied and cheaper crude helped India, a big oil importer (Indian Awaaz).",
+      "region": "India",
+      "value": "25,044.65",
+      "what": "Index of 50 large companies on India's National Stock Exchange."
+    },
+    {
+      "change": -0.13,
+      "changeText": "−0.1%",
+      "group": "Currencies",
+      "key": true,
+      "name": "EUR/PLN",
+      "note": "17:00 Warsaw vs Friday 17:05 (PAP via Forsal): the złoty firmed; XTB analysts said investors took S&P's negative outlook calmly.",
+      "region": "Poland",
+      "value": "4.3870",
+      "what": "How many złoty one euro costs; lower means a stronger złoty."
+    },
+    {
+      "change": -0.53,
+      "changeText": "−0.5%",
+      "group": "Currencies",
+      "key": true,
+      "name": "USD/PLN",
+      "note": "17:00 Warsaw vs Friday (PAP via Forsal): the dollar weakened as Asian shares recovered and cheaper oil eased Fed-hike worries.",
+      "region": "Poland",
+      "value": "3.9188",
+      "what": "How many złoty one US dollar costs."
+    },
+    {
+      "change": 0.53,
+      "changeText": "+0.5%",
+      "group": "Currencies",
+      "key": false,
+      "name": "EUR/USD",
+      "note": "Afternoon (Reuters data): the dollar eased.",
+      "region": "Global",
+      "value": "1.1203",
+      "what": "How many dollars one euro buys; the world's most traded currency pair."
+    },
+    {
+      "change": -0.27,
+      "changeText": "−0.3%",
+      "group": "Currencies",
+      "key": false,
+      "name": "USD/JPY",
+      "note": "Afternoon (Reuters data).",
+      "region": "Japan",
+      "value": "158.03",
+      "what": "How many yen one dollar buys."
+    },
+    {
+      "change": -4.9,
+      "changeText": "−4.9%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Brent crude oil",
+      "note": "Afternoon: two-month low on hopes of a US–Iran deal and weak physical demand (Reuters).",
+      "region": "Global",
+      "value": "$93.50",
+      "what": "The global benchmark price for a barrel (159 litres) of crude oil."
+    },
+    {
+      "change": -3.63,
+      "changeText": "−3.6%",
+      "group": "Commodities",
+      "key": false,
+      "name": "WTI crude oil",
+      "note": "Afternoon (Reuters data).",
+      "region": "US",
+      "value": "$87.53",
+      "what": "The US benchmark price for crude oil."
+    },
+    {
+      "change": null,
+      "changeText": "higher",
+      "group": "Commodities",
+      "key": true,
+      "name": "Gold",
+      "note": "Rebounded as a softer dollar erased Friday's post-jobs-report fall (USAGOLD).",
+      "region": "Global",
+      "value": "≈$4,118",
+      "what": "Price of one troy ounce (31.1 g); seen as a safe haven in crises."
+    },
+    {
+      "change": null,
+      "changeText": "+0.02 pt",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 10-year Treasury yield",
+      "note": "Afternoon: little changed; traders price about an 80% chance of a Fed rate rise in December (Reuters data).",
+      "region": "US",
+      "value": "4.876%",
+      "what": "The interest rate the US government pays to borrow for 10 years; a benchmark for mortgages worldwide."
+    }
+  ],
+  "marketsAsOf": "Mon 9 Nov ~19:30 Warsaw: US figures are afternoon New York trading; European, Polish and Asian figures are Monday closes; currencies and commodities are afternoon levels.",
+  "quiz": [
+    {
+      "answer": 0,
+      "explain": "The story attributes the fall to de-escalation hopes (a shrinking risk premium) plus weak physical demand; neither government confirmed the reported terms.",
+      "options": [
+        "Trump said new strikes were 'highly unlikely' and reports of a Qatari-carried proposal lowered the perceived risk of further supply losses",
+        "Iran fully reopened the Strait of Hormuz",
+        "OPEC+ announced a large output increase",
+        "US crude inventories jumped by a record amount"
+      ],
+      "q": "Why did Brent fall about 5% on Monday even though no US–Iran deal was confirmed?"
+    },
+    {
+      "answer": 3,
+      "explain": "Israeli media, citing unnamed diplomats, reported Hormuz reopening in return for lifting the blockade and releasing $8 billion frozen in Qatar.",
+      "options": [
+        "Recognition of Iranian control over Hormuz and transit fees",
+        "A full lifting of all sanctions and $80 billion in aid",
+        "Withdrawal from the Gulf and a nuclear deal",
+        "Lifting its naval blockade and releasing $8 billion of Iranian funds frozen in Qatar"
+      ],
+      "q": "According to the reports, what would the US give in the unconfirmed Qatari-carried proposal?"
+    },
+    {
+      "answer": 1,
+      "explain": "Physical cargoes trading below futures signals ample near-term supply, supporting the fall in prices.",
+      "options": [
+        "Physical oil was scarce",
+        "Prompt physical supply was plentiful",
+        "OPEC+ had cut output",
+        "The dollar had collapsed"
+      ],
+      "q": "What did Morgan Stanley's note that Dated Brent fell below the nearby futures price suggest?"
+    },
+    {
+      "answer": 0,
+      "explain": "The rally reflected an AI rebound and cheaper oil; Nvidia lagged because of the investigation into Jensen Huang.",
+      "options": [
+        "Other chip and tech shares rebounded from an overdone sell-off, but Nvidia faced a board probe into whether its CEO was targeted by Chinese intelligence",
+        "Investors sold all chip stocks because of US–China tariffs",
+        "Nvidia reported a loss",
+        "The Fed cut interest rates"
+      ],
+      "q": "Wall Street rose more than 2% while Nvidia fell about 5%. Which explanation fits the story?"
+    },
+    {
+      "answer": 3,
+      "explain": "The story notes traders price about an 80% chance of a hike; a hot CPI reading could reverse gains because higher rates weigh on valuations.",
+      "options": [
+        "Higher rates always raise oil prices",
+        "The Fed can directly ban share buybacks",
+        "Rate rises cancel company earnings",
+        "Higher rates raise borrowing costs and make bonds more attractive, which tends to weigh on share valuations"
+      ],
+      "q": "Why is the possibility of a December Fed rate rise a risk for the stock rebound?"
+    },
+    {
+      "answer": 2,
+      "explain": "The Customs Tariff Commission extended the suspension for two months from 10 November, keeping the 10% levy.",
+      "options": [
+        "A new 24% tariff on all US goods",
+        "It removed all tariffs on US goods permanently",
+        "It will keep suspending its extra 24% tariff on US goods for two months, while a 10% additional tariff stays",
+        "It raised tariffs to 34%"
+      ],
+      "q": "What did China announce on Monday about tariffs?"
+    },
+    {
+      "answer": 1,
+      "explain": "The story describes an affirmed A- foreign-currency rating, a negative outlook and a local-currency cut to A-.",
+      "options": [
+        "It cut the foreign-currency rating to BBB+",
+        "It kept the foreign-currency rating at A-, cut the outlook to negative and lowered the local-currency rating from A to A-",
+        "It raised the outlook to positive",
+        "It withdrew Poland's rating"
+      ],
+      "q": "What exactly did S&P change for Poland on Friday?"
+    },
+    {
+      "answer": 3,
+      "explain": "EUR/PLN eased to 4.3870 and the WIG20 closed at 4,165.30 (+0.82%); analysts said investors took the decision calmly.",
+      "options": [
+        "The złoty collapsed and the WIG20 fell 5%",
+        "Trading was suspended",
+        "Bond yields doubled",
+        "The złoty firmed slightly and the WIG20 rose 0.82%"
+      ],
+      "q": "How did Polish markets react on Monday to S&P's decision?"
+    },
+    {
+      "answer": 0,
+      "explain": "The story links the TK conflict to the rule of law and to S&P's assessment of Poland.",
+      "options": [
+        "Control of the court affects which laws stand, and S&P cited such institutional conflict among reasons for its negative outlook",
+        "It decides fuel prices",
+        "It sets the NBP interest rate",
+        "It controls the Independence March route"
+      ],
+      "q": "Why does the Constitutional Tribunal dispute matter beyond law courts?"
+    },
+    {
+      "answer": 1,
+      "explain": "The Central Cybercrime Bureau detained six people aged 15–36 for spreading false posts.",
+      "options": [
+        "For selling weapons to the attacker",
+        "For spreading false information about the attack online",
+        "For organising a counter-demonstration",
+        "For hacking police systems"
+      ],
+      "q": "Why did CBZC detain six people after the Kraków attack?"
+    },
+    {
+      "answer": 2,
+      "explain": "It called the situation an immediate humanitarian emergency; Israel said 8,200 trucks and 91,000 tents had entered.",
+      "options": [
+        "Hamas alone caused the floods",
+        "The ceasefire has ended",
+        "Israel's winter measures were insufficient and it should facilitate supplies, while Hamas must honour the ceasefire",
+        "No aid trucks have entered Gaza"
+      ],
+      "q": "What does the Board of Peace's Gaza statement say?"
+    },
+    {
+      "answer": 2,
+      "explain": "The vaccine targets another strain; animal and immune data and field observations suggest cross-protection, which is why it is mostly used in studies.",
+      "options": [
+        "ERVEBO is unlicensed",
+        "ERVEBO has never been used in Africa",
+        "ERVEBO was designed for a different Ebola virus, though data suggest it may also recognise Bundibugyo",
+        "ERVEBO only works in adults over 60"
+      ],
+      "q": "MSF wants wider use of ERVEBO in DR Congo. What is the key scientific caveat?"
+    },
+    {
+      "answer": 3,
+      "explain": "3,261 people were rescued in six days, yet the 10-month total was about 61% below 2024; calm seas were cited as a cause.",
+      "options": [
+        "Arrivals in 2026 are far above 2024 levels",
+        "Spain closed the route",
+        "No deaths have been reported",
+        "Arrivals surged in early November, but over the first 10 months they were nearly 61% lower than in 2024"
+      ],
+      "q": "Which statement about Canary Islands migration matches the story?"
+    },
+    {
+      "answer": 0,
+      "explain": "The story notes Polish exports to Germany reached €7.61 billion, up 3.5% on the month.",
+      "options": [
+        "Germany is Poland's biggest export market, so stronger German demand helps Polish suppliers; Polish exports to Germany rose 3.5% in September",
+        "Germany sets Polish tariffs",
+        "Germany pays Polish wages",
+        "It lowers Polish taxes"
+      ],
+      "q": "Why does the German export rebound matter for Poland?"
+    },
+    {
+      "answer": 1,
+      "explain": "The markets note says cheaper crude helped India, a big oil importer; the Nifty closed 0.23% higher.",
+      "options": [
+        "The Kospi rose 9%",
+        "India's Nifty 50 rose as state banks rallied and cheaper crude helped",
+        "Gold collapsed",
+        "The US 10-year yield doubled"
+      ],
+      "q": "Which market move on Monday fits an oil importer benefiting from cheaper crude?"
+    },
+    {
+      "answer": 0,
+      "explain": "Expected higher policy rates push market yields up; the 10-year yield was about 4.88% and little changed.",
+      "options": [
+        "They tend to rise",
+        "They tend to fall to zero",
+        "They are fixed by law",
+        "They become negative"
+      ],
+      "q": "Review (Lesson 8): if markets expect the Fed to raise rates, what tends to happen to the yields on newly issued Treasury bonds?"
+    },
+    {
+      "answer": 2,
+      "explain": "A lower USD/PLN means a stronger złoty; it cuts the złoty cost of dollar-priced goods.",
+      "options": [
+        "One dollar costs more złoty",
+        "The euro fell to zero",
+        "One dollar costs fewer złoty, so dollar-priced imports such as oil get slightly cheaper in złoty",
+        "Nothing changes for importers"
+      ],
+      "q": "Review (Lesson 5): the złoty strengthened against the dollar on Monday. What does a fall in USD/PLN from 3.9396 to 3.9188 mean?"
+    },
+    {
+      "answer": 3,
+      "explain": "The two measures use different sources and definitions, as Lesson 10 explained.",
+      "options": [
+        "Eurostat counts only men",
+        "Registered rates include retirees",
+        "They are always identical",
+        "Registered rates count only people signed up at labour offices, while surveys use ILO definitions of seeking and available for work"
+      ],
+      "q": "Review (Lesson 10): Poland's registered unemployment is 5.8%. Why can it differ from Eurostat's survey-based rate?"
+    }
+  ],
+  "status": "partial",
+  "stories": [
+    {
+      "category": "Economy & markets",
+      "everyday": "Cheaper crude usually reaches petrol stations with a lag of a few weeks, so Polish drivers may see some relief if the fall lasts; it also eases pressure on inflation, which matters for interest rates on loans. The flip side: Orlen, Poland's biggest fuel company, fell on the Warsaw exchange as its products lose value.",
+      "id": "oil-iran-deal-hopes",
+      "importance": 5,
+      "markets": [
+        "Brent crude",
+        "WTI crude",
+        "Orlen",
+        "airlines",
+        "energy stocks"
+      ],
+      "rank": 1,
+      "rankWhy": "Oil is priced into transport, heating, plastics and food everywhere, so a near-5% one-day fall in the global benchmark touches inflation, central-bank decisions and household budgets in almost every country.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Reuters via GV Wire",
+          "url": "https://gvwire.com/2026/11/09/oil-slides-as-trump-signals-restraint-on-iran-despite-fresh-shipping-attacks/"
+        },
+        {
+          "name": "AOL / PA Media",
+          "url": "https://www.aol.co.uk/articles/oil-prices-fall-two-month-162757000.html"
+        },
+        {
+          "name": "Oilprice.com",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Sinks-to-94-as-Irans-8-Billion-Hormuz-Deal-Heads-to-Trump.html"
+        },
+        {
+          "name": "Israel Hayom",
+          "url": "https://www.israelhayom.com/2026/11/09/8-billion-lifeline-iranian-deal-set-to-land-on-trumps-desk/"
+        },
+        {
+          "name": "Middle East Eye",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-no-progress-us-negotiations-midterm-results"
+        }
+      ],
+      "terms": [
+        "Risk premium",
+        "Brent crude",
+        "Blockade",
+        "Physical vs futures market"
+      ],
+      "title": "Oil slides about 5% to a two-month low on hopes of a US–Iran deal to reopen the Strait of Hormuz",
+      "what": "Brent crude, the global benchmark, fell $5.05 (5.2%) to $93.27 a barrel by 14:27 GMT on Monday and touched $93.21, its lowest level since early September, Reuters reported; US crude (WTI) lost 4.5% to $86.71. Brent closed at $98.32 on Friday after a 16% weekly drop, the steepest since the start of the Covid-19 pandemic, and had peaked above $115 in late October. Over the weekend President Trump said new US strikes on Iran were 'highly unlikely' if talks advance, and Iran's foreign minister Abbas Araghchi said Iran's offer to reopen the Strait of Hormuz within two days still stands if the war ends on all fronts. Israeli media, citing two unnamed diplomatic sources, reported an Iranian interim proposal carried by Qatar — reopening Hormuz in return for lifting the US naval blockade and releasing $8 billion of Iranian funds frozen in Qatar — and Trump was due to host Qatar's prime minister; neither government has confirmed those terms. Secretary of State Marco Rubio said the sides were not on the verge of a breakthrough, and Araghchi himself said on Sunday that mediators had made no headway since the US midterm election results, Middle East Eye reported.",
+      "why": "Traders had added a 'risk premium' (an extra price for the danger of lost supply) while the war threatened Gulf exports; any sign of de-escalation shrinks it. Saxo Bank's Ole Hansen said the fall reflects hopes of a peace deal rather than concrete progress, while UBS's Giovanni Staunovo pointed to a weak physical market as Middle East flows stay elevated. Morgan Stanley noted that Dated Brent, the price of physical cargoes, has slipped below the nearby futures price — a sign of plentiful prompt supply — and JPMorgan last week estimated an oversupply of 1.4 million barrels a day in October."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Most Poles hold shares indirectly through PPK and IKE retirement accounts or investment funds, whose values move with these indices. Big daily swings in both directions are a sign of a nervous market, not of a new trend.",
+      "id": "global-stocks-rebound",
+      "importance": 4,
+      "markets": [
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones",
+        "Stoxx 600",
+        "DAX",
+        "AMD",
+        "ASML",
+        "Applied Materials"
+      ],
+      "rank": 2,
+      "rankWhy": "Gains of 1–2.5% across the US and European benchmarks reverse part of last week's AI-led sell-off and move the value of pension funds and savings worldwide.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "MarketScreener (Reuters data)",
+          "url": "https://www.marketscreener.com/news/stocks-rally-even-as-nvidia-falls-oil-drops-ce785fd3de8ff421"
+        },
+        {
+          "name": "Reuters via Honolulu Star-Advertiser",
+          "url": "https://www.staradvertiser.com/2026/11/09/breaking-news/wall-street-rallies-after-last-weeks-ai-rout-nvidia-falls/"
+        },
+        {
+          "name": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/europe/european-stocks-close-higher-as-tech-rebounds-oil-prices-slide/4117891"
+        }
+      ],
+      "terms": [
+        "Stock index",
+        "Rate-hike expectations",
+        "Market rebound"
+      ],
+      "title": "Global stocks rebound strongly: Wall Street up more than 2%, Europe's Stoxx 600 up 1.3% as oil falls and chip shares recover",
+      "what": "In afternoon New York trading the S&P 500 was up about 2.3% at 7,549.79, the Nasdaq Composite up 2.65% at 25,230.65 and the Dow up 2.1% at 52,378.20, according to Reuters figures quoted by MarketScreener. In Europe the Stoxx 600 closed 1.26% higher at 656.52, Germany's DAX rose 1.73% to 26,267.19 and Italy's FTSE MIB 2.69%, Anadolu Agency reported, led by chipmakers such as ASML (+4.7%). AMD jumped about 13% and Applied Materials about 12%, while Nvidia fell about 5% (see separate story). Traders priced roughly an 80% chance that the US Federal Reserve raises its rate by a quarter point in December, ahead of Tuesday's consumer-price data.",
+      "why": "Last week's sell-off was driven by worries that, after Democrats won control of Congress in the midterm elections, heavy AI data-centre spending could face tighter regulation; Morgan Stanley and UBS called that rout overdone, Reuters reported. Falling oil also lowers expected inflation, which helps company profits and bond-sensitive shares. Because a Fed rate rise is still widely expected, the rebound could reverse if Tuesday's inflation figure surprises on the high side."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Nvidia is one of the biggest holdings in global index funds, so its moves affect many savers' funds. The case also shows how US–China tech rivalry reaches into boardrooms.",
+      "id": "nvidia-ceo-probe-shares",
+      "importance": 4,
+      "markets": [
+        "Nvidia",
+        "Philadelphia Semiconductor Index",
+        "Nasdaq"
+      ],
+      "rank": 3,
+      "rankWhy": "Nvidia, a roughly $4.5 trillion company whose chips power most AI systems, lost about 5% while the rest of the chip sector rallied, as a probe into its CEO raises governance and national-security questions.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang"
+        },
+        {
+          "name": "Reuters via Honolulu Star-Advertiser",
+          "url": "https://www.staradvertiser.com/2026/11/09/breaking-news/wall-street-rallies-after-last-weeks-ai-rout-nvidia-falls/"
+        },
+        {
+          "name": "10 Things Global News",
+          "url": "https://www.10things.news/p/10-things-global-news-9th-november"
+        }
+      ],
+      "terms": [
+        "Key-person risk",
+        "Corporate governance",
+        "Independent directors"
+      ],
+      "title": "Nvidia shares fall about 5% on Wall Street as its board investigates whether CEO Jensen Huang was targeted by Chinese intelligence",
+      "what": "Nvidia stock fell about 5–6% on Monday in New York even as other chipmakers rallied, Reuters reported. On Sunday the board said independent directors will investigate reports that chief executive Jensen Huang was the target of a foreign intelligence effort, adding it has 'no reason to believe' national security or Nvidia secrets were compromised; Huang said in a letter to employees that he supports the review. The New York Times reported in October on Huang's relationship with Alice Huang (no relation), a former executive at Singapore-based Megaspeed, a cloud company that describes itself as an Nvidia partner; US authorities reportedly concluded she was a Chinese intelligence asset, which China's foreign ministry called groundless. Huang owns about 3.6% of the company, LSEG data show.",
+      "why": "A company whose value depends heavily on one founder carries 'key-person risk': investors sell when his future becomes uncertain. Equiti Group analyst Nadia El Bilassy told Reuters the news was 'the cherry on top' for investors already trimming AI holdings. Analyst Michael Monaghan told Al Jazeera that Huang's removal looks highly improbable on current information."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Calmer US–China trade means fewer price shocks for electronics and components that pass through Europe's supply chains, including factories in Poland that are part of German and Asian production networks.",
+      "id": "china-tariff-suspension-extended",
+      "importance": 4,
+      "markets": [
+        "US soybean and farm exporters",
+        "Chinese and US industrial stocks",
+        "yuan"
+      ],
+      "rank": 4,
+      "rankWhy": "The US–China trade relationship is the world's largest bilateral trade link; extending the truce avoids an immediate jump in tariffs on hundreds of billions of dollars of goods and supports global supply chains.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Xinhua",
+          "url": "https://english.news.cn/20261109/4c85025bfdf944c5aab884cc444abb7c/c.html"
+        },
+        {
+          "name": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-11-09/China-extends-suspension-of-additional-24-tariff-on-US-goods-1RVryl8Dm9i/p.html"
+        },
+        {
+          "name": "UNN",
+          "url": "https://unn.ua/en/news/china-extends-pause-on-us-tariffs-ahead-of-expected-trump-xi-meeting"
+        },
+        {
+          "name": "AP via Yahoo News",
+          "url": "https://www.yahoo.com/news/articles/trump-thinks-meet-xi-putin-004942420.html"
+        }
+      ],
+      "terms": [
+        "Tariff",
+        "Trade truce",
+        "Section 301"
+      ],
+      "title": "China extends its suspension of an extra 24% tariff on US goods by two months, keeping a 10% levy",
+      "what": "China's State Council Customs Tariff Commission announced on Monday that it will keep suspending its additional 24% tariff on imports from the United States for two more months, while the 10% additional tariff stays in force, Xinhua reported. The change takes effect at 13:01 Beijing time on 10 November (06:01 Warsaw time). The commission said the step implements the consensus reached when the two countries' leaders met in Washington. It also noted that the US has said it plans to replace tariffs imposed under the International Emergency Economic Powers Act (IEEPA), which were ruled invalid, with tariffs under Section 301 of US trade law, and said Beijing will adjust its countermeasures depending on what Washington does.",
+      "why": "A tariff is a tax on imports, paid at the border by the importing firm and usually passed partly to buyers; suspending it keeps US farm and industrial exports to China cheaper. A short, two-month extension keeps pressure on both sides: Beijing signals goodwill but keeps its leverage until it sees how the US rebuilds its own tariffs. It comes ahead of the APEC summit in Shenzhen on 18–19 November, where President Trump said on Sunday he expects to meet Xi Jinping and possibly also Vladimir Putin, AP reported."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "If borrowing costs for the state rise, more of the budget goes on interest instead of schools, hospitals or defence — and market rates that banks use for some loans can also drift up. So far, the złoty and share prices barely reacted.",
+      "id": "poland-sp-outlook-markets",
+      "importance": 3,
+      "markets": [
+        "Polish government bonds",
+        "złoty",
+        "WIG20",
+        "Polish banks"
+      ],
+      "rank": 5,
+      "rankWhy": "A credit-rating warning can raise the interest Poland pays on its debt of hundreds of billions of złoty, but Monday's calm market reaction suggests limited immediate spill-over.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Bloomberg via Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/poland-domanski-blames-presidential-vetoes-133820474.html"
+        },
+        {
+          "name": "Forsal (PAP) – currencies",
+          "url": "https://forsal.pl/finanse/waluty/artykuly/11342731,ile-kosztuja-euro-dolar-i-frank-kursy-walut-9112026.html"
+        },
+        {
+          "name": "Forsal – GPW report",
+          "url": "https://forsal.pl/gospodarka/aktualnosci/artykuly/11342414,obnizony-raiting-polski-gielda-podsumowanie.html"
+        },
+        {
+          "name": "PAP Biznes – WIG20 close",
+          "url": "https://biznes.pap.pl/wiadomosci/rynki/wig20-index-closed-416530-points-082"
+        },
+        {
+          "name": "FXMAG",
+          "url": "https://www.fxmag.com/forex/sp-agency-hits-polands-rating-what-happens-next-with-the-euro-eurpln-and-the-zloty-ing-forecast"
+        }
+      ],
+      "terms": [
+        "Credit rating",
+        "Rating outlook",
+        "Budget deficit"
+      ],
+      "title": "Markets shrug off S&P's warning on Poland: the złoty firms and the WIG20 rebounds after the agency cut its outlook to negative",
+      "what": "Late on Friday 6 November, S&P Global Ratings kept Poland's foreign-currency rating at A- but changed the outlook from stable to negative, meaning a downgrade is possible if public finances do not improve; it also cut the local-currency rating from A to A-. S&P cited persistent budget slippage, rising debt and presidential vetoes that block the government's tax and structural reforms, as well as institutional conflict, Bloomberg reported via Yahoo Finance; the general-government deficit is projected near 7% of GDP through 2027. Finance Minister Andrzej Domański blamed President Karol Nawrocki's vetoes and said the government would keep strengthening state finances. On Monday the złoty firmed (EUR/PLN 4.3870 at 17:00 vs 4.3926 on Friday, PAP data) and the WIG20 closed 0.82% higher at 4,165.30 after falling 1.85% on Friday; XTB analysts said investors took the decision calmly.",
+      "why": "A credit rating is an agency's opinion of how likely a borrower is to repay; lower ratings or negative outlooks can make lenders demand higher interest. The reaction was muted partly because the foreign-currency rating itself was unchanged and the warning had been widely discussed, and partly because global markets rallied on Monday. Fitch also rates Poland A- with a negative outlook and Moody's cut Poland to A3 in September, FXMAG reported, so the pressure from all three big agencies points the same way."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Uncertain courts can delay rulings that matter to citizens and firms. Many people will also see the tensions on the streets around the 11 November celebrations.",
+      "id": "poland-tribunal-assembly",
+      "importance": 3,
+      "markets": [
+        "Polish government bonds",
+        "złoty"
+      ],
+      "rank": 6,
+      "rankWhy": "The fight over who controls Poland's Constitutional Tribunal affects the rule of law, the country's relations with the EU and — as S&P noted — its credit standing, but its effects are mostly national for now.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Rzeczpospolita",
+          "url": "https://www.rp.pl/sady-i-trybunaly/art45452641-sedzia-korwin-piotrowska-zwolala-kolejne-zgromadzenie-ogolne-sedziow-tk-znamy-date"
+        },
+        {
+          "name": "AFP via Malay Mail",
+          "url": "https://www.malaymail.com/news/world/2026/11/09/title/242591"
+        },
+        {
+          "name": "Wikipedia – 2026 Polish Constitutional Tribunal crisis (timeline)",
+          "url": "https://en.wikipedia.org/wiki/Suspension_of_Bogdan_%C5%9Awi%C4%99czkowski"
+        }
+      ],
+      "terms": [
+        "Constitutional court",
+        "Rule of law",
+        "Venice Commission"
+      ],
+      "title": "Poland's Constitutional Tribunal crisis: a contested judges' assembly is due on Tuesday, two days before Independence Day",
+      "what": "Judge Anna Korwin-Piotrowska, who says she leads the Constitutional Tribunal (TK) as its most senior judge, has called a General Assembly of TK judges for Tuesday 10 November at 10:00 to change the court's internal rules, Rzeczpospolita reported. On 30 October she suspended the tribunal's president Bogdan Święczkowski and vice-president Bartłomiej Sochański; Święczkowski and President Karol Nawrocki's chancellery say only the TK president can call such an assembly, and many lawyers quoted by Rzeczpospolita doubt the takeover is legal. The dispute grew out of the president's refusal to swear in judges elected by the current Sejm; the Venice Commission (the Council of Europe's legal advisory body) urged him to swear them in. AFP, via Malay Mail, reported that the Law and Justice (PiS) party called off protests planned for Monday and Tuesday but could resume them later in the week.",
+      "why": "A constitutional court decides whether laws comply with the constitution, so whoever controls it can block or validate a government's programme. Both camps accuse the other of breaking the law, which is why the crisis also worries investors: S&P listed this institutional conflict among the reasons for its negative outlook on Poland on Friday."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Expect heavier police presence in cities around 11 November; a ban on carrying firearms in the Warsaw area applies from that day. It is also a reminder to check sources before sharing news about attacks.",
+      "id": "krakow-attack-investigation",
+      "importance": 3,
+      "markets": [],
+      "rank": 7,
+      "rankWhy": "Poland's deadliest shooting since 1989 is reshaping debates on gun ownership, online disinformation and security for the 11 November events.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Rzeczpospolita",
+          "url": "https://www.rp.pl/przestepczosc/art45464541-nowe-informacje-o-zamachu-w-krakowie-prokuratura-ujawnia-ile-broni-mial-napastnik"
+        },
+        {
+          "name": "TVP Info",
+          "url": "https://www.tvp.info/96385748/cbzc-zatrzymalo-szesc-osob-powielali-nieprawdziwe-informacje-o-zamachu-w-krakowie"
+        },
+        {
+          "name": "PAP Biznes – news summary 17:00",
+          "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-1700"
+        }
+      ],
+      "terms": [
+        "Disinformation",
+        "Terrorist offence"
+      ],
+      "title": "Kraków attack: prosecutors say the gunman had four weapons and hundreds of rounds; six people detained for spreading false posts",
+      "what": "The National Prosecutor's Office said the 24-year-old attacker had four firearms and several hundred rounds of ammunition in his car and on him, and that at least several dozen — possibly several hundred — shots were fired on Saturday, Rzeczpospolita reported; four phones and other devices were seized. Six people were killed in Kraków and three family members in Ostrowiec Świętokrzyski; prosecutors say they have no information that anyone else was involved in the family killings. PAP reported that a badly wounded police officer had been brought out of an induced coma, and that 15 injured people remain in hospital. The Central Cybercrime Bureau (CBZC) detained six people aged 15 to 36 in several regions for spreading false information about the attack, TVP Info reported.",
+      "why": "Investigators are reconstructing how the attacker prepared and whether anyone helped him; the case is classed as terrorism. False posts after an attack can spread panic or target innocent people, which is why police treat them as a criminal matter. PAP, citing police data, reported that the number of registered firearms in Poland has risen by about 77% in five years, which is feeding a debate about gun rules."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "An end to the war would affect Poland directly — security on the eastern border, refugees, reconstruction contracts and energy prices — but no agreement is in sight yet.",
+      "id": "ukraine-abu-dhabi-eve",
+      "importance": 3,
+      "markets": [
+        "European defence stocks",
+        "wheat",
+        "Polish construction firms"
+      ],
+      "rank": 8,
+      "rankWhy": "The first three-way US–Russia–Ukraine talks since February could shape the future of Europe's largest war, though expectations are guarded.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "AP via ABC News",
+          "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/zelensky-seeks-indias-assistance-in-peace-efforts-ahead-of-russia-talks/"
+        },
+        {
+          "name": "10 Things Global News",
+          "url": "https://www.10things.news/p/10-things-global-news-9th-november"
+        }
+      ],
+      "terms": [
+        "Security guarantees",
+        "Mediation"
+      ],
+      "title": "On the eve of Abu Dhabi talks, Zelensky asks India for help and Europeans line up for 'separate coordination' with Kyiv",
+      "what": "Envoys of the US, Russia and Ukraine meet in Abu Dhabi on 10–11 November, with US envoy Steve Witkoff and Jared Kushner mediating; Kushner said the priorities are ending the conflict, preventing it from restarting, reviving Ukraine's economy and humanitarian aid, AP reported. The Kremlin says the talks are trilateral and Europeans will not take part directly; Ukraine's chief negotiator Rustem Umerov said European officials will hold separate coordination with Kyiv's delegation. On Monday Volodymyr Zelensky said he spoke with Indian Prime Minister Narendra Modi and that India is ready to help mediate food corridors, for example for Black Sea grain exports, the Kyiv Independent reported. Trump told '60 Minutes' that the two sides are 'very close' to a deal; AP noted that earlier such predictions did not come true.",
+      "why": "Security guarantees are the core issue: Russia says it sees NATO as a threat, while Ukraine wants protection against a future invasion. India matters because it is one of Russia's biggest oil buyers and keeps ties with both sides. Strikes on energy infrastructure continued before the talks, with Ukraine hitting the KINEF refinery near St Petersburg and Russia striking power substations."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Images from Gaza shape European politics and protests; Poland and the EU fund humanitarian aid through UN agencies and NGOs.",
+      "id": "gaza-winter-floods",
+      "importance": 3,
+      "markets": [],
+      "rank": 9,
+      "rankWhy": "About two million Gazans, nearly all displaced at least once, face winter in tents; floods have already killed people and destroyed shelters.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Khaleej Times",
+          "url": "https://www.khaleejtimes.com/world/mena/trump-board-of-peace-urge-israel-protect-gaza-winter-floods"
+        },
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/middle-east/article-914367"
+        }
+      ],
+      "terms": [
+        "Ceasefire",
+        "Humanitarian access"
+      ],
+      "title": "Gaza floods: Trump's Board of Peace says Israel's winter measures are 'insufficient'; Israel says it let in 91,000 tents",
+      "what": "The Board of Peace, which oversees the October 2025 US-brokered ceasefire between Israel and Hamas, called the situation in Gaza 'an immediate humanitarian emergency' after two days of heavy rain swept away tens of thousands of tents, and urged Israel to authorise and facilitate winter supplies, Khaleej Times reported. Hamas-led authorities said at least five people were killed. Just before the statement the Israeli military said it had allowed more than 8,200 trucks into Gaza, including 91,000 tents; Israel's foreign ministry blamed Hamas for investing in weapons rather than infrastructure. The Board also called on Hamas to honour its ceasefire commitments.",
+      "why": "With most buildings damaged and people living in tents, heavy rain turns into floods and disease risk. Who controls what enters Gaza is the main lever over living conditions, which is why aid volumes are disputed between Israel, Hamas and international bodies."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Bank mergers can mean branch closures and new account terms for customers. Several big banks in Poland belong to foreign banking groups, so European bank strategy matters here too.",
+      "id": "credit-agricole-banco-bpm",
+      "importance": 3,
+      "markets": [
+        "Banco BPM",
+        "Crédit Agricole",
+        "European bank stocks"
+      ],
+      "rank": 10,
+      "rankWhy": "The proposal would create Italy's third-largest banking group with 6.5 million customers and is part of a wave of European bank consolidation.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Crédit Agricole (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/09/3398046/0/en/credit-agricole-sa-cr%C3%A9dit-agricole-proposes-to-banco-bpm-to-create-together-a-new-leading-italian-bank.html"
+        },
+        {
+          "name": "Reuters via AOL",
+          "url": "https://www.aol.com/articles/banco-bpm-board-begin-assessing-180523000.html"
+        },
+        {
+          "name": "MarketScreener (Reuters data)",
+          "url": "https://www.marketscreener.com/news/stocks-rally-even-as-nvidia-falls-oil-drops-ce785fd3de8ff421"
+        }
+      ],
+      "terms": [
+        "Merger",
+        "Synergies",
+        "Golden power"
+      ],
+      "title": "Crédit Agricole proposes merging its Italian arm with Banco BPM to create Italy's third-largest bank",
+      "what": "France's Crédit Agricole proposed on Monday that Banco BPM merge with Crédit Agricole Italia in a friendly deal, the French bank said in a statement. The exchange ratio implies a 20% premium for Banco BPM shareholders, who would also receive a €1 billion extraordinary dividend; Crédit Agricole's stake would rise from 29.6% to about 45% of the combined group, which would stay listed in Milan. The bank expects €800 million a year of pre-tax savings ('synergies') and completion in the second half of 2027, subject to Banco BPM shareholders, the ECB and Italy's 'golden power' rules (government powers to screen deals in strategic sectors). Banco BPM's board will start assessing the proposal on 12 November, AOL/Reuters reported.",
+      "why": "European banks are merging to cut costs and grow; a bigger bank can spread IT and branch costs over more customers. Governments still watch such deals closely, because banks hold citizens' savings and lend to local firms. European bank shares rose on the news and on strong UniCredit results, Reuters reported."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Germany is Poland's biggest export market; when German factories buy more parts, Polish suppliers — and their workers — benefit.",
+      "id": "german-exports-september",
+      "importance": 3,
+      "markets": [
+        "DAX",
+        "euro",
+        "Polish exporters"
+      ],
+      "rank": 11,
+      "rankWhy": "Germany is Europe's biggest economy and Poland's main trading partner; a rebound in its exports supports factories across Central Europe.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "RTÉ / AFP",
+          "url": "https://www.rte.ie/news/business/2026/1109/1598537-german-export-figures/"
+        },
+        {
+          "name": "Destatis",
+          "url": "https://www.destatis.de/EN/Press/2026/11/PE26_390_51.html"
+        },
+        {
+          "name": "PAP Biznes",
+          "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-1700"
+        }
+      ],
+      "terms": [
+        "Trade surplus",
+        "Month-on-month"
+      ],
+      "title": "German exports rise 2% in September, beating forecasts, as sales to the EU grow while US and China shipments fall",
+      "what": "German exports rose 2.0% from August to €141.1 billion in September, after two months of declines, the statistics office Destatis said; analysts polled by FactSet had expected 0.5%, AFP reported. Imports rose 4.2% to €125.5 billion, so the trade surplus narrowed to €15.6 billion. Exports to other EU countries rose 3.5%, while shipments to the US fell 0.5% and to China more than 5%. Polish exports to Germany reached €7.61 billion in September, up 3.5% on the month, PAP reported from the same data.",
+      "why": "US tariffs have made German goods dearer in America, and Chinese firms increasingly compete with German carmakers and chemical makers, so Germany is selling more inside Europe. Higher defence and infrastructure spending is expected to lift German growth this year, AFP reported, despite higher energy prices linked to the Iran war."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Hungary is Poland's partner in the Visegrád group; how it handles rule-of-law cases influences EU funding debates that also concern Poland.",
+      "id": "hungary-aron-orban",
+      "importance": 3,
+      "markets": [
+        "forint"
+      ],
+      "rank": 12,
+      "rankWhy": "The detention of the former prime minister's brother is a test of Hungary's new government and its anti-corruption push, watched across the EU.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "AP via Yahoo News",
+          "url": "https://www.yahoo.com/news/politics/articles/viktor-orb-n-slams-police-133141001.html"
+        },
+        {
+          "name": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/89553"
+        },
+        {
+          "name": "PAP Biznes",
+          "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-1700"
+        }
+      ],
+      "terms": [
+        "Presumption of innocence",
+        "Human smuggling"
+      ],
+      "title": "Hungary: Viktor Orbán's brother Áron reportedly detained in a people-smuggling probe; the former PM calls it a 'witch hunt'",
+      "what": "Hungarian authorities carried out arrests and house searches in Budapest and Pest County on Monday in a people-smuggling case, AP reported via Yahoo News. Officials did not name the suspects, but Hungarian media reported that Áron Orbán, younger brother of former prime minister Viktor Orbán and owner of the firearms company Multi Shot, was detained; Prime Minister Péter Magyar said that according to press reports he was taken into custody on suspicion of human trafficking. Viktor Orbán called the probe a political 'witch hunt' aimed at eliminating an opponent. The investigation is led by the National Asset Recovery and Protection Office (NVVH) and the National Investigative Office; no charges or court rulings have been reported.",
+      "why": "After a change of government, new authorities often reopen cases linked to the previous ruling circle; supporters see accountability, opponents see revenge. The outlet Telex earlier reported an NVVH investigation into alleged help for foreigners to obtain Hungarian visas, which may be connected. A detention is not a conviction: suspects are presumed innocent until a court rules."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "COP decisions shape EU climate rules that end up in Polish energy bills, car standards and coal-region policies.",
+      "id": "cop31-day-one",
+      "importance": 3,
+      "markets": [
+        "EU carbon allowances",
+        "renewable-energy stocks"
+      ],
+      "rank": 13,
+      "rankWhy": "Nearly 200 countries are negotiating how fast to cut emissions and how to pay for adaptation, as the UN warns the world is set to overshoot 1.5°C.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/09/we-will-not-lower-our-ambition-everything-you-need-to-know-on-day-one-of-the-cop31-climate"
+        },
+        {
+          "name": "Turkish Minute",
+          "url": "https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/"
+        },
+        {
+          "name": "Climate Home News",
+          "url": "https://www.climatechangenews.com/2026/11/09/cop31-bulletin-day-1-australia-says-cover-decision-wont-spring-surprises/"
+        }
+      ],
+      "terms": [
+        "Adaptation finance",
+        "Electrification",
+        "Consensus"
+      ],
+      "title": "COP31 day one: Türkiye vows not to 'lower ambition'; finance and fossil fuels set to be the main fights",
+      "what": "COP31 opened in Antalya on Monday with Türkiye's environment minister Murat Kurum, the COP31 president-designate, saying 'we will not lower our ambition', Euronews reported; under an unusual arrangement Australia steers the negotiations. Türkiye is pushing a '35-by-35' goal to raise electricity's share of global energy demand to 35% by 2035 from about 20%, while the Climate Action Tracker says current policies reach only 28%. A transition away from fossil fuels is not on the formal agenda, and Turkish Minute reported an early dispute over climate finance; COP30 agreed to push for tripling adaptation finance by 2035, but a UNEP report found that would cover only 23–29% of developing countries' needs. There is no official US government delegation.",
+      "why": "Decisions at COPs are taken by consensus, so a few fossil-fuel producers can water down texts — which is why some call for majority voting. Electrification only cuts emissions if the electricity is clean, Climate Analytics' Samuel Guéret noted."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Migration is one of the most debated EU issues, including in Poland, where the EU's new migration pact and border policy are politically sensitive.",
+      "id": "canary-islands-migrants",
+      "importance": 3,
+      "markets": [],
+      "rank": 14,
+      "rankWhy": "Thousands of people are risking the deadly Atlantic route to Spain each week, straining a small island and testing EU migration policy.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Reuters via Internazionale",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/06/migrant-surge-to-spain-s-canary-islands-is-unsustainable-authorities-say"
+        },
+        {
+          "name": "allAfrica",
+          "url": "https://allafrica.com/stories/202611090111.html"
+        },
+        {
+          "name": "PAP Biznes",
+          "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-1700"
+        }
+      ],
+      "terms": [
+        "Migration route",
+        "Asylum"
+      ],
+      "title": "Migrant arrivals to Spain's Canary Islands surge again; El Hierro, an island of 11,400 people, declares an emergency",
+      "what": "Spanish maritime rescue services rescued 3,261 migrants in the first six days of November, Reuters reported, and regional leader Fernando Clavijo called the situation on El Hierro, home to about 11,400 people, 'absolutely unsustainable'; the island declared an emergency after more than 3,300 people arrived in about 30 boats over the past month, allAfrica reported. PAP reported that about 600 people reached El Hierro on Sunday and about 1,300 over the weekend. At least 34 people died when a boat heading for the Canaries sank off Senegal last week. Even so, arrivals in the first 10 months of 2026 were nearly 61% lower than in the same period of 2024.",
+      "why": "Clavijo attributed the surge to calm seas, which make the long Atlantic crossing from West Africa possible; the route has grown as other routes are watched more closely. Poverty, conflict and lack of jobs in the Sahel and West Africa are long-term push factors."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Polish shops, hospitals and offices use similar connected systems; the case shows why updates, strong passwords and network separation matter even for 'boring' equipment.",
+      "id": "france-iran-fridge-cyberattack",
+      "importance": 3,
+      "markets": [
+        "French retailers",
+        "cybersecurity stocks"
+      ],
+      "rank": 15,
+      "rankWhy": "France formally blames a foreign state for a cyberattack on everyday infrastructure that hit about 700 supermarkets, a new kind of hybrid threat for Europe.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "AP via News4Jax",
+          "url": "https://www.news4jax.com/news/world/2026/11/09/france-blames-iran-for-last-months-cyberattack-on-supermarket-fridges/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges"
+        },
+        {
+          "name": "CNN",
+          "url": "https://www.cnn.com/2026/11/09/europe/france-accuses-iran-of-fridge-cyberattack-intl"
+        }
+      ],
+      "terms": [
+        "Cyber attribution",
+        "Hybrid threat"
+      ],
+      "title": "France blames Iran's Revolutionary Guards for a cyberattack that overheated fridges in about 700 supermarkets",
+      "what": "Paris prosecutors said on Monday that a cyber unit linked to Iran's Islamic Revolutionary Guard Corps was behind an attack on 12 October in which hackers remotely took control of refrigeration systems in about 700 of France's 10,000 supermarkets, AP reported; temperatures reached 50°C for about six hours and stores had to throw away fresh and frozen food, with the Intermarché chain reporting losses of tens of millions of euros. Foreign Minister Jean-Noël Barrot called it an attack of 'unprecedented scale and aggressiveness', summoned Iran's ambassador and said France would seek European sanctions. Prosecutor Laure Beccuau opened a judicial investigation and is seeking international arrest warrants for the alleged unit leader, named as Shahid Kaveh, and two deputies; investigators cited the use of Farsi and Iranian-linked IP addresses. No Iranian response was reported.",
+      "why": "Many building systems — cooling, heating, lifts — are now connected to the internet so they can be managed remotely, which also makes them reachable by hackers. Attributing an attack publicly to a state is a political step that opens the way to sanctions; it comes as Iran is at war with the US and Israel."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "The same day, Spain's Canary Islands reported a surge of arrivals: migration pressure on the EU's southern borders shapes the bloc's asylum policy, which also binds Poland.",
+      "id": "crete-migrant-deaths",
+      "importance": 3,
+      "markets": [],
+      "rank": 16,
+      "rankWhy": "At least 21 people died trying to reach Greece, one of the deadliest days this year on the route from North Africa to Crete.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/europe/at-least-21-migrants-found-dead-233-rescued-off-crete/4116563"
+        },
+        {
+          "name": "Balkan Insight",
+          "url": "https://balkaninsight.com/2026/11/09/greece-retrieves-21-dead-migrants-off-crete-island/bi/"
+        },
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/migrants-dozens-dead-scores-rescued-boats-crete-greece-spain/"
+        }
+      ],
+      "terms": [
+        "Smuggling vs trafficking"
+      ],
+      "title": "At least 21 migrants found dead off Crete as Greek coastguard carries out three rescues",
+      "what": "Greek authorities said at least 21 migrants were found dead in operations off the southern coast of Crete, Anadolu Agency and Balkan Insight reported on Monday. In the deadliest incident a Moroccan-flagged container ship spotted a boat about 15 nautical miles south-east of the village of Kali Limenes; the coastguard rescued 18 survivors and recovered 12 bodies, according to Anadolu, and EU border agency Frontex aircraft helped locate the boats. Two Sudanese nationals identified by other migrants as smugglers were arrested. Reports differ on the total number rescued.",
+      "why": "Overcrowded, unseaworthy boats and long open-sea distances make crossings towards Crete deadly, and smugglers profit from packing in as many people as possible."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "WHO rates the global risk as low, but large outbreaks strain health systems and can spread through travel, as imported cases in Nigeria and earlier in France showed.",
+      "id": "msf-ebola-vaccine-access",
+      "importance": 3,
+      "markets": [
+        "Merck"
+      ],
+      "rank": 17,
+      "rankWhy": "DR Congo's Ebola outbreak has passed 10,000 confirmed cases; wider vaccine access could protect health workers and contacts in one of the world's largest outbreaks.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "MSF UK",
+          "url": "https://prezly.msf.org.uk/msf-drc-ebola-msf-calls-for-broader-access-to-ervebor-vaccine-during-bundibugyo-ebola-outbreak"
+        },
+        {
+          "name": "WHO Disease Outbreak News",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625"
+        }
+      ],
+      "terms": [
+        "Vaccine efficacy",
+        "Compassionate use"
+      ],
+      "title": "Ebola: MSF urges wider use of the ERVEBO vaccine in DR Congo, saying only 70,000 of 500,000 requested doses were released",
+      "what": "Médecins Sans Frontières (MSF) on Monday called for faster, broader access to ERVEBO, which it calls the only Ebola vaccine available at scale, during DR Congo's outbreak of the Bundibugyo strain. The vaccine was designed for a different Ebola virus, but animal and immune-response data suggest it may also recognise Bundibugyo, and MSF teams have seen fewer confirmed cases and signs of lower mortality among people vaccinated earlier, MSF said. DR Congo and Africa CDC asked the WHO-linked International Coordinating Group for 500,000 doses in August, but only 70,000 were released; the WHO vaccine advisory group SAGE is due to consider a larger release on 17 November. WHO's latest report counts 10,668 confirmed cases and 5,198 deaths in DR Congo as of 3 November.",
+      "why": "When no vaccine is proven against a specific strain, health bodies usually limit doses to research studies to gather evidence; MSF argues that, with a licensed and safe vaccine and an outbreak this large, the doses should be used more widely now. Supplies are limited because vaccines are made in advance in fixed quantities by one manufacturer (Merck)."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "A change of government in Israel could affect the Middle East wars that are moving oil and fuel prices in Europe.",
+      "id": "israel-coalition-talks",
+      "importance": 2,
+      "markets": [
+        "shekel"
+      ],
+      "rank": 18,
+      "rankWhy": "Who governs Israel will shape the wars in Gaza, Lebanon and with Iran, but coalition talks are at an early stage.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Israel Hayom",
+          "url": "https://www.israelhayom.com/2026/11/09/eisenkot-liberman-meet-for-coalition-talks-as-major-hurdles-remain/"
+        },
+        {
+          "name": "The Tribune / ANI",
+          "url": "https://www.tribuneindia.com/news/world/eisenkot-liberman-express-full-confidence-in-forming-a-stable-govt-in-israel"
+        }
+      ],
+      "terms": [
+        "Coalition government",
+        "Knesset"
+      ],
+      "title": "Israel: Eisenkot and Liberman call their coalition talks 'productive', but reliance on Arab parties remains the main hurdle",
+      "what": "Gadi Eisenkot (Yashar!) and Avigdor Liberman (Yisrael Beytenu) met on Monday and both expressed full confidence in forming a stable government for a full four-year term, Israel Hayom reported. Eisenkot was recommended by 67 Knesset members against 46 for Benjamin Netanyahu, but that count includes Arab parties, on whom Liberman refuses to depend. Eisenkot's 28-day mandate expires on 6 December and can be extended by up to 14 days. Netanyahu renewed his call for a unity government under his leadership.",
+      "why": "Israel's parliament has 120 seats, so a government needs 61; without Liberman's party Eisenkot cannot reach that number, and without Arab parties he needs ultra-Orthodox partners, who demand a deal on military conscription."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "If your pay rose less than about 6% this year, you fell behind the national average; registered unemployment counts only people signed up at labour offices (see lesson 10).",
+      "id": "poland-labour-data",
+      "importance": 2,
+      "markets": [
+        "złoty",
+        "Polish retailers"
+      ],
+      "rank": 19,
+      "rankWhy": "Unemployment and wages determine household income for millions of Poles, though these figures show little change.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "PAP Biznes",
+          "url": "https://biznes.pap.pl/wiadomosci/ekonomia-biznes-i-finanse/skrot-wiadomosci-poniedzialek-9-listopada-1700"
+        }
+      ],
+      "terms": [
+        "Registered unemployment"
+      ],
+      "title": "Poland: registered unemployment stays at 5.8% in October; average pay up 6.2% a year in the third quarter",
+      "what": "Poland's registered unemployment rate was 5.8% in October according to a preliminary labour-ministry estimate, unchanged since June and in line with economists' forecasts, PAP Biznes reported. Statistics Poland (GUS) said the average gross wage in the national economy in the third quarter was 9,317.01 zł, 6.2% more than a year earlier.",
+      "why": "A stable unemployment rate with wages rising faster than prices means real incomes are still growing, which supports consumer spending; it also keeps the central bank alert to wage-driven inflation."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "The German president signs laws and represents the country abroad, including in relations with Poland.",
+      "id": "germany-aigner-president",
+      "importance": 2,
+      "markets": [],
+      "rank": 20,
+      "rankWhy": "Germany is set to get its first female head of state, a largely ceremonial but symbolically important office.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "AP via Yahoo News",
+          "url": "https://www.yahoo.com/news/world/articles/germany-set-first-female-president-142154211.html"
+        },
+        {
+          "name": "Xinhua",
+          "url": "http://www.xinhuanet.com/english/europe/20261109/d95ecf72c9c44ad6ada568b822e247ed/c.html"
+        }
+      ],
+      "terms": [
+        "Head of state vs head of government"
+      ],
+      "title": "Germany: Merz nominates Bavarian conservative Ilse Aigner, likely to become the country's first female president",
+      "what": "Chancellor Friedrich Merz on Monday nominated Ilse Aigner (CSU), speaker of the Bavarian state parliament, as the conservatives' candidate for federal president, AP reported. She is backed by Merz's conservatives, their Social Democrat coalition partners and the Greens, and is very likely to be elected in January 2027 by the Federal Convention, made up of Bundestag members and delegates from the 16 state parliaments. President Frank-Walter Steinmeier's term ends in March 2027.",
+      "why": "Broad cross-party backing is traditional for the German presidency, which is meant to stand above party politics."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "The case has renewed debate about how powerful people in media are held to account.",
+      "id": "russell-brand-sentenced",
+      "importance": 2,
+      "markets": [],
+      "rank": 21,
+      "rankWhy": "A high-profile sexual-violence conviction that matters for victims' confidence in the justice system, with little effect beyond those involved.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/russell-brand-sentenced-prison-rape-sexual-assault/"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/11/russell-brand-sentenced-years-in-prison-rape-sexual-assault-1237217095/"
+        }
+      ],
+      "terms": [
+        "Sentence vs conviction"
+      ],
+      "title": "UK: Russell Brand sentenced to 10.5 years in prison for rape and sexual assaults",
+      "what": "A judge at Southwark Crown Court in London sentenced the comedian and actor Russell Brand on Monday to 10 years and six months in prison for one count of rape and three counts of sexual assault, CBS News reported. The offences date from 2004 to 2009; he was acquitted of two other rape counts and one other charge. Six women had made allegations covering 1999 to 2009.",
+      "why": "Historic sexual-offence cases often take years to reach court because victims may come forward long after the events."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Underfunded crises often lead to more people moving towards neighbouring countries and Europe.",
+      "id": "sudan-humanitarian-appeal",
+      "importance": 2,
+      "markets": [],
+      "rank": 22,
+      "rankWhy": "Sudan's war has created one of the world's largest displacement crises, but this update brings no new turning point.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "allAfrica",
+          "url": "https://allafrica.com/stories/202611090111.html"
+        }
+      ],
+      "terms": [
+        "Internally displaced people (IDPs)"
+      ],
+      "title": "Sudan: UN agencies say 15.4 million people urgently need shelter, but aid reaches only about one in ten",
+      "what": "UN agencies appealed for urgent aid for Sudan, where war between the Sudanese Armed Forces and the Rapid Support Forces has raged since April 2023, allAfrica reported. They said 15.4 million people urgently need shelter, but aid reaches only about one in ten of them; women and children make up three-quarters of internally displaced people, and more than 5.2 million people have returned home. The 2026 plan needs $2.9 billion and is 47% funded.",
+      "why": "Aid budgets are stretched by several crises at once, and fighting blocks access to many areas."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Japan's strict building codes are one reason such quakes rarely cause deaths.",
+      "id": "japan-quake-shizuoka",
+      "importance": 2,
+      "markets": [],
+      "rank": 23,
+      "rankWhy": "A moderate earthquake injured more than 20 people in central Japan; no tsunami followed.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Kyodo News digest via JournalArta",
+          "url": "https://journalarta.com/en/2026/11/09/kyodo-news-digest-nov-9-quake-central-japan-takaichi-abductions/"
+        }
+      ],
+      "terms": [
+        "Magnitude vs intensity"
+      ],
+      "title": "Magnitude 5.7 earthquake in central Japan injures more than 20 people",
+      "what": "A preliminary magnitude 5.7 earthquake struck central Japan at 1:04 a.m. local time on Monday (17:04 Sunday, Warsaw time), injuring more than 20 people in Aichi and Shizuoka prefectures, Kyodo News reported. It originated in western Shizuoka at a depth of about 40 km and reached 'upper 5' on Japan's seven-level seismic intensity scale in Chita, Aichi. No tsunami warning was issued.",
+      "why": "Japan sits where several tectonic plates meet, so earthquakes are frequent; magnitude measures the energy released, while the intensity scale measures shaking at a given place."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "An IPO (initial public offering) is when a company first sells shares to the public; it is how new companies enter stock indices.",
+      "id": "alibaba-thead-ipo",
+      "importance": 2,
+      "markets": [
+        "Alibaba",
+        "Hang Seng"
+      ],
+      "rank": 24,
+      "rankWhy": "A planned listing of Alibaba's chip unit shows China's push for home-grown AI chips, with effects mostly on Hong Kong's market.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "The Standard (Hong Kong)",
+          "url": "https://www.thestandard.com.hk/news/article/347972/Night-Recap-November-9-2026"
+        }
+      ],
+      "terms": [
+        "Initial public offering (IPO)"
+      ],
+      "title": "Alibaba's chip unit T-Head plans a Hong Kong IPO next year to raise about $2–3 billion, IFR reports",
+      "what": "Alibaba's semiconductor unit T-Head is planning a Hong Kong initial public offering next year to raise about US$2–3 billion, The Standard reported, citing the financial publication IFR. Alibaba has not confirmed the plan in the reports read for this edition.",
+      "why": "Chinese tech groups are building their own AI chips as US export controls limit access to Nvidia's most advanced products; listing a unit lets investors fund that expansion directly."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "The same type of attack has hit hospitals, councils and companies in Poland; backups and updates are the main defence.",
+      "id": "russia-hosting-cyberattack",
+      "importance": 2,
+      "markets": [],
+      "rank": 25,
+      "rankWhy": "A ransomware attack disrupted cloud services for Russian businesses, the second major hosting outage in a week.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "The Moscow Times",
+          "url": "https://themoscowtimes.com/2026/11/09/cyberattack-disrupts-russian-web-hosting-provider-estt-a94212"
+        }
+      ],
+      "terms": [
+        "Ransomware"
+      ],
+      "title": "Ransomware attack disrupts Russian cloud host ESTT, days after another hosting outage",
+      "what": "A cyberattack using file-encrypting malware (ransomware) disrupted cloud services of the Russian hosting provider ESTT on Sunday, the company said; by Monday it had restored 90% of customers' virtual servers and said there was no evidence of a data leak, The Moscow Times reported. The attack came less than a week after a 2 November outage at another provider, Beget, which affected about 500,000 online resources, RBC reported.",
+      "why": "Ransomware encrypts a victim's files and demands payment for the key; hosting firms are attractive targets because one attack hits many customers at once. No group had claimed responsibility in the reports read."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Little effect beyond those involved.",
+      "id": "hk-ocean-park-ride",
+      "importance": 1,
+      "markets": [],
+      "rank": 26,
+      "rankWhy": "An amusement-park incident with no reported serious injuries.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "The Standard (Hong Kong)",
+          "url": "https://www.thestandard.com.hk/news/article/347972/Night-Recap-November-9-2026"
+        }
+      ],
+      "terms": [],
+      "title": "Hong Kong: about 40 visitors stranded near the top of Ocean Park's tower ride after a malfunction",
+      "what": "About 40 people were stranded near the top of the Ocean Park Tower ride in Hong Kong on Monday afternoon after a malfunction, and one visitor reportedly felt unwell, The Standard reported.",
+      "why": "Ride operators must follow safety inspections; incidents are usually followed by a technical investigation."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Little direct effect outside Japan.",
+      "id": "japan-abductions-takaichi",
+      "importance": 1,
+      "markets": [],
+      "rank": 27,
+      "rankWhy": "A long-running human-rights issue between Japan and North Korea, with no new development.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Kyodo News digest via JournalArta",
+          "url": "https://journalarta.com/en/2026/11/09/kyodo-news-digest-nov-9-quake-central-japan-takaichi-abductions/"
+        }
+      ],
+      "terms": [],
+      "title": "Japan's PM Takaichi vows to press North Korea over citizens abducted decades ago",
+      "what": "Prime Minister Sanae Takaichi said her resolve to find a breakthrough on Japanese citizens abducted by North Korea decades ago is unchanged, while expressing frustration at the lack of progress since she took office, Kyodo News reported.",
+      "why": "The unresolved abductions remain a central obstacle in Japan's relations with North Korea."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Tea is one of Kenya's main exports; better factories can raise farmers' incomes.",
+      "id": "kenya-ruto-tea-roads",
+      "importance": 1,
+      "markets": [],
+      "rank": 28,
+      "rankWhy": "Local development spending announcements in one Kenyan county.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "allAfrica",
+          "url": "https://allafrica.com/stories/202611090111.html"
+        }
+      ],
+      "terms": [],
+      "title": "Kenya: President Ruto announces KSh 1.2 billion for tea factories and KSh 11 billion for roads in Nyamira",
+      "what": "At a church service in Nyamira County, President William Ruto challenged opposition leaders to present concrete development plans and announced KSh 1.2 billion to modernise tea factories in the western Rift Valley and KSh 11 billion for 180 km of tarmac roads in Nyamira, allAfrica reported.",
+      "why": "Ruto framed the spending as a contrast with opposition leaders, whom he challenged to present their own plans."
+    }
+  ],
+  "watch": [
+    "US consumer price index (CPI) for October: Tuesday 10 November, 08:30 New York = 14:30 Warsaw; a hot reading would strengthen bets on a Fed rate rise in December.",
+    "Russia–Ukraine talks mediated by the US in Abu Dhabi on Tuesday–Wednesday, 10–11 November; European officials will be in the UAE for separate coordination with Kyiv.",
+    "G7 foreign ministers meet in Paris on 9–10 November, with Iran and Ukraine on the agenda; US Secretary of State Marco Rubio attends.",
+    "China's tariff-suspension extension takes effect Tuesday 10 November at 13:01 Beijing time (06:01 Warsaw).",
+    "Poland: Independence Day, Wednesday 11 November; the Independence March in Warsaw is due to start at about 14:30.",
+    "Developing: US–Iran contacts via Qatar on reopening the Strait of Hormuz; neither side has confirmed the reported terms."
+  ],
+  "window": "Mon 9 Nov 10:00 → Mon 9 Nov 20:00 (Warsaw time)",
+  "id": "2026-11-09-2000",
+  "updatedAt": "2026-11-09T19:16:18.856961Z"
+}

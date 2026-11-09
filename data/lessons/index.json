@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T09:16:55Z",
+  "updated": "2026-11-09T19:16:44Z",
   "lessons": [
     {
       "number": 1,
@@ -80,6 +80,14 @@
       "date": "9 Nov 2026",
       "createdAt": "2026-11-09T10:40:00Z",
       "updatedAt": "2026-11-09T09:13:12.053845Z"
+    },
+    {
+      "number": 11,
+      "title": "Oil: the world's most political commodity",
+      "level": "Core",
+      "date": "9 Nov 2026",
+      "createdAt": "2026-11-09T19:00:00Z",
+      "updatedAt": "2026-11-09T19:16:18.845523Z"
     }
   ]
 }
