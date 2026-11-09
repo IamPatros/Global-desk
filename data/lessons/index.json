@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T19:16:12Z",
+  "updated": "2026-11-09T09:16:55Z",
   "lessons": [
     {
       "number": 1,
@@ -72,6 +72,14 @@
       "date": "8 Nov 2026",
       "createdAt": "2026-11-08T19:13:17Z",
       "updatedAt": "2026-11-08T19:13:47.130933Z"
+    },
+    {
+      "number": 10,
+      "title": "Jobs, wages and unemployment",
+      "level": "Foundations",
+      "date": "9 Nov 2026",
+      "createdAt": "2026-11-09T10:40:00Z",
+      "updatedAt": "2026-11-09T09:13:12.053845Z"
     }
   ]
 }

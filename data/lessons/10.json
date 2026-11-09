@@ -1,0 +1,263 @@
+{
+  "checkQuestions": [
+    {
+      "a": "Discouraged workers move from 'unemployed' to 'inactive'. The unemployment rate falls because the numerator falls by more, proportionally, than the denominator (the labour force). The participation rate falls because the labour force shrinks. The employment rate is unchanged because nobody gained or lost a job. So the falling unemployment rate is misleading here.",
+      "q": "During a recession, thousands of discouraged workers stop looking for jobs. Explain what happens to the unemployment rate, the participation rate and the employment rate, and why."
+    },
+    {
+      "a": "The register counts everyone registered at labour offices, including people who do not meet the ILO test (not actively searching or doing some work), and uses a different denominator; the survey applies the ILO definition to a random sample. For international comparison use the survey (ILO/Eurostat) rate, because all EU countries compute it the same way.",
+      "q": "Explain why Poland's registered unemployment rate is higher than its Eurostat survey rate, and which one you would use to compare Poland with Spain."
+    },
+    {
+      "a": "Few unemployed workers → firms compete for staff and raise wages → if wages grow faster than productivity, unit labour costs rise → firms raise prices, and higher incomes support spending → inflation rises or stays above target → the central bank keeps rates high or raises them to cool demand. Each link is a tendency, so central banks look at the evidence for each step.",
+      "q": "Trace the chain from a very tight labour market to the central bank's interest-rate decision."
+    },
+    {
+      "a": "Firms first use spare capacity: they restore hours and overtime of existing staff and wait until they are confident the recovery will last before hiring. Meanwhile some discouraged workers return to searching, which enlarges the labour force. Employment therefore lags output.",
+      "q": "Why can unemployment keep rising for months after GDP has started to grow again?"
+    },
+    {
+      "a": "(1) A shrinking working-age population or emigration reduces labour supply, so fewer people work but few are unemployed. (2) Weaker hiring in larger firms while jobs grow in small firms or self-employment not covered by the enterprise survey (firms with more than 9 employees). Data on population and participation from the labour force survey, and on employment in small firms, would help separate them.",
+      "q": "Poland's enterprise employment fell 0.8% in a year while unemployment stayed low. Give two possible explanations and say what extra data would distinguish them."
+    }
+  ],
+  "createdAt": "2026-11-09T10:40:00Z",
+  "date": "9 Nov 2026",
+  "editionId": "2026-11-09-1000",
+  "intro": "Every month, jobs and wage figures move markets and shape central-bank decisions, because work is how most people earn their income. In this lesson you will learn exactly who statisticians count as 'unemployed', why Poland can have two very different unemployment rates at the same time, and how to read a US jobs report, including its revisions. You will calculate real wage growth from nominal wages and inflation, and trace how a tight or slack labour market feeds into inflation, interest rates and GDP. By the end you will be able to read a labour-market headline and say what it really measures and what it leaves out.",
+  "lessonQuiz": [
+    {
+      "answer": 3,
+      "explain": "2 ÷ (18 + 2) = 10%. Dividing by population (6.7%) or by employed only (11.1%) uses the wrong denominator.",
+      "options": [
+        "6.7%",
+        "11.1%",
+        "20%",
+        "10%"
+      ],
+      "q": "A country has 30 million people of working age: 18 million employed, 2 million unemployed, 10 million inactive. What is the unemployment rate?"
+    },
+    {
+      "answer": 0,
+      "explain": "Unemployed fall to 1.5m and the labour force to 19.5m, so the rate falls to 7.7%; participation falls; nobody gained or lost a job.",
+      "options": [
+        "Unemployment rate falls; participation rate falls; employment rate unchanged",
+        "Unemployment rate falls; participation rate unchanged; employment rate rises",
+        "Unemployment rate unchanged; participation rate falls",
+        "All three rates fall"
+      ],
+      "q": "In that country, 500,000 unemployed people stop searching and become inactive. What happens?"
+    },
+    {
+      "answer": 2,
+      "explain": "1.06 ÷ 1.04 − 1 = 1.923%. The shortcut gives 2.00%, a slight overestimate.",
+      "options": [
+        "2.00%",
+        "10.24%",
+        "1.92%",
+        "2.08%"
+      ],
+      "q": "Nominal wages rise 6% and inflation is 4%. What is exact real wage growth?"
+    },
+    {
+      "answer": 1,
+      "explain": "Different counting rules in both numerator and denominator; the survey applies the ILO test of active search and availability.",
+      "options": [
+        "The register only counts people under 25",
+        "They use different definitions and sources: a register of people at labour offices versus an ILO-based household survey",
+        "Eurostat excludes women",
+        "Eurostat's figure is from 2016"
+      ],
+      "q": "Why is Poland's registered unemployment rate (5.8%) higher than its Eurostat rate (3.4%)?"
+    },
+    {
+      "answer": 3,
+      "explain": "The establishment survey counts jobs on business payrolls; the household survey counts employed people and is noisier.",
+      "options": [
+        "One of them must contain an error",
+        "The household survey counts jobs, payrolls count people",
+        "Payrolls include farm workers",
+        "They are different surveys with different samples and coverage (e.g. the household survey includes the self-employed), so monthly changes can differ a lot"
+      ],
+      "q": "US payrolls are reported at +165,000 while the household survey shows employment +463,000 in the same month. What is the best explanation?"
+    },
+    {
+      "answer": 0,
+      "explain": "Below the natural rate, extra demand mainly raises wages and prices; tighter policy cools demand.",
+      "options": [
+        "Keep rates high or raise them to prevent wage-price pressures from pushing inflation up",
+        "Cut rates to create even more jobs",
+        "Print money to pay higher wages",
+        "Ignore it, because wages never affect prices"
+      ],
+      "q": "A central bank sees unemployment far below estimates of its natural rate and wages rising faster than productivity. Which reaction is most consistent with standard theory?"
+    },
+    {
+      "answer": 2,
+      "explain": "Oil shocks and rising expectations shifted the curve: stagflation broke the simple trade-off.",
+      "options": [
+        "The Phillips curve is a stable law",
+        "Unemployment causes inflation",
+        "Supply shocks and inflation expectations can shift the relationship, so the trade-off is not stable",
+        "Statistics were wrong"
+      ],
+      "q": "In the 1970s many countries had high unemployment and high inflation together. What does this show?"
+    },
+    {
+      "answer": 3,
+      "explain": "Employment lags output; returning job-seekers also enlarge the labour force.",
+      "options": [
+        "GDP data are always wrong",
+        "Recoveries destroy jobs",
+        "Unemployment is measured once a year",
+        "Firms first raise hours of existing staff and delay hiring, and discouraged workers return to search"
+      ],
+      "q": "GDP starts growing after a recession but unemployment keeps rising for some months. Which is the most likely reason?"
+    },
+    {
+      "answer": 1,
+      "explain": "(186 + 60 + 165) ÷ 3 = 137,000.",
+      "options": [
+        "109,000",
+        "137,000",
+        "120,000",
+        "154,000"
+      ],
+      "q": "Payrolls: first reported August +133k and September +29k, revised to +186k and +60k; October +165k. What is the three-month average after revisions?"
+    },
+    {
+      "answer": 0,
+      "explain": "Real growth = 1.041 ÷ 1.041 − 1 = 0; you can buy the same basket as before.",
+      "options": [
+        "Your real wage is unchanged, so your purchasing power is the same",
+        "Your real wage rose 4.1%",
+        "You lost 4.1% of purchasing power",
+        "Your nominal wage is unchanged"
+      ],
+      "q": "Link to Lesson 6: inflation is 4.1% and your pay rises 4.1%. Which statement is correct?"
+    },
+    {
+      "answer": 2,
+      "explain": "Below-trend growth means firms need less labour than the growing labour force supplies, so unemployment tends to rise.",
+      "options": [
+        "Unemployment tends to fall",
+        "Participation always rises",
+        "Unemployment tends to rise",
+        "Nominal wages must fall"
+      ],
+      "q": "Link to Lesson 9: according to Okun's law, what normally happens when real GDP grows well below its trend rate for a year?"
+    },
+    {
+      "answer": 1,
+      "explain": "Without work, actively searching and available. The part-timer is employed (but underemployed).",
+      "options": [
+        "A student not looking for work",
+        "A person without work who looked for a job last week and can start in two weeks",
+        "A retiree",
+        "A person working 10 hours a week who wants full-time work"
+      ],
+      "q": "Which person is counted as unemployed under the ILO definition?"
+    }
+  ],
+  "level": "Foundations",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "The unemployment rate is the share of the whole population without a job.",
+      "truth": "It is the share of the labour force (people working or actively looking). Students, retirees and people who stopped searching are inactive and are excluded from both numerator and denominator."
+    },
+    {
+      "myth": "A falling unemployment rate always means more people found jobs.",
+      "truth": "It can also fall because job-seekers give up and leave the labour force. Check the participation and employment rates at the same time."
+    },
+    {
+      "myth": "If my pay rises 5.9%, I am 5.9% better off.",
+      "truth": "Only in nominal terms. With 4.1% inflation, real pay rises about 1.7% (1.059 ÷ 1.041 − 1)."
+    },
+    {
+      "myth": "Zero unemployment is the goal and is possible.",
+      "truth": "Some frictional and structural unemployment always exists while people change jobs and skills adjust; pushing unemployment below its natural rate tends to raise inflation instead."
+    },
+    {
+      "myth": "Low unemployment and high inflation cannot happen together, or high unemployment and high inflation cannot happen together.",
+      "truth": "The Phillips-curve trade-off is only a tendency. Oil shocks can raise inflation whatever the labour market does, as in the 1970s stagflation."
+    }
+  ],
+  "number": 10,
+  "objectives": [
+    "Explain the ILO definitions of employed, unemployed and economically inactive, and calculate the unemployment, participation and employment rates from raw numbers.",
+    "Explain why Poland's registered unemployment rate (5.8% in September 2026) and its survey-based rate (3.4% by Eurostat's measure) differ.",
+    "Interpret a US jobs report: the payroll survey versus the household survey, and the effect of revisions on the trend.",
+    "Calculate real wage growth exactly and approximately from nominal wage growth and inflation, and interpret the result.",
+    "Trace the chain from a tight labour market to wages, inflation and central-bank interest rates, and state where this chain (the Phillips curve) has broken down.",
+    "Distinguish frictional, structural and cyclical unemployment and explain why the 'natural rate' can only be estimated."
+  ],
+  "recap": "In Lesson 9 you learned that GDP measures the value of final output, that real growth strips out price changes, and that growth rates must be compared like with like (quarterly, annualised or year-on-year). Output is produced by people working, so the labour market is the 'human side' of GDP: when demand and output grow, firms hire, and when they shrink, unemployment rises. In Lessons 6 and 7 you saw that central banks fight inflation with interest rates; wages are one of the main channels through which inflation either fades or becomes persistent, which is why central banks watch jobs data so closely.",
+  "sections": [
+    {
+      "body": "Statisticians split the working-age population into three groups using definitions from the International Labour Organization (ILO). Employed people did at least one hour of paid work in the reference week (or were temporarily absent from a job). Unemployed people had no job, were available to start work within about two weeks and actively looked for work in the previous four weeks (people who have already found a job starting soon also count, and in the US so do people on temporary layoff). Everyone else of working age is economically inactive: students, full-time carers, many retirees, and people who would like a job but have stopped searching. The labour force is employed plus unemployed, and the unemployment rate is unemployed ÷ labour force — not ÷ the whole population. The participation rate is labour force ÷ working-age population, and the employment rate (in the US the 'employment-population ratio') is employed ÷ population. Example from the US October 2026 report (Bureau of Labor Statistics, BLS): 7.068 million unemployed out of a labour force of 170.683 million gives 7.068 ÷ 170.683 = 4.14%, published as 4.1%. A key limit: a person who gives up searching moves from 'unemployed' to 'inactive', so the unemployment rate can fall even though nobody found a job — always check participation alongside it.",
+      "heading": "1. Who counts as unemployed: the labour force"
+    },
+    {
+      "body": "Most countries measure unemployment in two ways. A labour force survey (in Poland, GUS's BAEL; in the EU, the Labour Force Survey used by Eurostat) asks a random sample of households about their activity and applies the ILO definition. A register count simply adds up people registered at public employment offices. In Poland the register gave 907,000 unemployed and a rate of 5.8% in September 2026 (GUS), while Eurostat's survey-based measure gave about 596,000 and 3.4% — one of the lowest rates in the EU, after Czechia's 2.8%. The gap exists because the rules differ: a registered person may not meet the ILO test (for example, not actively searching that month, or doing some work), while some job-seekers never register. The register is published faster and for every county, so it is useful for local trends; the survey is the one comparable across countries. Rule of thumb: compare countries with survey (ILO/Eurostat) rates, and never mix the two measures in one comparison.",
+      "heading": "2. Two ways to measure: surveys and registers"
+    },
+    {
+      "body": "The US monthly 'Employment Situation' report contains two separate surveys. The establishment survey asks a large sample of businesses and government agencies how many people are on their payrolls; its headline is the change in 'nonfarm payrolls' (+165,000 in October 2026, more than economists expected). The household survey asks a sample of households about their activity and produces the unemployment rate (4.1%, down from 4.2%) and its own employment count, which rose by 463,000 — a different number because it is a different and noisier sample that also counts the self-employed. Payroll figures are revised in the next two monthly reports as more businesses reply, and again once a year in a benchmark revision (seasonal factors are also recalculated): in October's report, August was revised from +133,000 to +186,000 and September from +29,000 to +60,000, together 84,000 higher. Revisions can change the story: a weak month that is revised up means the trend was stronger than first thought. Markets react to the surprise relative to forecasts, not to the level, which is why a 'beat' moves bond yields and expectations of Fed rate decisions within seconds. Always look at the three-month average and the revisions, not one headline.",
+      "heading": "3. Reading a US jobs report: payrolls, the household survey and revisions"
+    },
+    {
+      "body": "Even in a healthy economy some unemployment remains. Frictional unemployment is the time it takes to find a match: graduates looking for a first job, or people changing jobs. Structural unemployment is a mismatch between the skills or locations of workers and the jobs available — for example coal miners in a region where the new jobs are in IT in another city; it can last years. Cyclical unemployment comes from too little total demand in a downturn: firms sell less and lay people off (Lesson 15 will cover the business cycle). Economists call the rate consistent with stable inflation the 'natural rate' or NAIRU (non-accelerating inflation rate of unemployment). It cannot be observed directly; it is estimated from models, the estimates differ between institutions and change over time, so treat any single number as approximate. Policy differs by type: interest-rate cuts can reduce cyclical unemployment, but structural unemployment needs training, mobility or housing policy, and pushing demand too hard against it mainly produces inflation.",
+      "heading": "4. Why unemployment exists: frictional, structural and cyclical"
+    },
+    {
+      "body": "A nominal wage is the amount of money paid; a real wage measures what that money can buy, so it adjusts for inflation (Lesson 6). Exact real growth is (1 + nominal growth) ÷ (1 + inflation) − 1; the shortcut 'nominal minus inflation' works well when both numbers are small. In Poland's enterprise sector (firms with more than 9 employees), the average gross wage in September 2026 was 9,266.48 zł, up 5.9% on a year earlier, while consumer prices rose 4.1% (GUS). Real growth = 1.059 ÷ 1.041 − 1 = 1.73%, reported as 1.7% — the weakest in more than three years, according to an analyst quoted by StockWatch. In the US, average hourly earnings were $38.00, up 3.1% over 12 months. Over the long run, real wages can only rise sustainably if productivity (output per hour worked) rises, because firms cannot keep paying more in real terms than workers produce. Limits: the average wage is pulled up by high earners, so the median (middle) wage is often lower, and averages also shift when the mix of jobs changes — if many low-paid jobs disappear, the average can rise even though nobody got a raise.",
+      "heading": "5. Wages: nominal versus real"
+    },
+    {
+      "body": "When unemployment is low, firms compete for scarce workers by raising pay; if wages grow faster than productivity, firms' costs per unit rise and they tend to raise prices. This inverse relationship between unemployment and wage or price inflation is called the Phillips curve, after economist A. W. Phillips's 1958 study of UK data. It is why central banks watch jobs reports: a strong US report pushes up market expectations of tighter Fed policy, and the NBP's Monetary Policy Council (which kept Poland's reference rate at 3.75% on 4 November 2026) watches Polish wages for 'second-round effects' — energy price rises spreading into wages and then into other prices. The relationship is not stable. In the 1970s many countries had high unemployment and high inflation at the same time ('stagflation'), largely because of oil shocks and rising inflation expectations; and in the 2010s inflation barely reacted to falling unemployment, which economists describe as a 'flat' Phillips curve. Economists still debate how strong the link is today, so it is a tendency, not a law. Today's lesson for 2026: an oil shock raises inflation from the supply side regardless of the labour market; whether it lasts depends partly on whether wages follow.",
+      "heading": "6. Jobs, wages and inflation: the Phillips curve and its limits"
+    },
+    {
+      "body": "Because output is produced by labour, GDP growth and unemployment move in opposite directions over the cycle. Arthur Okun observed in the 1960s that in the US, unemployment tended to fall when growth was above its trend rate and to rise when it was below — a pattern now called Okun's law. The size of the link varies by country and period (Okun's own 1962 estimate was about 3 percentage points of output per 1 point of unemployment; later US estimates are often nearer 2, and unemployment responds much less to output in countries with strict job protection), so it is an empirical rule of thumb, not a constant. Employment also lags output: firms first cut overtime and hours, and hire again only when they are confident a recovery will last, which is why unemployment often keeps rising after a recession has technically ended. This lag makes the unemployment rate a poor early warning signal but a good confirmation. Payrolls and weekly jobless claims react faster than the unemployment rate.",
+      "heading": "7. Jobs and output: Okun's law and lags"
+    },
+    {
+      "body": "The unemployment rate does not capture underemployment: people who work part-time but want full-time work. In the US, 4.84 million people worked part-time for economic reasons in October 2026, up 339,000 in a month, even as the unemployment rate fell; the BLS publishes a broader measure (U-6) that adds them and all 'marginally attached' workers, including discouraged workers; U-6 rose to 7.9% from 7.6% in October while the headline rate fell. It ignores informal (unregistered) work and says nothing about job quality or pay. Demography matters too: Poland's enterprise-sector employment fell 0.8% year on year to about 6.36 million in September 2026 (GUS) while unemployment stayed low, which points to a shrinking supply of workers as well as weaker hiring; in such a case low unemployment is not the same as a booming labour market. Migration changes the labour force directly: newcomers join it and emigrants leave it. Finally, all these figures are estimates with sampling error and later revisions, so small monthly changes (0.1 point) are often statistical noise.",
+      "heading": "8. What the headline rate misses"
+    }
+  ],
+  "takeaways": [
+    "Unemployment rate = unemployed ÷ labour force, where 'unemployed' (ILO) means without work, available and actively searching; inactive people are excluded.",
+    "Check participation and employment rates too: discouraged workers lower the unemployment rate without anyone finding a job.",
+    "Poland has two rates: registered 5.8% (GUS, Sept 2026) and survey-based 3.4% (Eurostat); compare countries only with survey rates.",
+    "US payrolls (+165,000 in October 2026) come from a business survey and are revised; look at three-month averages and revisions.",
+    "Real wage growth = (1 + nominal) ÷ (1 + inflation) − 1: Poland's 5.9% nominal and 4.1% inflation give 1.7% real.",
+    "Tight labour markets tend to raise wages and inflation (Phillips curve), but the link is unstable; supply shocks such as oil can raise inflation regardless."
+  ],
+  "title": "Jobs, wages and unemployment",
+  "todayExample": "Today's edition notes that last Friday's US jobs report showed 165,000 new payroll jobs in October, more than twice what economists expected, and that markets now look ahead to Tuesday's US inflation figures. That is the chain from this lesson: a strong labour market points to continued demand and wage pressure, so investors raise their expectations for tight Fed policy, which pushes up bond yields and the dollar. In Europe, with euro-area inflation at 4.0% and markets expecting a possible ECB rate rise in December, central bankers will watch whether energy-driven inflation spreads into wages.",
+  "workedExamples": [
+    {
+      "problem": "US October 2026 household survey (BLS): labour force 170.683 million; employed 163.615 million; unemployed 7.068 million; employment-population ratio 59.3%. (a) Check the unemployment rate. (b) Estimate the civilian population aged 16+ from the employment-population ratio. (c) Use it to check the published participation rate of 61.9%.",
+      "solution": "(a) Unemployment rate = unemployed ÷ labour force = 7.068 ÷ 170.683 = 0.04141 = 4.14%, published (rounded) as 4.1%. Check: 163.615 + 7.068 = 170.683, so employed + unemployed = labour force. (b) Employment-population ratio = employed ÷ population, so population ≈ 163.615 ÷ 0.593 = 275.91 million (approximate, because 59.3% is rounded). (c) Participation = labour force ÷ population = 170.683 ÷ 275.91 = 0.6186 = 61.86%, which rounds to the published 61.9%. Interpretation: about 38% of the US civilian non-institutional population aged 16+ are outside the labour force (students, retirees, carers, discouraged workers), so they count neither as employed nor as unemployed.",
+      "title": "From raw counts to the three rates"
+    },
+    {
+      "problem": "GUS: the average gross wage in Poland's enterprise sector was 9,266.48 zł in September 2026, up 5.9% year on year; consumer prices rose 4.1% year on year. (a) What was the average wage a year earlier? (b) Calculate real wage growth exactly and with the shortcut. (c) Interpret.",
+      "solution": "(a) Last year's wage = 9,266.48 ÷ 1.059 = 8,750.22 zł (approximately, because 5.9% is rounded). (b) Exact: 1.059 ÷ 1.041 − 1 = 1.01729 − 1 = 1.73%, which matches GUS's 1.7%. Shortcut: 5.9 − 4.1 = 1.8 percentage points — close, but 0.07 points too high because the shortcut ignores the interaction term. (c) The average employee can buy about 1.7% more goods and services than a year ago. Most of the 5.9% pay rise was eaten by inflation, which is why real wage growth was described as the weakest in over three years.",
+      "title": "Real wages in Poland"
+    },
+    {
+      "problem": "BLS, US nonfarm payrolls: first reported +133,000 (August) and +29,000 (September); in the October report these were revised to +186,000 and +60,000, and October was +165,000. (a) By how much were August and September revised in total? (b) What is the new three-month average? (c) Why does this matter more than the October headline?",
+      "solution": "(a) Old total 133,000 + 29,000 = 162,000; new total 186,000 + 60,000 = 246,000; revision = 246,000 − 162,000 = +84,000. (b) Three-month average = (186,000 + 60,000 + 165,000) ÷ 3 = 411,000 ÷ 3 = 137,000 a month. (c) A single month is noisy; the revisions show that hiring in late summer was stronger than first believed, so the trend is firmer than the first September figure (+29,000) suggested. For a central bank worried about inflation, a firmer trend reduces the case for cutting rates.",
+      "title": "How revisions change the trend"
+    },
+    {
+      "problem": "In September 2026, GUS's register showed 907,000 unemployed (rate 5.8%); Eurostat's survey-based measure showed about 596,000 (rate 3.4%). (a) How many more people does the register count? (b) What size of labour force is implied by each rate? (c) What do you conclude?",
+      "solution": "(a) 907,000 − 596,000 = 311,000 more people in the register. (b) Implied denominator = unemployed ÷ rate: register 907,000 ÷ 0.058 = about 15.64 million; survey 596,000 ÷ 0.034 = about 17.53 million (both approximate because the rates are rounded). (c) The measures differ in both the numerator (who counts as unemployed) and the denominator (how the active population is defined), so they are not interchangeable. Use the survey rate to compare Poland with other EU countries and the register for fast, local trends.",
+      "title": "Register versus survey in Poland"
+    }
+  ],
+  "updatedAt": "2026-11-09T09:13:12.053845Z"
+}

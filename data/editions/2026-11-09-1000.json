@@ -1,0 +1,1354 @@
+{
+  "bigPicture": "The night brought mixed signals from the Gulf: Iranian officials said US forces struck sites on Qeshm Island and Iran's navy said navigation aids in the Strait of Hormuz were destroyed, yet oil fell again after President Trump said new attacks were unlikely while talks continue. A drone strike on Iraq's Khor Mor gas field knocked out most of the Kurdistan region's power, Ukraine hit Russia's Kirishi refinery and Russia sent 317 drones at Ukraine a day before talks in Abu Dhabi. In markets, Nvidia's board opened an investigation into reports that its CEO was targeted by foreign intelligence, Asian chip stocks rebounded after Taiwan curbed short selling, and China's factory prices rose at the fastest pace since 2022 while consumer inflation slowed. In Poland, the Kraków gunman died in hospital as the terrorism investigation continues; socially, at least 34 migrants drowned off Senegal, and the COP31 climate summit opened in Antalya.",
+  "createdAt": "2026-11-09T08:59:41Z",
+  "glossary": [
+    {
+      "def": "A narrow sea passage that a large share of world trade must pass through, so disruption there affects prices globally.",
+      "example": "The Strait of Hormuz is the world's key oil chokepoint.",
+      "term": "Chokepoint"
+    },
+    {
+      "def": "The extra price (or return) market participants demand because of the danger that something bad, such as a supply cut, will happen.",
+      "example": "Oil fell when Trump said new strikes on Iran were unlikely, shrinking the risk premium.",
+      "term": "Risk premium"
+    },
+    {
+      "def": "A situation where supply of a good exceeds demand, usually pushing its price down.",
+      "example": "JPMorgan estimated a 1.4 million barrel-a-day oil surplus in October.",
+      "term": "Glut"
+    },
+    {
+      "def": "A measure of the prices producers receive for goods as they leave the factory ('factory-gate' prices).",
+      "example": "China's PPI rose 5.7% year on year in October 2026.",
+      "term": "Producer price index (PPI)"
+    },
+    {
+      "def": "Borrowing shares and selling them, hoping to buy them back later at a lower price and return them, keeping the difference.",
+      "example": "Taiwan cut the limit on intraday short sales to calm its market.",
+      "term": "Short selling"
+    },
+    {
+      "def": "The rules and practices by which a company is directed and its managers are supervised, mainly by its board of directors.",
+      "example": "Nvidia's independent directors are overseeing a review of reports about the CEO.",
+      "term": "Corporate governance"
+    },
+    {
+      "def": "The risk that government actions, such as seizures, sanctions or sudden rule changes, reduce the value of a business or investment.",
+      "example": "Japan Tobacco shares fell about 16% after Russia took control of its local units.",
+      "term": "Political risk"
+    },
+    {
+      "def": "Facilities essential for society and the economy, such as power plants, gas fields, water systems and telecoms.",
+      "example": "A drone strike on the Khor Mor gas field cut power to most of Iraq's Kurdistan region.",
+      "term": "Critical infrastructure"
+    },
+    {
+      "def": "Replacing the direct burning of fuels with electricity, e.g. heat pumps instead of gas boilers or electric cars instead of petrol cars.",
+      "example": "COP31's host wants electricity to supply 35% of global final energy by 2035.",
+      "term": "Electrification"
+    },
+    {
+      "def": "Everyone of working age who is either employed or unemployed (without work, available and actively looking).",
+      "example": "The US labour force was 170.7 million people in October 2026.",
+      "term": "Labour force"
+    },
+    {
+      "def": "The share of the working-age population that is in the labour force.",
+      "example": "US participation was 61.9% in October 2026.",
+      "term": "Participation rate"
+    },
+    {
+      "def": "A wage adjusted for inflation, showing how much it can actually buy.",
+      "example": "Polish wages rose 5.9% nominally but 1.7% in real terms in September 2026.",
+      "term": "Real wage"
+    },
+    {
+      "def": "The US monthly count of jobs on business and government payrolls, excluding farm workers, from the establishment survey.",
+      "example": "US payrolls rose by 165,000 in October 2026.",
+      "term": "Nonfarm payrolls"
+    },
+    {
+      "def": "Vaccinating the contacts of an infected person, and their contacts, to build a ring of immunity that stops an outbreak spreading.",
+      "example": "The Ebola vaccine trial in DR Congo uses ring vaccination.",
+      "term": "Ring vaccination"
+    },
+    {
+      "def": "Government review of foreign takeovers or investments for national-security risks, with power to block them.",
+      "example": "A Chinese review body prohibited the sale of ABB's robotics business in China to SoftBank.",
+      "term": "Investment screening"
+    }
+  ],
+  "label": "Mon 9 Nov · morning",
+  "lessonNumber": 10,
+  "markets": [
+    {
+      "change": 0.3,
+      "changeText": "+0.3%",
+      "group": "Stocks · Americas",
+      "key": true,
+      "name": "S&P 500",
+      "note": "Friday 6 Nov close: AI stocks recovered part of the week's losses; the index lost 2.7% over the week, its worst week since April 2025 (AP). US futures were about 0.3–0.4% higher early Monday.",
+      "region": "US",
+      "value": "",
+      "what": "An index of 500 large US companies, the main gauge of the US stock market."
+    },
+    {
+      "change": 1.1,
+      "changeText": "+1.1%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Nasdaq Composite",
+      "note": "Friday close, led by a rebound in tech; Nvidia +2.8% (AP).",
+      "region": "US",
+      "value": "",
+      "what": "An index of all stocks on the Nasdaq exchange, heavy in technology companies."
+    },
+    {
+      "change": -0.5,
+      "changeText": "−0.5%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Dow Jones Industrial Average",
+      "note": "Friday close (AP).",
+      "region": "US",
+      "value": "",
+      "what": "An index of 30 large US companies, weighted by share price."
+    },
+    {
+      "change": 0,
+      "changeText": "flat",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "DAX",
+      "note": "Early Monday trading: flat as investors weigh the Nvidia board probe and a week of ECB speeches (Investing.com).",
+      "region": "Germany",
+      "value": "",
+      "what": "An index of the 40 biggest companies listed in Frankfurt."
+    },
+    {
+      "change": -0.1,
+      "changeText": "−0.1%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "Stoxx Europe 600",
+      "note": "Early Monday trading (Investing.com).",
+      "region": "Europe",
+      "value": "",
+      "what": "An index of 600 large and mid-sized European companies."
+    },
+    {
+      "change": -0.1,
+      "changeText": "−0.1%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "FTSE 100",
+      "note": "Early Monday trading (Investing.com).",
+      "region": "UK",
+      "value": "",
+      "what": "An index of the 100 biggest companies on the London Stock Exchange."
+    },
+    {
+      "change": null,
+      "changeText": "n/a",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "WIG20",
+      "note": "No verified Monday level was found at the time of writing; the session opened at 09:00 Warsaw time.",
+      "region": "Poland",
+      "value": "",
+      "what": "An index of the 20 biggest companies on the Warsaw Stock Exchange."
+    },
+    {
+      "change": 2.3,
+      "changeText": "+2.3%",
+      "group": "Stocks · Asia-Pacific",
+      "key": true,
+      "name": "Nikkei 225",
+      "note": "Monday close: chip stocks such as Tokyo Electron rebounded; SoftBank Group fell 4.2% after China blocked its ABB robotics deal (AP). Investing.com put the gain at 2.5%.",
+      "region": "Japan",
+      "value": "58,775.50",
+      "what": "An index of 225 large companies on the Tokyo Stock Exchange."
+    },
+    {
+      "change": -0.81,
+      "changeText": "−0.8%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Kospi",
+      "note": "Monday close: gave up an early rally as foreigners sold for a seventh session (SBS).",
+      "region": "South Korea",
+      "value": "5,018.85",
+      "what": "The main index of the Korea Exchange, dominated by Samsung Electronics and SK Hynix."
+    },
+    {
+      "change": 4.9,
+      "changeText": "+4.9%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Taiex",
+      "note": "Monday close: rebound after regulators curbed short selling and a NT$500 billion state fund was activated (FinancialJuice, Startup Fortune).",
+      "region": "Taiwan",
+      "value": "",
+      "what": "The main index of the Taiwan Stock Exchange, dominated by chipmaker TSMC."
+    },
+    {
+      "change": 0.1,
+      "changeText": "+0.1%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Hang Seng",
+      "note": "Monday, during the session (AP).",
+      "region": "Hong Kong",
+      "value": "24,507.83",
+      "what": "An index of the biggest companies listed in Hong Kong."
+    },
+    {
+      "change": 0.3,
+      "changeText": "+0.3%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Shanghai Composite",
+      "note": "Monday, during the session, after mixed inflation data (AP).",
+      "region": "China",
+      "value": "3,660.79",
+      "what": "An index of all shares on the Shanghai Stock Exchange."
+    },
+    {
+      "change": 0.1,
+      "changeText": "+0.1%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "S&P/ASX 200",
+      "note": "Monday, during the session (AP).",
+      "region": "Australia",
+      "value": "9,029.70",
+      "what": "An index of the 200 largest companies on the Australian Securities Exchange."
+    },
+    {
+      "change": null,
+      "changeText": "steady",
+      "group": "Currencies",
+      "key": true,
+      "name": "EUR/PLN",
+      "note": "Monday 07:00 quote (money.pl); the złoty remains stable against the euro.",
+      "region": "Poland",
+      "value": "4.3913",
+      "what": "How many złoty one euro costs."
+    },
+    {
+      "change": null,
+      "changeText": "steady",
+      "group": "Currencies",
+      "key": true,
+      "name": "USD/PLN",
+      "note": "Derived from EUR/PLN and EUR/USD on Monday morning (money.pl quotes); no direct quote checked.",
+      "region": "Poland",
+      "value": "≈3.93",
+      "what": "How many złoty one US dollar costs."
+    },
+    {
+      "change": null,
+      "changeText": "higher",
+      "group": "Currencies",
+      "key": false,
+      "name": "EUR/USD",
+      "note": "Monday morning, up from 1.1142 late Friday (AP).",
+      "region": "Global",
+      "value": "1.1167",
+      "what": "How many US dollars one euro costs."
+    },
+    {
+      "change": null,
+      "changeText": "lower",
+      "group": "Currencies",
+      "key": false,
+      "name": "USD/JPY",
+      "note": "Monday morning, down from 158.36 late Friday (AP).",
+      "region": "Japan",
+      "value": "158.16",
+      "what": "How many Japanese yen one US dollar costs."
+    },
+    {
+      "change": -1.5,
+      "changeText": "−1.5%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Brent crude oil",
+      "note": "At 06:29 GMT Monday, after Trump said new strikes on Iran were unlikely while talks continue (Reuters).",
+      "region": "Global",
+      "value": "$96.91",
+      "what": "The global benchmark price for a barrel (159 litres) of crude oil."
+    },
+    {
+      "change": -1,
+      "changeText": "−1.0%",
+      "group": "Commodities",
+      "key": false,
+      "name": "WTI crude oil",
+      "note": "At 06:29 GMT Monday (Reuters).",
+      "region": "US",
+      "value": "$89.85",
+      "what": "The US benchmark price for a barrel of crude oil."
+    },
+    {
+      "change": 0.9,
+      "changeText": "+0.9%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Gold",
+      "note": "Spot price at 08:30 Warsaw time; it rose while oil prices and US yields eased (Goldreporter).",
+      "region": "Global",
+      "value": "$4,100.50",
+      "what": "Price of one troy ounce (31.1 g) of gold, a traditional safe-haven asset."
+    },
+    {
+      "change": null,
+      "changeText": "little changed",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 10-year Treasury yield",
+      "note": "Bloomberg-based wrap (FinancialJuice) says +1 bp to 4.87%; Goldreporter says it eased 2 bp — sources differ on direction, the level is near 4.85–4.87%.",
+      "region": "US",
+      "value": "≈4.87%",
+      "what": "The interest rate the US government pays to borrow for 10 years; a benchmark for loans worldwide."
+    }
+  ],
+  "marketsAsOf": "Monday 9 Nov morning: Asian closes for Tokyo, Seoul and Taipei; Hong Kong, Shanghai and Sydney during the session; Europe early trading; oil 06:29 GMT; gold 08:30 Warsaw; US figures are Friday 6 Nov closes.",
+  "quiz": [
+    {
+      "answer": 2,
+      "explain": "Reuters linked the fall to Trump's comments; the risk premium shrinks when traders see less chance of escalation.",
+      "options": [
+        "OPEC announced a big production increase",
+        "The Strait of Hormuz was fully reopened by Iran",
+        "Trump said new attacks on Iran were unlikely while talks continue, lowering the risk premium",
+        "US inventories collapsed"
+      ],
+      "q": "Why did oil prices fall on Monday morning even though new explosions were reported near the Strait of Hormuz?"
+    },
+    {
+      "answer": 3,
+      "explain": "The claim came via Iranian state media and Reuters said it could not be verified.",
+      "options": [
+        "Iran had closed Hormuz to all ships permanently",
+        "The US had signed a ceasefire",
+        "Iran had sunk a US warship",
+        "Navigation aids in the southern Strait of Hormuz were destroyed and no unauthorised vessels passed overnight"
+      ],
+      "q": "What did an Iranian Revolutionary Guards Navy official claim on Monday?"
+    },
+    {
+      "answer": 0,
+      "explain": "A surplus (glut) normally pushes prices down until output falls or demand recovers.",
+      "options": [
+        "Supply exceeded demand by about 1.1 million barrels a day in September and 1.4 million in October",
+        "Demand exceeds supply by 1.4 million barrels a day",
+        "Supply and demand are exactly balanced",
+        "Oil stocks are at record lows"
+      ],
+      "q": "According to a JPMorgan report cited by Reuters, what is happening to the oil market's balance?"
+    },
+    {
+      "answer": 1,
+      "explain": "Concentrated critical infrastructure: one gas source supplies many plants.",
+      "options": [
+        "Khor Mor is a nuclear plant",
+        "Its gas fuels power stations across the region, so stopping it cut 2,500–2,800 MW of generation",
+        "It controls Iraq's oil exports",
+        "Drones damaged every power line"
+      ],
+      "q": "Why does a single strike on the Khor Mor gas field cause blackouts across much of Iraq's Kurdistan region?"
+    },
+    {
+      "answer": 3,
+      "explain": "The board said it had no reason to believe secrets were compromised and still has confidence in Huang.",
+      "options": [
+        "Jensen Huang has resigned",
+        "A ban on sales to China",
+        "A merger with TSMC",
+        "An independent investigation by a committee of independent directors after reports that the CEO was targeted by a foreign intelligence effort"
+      ],
+      "q": "What exactly did Nvidia's board announce on Sunday?"
+    },
+    {
+      "answer": 2,
+      "explain": "Upstream cost pressure, weak downstream demand.",
+      "options": [
+        "Factories cut prices to win customers",
+        "The yuan doubled in value",
+        "High energy costs from the Middle East war raised factory costs, but weak household demand limits how much is passed on to consumers",
+        "Food prices exploded"
+      ],
+      "q": "China's producer prices rose 5.7% while consumer prices rose only 0.7%. Which explanation did Reuters give?"
+    },
+    {
+      "answer": 0,
+      "explain": "Limiting short selling removes selling pressure; the fund adds buying demand.",
+      "options": [
+        "Cut the limit on intraday short sales of borrowed shares from 30% to 3% and activated a NT$500 billion stabilisation fund",
+        "Closed the stock exchange",
+        "Raised interest rates",
+        "Banned foreign investors"
+      ],
+      "q": "What did Taiwan's regulators do to stop the stock market slide?"
+    },
+    {
+      "answer": 1,
+      "explain": "Investors cut the value of expected profits that may be lost to the seizure.",
+      "options": [
+        "Japan banned cigarettes",
+        "Russia placed its local units under temporary management, and Russia produced about a quarter of the group's operating profit",
+        "Its CEO was arrested",
+        "It missed a debt payment"
+      ],
+      "q": "Japan Tobacco shares fell about 16% in Tokyo. Why was the fall so large?"
+    },
+    {
+      "answer": 2,
+      "explain": "There will be no trial, but prosecutors must still establish the chronology and preparation.",
+      "options": [
+        "The suspect was released; the case is closed",
+        "A second suspect was arrested abroad",
+        "The gunman died in hospital; prosecutors say the terrorism investigation into how the attack was prepared continues",
+        "The trial began"
+      ],
+      "q": "Kraków attack: what happened early on Monday, and what does it mean for the case?"
+    },
+    {
+      "answer": 0,
+      "explain": "Different definitions give different totals; neither figure could be independently verified.",
+      "options": [
+        "They use different counting rules: only records explicitly naming the war versus a broader method including non-combat and unspecified records",
+        "One group counts only Ukrainian deaths",
+        "Rosstat published both numbers",
+        "They refer to different countries"
+      ],
+      "q": "Why do hacker groups' estimates of Russia's war deaths range from about 394,000 to 450,000?"
+    },
+    {
+      "answer": 3,
+      "explain": "A minority government needs others to abstain; Liberman rejects that route.",
+      "options": [
+        "He has 61 seats but no ministers",
+        "The president withdrew his mandate",
+        "Elections were annulled",
+        "His coalition would have about 48 of 120 seats, and Liberman refuses to back a minority government relying on Arab parties"
+      ],
+      "q": "Why is Eisenkot's path to forming a government difficult?"
+    },
+    {
+      "answer": 1,
+      "explain": "Electrification cuts emissions when the power is clean and also improves energy security.",
+      "options": [
+        "Banning cars by 2030",
+        "A voluntary target to raise electricity's share of global final energy use from about 21% to 35% by 2035",
+        "Doubling coal output",
+        "A global carbon tax of $100"
+      ],
+      "q": "What is the main goal Türkiye is promoting at COP31?"
+    },
+    {
+      "answer": 3,
+      "explain": "The Atlantic route from West Africa to the Canaries is among the most dangerous migration routes.",
+      "options": [
+        "To Italy via Libya",
+        "To the UK across the Channel",
+        "To Greece via Turkey",
+        "The Atlantic route to Spain's Canary Islands"
+      ],
+      "q": "At least 34 people died when a migrant boat sank off Senegal. Which route were such boats typically taking?"
+    },
+    {
+      "answer": 2,
+      "explain": "Lower yields reduce the opportunity cost of holding gold, which pays no interest.",
+      "options": [
+        "A bank failure",
+        "China banned gold exports",
+        "Oil prices and US bond yields eased",
+        "Gold mines closed"
+      ],
+      "q": "Market snapshot: according to Goldreporter, what else moved as gold rose about 0.9% to around $4,100 on Monday morning?"
+    },
+    {
+      "answer": 0,
+      "explain": "Same sector, different flows: foreign selling in Seoul versus state support in Taipei.",
+      "options": [
+        "The Kospi gave up an early rally as foreign investors sold for a seventh session, while Taiwan's support measures lifted the Taiex",
+        "Korea raised taxes",
+        "Korean markets were closed",
+        "Taiwan cut interest rates"
+      ],
+      "q": "Market snapshot: why did Korea's Kospi close lower while Taiwan's Taiex jumped?"
+    },
+    {
+      "answer": 3,
+      "explain": "Speeches can confirm or dampen expectations of a hike.",
+      "options": [
+        "The ECB is choosing a new president",
+        "The euro is being replaced",
+        "The ECB sets Polish interest rates",
+        "Euro-area inflation hit 4.0% in October, and markets see a strong chance of a rate rise in December"
+      ],
+      "q": "Why do ECB officials' speeches this week matter to markets?"
+    },
+    {
+      "answer": 1,
+      "explain": "Banks pass higher policy rates on to loan rates; that is the transmission mechanism.",
+      "options": [
+        "They become cheaper",
+        "They become more expensive, cooling borrowing and demand",
+        "Nothing changes",
+        "They are banned"
+      ],
+      "q": "Review (Lesson 7): if the ECB raises its policy rate, what is the most likely effect on new euro loans?"
+    },
+    {
+      "answer": 0,
+      "explain": "Investors demand higher yields to compensate for inflation, so existing fixed-coupon bonds lose value.",
+      "options": [
+        "Prices fall and yields rise",
+        "Prices rise and yields fall",
+        "Both rise",
+        "Both fall"
+      ],
+      "q": "Review (Lesson 8): if investors expect higher inflation, what tends to happen to existing bond prices and yields?"
+    },
+    {
+      "answer": 2,
+      "explain": "Real growth removes price changes: roughly nominal minus inflation of the deflator.",
+      "options": [
+        "Population growth",
+        "Exports",
+        "Price increases (the GDP deflator)",
+        "Government spending"
+      ],
+      "q": "Review (Lesson 9): US GDP grew 5.6% in nominal terms and 3.4% in real terms in Q3 2026. What does the gap mainly reflect?"
+    }
+  ],
+  "status": "complete",
+  "stories": [
+    {
+      "category": "Politics & conflict",
+      "everyday": "Oil prices feed into petrol, diesel, heating and transport costs everywhere, including Poland; a calmer Gulf would ease these costs, while new escalation would push them up again.",
+      "id": "hormuz-qeshm",
+      "importance": 5,
+      "markets": [
+        "Brent crude",
+        "WTI crude",
+        "Tanker shipping",
+        "Gulf stock markets"
+      ],
+      "rank": 1,
+      "rankWhy": "The Strait of Hormuz is the world's most important oil chokepoint, so every new attack there affects fuel prices, inflation and markets worldwide.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Arab News / Reuters: Iran says no unauthorised vessels transited Hormuz overnight",
+          "url": "https://www.arabnews.com/middle-east/iran-says-no-unauthorized-vessels-transited-strait-of-hormuz-overnight-after-navigation-aids-destroyed-3010655"
+        },
+        {
+          "name": "Daily Pakistan: Qeshm Island targeted in overnight US strikes, Tehran claims no damage",
+          "url": "https://en.dailypakistan.com.pk/09-Nov-2026/irans-qeshm-island-targeted-in-overnight-us-strikes-tehran-claims-no-damage"
+        },
+        {
+          "name": "CBS News live updates: Iran war",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+        },
+        {
+          "name": "Times of Israel liveblog, 9 Nov 2026",
+          "url": "https://www.timesofisrael.com/liveblog-november-9-2026/"
+        }
+      ],
+      "terms": [
+        "Chokepoint",
+        "Risk premium"
+      ],
+      "title": "Explosions on Iran's Qeshm Island overnight, which Iranian officials blame on US forces; Iran's navy says navigation aids in the Strait of Hormuz were destroyed",
+      "what": "Iranian state media reported explosions on Qeshm Island, next to the Strait of Hormuz, late on Sunday; a Hormozgan provincial official said the sites were reportedly targeted by American forces but that no vital infrastructure was damaged. The US had not confirmed the strikes in the reports read for this edition. On Monday an Iranian Revolutionary Guards Navy official told state media that navigation aids (lights and markers that guide ships) in the southern part of the strait had been destroyed and that no unauthorised vessels passed overnight; Reuters noted the claim could not be verified and the official did not say who destroyed them. On Sunday President Trump told CNN that new attacks on Iran were 'highly unlikely' if talks progress, while Secretary of State Marco Rubio said the two sides were not on the verge of a breakthrough and called Iran's demands outrageous. Iran's foreign minister Abbas Araghchi said mediators had stopped travelling since the US midterm elections.",
+      "why": "The strait is a chokepoint: a narrow passage that a large share of the world's seaborne oil and gas must pass through, so even small incidents raise the risk premium (the extra price traders pay for fear of a supply cut). Mixed signals — softer words from Trump, but new explosions and Iran tightening its grip on shipping — keep both a deal and a further escalation possible. Reuters quoted analysts saying markets are pricing an optimistic de-escalation even though no US–Iran deal exists."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Lower crude prices reach Polish petrol stations with a delay of days to weeks, and also depend on the złoty–dollar exchange rate, because oil is priced in dollars.",
+      "id": "oil-monday",
+      "importance": 4,
+      "markets": [
+        "Brent crude",
+        "WTI crude",
+        "Oil producers",
+        "Airlines"
+      ],
+      "rank": 2,
+      "rankWhy": "Oil is the most important commodity for inflation everywhere; its direction after last week's 16% fall shapes fuel prices and central-bank decisions.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "TimesLIVE / Reuters: Oil falls as Trump signals restraint on Iran",
+          "url": "https://www.timeslive.co.za/news/world/2026-11-09-oil-falls-as-trump-signals-restraint-on-iran-amid-fresh-hormuz-shipping-attacks/"
+        },
+        {
+          "name": "KSAT / AP: Asian markets bounce back",
+          "url": "https://www.ksat.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+        }
+      ],
+      "terms": [
+        "Glut",
+        "Risk premium",
+        "Benchmark"
+      ],
+      "title": "Oil slips again as Trump plays down new strikes on Iran; JPMorgan says the market is heading back towards a glut",
+      "what": "Brent crude, the global benchmark, was down 1.5% at $96.91 a barrel at 06:29 GMT on Monday and US WTI was down 1% at $89.85, Reuters reported; an AP snapshot a little earlier showed Brent 1.8% lower at $96.60. Brent fell 16% last week, its steepest weekly drop since the start of the Covid-19 pandemic. A JPMorgan report on Friday estimated that supply exceeded demand by 1.1 million barrels per day in September and 1.4 million in October, as Middle East flows recover, output rises elsewhere and demand is weak.",
+      "why": "Prices fell because Trump said new attacks on Iran were unlikely while talks continue, which lowers the risk premium, Reuters reported. But tankers are still being hit near Hormuz, so analyst Sugandha Sachdeva (SS WealthStreet) told Reuters a geopolitical premium remains without a real deal, while Tim Waterer (KCM Trade) said markets are unsure whether Trump's softer tone after the midterms will last. A glut (more supply than demand) normally pushes prices down until production is cut or demand recovers."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Many pension funds and index funds, including ones Poles hold through retirement savings, own large amounts of Nvidia because it is one of the biggest companies in global indices.",
+      "id": "nvidia-probe",
+      "importance": 4,
+      "markets": [
+        "Nvidia",
+        "Nasdaq 100",
+        "Semiconductor stocks"
+      ],
+      "rank": 3,
+      "rankWhy": "Nvidia is one of the world's most valuable companies and the key supplier of AI chips, so doubts about its leadership move tech stocks worldwide and touch US–China security.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Nvidia: Statement from the Board of Directors",
+          "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+        },
+        {
+          "name": "ABC7 / AP: Nvidia announces investigation of CEO",
+          "url": "https://abc7.com/post/nvidia-announces-investigation-ceo-jensen-huang-amid-foreign-intelligence-target-allegations/20024740/"
+        },
+        {
+          "name": "KSAT / AP: Asian markets bounce back",
+          "url": "https://www.ksat.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+        },
+        {
+          "name": "Investing.com: European equities flatline as markets digest Nvidia board probe",
+          "url": "https://www.investing.com/news/stock-market-news/european-equities-flatline-as-markets-digest-nvidia-board-probe-5010645"
+        },
+        {
+          "name": "FinancialJuice: Asia market wrap",
+          "url": "https://features.financialjuice.com/2026/11/09/asian-stocks-rebound-as-taiwan-leads-tech-recovery-asia-market-wrap/"
+        }
+      ],
+      "terms": [
+        "Corporate governance",
+        "Independent director"
+      ],
+      "title": "Nvidia's board opens an independent investigation after reports that CEO Jensen Huang was the target of a foreign intelligence effort",
+      "what": "On Sunday, 8 November, Nvidia's board said a committee of independent directors, helped by outside lawyers, will investigate after recent reporting that chief executive Jensen Huang was the target of a foreign intelligence effort. The board said it has no reason to believe national security or company secrets were compromised and that it has confidence in Huang, who supports the review. AP reported that this followed Huang's acknowledgment of an intimate relationship with a business executive whom US intelligence reportedly concluded was gathering information for Beijing, according to The New York Times. Nvidia shares listed in Frankfurt fell about 6% in early European trading on Monday, Investing.com reported.",
+      "why": "Nvidia designs the chips that power most AI data centres and the US restricts sales of its most advanced chips to China, so any hint that its leader was targeted by Chinese intelligence raises security questions as well as governance ones. Corporate governance (the rules for how a company is run and its managers supervised) requires boards to investigate such risks independently. A FinancialJuice market wrap said Nasdaq 100 futures fell as much as 1% at the Asian open on the news before recovering."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "If Chinese factories charge more, the price of Chinese-made goods in Europe — from electronics to household items — can rise later; at the same time, weak Chinese demand limits what China buys from Europe.",
+      "id": "china-prices",
+      "importance": 4,
+      "markets": [
+        "China stocks",
+        "Commodities",
+        "Australian dollar"
+      ],
+      "rank": 4,
+      "rankWhy": "China is the world's biggest manufacturer, so its factory prices feed into the cost of goods sold everywhere, while weak consumer prices show soft demand in the second-largest economy.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Business Recorder / Reuters: China's factory-gate inflation at fastest in nearly 4-1/2 years",
+          "url": "https://www.brecorder.com/news/40448099/chinas-factory-gate-inflation-at-fastest-in-nearly-4-12-years-in-october-while-cpi-rise-moderates"
+        },
+        {
+          "name": "SMM: NBS October CPI up 0.7% YoY, PPI up 5.7%",
+          "url": "https://news.metal.com/newscontent/MF6RB3J44K6L6A5RFCQWGMLUTCWJKB6D3SBP7MI-nbs-october-cpi-up-07-yoy-ppi-up-57-yoy-with-growth-widening-from-the-previous-month"
+        },
+        {
+          "name": "FXStreet: China's CPI eases to 0.7%",
+          "url": "https://www.fxstreet.com/news/breaking-chinas-cpi-inflation-eases-to-07-yoy-in-october-vs-08-expected-202611090131"
+        }
+      ],
+      "terms": [
+        "Producer price index (PPI)",
+        "Core inflation"
+      ],
+      "title": "China's factory-gate prices rise 5.7% a year, the fastest since mid-2022, while consumer inflation slows to 0.7%",
+      "what": "China's producer price index (PPI, prices that factories charge for goods as they leave the factory gate) rose 5.7% in October from a year earlier, up from 5.0% in September and above the 5.3% expected in a Reuters poll — the biggest rise since June 2022. Consumer prices (CPI) rose 0.7% year on year, down from 0.9% and just below the 0.8% expected. Core CPI, which excludes volatile food and energy, rose 0.8%, down from 1.0%.",
+      "why": "Reuters reported that high energy prices caused by the Middle East war raised costs in coal mining, oil and gas, chemicals and other energy-heavy industries. Those costs are not fully passed on to shoppers because household demand is weak. Capital Economics' Nguyen Hoang Nam said the energy shock would keep inflation elevated for months but fade next year, while Pinpoint's Zhang Zhiwei said strong exports may explain why Beijing has not launched big new stimulus."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Chip and AI shares are a big part of global indices, so their swings also move the funds and pension savings of European investors.",
+      "id": "asia-rebound",
+      "importance": 4,
+      "markets": [
+        "Taiex",
+        "TSMC",
+        "MediaTek",
+        "Nikkei 225",
+        "Kospi",
+        "Samsung Electronics",
+        "SK Hynix",
+        "SoftBank Group"
+      ],
+      "rank": 5,
+      "rankWhy": "Asia's chip-heavy markets lost heavily last week; Taiwan's emergency measures and the rebound show how authorities try to stop a market rout.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Startup Fortune: Taiwan stocks jump as regulators curb short selling",
+          "url": "https://startupfortune.com/taiwan-stocks-jump-as-regulators-curb-short-selling-and-deploy-a-stabilization-fund/"
+        },
+        {
+          "name": "FinancialJuice: Asian stocks rebound as Taiwan leads tech recovery",
+          "url": "https://features.financialjuice.com/2026/11/09/asian-stocks-rebound-as-taiwan-leads-tech-recovery-asia-market-wrap/"
+        },
+        {
+          "name": "KSAT / AP: Asian markets bounce back",
+          "url": "https://www.ksat.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+        },
+        {
+          "name": "SBS: Kospi falls 0.8% after failing to hold gains",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008837715"
+        },
+        {
+          "name": "Investing.com: Japan stocks higher at close",
+          "url": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-251-5010591"
+        }
+      ],
+      "terms": [
+        "Short selling",
+        "Stabilisation fund"
+      ],
+      "title": "Asian stocks rebound after last week's rout; Taiwan curbs short selling and deploys a NT$500 billion stabilisation fund",
+      "what": "Taiwan's Taiex closed 4.9% higher on Monday, ending a seven-session losing streak, after the Financial Supervisory Commission cut the limit on intraday short sales of borrowed shares from 30% to 3% of a stock's average daily volume and raised the margin required for short sales from 90% to 130%. The National Financial Stabilization Fund, authorised on Friday, has NT$500 billion available to buy shares. Japan's Nikkei 225 closed 2.3% higher at 58,775.50 (AP; Investing.com reported +2.5%, so sources differ slightly), while South Korea's Kospi gave up an early 2% gain and closed 0.81% lower at 5,018.85 as foreign investors sold for a seventh straight session. On Friday the Taiex had fallen 4.51% and TSMC 4.69%.",
+      "why": "Last week AI and chip stocks were sold on worries that the Democrats' midterm wins could slow AI data-centre building, AP reported. Short selling means borrowing shares and selling them, hoping to buy them back cheaper; limiting it removes some selling pressure, and a state fund buying shares adds demand. Such measures can calm panic but cannot change companies' underlying profits."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "It shows why Europe, including Poland, spends heavily on protecting energy infrastructure: concentrated facilities are vulnerable to cheap drones.",
+      "id": "khor-mor",
+      "importance": 4,
+      "markets": [],
+      "rank": 6,
+      "rankWhy": "A single drone cut most of the electricity supply of Iraq's Kurdish region, home to several million people, showing how the regional war hits energy systems.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Al Jazeera: Drone attack suspends production at Iraq's Khor Mor gasfield",
+          "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield"
+        },
+        {
+          "name": "Gulf News: Drone strike on Khor Mor cuts power production by 2.8 GW",
+          "url": "https://gulfnews.com/world/mena/drone-strike-on-iraqs-khor-mor-gas-field-cuts-power-production-by-28-gw-ministry-1.500740627"
+        }
+      ],
+      "terms": [
+        "Critical infrastructure"
+      ],
+      "title": "Drone strike halts Iraq's Khor Mor gas field and cuts power to most of the Kurdistan region",
+      "what": "An explosive-laden drone hit the Khor Mor gas field in Sulaimaniyah province of Iraq's Kurdistan region on Sunday night, causing a fire and halting production. The Kurdistan Regional Government's electricity ministry said 2,500–2,800 megawatts of generation went off the grid because gas to power stations in Erbil, Sulaimaniyah, Bazian, Chamchamal and Duhok stopped; Al Jazeera reported more than 70% of the region lost power. Iraq's Prime Minister Ali al-Zaidi said an initial assessment found no casualties and ordered a joint investigation; no group has claimed responsibility. The same facility was hit by a drone in November 2025.",
+      "why": "Khor Mor's gas fuels most of the region's power plants, so one strike on one site caused a regional blackout. Al Jazeera said it was unclear whether the attack was linked to the US–Israeli war with Iran. The ministry said it was using the Dokan and Darbandikhan hydroelectric dams and plants that can burn other fuels to keep hospitals and water stations running."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Two days of national mourning ended on Monday; the attack has prompted a debate on gun permits and has raised security for the 11 November Independence Day events.",
+      "id": "krakow-gunman-dies",
+      "importance": 3,
+      "markets": [],
+      "rank": 7,
+      "rankWhy": "Poland's deadliest attack in decades: the gunman's death ends any trial, but the terrorism investigation and the national debate on guns and radicalisation continue.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "klodzko24.eu: Nie żyje sprawca strzelaniny w Krakowie",
+          "url": "https://klodzko24.eu/kraj/nie-zyje-sprawca-strzelaniny-w-krakowie-prokuratura-bada-smierc-9-osob-nowe-ustalenia/s93wRIG273nIZ5CjZOeS"
+        },
+        {
+          "name": "A News: Gunman behind deadly Krakow shootings dies in hospital",
+          "url": "https://www.anews.com.tr/europe/2026/11/09/gunman-behind-deadly-krakow-shootings-dies-in-hospital-polish-police-say"
+        },
+        {
+          "name": "CBS News: Poland mourns Krakow mass shooting victims",
+          "url": "https://www.cbsnews.com/news/poland-mourns-krakow-mass-shooting-victims-terrorism-probe/"
+        },
+        {
+          "name": "Super Express live report, 9 Nov",
+          "url": "https://www.se.pl/krakow/dramat-w-krakowie-strzaly-na-rynku-glownym-sa-doniesienia-o-rannych-aa-j9KR-i4b6-47km.html"
+        }
+      ],
+      "terms": [
+        "Terrorist offence",
+        "Voivode"
+      ],
+      "title": "Kraków attack: the gunman dies in hospital; prosecutors say the terrorism investigation will continue",
+      "what": "The 24-year-old man who opened fire near Kraków's Main Market Square on Saturday died in hospital at about 04:30 on Monday from wounds suffered in an exchange of fire with police, Małopolska voivode (regional governor) Krzysztof Kleczar and police said; he had undergone at least three operations. Six people were killed in Kraków — four Poles, a British man and an Austrian woman — and 15 were injured, including two police officers; his father, mother and sister were found shot dead in the family flat in Ostrowiec Świętokrzyski, so nine people died in total besides the attacker. Investigators secured 11 firearms; the father legally owned more than ten guns, CBS reported. Polish media reported that autopsies were scheduled for Monday and that the National Prosecutor's Office will keep investigating the preparation and chronology of the attack, which it classifies as a terrorist offence.",
+      "why": "A suspect's death means no trial, but prosecutors still have to establish how the attack was planned and whether anyone helped. Interior Minister Marcin Kierwiński said the man held 'ultranationalistic' views and appeared fascinated by far-right ideologies (CBS/AP); the motive has not been officially stated. Reports differ slightly on his age (24 in Polish reports, 25 in one wire report)."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "US decisions on Iran, Ukraine and interest rates affect fuel prices, the dollar and security in Europe, including Poland.",
+      "id": "trump-60min",
+      "importance": 3,
+      "markets": [
+        "US dollar",
+        "US Treasuries"
+      ],
+      "rank": 8,
+      "rankWhy": "The US president's first long interview after his party's midterm defeat signals possible cabinet changes, continued pressure on the Fed and his line on Iran and Ukraine.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "CBS News: Full transcript of Ross Douthat's interview with President Trump",
+          "url": "https://www.cbsnews.com/news/read-the-full-transcript-of-ross-douthats-interview-with-president-trump/"
+        },
+        {
+          "name": "Times of Israel liveblog, 9 Nov 2026",
+          "url": "https://www.timesofisrael.com/liveblog-november-9-2026/"
+        },
+        {
+          "name": "CBS News live updates: Iran war",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+        }
+      ],
+      "terms": [
+        "Central bank independence",
+        "Midterm elections"
+      ],
+      "title": "Trump on '60 Minutes': the Iran war and petrol prices hurt Republicans, 'a few changes' to his cabinet are coming, and the Fed should cut rates",
+      "what": "In a CBS '60 Minutes' interview with Ross Douthat broadcast on Sunday, President Donald Trump said he was not on the ballot and blamed the midterm losses partly on 'bad messaging, maybe by me', voter anger over the Iran war and petrol prices. He said the Iran war had been won and that he would make the same decision again; he also cited a 'great dislike' of Israel among voters, the Times of Israel reported. He said he expects 'a few changes' in his cabinet without naming anyone, expressed confidence in Defence Secretary Pete Hegseth and said Marco Rubio would stay. He again said interest rates should be much lower and criticised the Federal Reserve's board, and said the Ukraine war would end soon.",
+      "why": "After a midterm defeat, presidents often reshuffle staff and adjust policies to regain voters before the next election. Repeated presidential pressure on the Fed matters to markets because central-bank independence (the central bank's freedom to set rates without political orders) is what makes its inflation promises credible."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "EU climate policy, which COP outcomes influence, affects Polish energy bills, coal power and the cost of emissions permits.",
+      "id": "cop31-opens",
+      "importance": 3,
+      "markets": [
+        "Carbon permits",
+        "Utilities",
+        "Clean-energy stocks"
+      ],
+      "rank": 9,
+      "rankWhy": "Nearly 200 countries negotiate how to cut emissions and pay for adaptation; decisions shape energy policy and costs for years.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "A News (Anadolu): COP31 climate summit opens in Türkiye",
+          "url": "https://www.anews.com.tr/turkey/2026/11/09/cop31-climate-summit-opens-in-turkiye-amid-calls-for-stronger-action"
+        },
+        {
+          "name": "Rio Times: UN climate talks open Monday in Turkey",
+          "url": "https://www.riotimesonline.com/un-climate-talks-open-monday-turkey-antalya"
+        },
+        {
+          "name": "10 Things Global News, 9 Nov 2026",
+          "url": "https://www.10things.news/p/10-things-global-news-9th-november"
+        }
+      ],
+      "terms": [
+        "Electrification",
+        "Adaptation finance",
+        "COP"
+      ],
+      "title": "COP31 climate summit opens in Antalya with a push to raise electricity's share of energy use, and without an official US delegation",
+      "what": "The UN climate conference COP31 opened on Monday in Antalya, Türkiye, and runs until 20 November, with a leaders' summit on 11–12 November. Türkiye holds the presidency, led by Environment Minister Murat Kurum, while Australia's Chris Bowen is President of Negotiations. Türkiye is seeking support for a voluntary goal to raise electricity's share of global final energy use from about 21% today to 35% by 2035. The US government is not taking part in the negotiations; a group of 19 US lawmakers is attending. The UN Environment Programme projects about 2.6°C of warming this century even if current pledges are fully met.",
+      "why": "Electrification (using electricity instead of burning fuels directly, e.g. heat pumps and electric cars) cuts emissions when power comes from clean sources, and the energy shock from the Gulf war has made energy security part of the argument. Adaptation finance is a key fight: estimates cited by A News put developing countries' needs at about $305 billion a year by 2035, against $28–32 billion of international public adaptation finance in 2024."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "The talks' outcome matters for Poland's security, and Russian refinery outages can affect regional diesel prices.",
+      "id": "ukraine-kirishi",
+      "importance": 3,
+      "markets": [
+        "Diesel",
+        "Brent crude"
+      ],
+      "rank": 10,
+      "rankWhy": "Strikes on refineries and power grids are now central to the war on both sides, a day before US-brokered talks in Abu Dhabi.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Kyiv Independent: Ukrainian forces reportedly strike Russia's second-largest oil refinery",
+          "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-russias-second-largest-oil-refinery-in-overnight-drone-attack/"
+        },
+        {
+          "name": "Ukrinform: Drones strike Russia's second-largest oil refinery",
+          "url": "https://www.ukrinform.net/rubric-ato/4182797-drones-strike-russias-secondlargest-oil-refinery.html"
+        },
+        {
+          "name": "Interfax-Ukraine: Air defense downs 276 of 317 enemy targets",
+          "url": "https://en.interfax.com.ua/news/general/1233155.html"
+        },
+        {
+          "name": "10 Things Global News, 9 Nov 2026",
+          "url": "https://www.10things.news/p/10-things-global-news-9th-november"
+        }
+      ],
+      "terms": [
+        "Refinery",
+        "Energy ceasefire"
+      ],
+      "title": "Ukrainian drones hit Russia's Kirishi refinery again; Russia sends 317 drones at Ukraine overnight",
+      "what": "Ukrainian drones struck the Kirishi refinery (KINEF) in Russia's Leningrad region overnight into Monday; Russia's second-largest refinery by volume, it can process about 20 million tonnes of crude a year. Governor Aleksandr Drozdenko confirmed hits on the industrial zone; reports of how many drones he said were downed differ (81 per Ukrinform, 113 per the Kyiv Independent), and debris hit a flat in the town. Ukraine's air force said Russia launched 317 drones at Ukraine overnight, of which 276 were shot down or jammed by 08:00, with impacts recorded at 31 locations. Talks between the US, Russia and Ukraine, with European participation, are due in Abu Dhabi on 10–11 November.",
+      "why": "Ukraine targets refineries to cut Russia's fuel export earnings and military fuel supply; Russia targets Ukraine's power grid to cause blackouts as winter begins. Senior Ukrainian officials told the Kyiv Independent that Kyiv never agreed to the energy ceasefire Trump announced on 31 October."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "The scale of losses shapes Russia's labour shortages, its economy and its willingness to negotiate — all relevant to security on Poland's eastern border.",
+      "id": "rosstat-leak",
+      "importance": 3,
+      "markets": [],
+      "rank": 11,
+      "rankWhy": "If authentic, the data would be the most detailed evidence yet of Russia's human losses in the war, which Moscow keeps secret.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Kyiv Independent: Hackers claim leaked Russian data reveals up to 450,000 war-related deaths",
+          "url": "https://kyivindependent.com/hackers-claim-leaked-russian-data-reveals-up-to-450-000-war-related-deaths-in-ukraine/"
+        },
+        {
+          "name": "Ukrainska Pravda: Hackers claim leaked Russian statistics reveal more than 400,000 war-related deaths",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/08/8061862/"
+        },
+        {
+          "name": "10 Things Global News, 9 Nov 2026",
+          "url": "https://www.10things.news/p/10-things-global-news-9th-november"
+        }
+      ],
+      "terms": [
+        "Demography",
+        "Verification"
+      ],
+      "title": "Hackers say leaked Russian statistics records show about 394,000–450,000 war-related deaths; the data cannot be independently verified",
+      "what": "Two hacker groups, the Belarusian Cyberpartisans and Silent Crow, say they took records from the internal demography database of Rosstat, Russia's statistics service, covering death certificates from February 2022 to August 2026. The Cyberpartisans count at least 393,881 deaths where the record explicitly names the military operation as the cause; Silent Crow, using a broader method, estimates up to 450,100. The Kyiv Independent said it could not verify the records; Rosstat acknowledged cyberattacks between 29 October and 1 November but denied any leak. The independent outlet Mediazona, with BBC Russian, had by 6 November confirmed 285,881 Russian military deaths by name from open sources, a count it says is incomplete.",
+      "why": "Russia does not publish military casualty figures, so researchers rely on obituaries, inheritance records and leaks. Different counting rules (strictly combat deaths vs. all war-linked deaths) produce different totals, which is why the two groups differ by about 56,000."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Israeli politics affects the Middle East war that drives oil prices and the region's security.",
+      "id": "israel-coalition",
+      "importance": 3,
+      "markets": [],
+      "rank": 12,
+      "rankWhy": "Whether Israel gets a new government after Netanyahu affects the Gaza, Lebanon and Iran fronts.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Ynet: Eisenkot opens coalition talks as Liberman rejects minority government",
+          "url": "https://www.ynetnews.com/article/rjya9vaaml"
+        },
+        {
+          "name": "ANI: Eisenkot-Liberman to meet today over government formation",
+          "url": "https://www.aninews.in/news/world/middle-east/israel-eisenkot-liberman-to-meet-today-over-govt-formation-yashar-party-boss-to-head-change-bloc-in-knesset20261109132520/"
+        },
+        {
+          "name": "10 Things Global News, 9 Nov 2026",
+          "url": "https://www.10things.news/p/10-things-global-news-9th-november"
+        }
+      ],
+      "terms": [
+        "Minority government",
+        "Caretaker government"
+      ],
+      "title": "Israel: Eisenkot opens coalition talks, but Liberman rules out a minority government that depends on Arab parties",
+      "what": "Gadi Eisenkot, leader of the Yashar party, formally opened coalition negotiations on Sunday evening after receiving the mandate from President Isaac Herzog, starting with Naftali Bennett and with a meeting with Avigdor Liberman of Yisrael Beytenu set for Monday. His proposed coalition would have about 48 seats, far short of the 61 needed in the 120-seat Knesset, so it would need outside support or abstentions. Liberman has said he will not help establish a minority government relying on Arab parties' votes or abstentions and has threatened to vote against one. Benjamin Netanyahu remains caretaker prime minister.",
+      "why": "In a parliamentary system the government needs the confidence of a majority of parliament; a minority government survives only if other parties abstain. Ynet reported that some in Eisenkot's bloc suspect Liberman is preparing for talks to fail, which he denies."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "It shows how quickly geopolitical decisions can wipe out shareholder value, including for foreign investors in global funds.",
+      "id": "japan-tobacco",
+      "importance": 3,
+      "markets": [
+        "Japan Tobacco",
+        "Nikkei 225"
+      ],
+      "rank": 13,
+      "rankWhy": "A giant consumer company lost about a sixth of its market value on Monday, after a similar drop on Friday, because of a state seizure, a lesson in political risk for foreign firms in Russia.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Investing.com: Japan Tobacco shares face 19% slump after Kremlin seizes Russian assets",
+          "url": "https://www.investing.com/news/stock-market-news/japan-tobacco-shares-face-19-slump-after-kremlin-seizes-russian-assets-5006368"
+        },
+        {
+          "name": "Investing.com: Japan stocks higher at close of trade; Nikkei 225 up 2.51%",
+          "url": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-251-5010591"
+        }
+      ],
+      "terms": [
+        "Political risk",
+        "Temporary management"
+      ],
+      "title": "Japan Tobacco shares fall about 16% in Tokyo after Russia places its local units under temporary state-appointed management",
+      "what": "Japan Tobacco closed 15.95% lower at ¥5,269 on Monday, the biggest loser in the Nikkei 225 and at a 52-week low, Investing.com data showed; on Friday the shares had been indicated about 19% lower, at ¥6,269, from Thursday's record close of ¥7,769, with buy and sell orders unmatched. A decree signed by President Vladimir Putin on 5 November placed four units of Japan Tobacco International in Russia under temporary management by a Russian company, Industrial Assets, without giving a reason; it transfers control but not legal ownership. Russia accounts for about 10% of the group's revenue and about 25% of its operating profit, Investing.com reported. Japan protested through diplomatic channels and asked Moscow to reverse the move.",
+      "why": "Investors value a company by the profits it is expected to make; losing control of a business that produced about a quarter of operating profit cuts those expected profits sharply. Western and Japanese firms that stayed in Russia after 2022 face this political risk (the risk that government action destroys value)."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Migration across the Mediterranean and Atlantic is a central political issue in the EU, of which Poland is a member.",
+      "id": "senegal-boat",
+      "importance": 3,
+      "markets": [],
+      "rank": 14,
+      "rankWhy": "One of the deadliest migrant shipwrecks of the year on the Atlantic route to Spain's Canary Islands, which is again busy.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Arab News / AFP: Migrant boat sinks off Senegal, 34 killed",
+          "url": "https://www.arabnews.com/world/migrant-boat-sinks-off-senegal-34-killed-authorities-3010579"
+        },
+        {
+          "name": "Al Jazeera: Small boat sinks off Senegal",
+          "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal"
+        },
+        {
+          "name": "allAfrica: All of Africa Today, 9 Nov 2026",
+          "url": "https://allafrica.com/stories/202611090111.html"
+        }
+      ],
+      "terms": [
+        "Irregular migration",
+        "Atlantic route"
+      ],
+      "title": "At least 34 people die when a migrant boat sinks off Senegal; the search for the missing continues",
+      "what": "A boat carrying migrants sank off the Loumpoul dunes in Kébémer department, between Dakar and Saint-Louis in north-western Senegal, AFP reported; the death toll rose to at least 34 according to the Senegalese Press Agency, after an earlier interior ministry figure of 21 bodies recovered. One survivor was reported and an unknown number of people are still missing. Reports differ on whether the boat sank on Friday or Saturday. Police separately said they intercepted 142 migrants on a similar boat on Friday.",
+      "why": "The Atlantic route from West Africa to the Canary Islands is one of the world's most dangerous migration routes; people leave because of poverty, unemployment and insecurity, and use crowded wooden boats. Spain's island of El Hierro declared a migration emergency last week after more than 3,300 arrivals."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Expect traffic restrictions and heavy police presence in central Warsaw on Wednesday, a public holiday when most shops are closed.",
+      "id": "poland-march",
+      "importance": 3,
+      "markets": [],
+      "rank": 15,
+      "rankWhy": "The 11 November Independence Day march is Poland's biggest political street event, and security is tighter after the Kraków attack.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Euronews Polska: Premier Tusk: nikt nie zamierza zakazać Marszu Niepodległości",
+          "url": "https://pl.euronews.com/2026/11/09/premier-tusk-nikt-nie-zamierza-zakazac-marszu-niepodleglosci-oto-plan-obchodow-11-listopad"
+        },
+        {
+          "name": "Interia: Deklaracja premiera ws. Marszu Niepodległości",
+          "url": "https://wydarzenia.interia.pl/kraj/news-deklaracja-premiera-ws-marszu-niepodleglosci-zwykla-dezinfor,nId,23570810"
+        },
+        {
+          "name": "farmer.pl: Tusk o Marszu Niepodległości",
+          "url": "https://farmer.pl/fakty/polska/tusk-o-marszu-niepodleglosci-nie-ma-zakazu-jest-apel-o-spokoj-i-brak-kontrmanifestacji,186819.html"
+        }
+      ],
+      "terms": [
+        "Freedom of assembly",
+        "Disinformation"
+      ],
+      "title": "Tusk calls reports of a ban on the Independence March 'disinformation' and appeals for calm; Warsaw tightens security for 11 November",
+      "what": "Prime Minister Donald Tusk wrote on social media on Monday that nobody intends to ban the Independence March in Warsaw on 11 November, calling the speculation disinformation, and urged participants to avoid aggression and others to avoid counter-demonstrations, Euronews Polska reported. The organisers say the march will go ahead as planned, and President Karol Nawrocki confirmed on 6 November that he will attend. Warsaw has added patrols and concrete barriers around the Royal Route; weapons are banned in the city on 11 November and the Mazovian voivode banned pyrotechnics. The march is due to start at about 14:30 and end at the National Stadium.",
+      "why": "After the Kraków attack, which the interior minister linked to far-right fascination, some commentators had asked whether the march should go ahead; its organisers objected to linking the attack to political groups without evidence. Governments generally can restrict assemblies only for specific safety reasons, under constitutional protection of freedom of assembly."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "An ECB hike would make euro loans dearer and would affect the złoty's exchange rate and the NBP's own decisions on Polish rates.",
+      "id": "ecb-week",
+      "importance": 3,
+      "markets": [
+        "Stoxx 600",
+        "DAX",
+        "Euro",
+        "Euro-area bonds"
+      ],
+      "rank": 16,
+      "rankWhy": "Euro-area inflation at 4% means the ECB may raise rates, which would raise borrowing costs for 350 million Europeans and influence Poland's NBP.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Investing.com: European equities flatline as markets digest Nvidia board probe",
+          "url": "https://www.investing.com/news/stock-market-news/european-equities-flatline-as-markets-digest-nvidia-board-probe-5010645"
+        },
+        {
+          "name": "Eurostat on X: Euro area inflation expected at 4.0% in October 2026",
+          "url": "https://x.com/EU_Eurostat/status/2117919796272783523"
+        },
+        {
+          "name": "Le Private Banker: Euro zone inflation hits 4% as energy costs surge 20.8%",
+          "url": "https://leprivatebanker.com/2026/11/05/euro-zone-inflation-hits-4-as-energy-costs-surge-20-8-and-ecbs-zigman-sees-rather-big-chance-of-december-hike/"
+        }
+      ],
+      "terms": [
+        "Supply shock",
+        "Flash estimate"
+      ],
+      "title": "European shares open flat as a week of ECB speeches begins; markets see a strong chance of a December rate rise after inflation hit 4%",
+      "what": "European stocks were little changed in early Monday trading — the Stoxx 600 down 0.1%, Germany's DAX flat and France's CAC 40 down 0.3% — as investors digested the Nvidia probe, Investing.com reported. ECB President Christine Lagarde and chief economist Philip Lane are among officials speaking this week. Eurostat's flash estimate put euro-area inflation at 4.0% in October, up from 3.8% in September and a three-year high, with energy prices up 20.8% on a year earlier; markets are pricing a strong likelihood of an ECB rate rise in December, Investing.com said.",
+      "why": "The ECB targets 2% inflation over the medium term; when inflation runs well above target, raising the interest rate makes borrowing dearer and cools demand. The current surge is mainly energy prices from the Gulf war, a supply shock, which makes the decision harder: higher rates cannot produce more oil, but they can stop high energy costs spreading into wages and other prices."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Africa's most industrialised economy is an important trade partner for the EU; stable local government matters for its infrastructure and investment.",
+      "id": "sa-final-results",
+      "importance": 2,
+      "markets": [
+        "South African rand"
+      ],
+      "rank": 17,
+      "rankWhy": "South Africa's local councils will be run by coalitions in most places, which affects services such as water and electricity for millions.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Mail & Guardian: ANC barely hangs on as DA and ActionSA make gains in final IEC results",
+          "url": "https://mg.co.za/news/south-africa/2026-11-08-anc-barely-hangs-on-as-da-and-actionsa-make-gains-in-final-iec-results/"
+        },
+        {
+          "name": "The Witness: IEC confirms 14.9 million voters cast ballots",
+          "url": "https://witness.co.za/news/kzn/2026/11/08/2026-local-election-results-iec-confirms-149-million-voters-cast-ballots/"
+        },
+        {
+          "name": "allAfrica: All of Africa Today, 9 Nov 2026",
+          "url": "https://allafrica.com/stories/202611090111.html"
+        }
+      ],
+      "terms": [
+        "Hung council",
+        "Coalition"
+      ],
+      "title": "South Africa's final local election results: ANC 30.76%, DA 24.64%; most councils will need coalitions",
+      "what": "The Electoral Commission (IEC) announced final results of the municipal elections on Sunday evening: the ANC won 30.76% nationally, its worst result ever, the Democratic Alliance 24.64%, Jacob Zuma's MK party 9.76% and the EFF 6.22%. The Mail & Guardian counted 74 of 213 councils with an outright majority for one party; allAfrica's summary put hung councils at 127. Turnout figures differ between reports (14.9 million voters per The Witness, 15.6 million per the Mail & Guardian; allAfrica reported 52%).",
+      "why": "A hung council is one where no party has a majority, so parties must bargain to elect a mayor and pass budgets. Coalitions in South Africa's cities have often been unstable, which can delay decisions on basic services."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "The Catholic Church's social teaching shapes debates on poverty and welfare in many countries, including Poland.",
+      "id": "pope-argentina",
+      "importance": 2,
+      "markets": [],
+      "rank": 18,
+      "rankWhy": "The first papal speech in Argentina since Leo XIV's election touches on poverty and austerity in a country where about a third of people are poor.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "America Magazine: Pope Leo meets with President Milei",
+          "url": "https://www.americamagazine.org/vatican-dispatch/2026/11/08/pope-leo-president-milei-argentina/"
+        },
+        {
+          "name": "1News: Pope Leo arrives in Argentina with subtle swipe at Milei's spending cuts",
+          "url": "https://www.1news.co.nz/2026/11/09/pope-leo-arrives-in-argentina-with-subtle-swipe-at-mileis-spending-cuts/"
+        }
+      ],
+      "terms": [
+        "Austerity",
+        "Poverty rate"
+      ],
+      "title": "Pope Leo XIV meets President Milei in Buenos Aires and says 'the economy must serve the person'",
+      "what": "Pope Leo XIV arrived in Buenos Aires from Montevideo on Sunday afternoon, was welcomed by President Javier Milei and visited the Casa Rosada presidential palace with him. In a speech to officials, lawmakers and diplomats he called for safeguarding democracy and dialogue, said the economy must serve people and that growth must also benefit the disadvantaged, and warned about corruption, organised crime and trafficking, America Magazine reported. Milei said Argentina was 'profoundly honored' and praised the late Pope Francis.",
+      "why": "Milei has cut public spending sharply to bring down inflation; critics, including retirees protesting over pensions, say the cuts hurt the poor. The pope did not criticise Milei by name, but outlets such as 1News read his words as a subtle reference to the cuts. America Magazine noted that 32.3% of Argentines live in poverty."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Industrial robots are used widely in European factories, including in Poland's car and appliance plants.",
+      "id": "softbank-abb",
+      "importance": 2,
+      "markets": [
+        "SoftBank Group",
+        "ABB"
+      ],
+      "rank": 19,
+      "rankWhy": "China blocking a $5.4 billion deal shows how security reviews now shape global tech mergers.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "KSAT / AP: Asian markets bounce back",
+          "url": "https://www.ksat.com/business/2026/11/09/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/"
+        },
+        {
+          "name": "Forbes Australia: China blocks $5.4 billion ABB Robotics deal with SoftBank",
+          "url": "https://www.forbes.com.au/news/innovation/china-blocks-abb-robotics-deal-with-softbank/"
+        }
+      ],
+      "terms": [
+        "Investment screening"
+      ],
+      "title": "SoftBank shares fall 4.2% as it tries to save its $5.4 billion ABB robotics deal after China blocked the sale of the Chinese part",
+      "what": "SoftBank Group shares fell 4.2% in Tokyo on Monday, AP reported, as the company tried to salvage its $5.4 billion purchase of ABB's robotics business. ABB said last week that China's Office of the Working Mechanism for Foreign Investment Security Review had prohibited the acquisition of ABB Robotics in China, and that the two companies were working constructively on the deal. SoftBank agreed to buy the unit, which employs about 7,000 people in China, the US and Sweden, in October 2025 as part of its push into 'physical AI' (robots run by AI).",
+      "why": "Many countries now screen foreign takeovers for national-security risks; robotics and AI are seen as strategic technologies, so deals involving them face extra scrutiny. Reports say the firms are considering carving out the Chinese part of the business."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Bangladesh is a major clothing exporter to Europe, so political instability there can affect supply chains for EU retailers.",
+      "id": "hasina-passport",
+      "importance": 2,
+      "markets": [],
+      "rank": 20,
+      "rankWhy": "The possible return of Bangladesh's ousted leader, who has been sentenced to death in absentia, could inflame politics in one of the world's most populous countries.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Ground News summary of Reuters report: Hasina seeks new passport",
+          "url": "https://ground.news/article/hasina-seeks-new-passport-in-clearest-sign-of-bangladesh-return-report"
+        },
+        {
+          "name": "The Daily Star: Reuters reports Hasina plans to return",
+          "url": "https://www.thedailystar.net/news/bangladesh/news/reuters-reports-hasina-plans-return-surrender-4220991"
+        }
+      ],
+      "terms": [
+        "In absentia",
+        "Extradition"
+      ],
+      "title": "Bangladesh's ousted leader Sheikh Hasina asks for a new passport, signalling plans to return from India",
+      "what": "Sheikh Hasina, the former prime minister who fled to India in 2024, has asked Bangladesh's mission in Delhi for a new passport and national identity card, according to a letter seen by Reuters and reported on Monday. Her London lawyers asked for the documents to be processed quickly, citing the reported revocation of her previous ones; her aides say she plans to return by December. A Bangladeshi court sentenced her to death in November 2025 over the deadly crackdown on the 2024 uprising, charges she denies, and her Awami League party remains banned.",
+      "why": "Bangladesh wants India to extradite her; if she returns voluntarily, the authorities would face the question of enforcing the sentence, which could trigger unrest among supporters and opponents."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "The risk to Europe is low, but outbreaks in Africa test global health systems and funding that Poland also contributes to through the EU and WHO.",
+      "id": "ebola-update",
+      "importance": 2,
+      "markets": [],
+      "rank": 21,
+      "rankWhy": "The largest Ebola outbreak in DR Congo's history continues, with more than 10,000 cases; the risk is very high nationally but low globally.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "WHO Disease Outbreak News DON625",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625"
+        },
+        {
+          "name": "UN News: Two new Ebola vaccines to join DR Congo clinical trial",
+          "url": "https://news.un.org/en/story/2026/11/1168742"
+        }
+      ],
+      "terms": [
+        "Case fatality ratio",
+        "Ring vaccination"
+      ],
+      "title": "Ebola: WHO's latest report counts 10,668 confirmed cases and 5,198 deaths in DR Congo; Kenya has had no new case since 19 October",
+      "what": "WHO's latest Disease Outbreak News, published on Friday 6 November, reported 10,668 confirmed cases and 5,198 deaths from Bundibugyo-virus Ebola in DR Congo as of 3 November, with active transmission in 51 health zones. Kenya had 9 confirmed cases and 2 deaths, with no new cases since 19 October, and Nigeria reported one imported case on 20 October, who was evacuated to Switzerland. WHO rates the risk as very high in DR Congo, high for neighbouring countries and low globally, and advises against travel or trade restrictions. Two new vaccines designed for the Bundibugyo strain — from Oxford/Serum Institute of India and from Moderna — are to join a trial in the country, the UN said on 5 November.",
+      "why": "There is no licensed vaccine for the Bundibugyo species, which is why this outbreak has grown so large; trials use 'ring vaccination', vaccinating contacts of cases and their contacts to build a ring of immunity. The case fatality ratio (share of confirmed cases who die) is about 49%."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "The funds ministry manages Poland's EU cohesion money, which pays for roads, railways and local investment.",
+      "id": "poland-2050-posts",
+      "importance": 2,
+      "markets": [],
+      "rank": 22,
+      "rankWhy": "A small rebalancing inside Poland's ruling coalition after a minister's resignation; it affects who runs EU-funds policy.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Rzeczpospolita: Nowe rozdanie w rządzie Tuska",
+          "url": "https://www.rp.pl/polityka/art45454461-nowe-rozdanie-w-rzadzie-tuska-polska-2050-dostanie-dwa-stanowiska"
+        }
+      ],
+      "terms": [
+        "Coalition government",
+        "Deputy minister"
+      ],
+      "title": "Polska 2050 to get two deputy-minister posts after losing the funds ministry, RMF FM reports",
+      "what": "Polska 2050 MPs Łukasz Osmalak and Bartosz Romowicz are to become deputy ministers in the infrastructure ministry and the ministry of funds and regional policy, according to unofficial RMF FM information reported by Rzeczpospolita; the prime minister is expected to sign the nominations in the second half of November. The party lost the funds ministry after Katarzyna Pełczyńska-Nałęcz resigned; Donald Tusk gave it to Anna Bartol, Poland's permanent representative to the EU since 2024. The posts followed a meeting between Tusk and Szymon Hołownia.",
+      "why": "In coalition governments, parties share ministries roughly in line with their weight; when one loses a post, it is often compensated elsewhere to keep the coalition stable."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "Type 2 diabetes affects millions of people in Poland; the study also adds evidence for why exercise helps.",
+      "id": "miro1-study",
+      "importance": 1,
+      "markets": [],
+      "rank": 23,
+      "rankWhy": "A basic-science finding about type 2 diabetes; any treatment is years away.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "ThePrint: US study uncovers a new clue to why muscles resist insulin",
+          "url": "https://theprint.in/feature/us-study-uncovers-a-new-clue-to-why-muscles-resist-insulin/3094013/"
+        }
+      ],
+      "terms": [
+        "Insulin resistance"
+      ],
+      "title": "US researchers link a muscle protein, Miro1, to insulin resistance in type 2 diabetes",
+      "what": "A study in Nature Communications led by senior author John P. Kirwan found that the protein Miro1 builds up in the skeletal muscle of people with type 2 diabetes and appears to interfere with insulin signalling, ThePrint reported on Monday. Reducing Miro1 in mouse muscle improved glucose uptake, and in a 12-week aerobic exercise trial people who exercised had better insulin sensitivity and lower Miro1. Kirwan called the protein a new therapeutic target.",
+      "why": "Insulin resistance means cells respond weakly to insulin, so blood sugar stays high. The results come from mice, lab samples and a small trial; they show an association in humans, not proof that lowering Miro1 causes the improvement."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "",
+      "id": "thailand-nsc",
+      "importance": 1,
+      "markets": [],
+      "rank": 24,
+      "rankWhy": "A precautionary meeting; it shows how far the Gulf war's energy risks reach.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Bernama: Top news headlines in Southeast Asia, 9 Nov 2026",
+          "url": "https://bernama.com/en/world/news.php?id=2631819"
+        }
+      ],
+      "terms": [],
+      "title": "Thailand's National Security Council meets on risks from Middle East instability and cyberattacks",
+      "what": "Thailand's National Security Council was due to meet on Monday to assess threats from Middle East instability and cyberattacks, as the government prepares for possible energy and supply-chain disruptions, Bernama's regional round-up reported.",
+      "why": "Thailand imports most of its oil, much of it from the Gulf, so a prolonged disruption at Hormuz would hit its economy."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "",
+      "id": "singapore-av",
+      "importance": 1,
+      "markets": [
+        "ComfortDelGro"
+      ],
+      "rank": 25,
+      "rankWhy": "A local safety step in the testing of self-driving vehicles.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Bernama: Top news headlines in Southeast Asia, 9 Nov 2026",
+          "url": "https://bernama.com/en/world/news.php?id=2631819"
+        }
+      ],
+      "terms": [
+        "Autonomous vehicle"
+      ],
+      "title": "Singapore suspends U-turn testing by ComfortDelGro's self-driving vehicles at a junction after a near-accident",
+      "what": "ComfortDelGro must suspend U-turn testing for its autonomous vehicles at a junction in Punggol after a near-accident on 5 November, and the Land Transport Authority is investigating, Bernama reported.",
+      "why": "Regulators test self-driving cars in stages and pause specific manoeuvres when problems appear; such incidents shape how fast robotaxis spread."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "",
+      "id": "somalia-hirshabelle",
+      "importance": 1,
+      "markets": [],
+      "rank": 26,
+      "rankWhy": "A regional political decision in Somalia, aimed at easing clan tensions.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "allAfrica: All of Africa Today, 9 Nov 2026",
+          "url": "https://allafrica.com/stories/202611090111.html"
+        }
+      ],
+      "terms": [
+        "Federalism"
+      ],
+      "title": "Somalia's president announces that the capital of HirShabelle state will move to the Hiiraan region",
+      "what": "President Hassan Sheikh Mohamud announced that the capital of HirShabelle, a federal member state made up of the Hiiraan and Middle Shabelle regions, will move to Hiiraan, allAfrica reported. The move aims to address grievances, especially from the Hawadle clan, over representation and the capital's location; a formal decision by the regional leadership is still required under the state constitution.",
+      "why": "In Somalia's federal system, clan balance is central to political stability; disputes over capitals and posts can turn violent."
+    }
+  ],
+  "watch": [
+    "COP31 UN climate conference in Antalya, Türkiye: opens Monday 9 November and runs to 20 November; leaders' summit on 11–12 November (Türkiye Today, Rio Times).",
+    "Israel: Gadi Eisenkot meets Avigdor Liberman on Monday 9 November in coalition talks; Liberman rejects a minority government (Ynet, ANI).",
+    "US–Russia–Ukraine talks in Abu Dhabi on Tuesday and Wednesday, 10–11 November, with European participation (10 Things / Kyiv Post).",
+    "US consumer price index for October: Tuesday 10 November, 08:30 US Eastern = 14:30 Warsaw; investors expect headline prices to rise 0.3% on the month (Investing.com).",
+    "ECB: President Christine Lagarde and chief economist Philip Lane are among officials speaking this week, as markets price a likely December rate rise (Investing.com).",
+    "Poland: Kraków attack investigation continues after the gunman died in hospital early Monday; autopsies scheduled for 9 November."
+  ],
+  "window": "Sun 8 Nov 20:00 → Mon 9 Nov 10:00 (Warsaw time)",
+  "id": "2026-11-09-1000",
+  "updatedAt": "2026-11-09T09:13:22.915108Z"
+}
