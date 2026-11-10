@@ -1,0 +1,1204 @@
+{
+  "bigPicture": "US inflation surprised on the upside: consumer prices rose 0.4% in October and core prices 0.3%, so a Federal Reserve rate hike on 9 December now looks almost certain, and traders even see a small chance of a half-point move. That turned a global rebound into a US sell-off in tech shares, bonds and gold, while Nvidia slid again over its CEO's alleged links to a Chinese agent and Anthropic set a share-sale range valuing it at up to $1.4 trillion. Oil kept falling, with Brent briefly below $90 for the first time since August, after Trump said he would hold off on new strikes on Iran, though the US blockade stays. In Abu Dhabi, Russia, Ukraine and the US opened their first three-way talks since February as Russian strikes cut power in six Ukrainian regions. UNICEF warned that drones now cause two in three child casualties in Sudan's war.",
+  "createdAt": "2026-11-10T19:00:00Z",
+  "glossary": [
+    {
+      "def": "Inflation measured without food and energy prices, which jump around a lot, to show the underlying trend.",
+      "example": "US core CPI rose 0.3% in October 2026.",
+      "term": "Core inflation"
+    },
+    {
+      "def": "One hundredth of a percentage point (0.01 percentage point); 25 basis points = 0.25 percentage points.",
+      "example": "The US 10-year yield rose about 7–9 basis points after the CPI data.",
+      "term": "Basis point"
+    },
+    {
+      "def": "The first sale of a private company's shares to the public, after which they trade on a stock exchange.",
+      "example": "Anthropic plans to list on Nasdaq around 19 November.",
+      "term": "Initial public offering (IPO)"
+    },
+    {
+      "def": "A company's value counting all shares that exist or could be created from options and convertible securities.",
+      "example": "Up to about $1.4 trillion for Anthropic at $78 a share.",
+      "term": "Fully diluted valuation"
+    },
+    {
+      "def": "A group of 17 metallic elements used in strong magnets, electronics, catalysts and some (nickel-metal-hydride) batteries, though not in lithium-ion batteries; most are refined in China.",
+      "example": "China extended its pause on rare-earth export controls to 10 January 2027.",
+      "term": "Rare earths"
+    },
+    {
+      "def": "Government rules that require a licence for, or ban, the export of certain goods or technologies, often for security reasons.",
+      "example": "China's suspended 0.1% rare-earth rule.",
+      "term": "Export controls"
+    },
+    {
+      "def": "The ability to produce a good at a lower opportunity cost than another country; the basis for gains from trade.",
+      "example": "A country slower at everything can still gain by specialising.",
+      "term": "Comparative advantage"
+    },
+    {
+      "def": "A tax on imported goods, either a percentage of value (ad valorem) or a fixed amount per unit (specific).",
+      "example": "US imports from the EU face an all-in 10% tariff under Section 301 since 24 July 2026, which replaced a temporary 10% Section 122 surcharge.",
+      "term": "Tariff"
+    },
+    {
+      "def": "The loss of total welfare when a tax or restriction stops trades that would have benefited both sides.",
+      "example": "In the lesson's example the tariff created a deadweight loss of 50.",
+      "term": "Deadweight loss"
+    },
+    {
+      "def": "A group of countries with no tariffs between them and one common tariff on goods from outside.",
+      "example": "The EU, which sets tariffs for Poland.",
+      "term": "Customs union"
+    },
+    {
+      "def": "The most dangerous form of undernutrition in children, with very low weight for height or swelling, which can be fatal without treatment.",
+      "example": "UNICEF expects 825,000 Sudanese children under five to suffer it this year.",
+      "term": "Severe acute malnutrition"
+    },
+    {
+      "def": "A person who has fled their country and asked for protection as a refugee, but whose claim has not yet been decided.",
+      "example": "Niger hosts more than 500,000 refugees and asylum-seekers.",
+      "term": "Asylum-seeker"
+    },
+    {
+      "def": "Money, mostly from richer countries, to help developing countries cut emissions and adapt to climate change.",
+      "example": "The goal agreed at COP29 in Baku in 2024 is at least $300 billion a year by 2035.",
+      "term": "Climate finance"
+    },
+    {
+      "def": "A coordinated work stoppage across many sectors of an economy, usually called by trade unions.",
+      "example": "Spain's 24-hour strike on 11 November.",
+      "term": "General strike"
+    }
+  ],
+  "label": "Tue 10 Nov · evening",
+  "lessonNumber": 13,
+  "markets": [
+    {
+      "change": -0.9,
+      "changeText": "−0.9%",
+      "group": "Stocks · Americas",
+      "key": true,
+      "name": "S&P 500",
+      "note": "Intraday, about 13:05 New York (19:05 Warsaw), per Yahoo Finance; fell after hotter-than-expected inflation raised Fed rate-hike bets.",
+      "region": "US",
+      "value": "≈7,482",
+      "what": "An index of 500 large US companies, the main gauge of the US stock market."
+    },
+    {
+      "change": -1.5,
+      "changeText": "−1.5%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Nasdaq Composite",
+      "note": "Intraday, about 13:05 New York (Yahoo Finance); tech shares hit hardest by higher rate expectations and Nvidia's slide.",
+      "region": "US",
+      "value": "≈24,887",
+      "what": "An index of shares listed on the Nasdaq exchange, heavy in technology firms."
+    },
+    {
+      "change": -0.6,
+      "changeText": "−0.6%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Dow Jones Industrial Average",
+      "note": "Intraday, about 13:07 New York (Yahoo Finance).",
+      "region": "US",
+      "value": "≈52,065",
+      "what": "A price-weighted index of 30 large US companies."
+    },
+    {
+      "change": 0.4,
+      "changeText": "+0.3% to +0.5%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "DAX",
+      "note": "Close; sources differ (ad-hoc-news reports 26,347.45, +0.31%, and 26,390.22, +0.47% at 17:31). Rose on cheaper oil and Infineon's results, then gave back most gains after US inflation data.",
+      "region": "Germany",
+      "value": "≈26,350–26,390",
+      "what": "Germany's index of 40 large listed companies."
+    },
+    {
+      "change": 0.7,
+      "changeText": "+0.7%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "Stoxx Europe 600",
+      "note": "Gains narrowed after the US CPI release (ChainCatcher/Gate data); Reuters said the index traded within 1% of its August record in the morning, led by banks.",
+      "region": "Europe",
+      "value": "",
+      "what": "An index of 600 companies from 17 European countries."
+    },
+    {
+      "change": 1.04,
+      "changeText": "+1.04%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "WIG20",
+      "note": "Close (ISBnews). LPP, CD Projekt, Orlen and PKO BP rose; Warsaw is closed on Wednesday for Independence Day.",
+      "region": "Poland",
+      "value": "4,208.46",
+      "what": "Index of the 20 largest companies on the Warsaw Stock Exchange."
+    },
+    {
+      "change": 2.87,
+      "changeText": "+2.87%",
+      "group": "Stocks · Asia-Pacific",
+      "key": true,
+      "name": "Nikkei 225",
+      "note": "Tuesday close (Xinhua): back above 60,000 on cheaper oil and Wall Street's overnight rally.",
+      "region": "Japan",
+      "value": "60,459.58",
+      "what": "Japan's main index of 225 Tokyo-listed companies."
+    },
+    {
+      "change": 4.39,
+      "changeText": "+4.39%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Kospi",
+      "note": "Tuesday close (Seoul Economic Daily): first rebound in four sessions; foreigners net buyers for the first time in eight sessions; Samsung +4.7%, SK hynix +6.7%.",
+      "region": "South Korea",
+      "value": "5,239.13",
+      "what": "South Korea's main stock index."
+    },
+    {
+      "change": 0.44,
+      "changeText": "+0.44%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Hang Seng",
+      "note": "Tuesday close (ad-hoc-news).",
+      "region": "Hong Kong",
+      "value": "24,557.04",
+      "what": "Hong Kong's main stock index."
+    },
+    {
+      "change": null,
+      "changeText": "closed",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Sensex / Nifty 50",
+      "note": "Indian exchanges were shut on 10 November for the Diwali Balipratipada holiday (Business Today).",
+      "region": "India",
+      "value": "",
+      "what": "India's two main stock indices."
+    },
+    {
+      "change": null,
+      "changeText": "NBP fixing",
+      "group": "Currencies",
+      "key": true,
+      "name": "EUR/PLN",
+      "note": "NBP reference rate published on Tuesday (via Finwire); the złoty was little changed before the US data.",
+      "region": "Poland",
+      "value": "4.3895",
+      "what": "How many złoty one euro costs."
+    },
+    {
+      "change": null,
+      "changeText": "NBP fixing",
+      "group": "Currencies",
+      "key": true,
+      "name": "USD/PLN",
+      "note": "NBP reference rate published on Tuesday (via Finwire); a stronger dollar after the US data tends to push this up.",
+      "region": "Poland",
+      "value": "3.9099",
+      "what": "How many złoty one US dollar costs."
+    },
+    {
+      "change": -0.63,
+      "changeText": "−0.63%",
+      "group": "Currencies",
+      "key": false,
+      "name": "EUR/USD",
+      "note": "At 17:20 UTC (FXEmpire): the dollar rallied after the CPI beat raised rate-hike expectations.",
+      "region": "Global",
+      "value": "1.1152",
+      "what": "How many dollars one euro costs."
+    },
+    {
+      "change": null,
+      "changeText": "higher",
+      "group": "Currencies",
+      "key": false,
+      "name": "USD/JPY",
+      "note": "The dollar climbed above 158.50 yen after the data (FXEmpire).",
+      "region": "Japan",
+      "value": "above 158.50",
+      "what": "How many yen one dollar costs."
+    },
+    {
+      "change": -2,
+      "changeText": "about −2% to −3%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Brent crude oil",
+      "note": "Dipped below $90 for the first time since August, then $90.32 at 13:33 UAE time (The National); Reuters/Yahoo put the day's fall at roughly 3% by midday New York. Trump said he would hold off on new strikes on Iran.",
+      "region": "Global",
+      "value": "≈$90",
+      "what": "The main global benchmark price for crude oil, per barrel."
+    },
+    {
+      "change": -2.27,
+      "changeText": "−2.27%",
+      "group": "Commodities",
+      "key": false,
+      "name": "WTI crude oil",
+      "note": "Morning level reported by The National; same Iran-related drivers as Brent.",
+      "region": "US",
+      "value": "$84.77",
+      "what": "The main US benchmark price for crude oil."
+    },
+    {
+      "change": -2.1,
+      "changeText": "about −2%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Gold",
+      "note": "After the CPI release (USAGOLD headline $4,053, −2.1%; ChainCatcher/Gate $4,046): higher expected rates and a firmer dollar reduce gold's appeal.",
+      "region": "Global",
+      "value": "≈$4,046–4,053",
+      "what": "Price of one troy ounce of gold in dollars."
+    },
+    {
+      "change": null,
+      "changeText": "+7 to +9 bp",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 10-year Treasury yield",
+      "note": "After the CPI data (Yahoo Finance: 4.93%, +7 bp; Gate data: 4.952%, +9 bp).",
+      "region": "US",
+      "value": "≈4.93%–4.95%",
+      "what": "The interest rate the US government pays to borrow for 10 years; a benchmark for loans worldwide."
+    },
+    {
+      "change": null,
+      "changeText": "unchanged",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US federal funds target range",
+      "note": "Held in October; futures price a likely hike on 9 December.",
+      "region": "US",
+      "value": "3.75%–4.00%",
+      "what": "The Fed's key short-term interest-rate target."
+    }
+  ],
+  "marketsAsOf": "Tue 10 Nov, about 19:05 Warsaw: European, Polish and Asian closes; US markets still trading (intraday)",
+  "quiz": [
+    {
+      "answer": 2,
+      "explain": "CPI rose 0.4% vs 0.3% expected and core 0.3% vs 0.2%; Governor Waller said a 0.3% core reading could justify even a half-point hike.",
+      "options": [
+        "Headline CPI fell to zero",
+        "The Fed announced an emergency hike on Tuesday",
+        "Headline (+0.4%) and core (+0.3%) prices rose faster than forecast, the same 0.3% core pace as in August and September",
+        "Year-on-year inflation hit a record high"
+      ],
+      "q": "Why did US October inflation data raise expectations of a Fed rate hike?"
+    },
+    {
+      "answer": 0,
+      "explain": "BLS could not compute 12-month changes for indexes lacking October 2025 data.",
+      "options": [
+        "October 2025 prices were never collected because of last year's government shutdown",
+        "The BLS decided to stop publishing it",
+        "Inflation was negative",
+        "The Fed asked BLS to delay it"
+      ],
+      "q": "Why was no year-on-year headline CPI rate published for October 2026?"
+    },
+    {
+      "answer": 3,
+      "explain": "The blockade and Hormuz restrictions remain; prices fell on hopes that the war is winding down.",
+      "options": [
+        "OPEC+ raised output",
+        "The US lifted its naval blockade",
+        "Iran reopened the Strait of Hormuz",
+        "Trump said he would hold off on new strikes on Iran, raising hopes of de-escalation"
+      ],
+      "q": "What was the main reason Brent crude dipped below $90 on Tuesday?"
+    },
+    {
+      "answer": 1,
+      "explain": "Ukraine wants a ceasefire first; Russia wants the terms of a settlement settled before any ceasefire.",
+      "options": [
+        "Russia accepted an immediate ceasefire",
+        "Russia would not agree to an immediate ceasefire without knowing what comes next",
+        "Russia walked out of the talks",
+        "Russia agreed to withdraw from Donbas"
+      ],
+      "q": "What position did Russia's Sergei Lavrov take on Tuesday regarding the Abu Dhabi talks?"
+    },
+    {
+      "answer": 2,
+      "explain": "Discounting distant profits at higher rates lowers their present value most for long-duration growth stocks.",
+      "options": [
+        "Tech firms pay higher taxes",
+        "Tech shares are priced in euros",
+        "Much of their value lies in profits far in the future, which are worth less today when rates rise",
+        "Higher rates raise chip demand"
+      ],
+      "q": "Why do higher expected interest rates hit technology shares like Nasdaq stocks hardest?"
+    },
+    {
+      "answer": 0,
+      "explain": "As lesson 12 explained, higher real yields and a stronger dollar tend to weigh on gold.",
+      "options": [
+        "Higher expected rates and a firmer dollar raise the opportunity cost of holding gold, which pays no interest",
+        "Gold mines increased output",
+        "Central banks sold all their gold",
+        "Gold is used in AI chips"
+      ],
+      "q": "Why did gold fall about 2% after the CPI data?"
+    },
+    {
+      "answer": 3,
+      "explain": "Fully diluted valuation counts every share that could be created, giving a larger share count than basic shares outstanding.",
+      "options": [
+        "Only shares sold in the IPO are counted",
+        "The value after deducting debt",
+        "The value in euros",
+        "All shares that could exist, including options and other convertible securities, are counted"
+      ],
+      "q": "Anthropic's IPO price range of $70–78 per share implies a value of up to about $1.4 trillion. What does 'fully diluted' mean here?"
+    },
+    {
+      "answer": 1,
+      "explain": "The board opened an independent investigation and a class action was filed in San Jose.",
+      "options": [
+        "Nvidia reported a quarterly loss",
+        "A report by The Information that the CEO's alleged affair with a suspected Chinese agent helped at least $7.5 billion of chips reach Chinese firms, plus a shareholder lawsuit",
+        "The US banned all chip exports",
+        "Nvidia cut its dividend"
+      ],
+      "q": "Which fact best explains why Nvidia shares fell again on Tuesday?"
+    },
+    {
+      "answer": 2,
+      "explain": "UNICEF said two in three child casualties were caused by drones, which also hit up to 15 power stations in October, cutting water supplies.",
+      "options": [
+        "One in ten",
+        "About half",
+        "Two in three",
+        "All of them"
+      ],
+      "q": "According to UNICEF, what share of child casualties in Sudan this year were caused by armed drones?"
+    },
+    {
+      "answer": 0,
+      "explain": "UNICEF linked power cuts to unsafe water, cholera pockets and difficulties irrigating crops.",
+      "options": [
+        "Without electricity, water pumps and treatment stop and irrigation becomes too costly, spreading disease such as cholera and worsening malnutrition",
+        "They raise oil prices abroad",
+        "They cause earthquakes",
+        "They stop vaccine production in Europe"
+      ],
+      "q": "Why do strikes on Sudan's power stations worsen health and hunger?"
+    },
+    {
+      "answer": 3,
+      "explain": "The pause, due to lapse on 10 November, now runs to 10 January 2027; licensing for seven heavy rare earths stays in force.",
+      "options": [
+        "It let them take effect on 10 November",
+        "It abolished them permanently",
+        "It extended them to all metals",
+        "It extended the pause until 10 January 2027"
+      ],
+      "q": "What did China decide about its suspended export controls on rare-earth technology and battery materials?"
+    },
+    {
+      "answer": 1,
+      "explain": "He stressed the final decision rests with the White House; a PAC-3 MSE service centre was agreed, but production needs more talks.",
+      "options": [
+        "The White House signed a permanent-base agreement",
+        "He interprets Hegseth's answer as a Pentagon 'green light' for a permanent base, with the final White House decision expected in early December",
+        "US troops will leave Poland",
+        "Poland will start producing PAC-3 missiles next month"
+      ],
+      "q": "What exactly did Poland's defence minister say after meeting the US defence secretary?"
+    },
+    {
+      "answer": 2,
+      "explain": "Święczkowski says only his orders count, while judges convened by Korwin-Piotrowska are changing the rules; the government decides which resolutions to publish.",
+      "options": [
+        "It decides the NBP interest rate",
+        "It sets tax rates",
+        "Rival sides consider each other's decisions invalid, undermining legal certainty about the court that reviews whether laws are constitutional",
+        "It controls the stock exchange"
+      ],
+      "q": "Why is the dispute at Poland's Constitutional Tribunal significant for citizens?"
+    },
+    {
+      "answer": 0,
+      "explain": "Nearly 64,000 fled to Niger in 2026; only about 5% of this year's arrivals have been registered.",
+      "options": [
+        "To Niger, which already hosts more than 500,000 refugees and asylum-seekers",
+        "To Europe",
+        "To South Africa",
+        "To Egypt"
+      ],
+      "q": "Where are most people fleeing northern Nigeria going, according to UNHCR?"
+    },
+    {
+      "answer": 3,
+      "explain": "Warsaw's session ended (17:00 Warsaw, 11:00 New York) before the CPI-driven fall deepened in New York, and gainers included LPP, CD Projekt, Orlen and PKO BP; the DAX also gave back most of its gains late in the day.",
+      "options": [
+        "The NBP cut rates",
+        "Polish inflation data were released",
+        "The WIG20 is not affected by global markets",
+        "Warsaw's session ended before most of the US sell-off, with gains in stocks like LPP, CD Projekt and Orlen"
+      ],
+      "q": "Why did the WIG20 rise about 1% while Wall Street later fell?"
+    },
+    {
+      "answer": 1,
+      "explain": "The EU and Umbrella Group resisted; the G77 and China pushed for it. The current goal is $300 billion a year by 2035.",
+      "options": [
+        "Whether to hold the conference at all",
+        "Whether to put a work programme on climate finance (money from rich to developing countries) on the agenda",
+        "Which country hosts the next Olympics",
+        "The price of oil"
+      ],
+      "q": "What is the main dispute at the COP31 climate talks in Antalya?"
+    },
+    {
+      "answer": 2,
+      "explain": "Adding 25 basis points to both ends gives 4.00%–4.25%, the range futures pricing points to.",
+      "options": [
+        "3.50%–3.75%",
+        "4.25%–4.50%",
+        "4.00%–4.25%",
+        "3.75%–4.25%"
+      ],
+      "q": "Review (lesson 7): if the Fed raises its target range by 0.25 percentage points from 3.75%–4.00%, what is the new range?"
+    },
+    {
+      "answer": 0,
+      "explain": "When yields rise, existing bonds with lower fixed coupons become less attractive, so their prices fall.",
+      "options": [
+        "They fell, because yields and prices move in opposite directions",
+        "They rose",
+        "They were unchanged",
+        "They doubled"
+      ],
+      "q": "Review (lesson 8): the US 10-year yield rose about 7–9 basis points after the CPI data. What happened to the prices of existing 10-year bonds?"
+    },
+    {
+      "answer": 3,
+      "explain": "It spans public and private services nationwide; minimum services keep essential functions running.",
+      "options": [
+        "A strike by generals in the army",
+        "A permanent ban on work",
+        "A strike only in the public sector",
+        "A coordinated stoppage across many sectors, not just one company or industry"
+      ],
+      "q": "Review (lesson 10): Spain's general strike and France's education strike are about wages and conditions. In a labour-market sense, what is a general strike?"
+    }
+  ],
+  "status": "complete",
+  "stories": [
+    {
+      "category": "Economy & markets",
+      "everyday": "Higher US rates make dollar loans dearer worldwide and tend to strengthen the dollar, which makes fuel and other dollar-priced imports more expensive for Poles. Food (+0.5%) and rent rises are what American households feel most.",
+      "id": "us-cpi-october",
+      "importance": 5,
+      "markets": [
+        "S&P 500",
+        "Nasdaq",
+        "US Treasuries",
+        "US dollar",
+        "Gold",
+        "EUR/USD"
+      ],
+      "rank": 1,
+      "rankWhy": "US inflation sets the path of the world's most important interest rate, which moves borrowing costs, the dollar and asset prices for almost every country, Poland included.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "US Bureau of Labor Statistics – CPI October 2026",
+          "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm"
+        },
+        {
+          "name": "Yahoo Finance – October CPI hotter than expected",
+          "url": "https://finance.yahoo.com/economy/article/not-great-october-cpi-inflation-data-comes-in-hotter-than-expected-as-food-and-rent-costs-spike-142323507.html"
+        },
+        {
+          "name": "Investing.com/Reuters – Waller backs December hike",
+          "url": "https://www.investing.com/news/economy-news/feds-waller-plans-to-support-at-least-a-quarterpoint-rate-hike-in-december-5014429"
+        },
+        {
+          "name": "Raisin – Fed holds at 3.75%–4.00% (October)",
+          "url": "https://www.raisin.com/en-us/news/live-breakdown-fed-policy-statement-october-2026/"
+        }
+      ],
+      "terms": [
+        "Consumer price index (CPI)",
+        "Core inflation",
+        "Basis point",
+        "Rate hike"
+      ],
+      "title": "US inflation comes in hotter than expected (+0.4% in October), and a Fed rate hike in December now looks almost certain",
+      "what": "The US consumer price index (CPI, the price of a typical basket of goods and services) rose 0.4% in October from September, after seasonal adjustment, according to the Bureau of Labor Statistics. Economists had expected 0.3%. 'Core' prices, which leave out volatile food and energy, rose 0.3% against a 0.2% forecast, the same pace as in August and September. Food rose 0.5%, energy 0.7% (after a 5.2% jump in September) and shelter 0.3%. No year-on-year figure was published for most items, because October 2025 prices were never collected during last year's government shutdown.",
+      "why": "The Federal Reserve (the US central bank) left its key rate at 3.75%–4.00% in October and has signalled further tightening; a third straight month of 0.3% core inflation strengthens the case for raising it on 8–9 December. Fed Governor Christopher Waller said on Tuesday he would back at least a quarter-point hike and that a half-point move should be considered if core prices rose 0.3% or more, which they did. After the data, futures traders priced roughly an 84% chance of a quarter-point hike and about 15% of a half-point hike, according to Yahoo Finance's report of CME FedWatch."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Cheaper crude usually reaches Polish petrol stations with a delay of days to weeks, helped or hurt by the złoty–dollar rate. Lower oil also eases inflation pressure, which matters for future interest rates on Polish loans.",
+      "id": "iran-strikes-paused-brent-90",
+      "importance": 5,
+      "markets": [
+        "Brent",
+        "WTI",
+        "Airlines",
+        "Oil companies"
+      ],
+      "rank": 2,
+      "rankWhy": "The Iran war and the US blockade around the Strait of Hormuz govern a large share of world oil supply; any sign of de-escalation moves fuel prices and inflation everywhere.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "The National – Brent falls below $90",
+          "url": "https://www.thenationalnews.com/business/energy/2026/11/10/brent-falls-below-90-a-barrel-for-the-first-time-since-august/"
+        },
+        {
+          "name": "Nation Thailand (Reuters) – Trump holds off fresh Iran strikes",
+          "url": "https://www.nationthailand.com/news/world/40073314"
+        },
+        {
+          "name": "Yahoo Finance/Reuters – Wall St futures, Brent below $90",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-climb-102635174.html"
+        },
+        {
+          "name": "Al Jazeera – Saudi Arabia downs missiles over Riyadh",
+          "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline"
+        }
+      ],
+      "terms": [
+        "Naval blockade",
+        "Brent crude",
+        "Strait of Hormuz"
+      ],
+      "title": "Trump says he will hold off on new strikes against Iran but keeps the naval blockade; Brent oil slips below $90 for the first time since August",
+      "what": "After meeting Qatar's prime minister, President Donald Trump said further US military action against Iran did not now seem necessary and that he was holding off on new strikes after appeals from Qatar, Saudi Arabia, the UAE, Bahrain and Kuwait; he said US forces stay ready to resume if needed. The US naval blockade of Iranian ports continues. Iran's foreign ministry spokesman Esmaeil Baghaei defended Tehran's own proposal (US ends the blockade, lifts some sanctions and stops strikes; Iran ends its shipping restrictions in Hormuz), which US Secretary of State Marco Rubio called unrealistic. Brent crude, the global oil benchmark, dipped below $90 a barrel for the first time since August before recovering to about $90.3, while US WTI crude traded near $84.8, down about 2.3%.",
+      "why": "Traders expect that an end to the fighting would eventually free up Gulf oil supply, so prices fall on hopes of de-escalation, The National reported. But the blockade and Iran's restrictions in Hormuz remain, and attacks on tankers in the Gulf rose sharply in October, so supply is still disrupted. Saudi forces also shot down Houthi missiles over Riyadh on Tuesday, a reminder that the conflict is spreading around the region."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "A durable peace would reduce the security risk on Poland's eastern border and could lower energy and defence-related uncertainty; for Ukrainians, grid attacks mean blackouts as temperatures fall.",
+      "id": "abu-dhabi-talks-day1",
+      "importance": 4,
+      "markets": [
+        "Defence stocks",
+        "European gas",
+        "Polish złoty"
+      ],
+      "rank": 3,
+      "rankWhy": "Talks on ending Europe's largest war since 1945 affect Ukraine's and Russia's populations, European security and Poland directly.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Al Jazeera – Russia, Ukraine and US officials hold talks",
+          "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+        },
+        {
+          "name": "TBS News (Reuters) – Russia pounds Ukraine's power grid as talks open",
+          "url": "https://www.tbsnews.net/world/russia-pounds-ukraines-power-grid-talks-open-abu-dhabi-1598631"
+        },
+        {
+          "name": "CBS News – Abu Dhabi talks get underway",
+          "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/"
+        }
+      ],
+      "terms": [
+        "Security guarantee",
+        "Ceasefire"
+      ],
+      "title": "Russia, Ukraine and the US hold their first three-way talks since February in Abu Dhabi as Russia strikes Ukraine's power grid again",
+      "what": "Delegations led by US envoys Steve Witkoff and Jared Kushner, Ukraine's Rustem Umerov and Kremlin aide Vladimir Medinsky opened two days of talks in Abu Dhabi on Tuesday, the first three-way meeting since February. Kushner said recent contacts had 'narrowed the gaps'; Russia's foreign minister Sergei Lavrov said Moscow would not agree to an immediate ceasefire without knowing what comes next. Security guarantees for Ukraine are the main topic. Overnight, Russian air attacks hit 10 Ukrainian regions and five major electrical substations, killing two people in Vinnytsia region and cutting power in six regions including Kyiv, Kharkiv and Dnipropetrovsk, according to Reuters reporting and the grid operator Ukrenergo.",
+      "why": "Both sides are tired after almost five years of full-scale war, Trump said, and an anonymous US official told Al Jazeera both sides had privately shown some flexibility on territory. But the positions remain far apart: Ukraine wants a ceasefire first and refuses to give up land Russia has not captured, while Russia wants all of the Donbas region. Strikes on the power grid before winter add pressure on Ukraine's civilians."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Investment and pension funds holding US tech shares lost value today; Poles saving in gold saw its złoty value dip as well.",
+      "id": "stocks-fall-after-cpi",
+      "importance": 4,
+      "markets": [
+        "S&P 500",
+        "Nasdaq",
+        "Nvidia",
+        "Gold",
+        "US 10-year Treasury",
+        "Bitcoin",
+        "Hims & Hers"
+      ],
+      "rank": 4,
+      "rankWhy": "The inflation surprise turned a global rebound into a sell-off in US tech shares, bonds and gold within hours, affecting savings and pension funds widely.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Yahoo Finance – Stock market today (live)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
+        },
+        {
+          "name": "TheStreet – Stock Market Today Nov 10",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+        },
+        {
+          "name": "CBS News/AFP – Nvidia shareholder suit",
+          "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-shareholder-lawsuit-affair-chinese-spy/"
+        },
+        {
+          "name": "Yahoo Finance – Hims & Hers stock sinks",
+          "url": "https://finance.yahoo.com/markets/stocks/article/hims--hers-stock-sinks-after-q3-results-outlook-disappoints-154547661.html"
+        },
+        {
+          "name": "ad-hoc-news – DAX closes 0.31% higher",
+          "url": "https://ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-am-10-november-0-31-prozent-hoeher/70488192"
+        }
+      ],
+      "terms": [
+        "Bond yield",
+        "Class action",
+        "Safe haven"
+      ],
+      "title": "Wall Street, gold and bonds fall after the inflation surprise; Nvidia slides again over its CEO's alleged links to a Chinese agent",
+      "what": "By early afternoon in New York the S&P 500 was down about 0.9% at roughly 7,482 and the Nasdaq about 1.5% lower, according to Yahoo Finance quotes at about 13:05 New York time (19:05 Warsaw). The US 10-year Treasury yield rose to about 4.93%–4.95%, up 7 to 9 basis points (sources differ slightly). Gold fell around 2% to roughly $4,050 an ounce and Bitcoin briefly dipped below $73,000. Nvidia fell about 6% by midday after The Information reported that CEO Jensen Huang's alleged affair with a businesswoman accused of spying for Beijing helped at least $7.5 billion of its chips reach Chinese firms; Nvidia's board has opened an independent investigation and a shareholder class action was filed in San Jose. Hims & Hers fell as much as 15% after a weak revenue forecast.",
+      "why": "Higher expected US interest rates make future company profits worth less today and make interest-paying bonds more attractive, so expensive tech shares are hit hardest (lesson 7 and 8). Gold pays no interest, so it tends to lose appeal when rates and the dollar rise. Europe had closed before the worst of the US slide: the DAX ended about 0.3%–0.5% higher after giving back most of its morning gains, which sources attributed to the US data."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Most people will feel it indirectly, through index and pension funds that own AI-related shares; the filing allows up to 20% of the offering to go to individual (retail) investors. (Note: Global Desk is written with Claude, an Anthropic product; this story is reported from independent sources only.)",
+      "id": "anthropic-ipo-range",
+      "importance": 4,
+      "markets": [
+        "Nasdaq",
+        "AI and chip stocks",
+        "Nvidia",
+        "Google",
+        "Microsoft"
+      ],
+      "rank": 5,
+      "rankWhy": "It would be one of the largest share sales in history and a test of investors' appetite for AI companies, which drive a big part of world stock-market values.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "TechCrunch – Anthropic sets IPO price range",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+        },
+        {
+          "name": "Yahoo Finance – Stock market today (Anthropic range)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html"
+        }
+      ],
+      "terms": [
+        "Initial public offering (IPO)",
+        "Valuation",
+        "Fully diluted"
+      ],
+      "title": "AI company Anthropic sets its share-sale price range, implying a value of up to about $1.4 trillion",
+      "what": "Anthropic, the US artificial-intelligence company that makes the Claude models, said in an updated filing that it plans to sell 825 million new shares at $70 to $78 each, raising about $57.8–64.4 billion. At the top of the range it would be valued at about $1.404 trillion on a fully diluted basis (counting all shares that could exist), well above the $965 billion of its May funding round. It also agreed to sell $26 billion of non-voting shares at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC. The filing shows nine-month revenue of $33.2 billion and a nine-month net loss of $104 billion; trading on Nasdaq under the ticker 'ANT' is expected around 19 November, CNBC reported.",
+      "why": "An initial public offering (IPO) is when a private company first sells shares to the public; the price range is the company's and its banks' estimate of what investors will pay. Very large losses alongside fast-growing revenue reflect huge spending on computing power, with $900.9 billion of compute and infrastructure commitments disclosed, according to TechCrunch. The size of the offering means its reception will be read as a signal for the whole AI sector, which fell sharply last week."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Far from Poland, but it shows how attacks on electricity grids, as in Ukraine, hit civilians through water and health services.",
+      "id": "sudan-drones-children",
+      "importance": 4,
+      "markets": [],
+      "rank": 6,
+      "rankWhy": "Sudan's war is one of the world's largest humanitarian crises, with millions of children at risk of hunger and disease.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "UN News – Sudan: long-range drone strikes now the norm",
+          "url": "https://news.un.org/en/story/2026/11/1168771"
+        },
+        {
+          "name": "UN Geneva press briefing, 10 Nov 2026",
+          "url": "https://www.unognewsroom.org/story/en/3321/un-geneva-press-briefing-10-november-2026"
+        }
+      ],
+      "terms": [
+        "Severe acute malnutrition",
+        "Humanitarian funding gap"
+      ],
+      "title": "UNICEF: armed drones caused two in three child casualties in Sudan this year, as strikes on power stations cut water supplies",
+      "what": "The UN children's agency UNICEF said on Tuesday that armed drones were responsible for two in three child casualties in Sudan this year, with some drones travelling up to 1,500 km to their targets. Up to 15 power stations were hit in October, and in the last week of the month a power station was struck every day, which stops water pumps and treatment. An estimated 825,000 children under five are expected to suffer severe acute malnutrition this year, and well over 15 million people urgently need shelter. UNICEF's Sudan response is only one-third funded.",
+      "why": "Sudan's war has shifted toward long-range drone strikes on infrastructure, UN News reported. Without power, water systems fail, which spreads diseases such as cholera (already found in pockets of the country) and worsens malnutrition alongside drought."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "European and Polish factories that build batteries, cars and electronics depend on these materials; a lapse could have raised costs or caused shortages. See this edition's lesson on trade and supply chains.",
+      "id": "china-rare-earth-pause-extended",
+      "importance": 3,
+      "markets": [
+        "Rare-earth miners",
+        "Battery makers",
+        "Carmakers"
+      ],
+      "rank": 7,
+      "rankWhy": "China dominates rare-earth processing, so its export rules decide whether factories making electric cars, wind turbines, electronics and weapons worldwide can get key materials.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Tech Times – China extends export-controls pause into January",
+          "url": "https://www.techtimes.com/articles/330364/20261110/china-extends-export-controls-pause-batteries-graphite-diamond-saws-rare-earths-january.htm"
+        },
+        {
+          "name": "The Star – China extends suspension of rare earth export controls until January",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/09/china-extends-suspension-of-rare-earth-export-controls-until-january"
+        },
+        {
+          "name": "Materials Dispatch – China's November export-control deadline explained",
+          "url": "https://www.materialsdispatch.com/en/blog/china-november-2026-export-control-cliff"
+        }
+      ],
+      "terms": [
+        "Rare earths",
+        "Export controls",
+        "Supply chain"
+      ],
+      "title": "China extends its pause on tough rare-earth and battery export controls until 10 January 2027, keeping the US–China trade truce alive",
+      "what": "China's Ministry of Commerce said it will keep suspending a package of export controls first announced in October 2025, which was due to lapse on 10 November; the pause now runs to 10 January 2027. The suspended rules cover rare-earth equipment and technology, high-end lithium battery materials, graphite anodes and industrial synthetic diamonds, plus a rule that would have required licences for foreign-made goods containing even 0.1% (by value) of Chinese-origin rare earths. China's separate licensing system for seven heavy rare earths, in force since April 2025, stays in place. US Treasury Secretary Scott Bessent said the broader truce runs to 10 January 2027.",
+      "why": "Rare earths are metals used in powerful magnets for motors and electronics; China mined about 60% of those used in magnets in 2024 and handled about 91% of separation and refining, figures originally from the International Energy Agency cited by Tech Times. Keeping the pause avoids a supply shock for manufacturers while Washington and Beijing negotiate; Trump is expected to meet Xi Jinping at the APEC summit in Shenzhen later this month. US officials told the Financial Times that China has met about two-thirds of its rare-earth commitments, which Beijing disputes."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "For Poles, it bears on national security and on local economies near bases; it is not yet a final decision, so treat it as a strong signal rather than a done deal.",
+      "id": "poland-us-permanent-base",
+      "importance": 3,
+      "markets": [
+        "Polish defence industry",
+        "Polish złoty"
+      ],
+      "rank": 8,
+      "rankWhy": "A permanent US base would be a long-term change to Poland's and NATO's eastern-flank security, though the final decision is still pending.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Rzeczpospolita – Szef MON po spotkaniu z Hegsethem",
+          "url": "https://www.rp.pl/polityka/art45473421-szef-mon-po-spotkaniu-z-hegsethem-jest-zielone-swiatlo-z-pentagonu"
+        },
+        {
+          "name": "Polsat News – Zielone światło na budowę stałej bazy USA",
+          "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/stala-baza-wojsk-usa-w-polsce-kosiniak-kamysz-mowi-o-przelomie/"
+        }
+      ],
+      "terms": [
+        "NATO eastern flank",
+        "Air defence"
+      ],
+      "title": "Poland's defence minister says the Pentagon has given a 'green light' to a permanent US base; the White House is to decide in early December",
+      "what": "After meeting US Defense Secretary Pete Hegseth in Washington, Deputy Prime Minister and Defence Minister Władysław Kosiniak-Kamysz said Poland interprets Hegseth's answer as a green light from the Pentagon for a permanent US military base in Poland. He stressed that the final decision rests with the White House and is expected in early December. On Tuesday the two sides also agreed on a service and certification centre in Poland for PAC-3 MSE missiles (used in Patriot air-defence systems), which would be the only one outside the United States; missile production would need further talks. The US is reviewing its military presence in Europe, with the review due to end in late 2026.",
+      "why": "Warsaw wants to lock in US forces before the review concludes, as some units could be moved from Germany, Italy and Spain toward NATO's eastern flank, Rzeczpospolita reported. A permanent base signals a longer commitment than rotating troops."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Citizens and companies need a functioning constitutional court to challenge laws; when its legitimacy is disputed, legal certainty suffers.",
+      "id": "poland-constitutional-tribunal-dispute",
+      "importance": 3,
+      "markets": [],
+      "rank": 9,
+      "rankWhy": "A fight over who legally runs Poland's Constitutional Tribunal affects the rule of law and whether court rulings are recognised.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "WP Wiadomości – Spór o TK trwa",
+          "url": "https://wiadomosci.wp.pl/spor-o-tk-trwa-swieczkowski-wydal-nowe-zarzadzenie-7349518210120128a"
+        },
+        {
+          "name": "RDC – Zwołano Zgromadzenie Ogólne Sędziów TK",
+          "url": "https://rdc.pl/aktualnosci/polska/zwolano-zgromadzenie-ogolne-sedziow-tk-beda-zmiany-w-regulaminie-organizacyjnym_WjkEDXP80B9hSiXEqNx6"
+        }
+      ],
+      "terms": [
+        "Constitutional Tribunal",
+        "Rule of law"
+      ],
+      "title": "Poland's Constitutional Tribunal: rival orders as judges meet again and the Tribunal's president insists only his instructions are valid",
+      "what": "Judge Anna Korwin-Piotrowska, who on 30 October suspended Tribunal President Bogdan Święczkowski and Vice-President Bartłomiej Sochański for a month citing a non-executed interim measure of the European Court of Human Rights, convened another General Assembly of judges for 10 November, where judges chosen by the current Sejm are working on changes to the Tribunal's rules. The same day Święczkowski issued an order stating that only instructions from the president or vice-president bind judges and staff and that acts of 'unauthorised' persons have no legal effect. He says police do not let him onto the Tribunal's grounds. Prime Minister Donald Tusk said the government would publish the assembly's resolution in the official journal.",
+      "why": "The dispute stems from years of conflict over how Tribunal judges were appointed; each side considers the other's decisions invalid, so the government's choice of which rulings to publish becomes decisive, WP reported."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "It shows how conflict pushes people across borders into neighbouring poor countries, which host most of the world's refugees, rather than toward Europe.",
+      "id": "nigeria-niger-refugees",
+      "importance": 3,
+      "markets": [],
+      "rank": 10,
+      "rankWhy": "Tens of thousands of people are being displaced into one of the world's poorest countries, with rising malnutrition and disease.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Yahoo News (Reuters) – Violence in northern Nigeria drives tens of thousands into Niger",
+          "url": "https://www.yahoo.com/news/articles/violence-northern-nigeria-drives-tens-114641550.html"
+        },
+        {
+          "name": "UN Geneva press briefing, 10 Nov 2026",
+          "url": "https://www.unognewsroom.org/story/en/3321/un-geneva-press-briefing-10-november-2026"
+        }
+      ],
+      "terms": [
+        "Refugee",
+        "Asylum-seeker"
+      ],
+      "title": "Nearly 64,000 people have fled violence in northern Nigeria to Niger this year, the UN refugee agency says",
+      "what": "UNHCR said on Tuesday that nearly 64,000 people have fled northern Nigeria to Niger in 2026, escaping attacks by Islamist militants and armed gangs, Reuters reported. Niger already hosts more than 500,000 refugees and asylum-seekers, about 327,500 of them Nigerians. More than 23,000 people, over two-thirds of them children, have reached Niger's Diffa region since January, and only about 5% of this year's arrivals have been formally registered. UNHCR is seeking $11.4 million for its response in Niger, Nigeria and Benin.",
+      "why": "Attacks by Boko Haram, ISWAP (Islamic State West Africa Province) fighters and criminal gangs have displaced millions in northern Nigeria over the past decade. Aid agencies report rising malnutrition, respiratory infections and poor sanitation among new arrivals, who have little access to food, water and shelter, UNHCR spokesperson Dominique Hyde said."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Budget squeezes are felt first in public services like schools; Poland faces similar debates over teacher pay and deficits.",
+      "id": "france-education-strike",
+      "importance": 3,
+      "markets": [
+        "French bonds"
+      ],
+      "rank": 11,
+      "rankWhy": "A nationwide education strike in the EU's second-largest economy reflects a wider fight over the 2027 budget and public-sector pay.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Sortiraparis – Education strike and student protest, 10 November",
+          "url": "https://www.sortiraparis.com/en/news/in-paris/articles/357741-education-strike-and-student-demonstration-this-tuesday-november-10-the-latest"
+        },
+        {
+          "name": "France 24 – French PM presents belt-tightening 2027 budget",
+          "url": "https://www.france24.com/en/france/20261001-french-pm-to-present-belt-tightening-2027-budget-including-frozen-wages-and-new-taxes"
+        }
+      ],
+      "terms": [
+        "Budget deficit",
+        "Austerity"
+      ],
+      "title": "French teachers, university staff and students strike again over pay, staffing and planned research job cuts",
+      "what": "Fifteen unions and student organisations called a nationwide education strike and marches on Tuesday, following a 5 November strike when the main secondary teachers' union Snes-FSU said 52% of staff walked out and authorities counted nearly 600,000 marchers (the CGT union said 1.6 million). Demands include unfreezing the public-sector pay index, hiring more teachers, nurses and psychologists, 150,000 more university places and scrapping job cuts in research planned in the 2027 budget. The government has offered a €5 billion plan for high schools and universities and smaller classes, which the unions say falls short.",
+      "why": "France is trying to cut its budget deficit with frozen wages and new taxes in the 2027 budget, according to France 24, which collides with demands for more spending on schools. The movement began in mid-September at a high school near Paris over vacant posts."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Impeachment by the House would not by itself remove Hegseth: removal requires a two-thirds vote in the Senate after a trial.",
+      "id": "hegseth-impeachment-vote",
+      "importance": 3,
+      "markets": [],
+      "rank": 12,
+      "rankWhy": "A first House vote on impeaching the US defence secretary over the Iran war tests support for the war inside the president's own party.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "ABC News – Hegseth blasts impeachment effort",
+          "url": "https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466"
+        },
+        {
+          "name": "WLKY – House schedules procedural vote on Massie's effort",
+          "url": "https://www.wlky.com/article/thomas-massie-pete-hegseth-house-vote-impeach-kentucky/74386864"
+        },
+        {
+          "name": "The Tribune – Massie says resolution to face House vote",
+          "url": "https://www.tribuneindia.com/news/hegseth/today-the-house-will-vote-republican-congressman-massie-says-hegseth-impeachment-resolution-to-face-house-vote"
+        }
+      ],
+      "terms": [
+        "Impeachment"
+      ],
+      "title": "US House to hold a first vote on a Republican's articles of impeachment against Defense Secretary Hegseth over the Iran war",
+      "what": "Republican Representative Thomas Massie introduced eight articles of impeachment against Defense Secretary Pete Hegseth on Monday, accusing him of violating the Constitution and federal law, including by conducting military operations in Iran without congressional authorisation and through strikes in Yemen, Venezuela and on boats suspected of carrying drugs. The House scheduled a procedural motion on the resolution for Tuesday at 17:30 Washington time (23:30 Warsaw), which could send it to committee or block it; if it survives, a debate and vote on the articles would follow. Hegseth called the effort a 'political spectacle', and President Trump defended him.",
+      "why": "Impeachment resolutions are 'privileged', so House leaders must act within two legislative days, forcing members to go on record, ABC News reported. Several Republicans have blamed their party's midterm losses on the Iran war."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Polish firms exporting to the EU already deal with the EU's climate rules; CBAM puts a carbon price on some imports into the EU.",
+      "id": "cop31-finance-clash",
+      "importance": 2,
+      "markets": [],
+      "rank": 13,
+      "rankWhy": "How much rich countries pay to help poorer ones cut emissions and adapt shapes climate action for billions of people, but no decision was taken today.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Business Standard – COP31 opens with climate finance clash",
+          "url": "https://www.business-standard.com/world-news/cop31-antalya-climate-finance-eu-g77-india-climate-talks-126111000162_1.html"
+        },
+        {
+          "name": "Infocons – COP31 energy and transport day, 10 November",
+          "url": "https://infocons.org/blog/cop31-antalya-2026-clean-energy-and-sustainable-transport-take-centre-stage-on-10-november-be-an-example-environmental-protection/"
+        }
+      ],
+      "terms": [
+        "Climate finance",
+        "CBAM (carbon border adjustment mechanism)"
+      ],
+      "title": "COP31: rich and developing countries clash over climate finance as the Antalya talks start, with few leaders confirmed for Wednesday's summit",
+      "what": "Disagreement over whether to put a work programme on climate finance on the agenda delayed the opening of the UN climate conference COP31 in Antalya, Türkiye, by more than an hour, Business Standard reported. The EU and the 'Umbrella Group' (including Australia, Canada and the UK) resisted, while the G77 group of developing countries and China pushed for it; EU Climate Commissioner Wopke Hoekstra called new finance demands 'dead in the water'. The current goal, agreed at COP29 in Baku in 2024, is at least $300 billion a year by 2035; the OECD counted $136.7 billion of public climate finance to developing countries last year. Tuesday's themed day focused on energy and transport.",
+      "why": "Developing countries argue that those who emitted most historically should pay most, while donor governments face tight budgets; trade measures such as the EU's carbon border levy (CBAM) are another sore point."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Most direct effect is on border guards, police and other officials; the nuclear and deregulation measures aim at lower costs for businesses over time.",
+      "id": "poland-govt-border-penalties",
+      "importance": 2,
+      "markets": [],
+      "rank": 14,
+      "rankWhy": "Changes Polish criminal law on migrant smuggling and attacks on officials, plus rules for shipping and nuclear-plant construction.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Gov.pl – Komunikaty CIR (10 Nov 2026)",
+          "url": "https://www.gov.pl/web/premier/komunikaty-cir"
+        }
+      ],
+      "terms": [
+        "Bill (draft law)",
+        "Deregulation"
+      ],
+      "title": "Polish government adopts a bill raising penalties for attacks on officials and for organising illegal border crossings",
+      "what": "Poland's Council of Ministers adopted a bill that increases penalties for attacks on public officials and for organising illegal border crossings, including for people who smuggle migrants for profit and endanger their lives or cause their deaths, the Prime Minister's Chancellery said. The government also approved a single digital ship register to make registering ships under the Polish flag easier, simplified procedures for preparing and building nuclear power plants, and a 'planned deregulation' programme to cut red tape for businesses. The bill still has to pass parliament.",
+      "why": "Government spokesperson Adam Szłapka said the law tightens criminal liability; the stated aim is to protect officials and border security, and to deter smugglers who put migrants' lives at risk."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Many Polish pension and investment funds hold Allegro; for shoppers, its results show how Polish online spending is growing.",
+      "id": "allegro-wig20",
+      "importance": 2,
+      "markets": [
+        "WIG20",
+        "Allegro"
+      ],
+      "rank": 15,
+      "rankWhy": "Allegro is Poland's largest e-commerce platform and one of the biggest companies on the WIG20.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Investing.com/ISBnews – WIG20 rose 1.04% on Tuesday",
+          "url": "https://pl.investing.com/news/stock-market-news/indeks-wig20-wzrosl-o-104-na-zamknieciu-we-wtorek-1646711"
+        },
+        {
+          "name": "Investing.com – Allegro shares up 17% before results",
+          "url": "https://pl.investing.com/news/stock-market-news/akcje-allegro-wzrosly-o-17-dzis-ostatnia-szansa-przed-waznym-raportem-1646294"
+        }
+      ],
+      "terms": [
+        "52-week high",
+        "Profit-taking"
+      ],
+      "title": "Warsaw shares rise before the holiday; Allegro reaches a 52-week high ahead of Thursday's results",
+      "what": "The WIG20 index of Warsaw's largest companies rose 1.04% to 4,208.46 points, with turnover of about 3.39 billion złoty, the most of it in Allegro, ISBnews reported. Allegro shares traded around 61 złoty in the afternoon, a new 52-week high, almost 18% above their level a month earlier and roughly 96% up this year, Investing.com reported. The company publishes third-quarter results on Thursday 12 November before the market opens; the Warsaw exchange is closed on Wednesday for Independence Day.",
+      "why": "Investors expect the results to confirm Allegro's raised 2026 guidance (revenue growth of 14–16%); analysts quoted by Investing.com warn that the price has already reached some targets, so even good results could trigger profit-taking."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Fact-checkers help readers anywhere judge information; their arrest makes reliable news harder to get.",
+      "id": "egypt-press-freedom",
+      "importance": 2,
+      "markets": [],
+      "rank": 16,
+      "rankWhy": "Press freedom in the Arab world's most populous country affects what tens of millions can learn about their government.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Yahoo News (Reuters) – UN rights office voices alarm on Egypt press freedom",
+          "url": "https://sg.news.yahoo.com/un-rights-office-voices-alarm-111301779.html"
+        },
+        {
+          "name": "UN Geneva press briefing, 10 Nov 2026",
+          "url": "https://www.unognewsroom.org/story/en/3321/un-geneva-press-briefing-10-november-2026"
+        }
+      ],
+      "terms": [
+        "Press freedom",
+        "Fact-checking"
+      ],
+      "title": "UN human rights office raises alarm over Egypt's crackdown on journalists and calls for a fact-checking newsroom's release",
+      "what": "The UN human rights office (OHCHR) said it was alarmed by Egypt's growing crackdown on press freedom and called for the release of all six journalists of the fact-checking outlet Matsaddash, the whole newsroom, who were arrested in September and accused of spreading misinformation for the banned Muslim Brotherhood, which the outlet denies. Last month a court convicted the editor-in-chief of the independent site Mada Masr of operating without a licence and ordered the site closed. The report carried no response from Egyptian authorities.",
+      "why": "OHCHR spokesperson Thameen Al-Kheetan said the Matsaddash reporters should be freed and charges arising from their legitimate journalistic work dropped."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Travellers from Poland to Spain on Wednesday should check flights and trains.",
+      "id": "spain-general-strike",
+      "importance": 2,
+      "markets": [],
+      "rank": 17,
+      "rankWhy": "A 24-hour general strike will disrupt transport, schools and health services across Spain tomorrow.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "The Olive Press – Spain general strike: what you need to know",
+          "url": "https://theolivepress.es/spain-news/2026/11/10/spain-general-strike-everything-you-need-to-know"
+        }
+      ],
+      "terms": [
+        "General strike",
+        "Minimum services"
+      ],
+      "title": "Spain prepares for a 24-hour general strike on Wednesday over housing, wages and working conditions",
+      "what": "A nationwide 24-hour general strike begins at midnight on Wednesday 11 November, covering public and private services, with more than 4,500 union branches and works councils backing it according to the CCOO union, The Olive Press reported. Minimum services are set by region: for example, Renfe commuter trains run at 75% at peak hours, Madrid hospitals keep 35% of usual staff, and airports stay open though some flights may be cancelled. Emergency services continue.",
+      "why": "Housing costs, wages and working conditions are the main grievances; how many workers actually join is unclear."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "Relevant for Poles travelling to tropical regions where the virus spreads.",
+      "id": "chikungunya-vaccine-data",
+      "importance": 2,
+      "markets": [
+        "Valneva"
+      ],
+      "rank": 18,
+      "rankWhy": "Chikungunya has been found in more than 110 countries; long-lasting protection from one dose would matter for travellers and outbreak control.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Valneva press release (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/10/3399143/0/en/valneva-reports-sustained-94-seroresponse-five-years-after-a-single-dose-of-chikungunya-vaccine-ixchiq.html"
+        }
+      ],
+      "terms": [
+        "Antibody",
+        "Clinical trial"
+      ],
+      "title": "Single-dose chikungunya vaccine still protects 94% of trial adults five years on, maker Valneva reports",
+      "what": "French vaccine maker Valneva said 94% of 221 healthy adults evaluable five years after one dose of its chikungunya vaccine IXCHIQ still had antibody levels above the threshold agreed with regulators, with similar results in people over 65. Participants will be followed for up to ten years. Brazil's health ministry and Instituto Butantan vaccinated nearly 80,000 adults in a pilot campaign from February to October 2026.",
+      "why": "Chikungunya is a mosquito-borne virus causing fever and long-lasting joint pain; more than 3.7 million cases were reported in the Americas between 2013 and 2023, according to the company. Durable antibodies could reduce the need for boosters. These are company-reported trial results, not an independent review."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Memory-chip prices feed into the cost of phones, laptops and servers.",
+      "id": "kospi-morgan-stanley",
+      "importance": 2,
+      "markets": [
+        "Kospi",
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "rank": 19,
+      "rankWhy": "Samsung and SK hynix are among the world's biggest memory-chip makers and dominate South Korea's market.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Seoul Economic Daily – KOSPI rebounds 4.4%",
+          "url": "https://en.sedaily.com/market/2026/11/10/kospi-rebounds-44-percent-as-foreign-investors-return"
+        }
+      ],
+      "terms": [
+        "Price target",
+        "Net buyer"
+      ],
+      "title": "Korean chip stocks rebound, but Morgan Stanley slashes its targets for Samsung and SK hynix",
+      "what": "Samsung Electronics rose 4.74% and SK hynix 6.69% on Tuesday as the Kospi gained 4.39%, but both had fallen 16–20% the previous week, Seoul Economic Daily reported. Morgan Stanley cut its price target for Samsung by 19% (to 309,000 won) and for SK hynix by 38% (to 1.6 million won). Foreign investors were net buyers for the first time in eight sessions, after selling about 12.58 trillion won since 30 October.",
+      "why": "Morgan Stanley cited expanding chip supply and possibly slower AI data-centre construction and flagged a possible earnings slump after 2028, according to the paper; analysts warned the rebound may not last."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Little direct effect in Poland.",
+      "id": "pope-leo-cordoba",
+      "importance": 1,
+      "markets": [],
+      "rank": 20,
+      "rankWhy": "A major religious event for Argentina's Catholics with little measurable effect beyond.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "GV Wire (AP) – Pope Leo draws 650,000 in another strong Argentine turnout",
+          "url": "https://gvwire.com/2026/11/10/pope-leo-draws-650000-in-another-strong-argentine-turnout/"
+        }
+      ],
+      "terms": [],
+      "title": "Pope Leo XIV draws a crowd reported at 650,000 to a Mass in Córdoba, Argentina",
+      "what": "Pope Leo XIV celebrated Mass at a military airfield in Córdoba, Argentina's second-largest city, where the crowd was reported at 650,000, GV Wire reported (it did not say who made the estimate). In his sermon he praised Argentina's saints, including Mama Antula, its first woman saint. On Sunday he had urged President Javier Milei not to target the poorest with austerity cuts. The 12-day trip runs to 17 November and also includes Uruguay and Peru.",
+      "why": "The visit takes him to the homeland of his predecessor Francis, and his comments on austerity touch a central political debate in Argentina."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "May eventually affect streaming prices and bundles.",
+      "id": "skydance-shares",
+      "importance": 1,
+      "markets": [
+        "Skydance"
+      ],
+      "rank": 21,
+      "rankWhy": "Matters mainly to investors in the newly merged Paramount–Warner Bros. media group.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "TheWrap – Skydance stock sinks over 8%",
+          "url": "https://www.thewrap.com/industry-news/business/skydance-stock-reaction-earnings-q3-2026/"
+        },
+        {
+          "name": "TheStreet – Stock Market Today Nov 10",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+        }
+      ],
+      "terms": [
+        "Leverage"
+      ],
+      "title": "Skydance shares fall more than 8% after its first results since merging with Warner Bros. Discovery",
+      "what": "Shares of media company Skydance fell more than 8% after third-quarter results came in below expectations, TheWrap reported. The company targets at least $6 billion of cost savings and a Paramount+ and HBO Max bundle in early 2027, but analysts cited integration risk and net debt of nearly $80 billion.",
+      "why": "Investors want full combined financial figures including Warner Bros. Discovery, which analysts say will come only before the fourth-quarter report."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Little direct effect for ordinary people.",
+      "id": "gfl-rejects-buyout",
+      "importance": 1,
+      "markets": [
+        "GFL Environmental"
+      ],
+      "rank": 22,
+      "rankWhy": "Affects shareholders of one large North American waste-management company.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "TheStreet – Stock Market Today Nov 10",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+        },
+        {
+          "name": "Waste Dive – GFL sets Nov 9 deadline for take-private offers",
+          "url": "https://www.wastedive.com/news/gfl-sets-nov-9-deadline-for-take-private-offers-touts-strong-q3/873194/"
+        }
+      ],
+      "terms": [
+        "Take-private deal"
+      ],
+      "title": "GFL Environmental's board rejects a $22 billion take-private proposal; shares drop",
+      "what": "Canadian waste company GFL Environmental's board unanimously rejected a $22 billion proposal to take it private, and its shares fell about 9% in morning trading, TheStreet reported. A special committee of independent directors had set 9 November as the deadline for final offers, Waste Dive reported.",
+      "why": "Taking a company private means a buyer (often a private-equity firm) purchases all its listed shares; the stock had been supported by hopes of such a deal."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Shared rivers mean upstream pollution or water use affects people downstream in other countries, which is why such rules matter.",
+      "id": "un-water-convention",
+      "importance": 1,
+      "markets": [],
+      "rank": 23,
+      "rankWhy": "A diplomatic push on shared rivers and lakes, with little immediate effect.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "UN Geneva press briefing, 10 Nov 2026",
+          "url": "https://www.unognewsroom.org/story/en/3321/un-geneva-press-briefing-10-november-2026"
+        }
+      ],
+      "terms": [
+        "Transboundary waters"
+      ],
+      "title": "UN calls for 100 countries to join the global Water Convention by 2030, a month before the UN Water Conference",
+      "what": "The UN Economic Commission for Europe (UNECE) used Tuesday's Geneva briefing to call for 100 parties to the UN Water Convention by 2030, one month before the UN Water Conference. The convention sets rules for countries that share rivers, lakes and groundwater.",
+      "why": "Most of the world's fresh water crosses borders, so cooperation treaties help prevent disputes as droughts and demand grow."
+    }
+  ],
+  "watch": [
+    "Russia–Ukraine–US talks in Abu Dhabi, day two: Wednesday 11 November; watch for any statement on security guarantees or a ceasefire.",
+    "Poland: Independence Day, Wednesday 11 November (public holiday; the Warsaw Stock Exchange is closed). The Independence March in Warsaw is due in the afternoon.",
+    "Allegro third-quarter results: Thursday 12 November, before the Warsaw Stock Exchange opens.",
+    "US House procedural vote on the Hegseth impeachment resolution: Tuesday 10 November, 17:30 Washington = 23:30 Warsaw (after this edition).",
+    "US producer prices (PPI) for October: Friday 13 November, 08:30 New York = 14:30 Warsaw (BLS schedule); the Fed decides on rates on Wednesday 9 December (evening, Warsaw time).",
+    "Anthropic's share sale: trading on Nasdaq expected around 19 November (CNBC, via TechCrunch).",
+    "Developing: Iran–US contacts through Qatar and the Hormuz blockade; Nvidia's board investigation; COP31 climate talks in Antalya (to 20 November)."
+  ],
+  "window": "Tue 10 Nov 10:00 → Tue 10 Nov 20:00 (Warsaw time)",
+  "id": "2026-11-10-2000",
+  "updatedAt": "2026-11-10T19:13:48.62375Z"
+}

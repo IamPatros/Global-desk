@@ -1,0 +1,263 @@
+{
+  "checkQuestions": [
+    {
+      "a": "What matters is opportunity cost, not absolute speed. If B gives up fewer apples per machine than A, B has a comparative advantage in machines; specialising and trading at a price between the two opportunity costs gives both more of both goods than if each produced everything itself.",
+      "q": "Country B is slower than Country A at making both apples and machines. Explain why both can still gain from trade."
+    },
+    {
+      "a": "The domestic price rises by the tariff; consumers buy less, domestic producers expand, imports fall; the government collects tariff × remaining imports. Consumers' loss exceeds producers' gain plus revenue because some goods are now produced at higher cost at home and some purchases worth more than the world price no longer happen: the deadweight loss.",
+      "q": "Trace step by step what a tariff does in a small importing country, and explain why the country as a whole loses even though the government collects revenue."
+    },
+    {
+      "a": "A large buyer cutting imports lowers world demand, pushing down the world price, so exporters absorb part of the tax. If fewer imports raise demand for the home currency, it appreciates, making imports cheaper in local currency and partly offsetting the tariff.",
+      "q": "Why might a large country's tariff be partly paid by foreign exporters, and why might a stronger currency offset part of a tariff?"
+    },
+    {
+      "a": "The deficit equals investment minus national saving. A tariff changes neither directly; if saving and investment stay the same, the deficit persists through currency appreciation, retaliation against exports or other adjustments. Only changes in saving (e.g. a smaller budget deficit) or investment would close it durably.",
+      "q": "A politician says a 10% tariff will eliminate the trade deficit. Use NX = S − I to evaluate the claim."
+    },
+    {
+      "a": "The firm buys motors or magnets from suppliers elsewhere whose inputs were refined in China (about 91% of separation and refining). If China requires licences, those suppliers face delays or shortages and pass on higher prices; the 0.1% rule would even reach foreign-made products containing Chinese rare earths.",
+      "q": "Explain how China's export controls on rare earths could raise costs for a Polish car-parts maker that never buys from China directly."
+    }
+  ],
+  "createdAt": "2026-11-10T20:30:00Z",
+  "date": "10 Nov 2026",
+  "editionId": "2026-11-10-2000",
+  "intro": "Countries trade because specialisation lets the world produce more with the same resources, but trade also creates winners, losers and dependencies. In this lesson you will learn why trade happens (comparative advantage), what a tariff really does to prices, quantities and welfare, how the trade balance is tied to a country's saving and investment, and why long supply chains create chokepoints such as rare earths. By the end you will be able to calculate who pays for a tariff in a simple model and judge claims like 'a trade surplus means a country is winning'.",
+  "lessonQuiz": [
+    {
+      "answer": 1,
+      "explain": "Opportunity cost of a phone: X = 8/4 = 2 shirts, Y = 9/6 = 1.5 shirts. Y gives up less to make phones, so Y makes phones and X makes shirts.",
+      "options": [
+        "X makes both, because it is faster at both",
+        "X makes shirts, Y makes phones",
+        "X makes phones, Y makes shirts",
+        "No trade is beneficial because X is better at everything"
+      ],
+      "q": "Hypothetical: Country X needs 4 hours per shirt and 8 hours per phone; Country Y needs 6 hours per shirt and 9 hours per phone. Which pattern of specialisation follows comparative advantage?"
+    },
+    {
+      "answer": 2,
+      "explain": "At P = 55: Qd = 200 − 110 = 90 and Qs = 110 − 40 = 70, so imports = 20 (down from 100 − 60 = 40 at P = 50).",
+      "options": [
+        "40",
+        "60",
+        "20",
+        "10"
+      ],
+      "q": "Hypothetical: a small country imports a good at a world price of €50. Demand is Qd = 200 − 2P and supply Qs = 2P − 40. A €5 tariff is imposed. How many units are imported after the tariff?"
+    },
+    {
+      "answer": 3,
+      "explain": "Consumers lose 275, producers gain 125 and the treasury collects 100, leaving a deadweight loss of 50.",
+      "options": [
+        "Because the government's revenue is negative",
+        "Because domestic producers lose market share",
+        "Because the world price rises by €5",
+        "Because consumers lose 275 while producers and the government gain only 225 together"
+      ],
+      "q": "In the lesson's worked example (world price €20, tariff €5), why is the country worse off overall?"
+    },
+    {
+      "answer": 2,
+      "explain": "A fall in the world price means exporters receive less, so part of the tax burden shifts abroad (terms-of-trade effect).",
+      "options": [
+        "Domestic consumers pay the whole tariff",
+        "The tariff has no effect on imports",
+        "Foreign exporters bear part of the tariff",
+        "The deadweight loss disappears completely"
+      ],
+      "q": "A large importing country imposes a tariff and the world price of the good falls. What does this imply?"
+    },
+    {
+      "answer": 0,
+      "explain": "S = 200 − 110 − 40 = 50; NX = S − I = 50 − 60 = −10, a deficit of 10.",
+      "options": [
+        "Deficit of 10",
+        "Surplus of 50",
+        "Surplus of 10",
+        "Deficit of 50"
+      ],
+      "q": "Hypothetical: Y = 200, C = 110, G = 40, I = 60. What is the trade balance?"
+    },
+    {
+      "answer": 3,
+      "explain": "Raising national saving relative to investment directly raises NX; a tariff alone tends to be offset by currency moves and retaliation.",
+      "options": [
+        "A tariff on all imports with no other change",
+        "A weaker trading partner's currency",
+        "A ban on exports of rare earths",
+        "A smaller government budget deficit that raises national saving"
+      ],
+      "q": "Which policy is most likely to shrink a country's trade deficit durably, according to the identity NX = S − I?"
+    },
+    {
+      "answer": 3,
+      "explain": "5 ÷ 4,000 = 0.00125 = 0.125%, which is above 0.1%.",
+      "options": [
+        "No, the share is 0.0125%",
+        "No, the share is 0.08%",
+        "Yes, the share is 1.25%",
+        "Yes, the share is 0.125%"
+      ],
+      "q": "Hypothetical: a €4,000 machine contains Chinese-origin rare-earth magnets worth €5. Would the suspended 0.1% rule have applied?"
+    },
+    {
+      "answer": 0,
+      "explain": "105.3 − 133.5 = −28.2; −28.2 ÷ 133.5 ≈ −21.1%.",
+      "options": [
+        "It fell by $28.2 billion, about 21%",
+        "It fell by $38.2 billion, about 27%",
+        "It fell by $28.2 billion, about 27%",
+        "It rose by $28.2 billion"
+      ],
+      "q": "China's monthly surplus fell from $133.5 billion in September to $105.3 billion in October 2026. Which statement is correct?"
+    },
+    {
+      "answer": 1,
+      "explain": "EU members share a common external tariff; trade policy is an exclusive EU competence: the Commission negotiates and member states in the Council decide. Poland does not use the euro.",
+      "options": [
+        "Because the WTO forbids all tariffs",
+        "Because Poland is in the EU customs union, which applies one common external tariff set at EU level",
+        "Because Poland uses the euro",
+        "Because tariffs are set by the National Bank of Poland"
+      ],
+      "q": "Why can Poland not set its own tariff on Chinese electric cars?"
+    },
+    {
+      "answer": 2,
+      "explain": "100 × 3.80 = 380 zł; 100 × 3.91 = 391 zł; +11 zł is 11 ÷ 380 ≈ 2.9%. A weaker złoty works like a small extra 'tariff' on imports.",
+      "options": [
+        "It falls by 11 złoty",
+        "It is unchanged because the dollar price is unchanged",
+        "It rises by 11 złoty, about 2.9%",
+        "It rises by 11%"
+      ],
+      "q": "Link to lesson 5: a Polish firm imports a US part priced at $100. USD/PLN moves from 3.80 to 3.91 and the price in dollars does not change. What happens to the cost in złoty?"
+    },
+    {
+      "answer": 0,
+      "explain": "With inelastic short-run demand and supply, a small shortfall requires a big price move to cut consumption enough.",
+      "options": [
+        "Because oil demand and supply are inelastic in the short run, so small supply losses need large price changes to rebalance",
+        "Because OPEC sets the price directly every day",
+        "Because tariffs on oil are very high",
+        "Because oil is priced in euros"
+      ],
+      "q": "Link to lesson 11: why do disruptions at a chokepoint such as the Strait of Hormuz move oil prices so much?"
+    },
+    {
+      "answer": 1,
+      "explain": "Building alternative suppliers costs more than buying from the cheapest source, much like paying an insurance premium.",
+      "options": [
+        "It always lowers costs",
+        "It usually raises costs in normal times in exchange for resilience against shocks",
+        "It is forbidden by WTO rules",
+        "It removes the need for any imports"
+      ],
+      "q": "Which statement about supply-chain diversification ('de-risking') is most accurate?"
+    }
+  ],
+  "level": "Core",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "A country should import only what it cannot produce itself, and buy everything else at home.",
+      "truth": "Gains from trade come from comparative advantage: a country benefits by importing goods it could make but only at a higher opportunity cost, freeing resources for what it does relatively best."
+    },
+    {
+      "myth": "Tariffs are paid by the foreign country.",
+      "truth": "Importers pay the tax to their own customs; the economic burden is shared depending on market power and elasticities, and in a small country it falls entirely on domestic buyers."
+    },
+    {
+      "myth": "A trade deficit means a country is losing and a surplus means it is winning.",
+      "truth": "NX = S − I: a deficit means a country invests more than it saves and borrows from abroad, which can be healthy (e.g. a fast-growing economy importing machines); a surplus can reflect weak domestic demand."
+    },
+    {
+      "myth": "Tariffs reliably close a trade deficit.",
+      "truth": "Unless saving or investment changes, the deficit tends to re-appear through a stronger currency, retaliation or lower exports."
+    },
+    {
+      "myth": "The cheapest supply chain is always the best one.",
+      "truth": "Concentrating a step in one country creates chokepoints; diversification costs more in normal times but works like insurance against export controls, wars and disasters."
+    }
+  ],
+  "number": 13,
+  "objectives": [
+    "Explain the difference between absolute and comparative advantage and calculate opportunity costs for two countries and two goods.",
+    "Calculate the effects of a tariff in a simple supply-and-demand model: the new price, imports, tariff revenue, the gains and losses of consumers and producers, and the deadweight loss.",
+    "Explain who ultimately pays a tariff and why the answer depends on market power and elasticities.",
+    "Use the identity net exports = national saving − investment to explain why a trade surplus is not the same as 'winning'.",
+    "Trace how a single chokepoint in a supply chain (e.g. rare-earth refining) can spread to many industries, and explain what export controls are.",
+    "Describe the main current facts about world trade: the WTO's 2026 forecast, China's surplus and Poland's dependence on EU and German markets."
+  ],
+  "recap": "Lesson 12 showed that gold earns no income, so its price depends on the willingness to hold it and on the opportunity cost of forgone interest; and lessons 5 and 11 showed how exchange rates and oil move prices across borders. Trade is the channel that connects all of these: every exchange rate, oil cargo and chip shipment is a cross-border trade. Today we look at the logic of trade itself and at the policies (tariffs, quotas, export controls) that governments use to steer it.",
+  "sections": [
+    {
+      "body": "A country has an absolute advantage in a good if it can produce it with fewer resources (for example fewer hours of work) than another country. A country has a comparative advantage if its opportunity cost of producing the good, the amount of other goods it must give up, is lower. David Ricardo's insight (1817) was that comparative, not absolute, advantage decides who should produce what: even a country that is better at everything gains by specialising in what it is relatively best at and trading for the rest. The mechanism is simple: if Country A gives up 4 tonnes of apples to make one machine but Country B gives up only 2, then the world gets more of both goods when B makes machines and A makes apples. Opportunity cost is the key concept, and it is the same one you used for gold in lesson 12 (the interest forgone). Trade at any price between the two opportunity costs (here between 2 and 4 tonnes of apples per machine) leaves both countries better off. Simplification: the classic model assumes workers can move freely between industries, constant costs and no transport costs. In reality workers in shrinking industries can lose jobs and income for years, which is why trade creates losers even when the country as a whole gains.",
+      "heading": "1. Why countries trade: absolute vs comparative advantage"
+    },
+    {
+      "body": "Much modern trade is not apples-for-machines but similar goods traded both ways, such as German and French cars, because of economies of scale (average cost falls as output grows) and consumers' taste for variety. Even more important today is trade in intermediate goods: parts and materials that cross borders several times before becoming a final product. A smartphone or a car combines components from dozens of countries; this network is called a global supply chain or value chain. Each country specialises in a stage (design, chip fabrication, assembly), which lowers costs but makes production depend on every link. The World Trade Organization (WTO) said on 8 October 2026 that trade in AI-enabling goods such as semiconductors and servers rose 67% year on year in the first half of 2026 and accounted for 47% of the increase in the value of world merchandise trade. The WTO raised its forecast for growth in world merchandise trade volume in 2026 to 3.9% (from 1.9% in March) and to 4.1% for 2027. Limitation: forecasts are revised often; this one roughly doubled within seven months.",
+      "heading": "2. Beyond Ricardo: scale, variety and supply chains"
+    },
+    {
+      "body": "A tariff is a tax on imports. An ad valorem tariff is a percentage of the good's value (e.g. 10%); a specific tariff is a fixed amount per unit (e.g. €50 per tonne). A quota limits the quantity that may be imported; non-tariff barriers include licences, standards and paperwork. Take a 'small' importing country that cannot affect the world price (lesson 2's supply and demand). Under free trade the domestic price equals the world price, and imports fill the gap between what consumers demand and what domestic firms supply. A tariff raises the domestic price by the amount of the tariff, so consumers buy less, domestic producers produce more, and imports shrink from both sides. The government collects revenue equal to the tariff times the remaining imports. Consumers lose more than producers and the government gain together; the difference is the deadweight loss, made of two triangles: the extra cost of producing at home what could be imported more cheaply, and the surplus lost on purchases that no longer happen (what buyers would have paid above the world price). This assumes a small country and a tariff that does not shut out imports completely; a percentage (ad valorem) tariff raises the price by that percentage of the world price. Worked example 2 does this with numbers.",
+      "heading": "3. What a tariff is and what it does to a market"
+    },
+    {
+      "body": "The legal payer is the importer, who hands the tax to customs, but the economic burden (the 'incidence') is shared according to market power and elasticities, the same idea you met with oil in lesson 11. If the importing country is small, the world price does not move, so the whole tariff is passed on to domestic buyers. If the importing country is large, its reduced demand can push the world price down, so foreign exporters absorb part of the tariff through lower prices; this is the 'terms-of-trade' effect. Exchange rates can also shift: if a tariff reduces imports and the importing country's currency strengthens (lesson 5), imported goods get a bit cheaper again, partly offsetting the tariff. Many empirical studies of the 2018–2019 US tariffs found that most of the cost fell on US importers and consumers, though results differ by product and period, so treat any single estimate with care. Exceptions: retaliation by trading partners hurts exporters in the country that started, and firms may absorb costs in their margins for a while before raising prices.",
+      "heading": "4. Who really pays a tariff?"
+    },
+    {
+      "body": "The trade balance (net exports, NX) is exports minus imports. Start from the national accounts identity in lesson 9: GDP Y = C + I + G + NX. National saving S is what is left of income after private and government consumption, S = Y − C − G. Substituting gives NX = S − I: a country runs a trade surplus exactly when it saves more than it invests at home, lending the difference to the rest of the world. This is an accounting identity, true by definition, so it does not say what causes what, but it rules out simple stories. Tariffs alone rarely shrink a trade deficit for long, because unless they change saving or investment, the gap re-appears through a stronger currency or lower exports. A surplus is therefore not a scoreboard of 'winning': China's large surplus reflects, according to a Natixis economist quoted by AP on 10 November 2026, overcapacity, excess domestic savings and weak domestic demand. China's goods surplus reached $1.04 trillion in January–October 2026, after a record $1.2 trillion in 2025. Note: these are goods-only customs figures; strictly, the S − I identity applies to goods and services (more precisely the current account), and China runs a deficit in services, so its overall surplus is smaller.",
+      "heading": "5. The trade balance is a saving–investment story"
+    },
+    {
+      "body": "The WTO's core rule is 'most-favoured-nation' (MFN): a member must give every other member the same tariff it gives its best partner, with exceptions for free-trade areas and customs unions. The EU is a customs union: goods move between member states without tariffs, and all members apply one common external tariff to outsiders, so Poland cannot set its own tariffs on Chinese or US goods; trade policy is an exclusive EU competence: the European Commission proposes and negotiates, and member states in the Council (with the European Parliament for legislation) decide. Membership of the EU single market and customs union, together with geography (the 'gravity' effect: large, nearby economies trade most with each other), helps explain why Poland's trade is so concentrated: in the first half of 2026, 75.1% of Polish exports went to EU countries and 26.5% to Germany alone, according to Statistics Poland (GUS) data reported by PAP on 13 August 2026; Poland ran an overall goods trade deficit of 15.7 billion złoty in that period. Rules of origin decide which country a good 'comes from', which matters when tariffs differ by origin. Limitation: big economies sometimes act outside WTO rules, and the WTO's dispute-settlement system has been weakened in recent years, so rules are not always enforced.",
+      "heading": "6. Trade rules and trade blocs"
+    },
+    {
+      "body": "Who may impose tariffs depends on a country's laws. In the United States, the Supreme Court ruled on 20 February 2026 that the International Emergency Economic Powers Act (IEEPA) does not authorise the president to impose tariffs, striking down tariffs set under that law, according to Global Trade Alert. The administration then imposed a 10% surcharge on almost all imports under Section 122 of the Trade Act of 1974, a law that limits such surcharges to 15% and 150 days (from 24 February to 24 July 2026) unless Congress extends them. That surcharge expired on 24 July 2026 and was replaced the same day by Section 301 'forced labour' tariffs of 10% or 12.5% on imports from 60 economies; EU goods face an all-in rate of 10% (including normal MFN duties), according to the US RV industry association RVIA's summary of the USTR action. Tariffs under Section 232 (national security) on steel, aluminium, copper, lumber and cars were unaffected. The lesson for a beginner: tariff levels are political and legal decisions that can change quickly, so always check the current rules rather than relying on a number you remember. In the EU, by contrast, tariffs change only through EU-level decisions, which is slower and more predictable.",
+      "heading": "7. Tariffs in practice in 2026: the US example"
+    },
+    {
+      "body": "Specialisation lowers costs, but when one country dominates a step of a supply chain, it creates a chokepoint. Rare earths are a key example: China mined about 60% of the rare earths used in magnets in 2024 and handled about 91% of their separation and refining, figures that come originally from the International Energy Agency (IEA) and were cited by Tech Times on 10 November 2026. Export controls, rules that require a licence or ban the export of certain goods or technologies, let the controlling country slow other countries' industries; this edition reports that China has extended until 10 January 2027 its pause on a package of controls that would have required licences even for foreign products containing 0.1% (by value) of Chinese-origin rare earths. Physical chokepoints work similarly: the Strait of Hormuz and the war around it (this edition's oil story) show how a single route can move world prices. Governments respond with 'de-risking': stockpiles, new mines and refineries elsewhere, and 'friend-shoring' to allies. Trade-off: diversification raises costs in normal times in exchange for resilience in bad times, much like insurance.",
+      "heading": "8. Chokepoints, export controls and 'weaponised' supply chains"
+    }
+  ],
+  "takeaways": [
+    "Comparative advantage (lower opportunity cost), not absolute advantage, explains why trade raises world output.",
+    "A tariff raises the domestic price, cuts imports, helps domestic producers and the treasury, but costs consumers more than those gains: the difference is the deadweight loss.",
+    "Who bears a tariff depends on market power and elasticities; a small country's consumers pay it all.",
+    "Net exports = national saving − investment, so a surplus or deficit reflects saving and investment, not 'winning' or 'losing'.",
+    "Supply chains concentrate production at chokepoints (e.g. China's ~91% of rare-earth refining), which export controls and wars can exploit.",
+    "Rules change: the US Supreme Court struck down IEEPA tariffs on 20 February 2026, and the EU sets tariffs for Poland as one customs union."
+  ],
+  "title": "Trade, tariffs and supply chains",
+  "todayExample": "Two stories in this edition show trade policy at work. China extended until 10 January 2027 its pause on export controls covering rare-earth technology, battery materials and graphite, including a rule reaching foreign goods with 0.1% Chinese rare-earth content; China handles about 91% of rare-earth refining, a textbook chokepoint. Meanwhile, the Iran war and the US naval blockade around the Strait of Hormuz show a physical chokepoint: when Trump said he would hold off on new strikes, Brent oil briefly fell below $90 for the first time since August. Both remind us that supply chains are efficient in calm times but transmit political shocks quickly.",
+  "workedExamples": [
+    {
+      "problem": "Hypothetical numbers. Country A needs 2 hours to produce 1 tonne of apples and 8 hours for 1 machine. Country B needs 3 hours per tonne of apples and 6 hours per machine. Each country has 48 hours of labour. (a) Who has the absolute and comparative advantage in each good? (b) Compare world output if each splits its hours equally with output if each fully specialises.",
+      "solution": "(a) A is faster at apples (2 h vs 3 h), so A has the absolute advantage in apples; B is faster at machines (6 h vs 8 h). Opportunity cost of 1 machine: in A, 8 ÷ 2 = 4 tonnes of apples; in B, 6 ÷ 3 = 2 tonnes. B gives up less to make a machine, so B has the comparative advantage in machines; A's opportunity cost of 1 tonne of apples is 2 ÷ 8 = 0.25 machine vs B's 3 ÷ 6 = 0.5 machine, so A has the comparative advantage in apples. (b) Equal split (24 hours each good): A makes 24 ÷ 2 = 12 t apples and 24 ÷ 8 = 3 machines; B makes 24 ÷ 3 = 8 t apples and 24 ÷ 6 = 4 machines. World: 12 + 8 = 20 t apples and 3 + 4 = 7 machines. Full specialisation: A makes 48 ÷ 2 = 24 t apples; B makes 48 ÷ 6 = 8 machines. World: 24 t and 8 machines: 4 t of apples and 1 machine more, with the same labour. Any exchange rate between 2 and 4 tonnes of apples per machine lets both countries share the gain.",
+      "title": "Comparative advantage with hypothetical numbers"
+    },
+    {
+      "problem": "Hypothetical numbers. In a small country, domestic demand for a good is Qd = 100 − 2P and domestic supply is Qs = −20 + 2P (P in euros, Q in thousand units). The world price is €20. The government imposes a specific tariff of €5 per unit. Calculate imports before and after, tariff revenue, the change in consumer and producer surplus and the deadweight loss.",
+      "solution": "Free trade, P = 20: Qd = 100 − 40 = 60; Qs = −20 + 40 = 20; imports = 60 − 20 = 40. With the tariff the domestic price is 20 + 5 = 25: Qd = 100 − 50 = 50; Qs = −20 + 50 = 30; imports = 50 − 30 = 20 (halved). Tariff revenue = 5 × 20 = 100 (€ thousand). Consumer surplus loss = the area between the two prices up to the demand curve = 5 × (60 + 50) ÷ 2 = 275. Producer surplus gain = 5 × (20 + 30) ÷ 2 = 125. Deadweight loss = 275 − 125 − 100 = 50, which equals the two triangles: production ½ × 5 × (30 − 20) = 25 and consumption ½ × 5 × (60 − 50) = 25. Interpretation: domestic producers and the treasury gain 225 in total, but consumers lose 275, so the country is 50 worse off overall, and consumers pay the entire tariff because a small country cannot push the world price down.",
+      "title": "Who gains and who loses from a tariff (small country)"
+    },
+    {
+      "problem": "Hypothetical numbers. An economy has GDP Y = 100, household consumption C = 40, government consumption G = 15 and investment I = 35. (a) Calculate national saving and net exports. (b) If households start saving more so that C falls to 35 while I stays at 35, what happens to the trade balance? (c) Use the idea to interpret China's surplus of $1.04 trillion in January–October 2026 (AP, 10 November 2026).",
+      "solution": "(a) S = Y − C − G = 100 − 40 − 15 = 45. NX = S − I = 45 − 35 = 10, a trade surplus of 10 (check: C + I + G + NX = 40 + 35 + 15 + 10 = 100). (b) S = 100 − 35 − 15 = 50, so NX = 50 − 35 = 15: the surplus rises by 5 even though no trade policy changed. (c) A surplus above $1 trillion means China produced far more than it spent at home on consumption and investment in those ten months; the economist quoted by AP linked this to overcapacity, high savings and weak domestic demand. The identity explains why critics say rebalancing requires more Chinese consumption, not only tariffs abroad.",
+      "title": "Trade balance = saving − investment"
+    },
+    {
+      "problem": "(a) China's monthly trade surplus was $133.5 billion in September and $105.3 billion in October 2026 (AP). By how much, in dollars and percent, did it shrink? (b) Under the suspended Chinese rule, a licence would be needed for foreign goods containing Chinese-origin rare earths worth 0.1% or more of the product's value. Hypothetical numbers: a motor worth €2,000 contains Chinese rare-earth magnets worth €3. Would it have been covered?",
+      "solution": "(a) Change = 105.3 − 133.5 = −28.2 billion dollars. Percentage change = −28.2 ÷ 133.5 × 100 ≈ −21.1%. AP attributed the smaller surplus to imports picking up (imports rose 41.6% year on year in October, partly due to recovering crude-oil shipments from the Gulf). (b) Share = 3 ÷ 2,000 = 0.0015 = 0.15%, which is above the 0.1% threshold, so the motor would have needed a licence. The tiny threshold is the point: it lets the controlling country reach deep into other countries' supply chains, which is why the extended pause to 10 January 2027 matters to factories worldwide.",
+      "title": "China's surplus and the 0.1% rare-earth rule (real numbers from this edition)"
+    }
+  ],
+  "updatedAt": "2026-11-10T19:13:31.96606Z"
+}
