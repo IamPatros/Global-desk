@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T20:16:59Z",
+  "updated": "2026-11-10T09:16:27Z",
   "lessons": [
     {
       "number": 1,
@@ -88,6 +88,14 @@
       "date": "9 Nov 2026",
       "createdAt": "2026-11-09T19:00:00Z",
       "updatedAt": "2026-11-09T19:16:18.845523Z"
+    },
+    {
+      "number": 12,
+      "title": "Gold and safe havens",
+      "level": "Core",
+      "date": "10 Nov 2026",
+      "createdAt": "2026-11-10T08:57:23Z",
+      "updatedAt": "2026-11-10T09:15:13.966602Z"
     }
   ]
 }

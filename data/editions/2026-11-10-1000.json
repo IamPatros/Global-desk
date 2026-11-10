@@ -1,0 +1,1372 @@
+{
+  "bigPicture": "Oil kept sliding after President Trump said the Iran war was 'effectively over' militarily: Brent fell almost 6% on Monday and drifted toward $91 on Tuesday, even as Houthi missiles were shot down over Riyadh and Iran rejected his account. Stocks staged a powerful rebound — Wall Street had its best day since April, South Korea's Kospi jumped 4.4% and Japan's Nikkei closed above 60,000 — while Nvidia lost about $190 billion in value amid a shareholder lawsuit over its CEO's ties to an alleged Chinese agent. Russia, Ukraine and the US opened their first three-way talks since February in Abu Dhabi, hours after a Russian attack with 162 drones. China reported a trade surplus above $1 trillion for the year, and in the US Trump questioned the midterm results that gave Democrats both chambers of Congress. All eyes now turn to US inflation data at 14:30 Warsaw time, which will shape whether the Fed raises rates in December.",
+  "createdAt": "2026-11-10T08:57:23Z",
+  "glossary": [
+    {
+      "def": "An asset that investors expect to hold or gain value when riskier assets such as shares fall sharply, e.g. gold, US Treasuries, the Swiss franc.",
+      "example": "Gold is called a safe haven, yet it is 26% below its January record despite the Iran war.",
+      "term": "Safe haven"
+    },
+    {
+      "def": "The unit used for precious metals, equal to 31.1035 grams.",
+      "example": "At $4,114.48 per troy ounce, a gram of gold costs about 517 zł.",
+      "term": "Troy ounce"
+    },
+    {
+      "def": "The value of the best alternative you give up when you choose something; for gold, the interest you could have earned instead.",
+      "example": "With two-year US yields near 4.56%, holding $10,000 of gold means giving up about $456 a year in interest.",
+      "term": "Opportunity cost"
+    },
+    {
+      "def": "The interest rate after subtracting expected inflation; it measures the true gain in purchasing power from lending.",
+      "example": "A 4.56% yield with 3.9% inflation gives a real yield of about 0.64%.",
+      "term": "Real yield"
+    },
+    {
+      "def": "The official closing price of a futures contract for the day, used to value positions.",
+      "example": "Brent's settlement price on Monday was $92.57, down 5.85%.",
+      "term": "Settlement price"
+    },
+    {
+      "def": "Using warships to stop ships from entering or leaving a country's ports.",
+      "example": "The US keeps a naval blockade of Iranian ports while talks continue.",
+      "term": "Naval blockade"
+    },
+    {
+      "def": "A promise, usually by powerful states, to help defend a country if it is attacked.",
+      "example": "Security guarantees for Ukraine are expected to be central to the Abu Dhabi talks.",
+      "term": "Security guarantee"
+    },
+    {
+      "def": "When a country's exports are worth more than its imports over a period.",
+      "example": "China's January–October trade surplus reached $1.04 trillion.",
+      "term": "Trade surplus"
+    },
+    {
+      "def": "A lawsuit in which one or a few people sue on behalf of a whole group with similar claims.",
+      "example": "A Nvidia shareholder filed a proposed class action for everyone who bought shares between October 2025 and November 2026.",
+      "term": "Class action"
+    },
+    {
+      "def": "A disease that circulates continuously in a population, rather than arriving only in occasional imported outbreaks.",
+      "example": "PAHO is deciding whether measles has become endemic in the US.",
+      "term": "Endemic disease"
+    },
+    {
+      "def": "A person who has fled their own country because of conflict or persecution; someone displaced inside their own country is an internally displaced person (IDP).",
+      "example": "About 50,000 people fled Ethiopia into Kenya, making them refugees rather than IDPs.",
+      "term": "Refugee"
+    },
+    {
+      "def": "The body that sets Poland's interest rates: the NBP president plus nine members chosen equally by the President, Sejm and Senate.",
+      "example": "The Senate is collecting nominations for two vacant RPP seats until 25 November.",
+      "term": "Monetary Policy Council (RPP)"
+    },
+    {
+      "def": "A ballistic missile is launched high on an arcing path and falls fast onto its target; a cruise missile flies low and level, steering like a small aircraft.",
+      "example": "Saudi air defences shot down both a ballistic and a cruise missile over Riyadh.",
+      "term": "Ballistic vs cruise missile"
+    }
+  ],
+  "label": "Tue 10 Nov · morning",
+  "lessonNumber": 12,
+  "markets": [
+    {
+      "change": 2.35,
+      "changeText": "+2.3%",
+      "group": "Stocks · Americas",
+      "key": true,
+      "name": "S&P 500",
+      "note": "Monday close: best day since April (AP); chip and AI shares rebounded and falling oil eased inflation worries.",
+      "region": "US",
+      "value": "≈7,550",
+      "what": "An index of 500 large US companies; the main gauge of the US stock market."
+    },
+    {
+      "change": 2.74,
+      "changeText": "+2.7%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Nasdaq Composite",
+      "note": "Monday close (Saxo): tech led, with AMD up 13.3%, though Nvidia fell 4.3%.",
+      "region": "US",
+      "value": "≈25,253",
+      "what": "A tech-heavy index of all companies listed on the Nasdaq exchange."
+    },
+    {
+      "change": 2.15,
+      "changeText": "+2.2%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Dow Jones Industrial Average",
+      "note": "Monday close (Saxo; AP).",
+      "region": "US",
+      "value": "≈52,389",
+      "what": "A price-weighted index of 30 large US companies, the oldest US stock gauge."
+    },
+    {
+      "change": 1.73,
+      "changeText": "+1.7%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "DAX",
+      "note": "Monday close; futures pointed about 0.9% higher on Tuesday morning (Saxo); Reuters said German shares were up about 1% early.",
+      "region": "Germany",
+      "value": "26,267.19",
+      "what": "An index of the 40 biggest companies on the Frankfurt stock exchange."
+    },
+    {
+      "change": 0.9,
+      "changeText": "+0.9%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "Stoxx Europe 600",
+      "note": "Tuesday 09:05 Warsaw (Reuters): within 1% of its record as cheaper oil eased inflation fears; Infineon rose on a strong 2027 outlook. Monday close was 656.52.",
+      "region": "Europe",
+      "value": "662.54",
+      "what": "An index of 600 large and mid-sized companies from 17 European countries."
+    },
+    {
+      "change": 1.02,
+      "changeText": "+1.0%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "FTSE 100",
+      "note": "Monday close (Saxo).",
+      "region": "UK",
+      "value": "10,782.87",
+      "what": "An index of the 100 largest companies on the London Stock Exchange."
+    },
+    {
+      "change": 0.82,
+      "changeText": "+0.8%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "WIG20",
+      "note": "Monday close (PAP Biznes): rebound after Friday's fall; Orlen fell again on cheaper oil.",
+      "region": "Poland",
+      "value": "4,165.30",
+      "what": "An index of the 20 largest companies on the Warsaw Stock Exchange."
+    },
+    {
+      "change": 2.9,
+      "changeText": "+2.9%",
+      "group": "Stocks · Asia-Pacific",
+      "key": true,
+      "name": "Nikkei 225",
+      "note": "Tuesday close (AP): chip-equipment makers jumped (Tokyo Electron +6.1%); SoftBank rose 13.9% ahead of its results.",
+      "region": "Japan",
+      "value": "60,459.58",
+      "what": "A price-weighted index of 225 large companies listed in Tokyo."
+    },
+    {
+      "change": 4.4,
+      "changeText": "+4.4%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Kospi",
+      "note": "Tuesday close (AP): SK Hynix +6.7%, Samsung +4.7%; a 'buy sidecar' (a short pause on programme buying) was triggered (SBS).",
+      "region": "South Korea",
+      "value": "5,239.13",
+      "what": "The main index of the Korea Exchange, dominated by chipmakers."
+    },
+    {
+      "change": 0.6,
+      "changeText": "+0.6%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Hang Seng",
+      "note": "Tuesday close (AP).",
+      "region": "Hong Kong",
+      "value": "24,584.81",
+      "what": "The main index of the Hong Kong stock exchange."
+    },
+    {
+      "change": 0.2,
+      "changeText": "+0.2%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Shanghai Composite",
+      "note": "Tuesday close (AP), after strong trade data.",
+      "region": "China",
+      "value": "3,666.12",
+      "what": "An index of all shares traded on the Shanghai exchange."
+    },
+    {
+      "change": 1.1,
+      "changeText": "+1.1%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "S&P/ASX 200",
+      "note": "Tuesday close (AP).",
+      "region": "Australia",
+      "value": "9,129.00",
+      "what": "An index of the 200 largest companies on the Australian exchange."
+    },
+    {
+      "change": null,
+      "changeText": "closed",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Sensex / Nifty 50",
+      "note": "Indian markets were closed for a holiday on Tuesday (AP).",
+      "region": "India",
+      "value": "",
+      "what": "India's two main stock indices (30 and 50 large companies)."
+    },
+    {
+      "change": -0.04,
+      "changeText": "−0.04%",
+      "group": "Currencies",
+      "key": true,
+      "name": "EUR/PLN",
+      "note": "07:00 Warsaw (money.pl) vs Monday 17:00 (4.3870): the złoty is steady before US inflation data.",
+      "region": "Poland",
+      "value": "4.3854",
+      "what": "How many złoty one euro costs; a lower number means a stronger złoty."
+    },
+    {
+      "change": -0.3,
+      "changeText": "−0.3%",
+      "group": "Currencies",
+      "key": true,
+      "name": "USD/PLN",
+      "note": "07:00 Warsaw (money.pl) vs Monday 17:00 (3.9188): the dollar eased as oil fell.",
+      "region": "Poland",
+      "value": "3.9069",
+      "what": "How many złoty one US dollar costs."
+    },
+    {
+      "change": -0.33,
+      "changeText": "−0.3%",
+      "group": "Currencies",
+      "key": false,
+      "name": "EUR/USD",
+      "note": "Tuesday Asian trading (AP), vs 1.1266 late Monday.",
+      "region": "Global",
+      "value": "1.1229",
+      "what": "How many dollars one euro buys; the world's most traded currency pair."
+    },
+    {
+      "change": 0.04,
+      "changeText": "+0.04%",
+      "group": "Currencies",
+      "key": false,
+      "name": "USD/JPY",
+      "note": "Tuesday Asian trading (AP).",
+      "region": "Japan",
+      "value": "157.96",
+      "what": "How many Japanese yen one US dollar buys."
+    },
+    {
+      "change": -1.31,
+      "changeText": "−1.3%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Brent crude oil",
+      "note": "Tuesday morning (Euronews) after Monday's 5.85% fall to $92.57 at settlement: Trump played down new strikes on Iran; OPEC output rose.",
+      "region": "Global",
+      "value": "$91.36",
+      "what": "The global benchmark price for a barrel (159 litres) of crude oil."
+    },
+    {
+      "change": -1.59,
+      "changeText": "−1.6%",
+      "group": "Commodities",
+      "key": false,
+      "name": "WTI crude oil",
+      "note": "Tuesday morning (Euronews); Monday settlement $86.85 (−4.38%).",
+      "region": "US",
+      "value": "$85.47",
+      "what": "The US benchmark crude price, delivered in Cushing, Oklahoma."
+    },
+    {
+      "change": -0.6,
+      "changeText": "−0.6%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Gold",
+      "note": "Spot price at 05:30 Warsaw (Reuters): profit-taking after Monday's 1.7% rise; an 84% chance of a December Fed hike raises the cost of holding a metal that pays no interest.",
+      "region": "Global",
+      "value": "$4,114.48",
+      "what": "Price of one troy ounce (31.1 g) of gold in US dollars; a classic 'safe haven'."
+    },
+    {
+      "change": null,
+      "changeText": "little changed",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 10-year Treasury yield",
+      "note": "Early Tuesday (Saxo); the 2-year yield was about 4.56%. Markets price an ~84% chance of a Fed hike on 9 December (CME FedWatch via Reuters).",
+      "region": "US",
+      "value": "≈4.88%",
+      "what": "The annual return on lending to the US government for 10 years; a benchmark for loans worldwide."
+    }
+  ],
+  "marketsAsOf": "Tue 10 Nov ~09:30 Warsaw: US figures are Monday closes; Asia-Pacific figures are Tuesday closes; European and Polish index figures are Monday closes unless noted; currencies, oil and gold are Tuesday morning levels.",
+  "quiz": [
+    {
+      "answer": 0,
+      "explain": "Hopes of diplomacy shrank the war risk premium and supply was rising; no treaty was signed, Iran called the remarks 'fake news', and US CPI is only due on Tuesday.",
+      "options": [
+        "Trump said the Iran war was 'effectively over' militarily and new strikes were 'highly unlikely', shrinking the risk premium, while OPEC output rose",
+        "OPEC announced deep production cuts",
+        "The Strait of Hormuz was fully reopened by a signed treaty",
+        "US inflation data came in far below expectations"
+      ],
+      "q": "Why did oil prices fall nearly 6% on Monday, according to the reports in this edition?"
+    },
+    {
+      "answer": 1,
+      "explain": "92.57 + 5.75 = 98.32; 5.75 ÷ 98.32 = 5.85%, matching the reported fall.",
+      "options": [
+        "$86.82",
+        "$98.32",
+        "$92.57",
+        "$97.65"
+      ],
+      "q": "Brent settled at $92.57 on Monday after falling $5.75. What was the previous settlement price?"
+    },
+    {
+      "answer": 2,
+      "explain": "With Hormuz restricted, the pipeline to the Red Sea coast is a vital export route, so a successful attack could cut supply.",
+      "options": [
+        "The pipeline is the only source of oil for Europe",
+        "It carries natural gas to Poland",
+        "It is a key route for Saudi exports that bypasses the Strait of Hormuz, which Iran has restricted",
+        "It belongs to the United States"
+      ],
+      "q": "Why does the Houthi strike on Saudi Arabia's East–West pipeline matter for oil markets even though operations were unaffected?"
+    },
+    {
+      "answer": 3,
+      "explain": "Security guarantees and long-term security architecture are expected to be central, with de-escalation and humanitarian steps also on the table.",
+      "options": [
+        "A new EU membership date for Ukraine",
+        "Oil price caps",
+        "A prisoner exchange only",
+        "Security guarantees for Ukraine and longer-term security arrangements between Russia and Europe"
+      ],
+      "q": "What is expected to be central in the Abu Dhabi talks, according to The National?"
+    },
+    {
+      "answer": 0,
+      "explain": "The US mediates; Russia still demands territory and Kyiv rules out ceding land.",
+      "options": [
+        "It is the first three-way round since February, held hours after Russia launched 162 drones and a ballistic missile at Ukraine",
+        "Russia has dropped its territorial demands",
+        "Kyiv has agreed to give up territory",
+        "European leaders are chairing the talks"
+      ],
+      "q": "Which statement about the Abu Dhabi talks is accurate?"
+    },
+    {
+      "answer": 1,
+      "explain": "The S&P 500 had its best day since April as chips rebounded; Nvidia actually fell 4.3%, and the Fed has not cut rates.",
+      "options": [
+        "A Fed rate cut",
+        "Chip and AI shares recovered from last week's sell-off and falling oil eased inflation worries",
+        "Nvidia's shares surged on strong results",
+        "The midterm results were overturned"
+      ],
+      "q": "What drove the rebound on Wall Street on Monday, according to AP and Reuters?"
+    },
+    {
+      "answer": 2,
+      "explain": "Inflation data feed directly into Fed decisions; higher rates make borrowing costlier and future profits less valuable.",
+      "options": [
+        "CPI decides the oil price",
+        "CPI is the Fed's rate decision itself",
+        "A hotter-than-expected reading would strengthen the case for a hike, raising borrowing costs",
+        "It has no link to interest rates"
+      ],
+      "q": "Markets price about an 84% chance of a Fed rate rise in December. Why does today's US CPI release matter for stocks?"
+    },
+    {
+      "answer": 3,
+      "explain": "The surplus is exports minus imports; imports grew faster than exports in October.",
+      "options": [
+        "Exports fell sharply",
+        "The yuan was devalued",
+        "China stopped exporting chips",
+        "Imports grew even faster (41.6%), partly as Gulf crude shipments recovered"
+      ],
+      "q": "China's October trade surplus was $105.3 billion versus $133.5 billion in September. Why did it narrow even though exports rose 35.2%?"
+    },
+    {
+      "answer": 0,
+      "explain": "She blamed overcapacity, excess domestic savings and weak demand at home.",
+      "options": [
+        "That overcapacity, high savings and weak domestic demand make it 'not sustainable'",
+        "That it is caused by a weak dollar only",
+        "That China will soon have a deficit",
+        "That the EU buys too little from China"
+      ],
+      "q": "What concern did Natixis economist Alicia García-Herrero raise about China's surplus?"
+    },
+    {
+      "answer": 1,
+      "explain": "The suit says investors were misled by the non-disclosure; Nvidia's board says it has no reason to believe secrets were compromised.",
+      "options": [
+        "That Nvidia overstated its revenue",
+        "That Nvidia and its CEO failed to disclose his relationship with a woman US officials reportedly believe gathered intelligence for China",
+        "That Nvidia sold chips to Iran",
+        "That Nvidia's board fired its CEO illegally"
+      ],
+      "q": "What is the main allegation in the shareholder class action against Nvidia?"
+    },
+    {
+      "answer": 2,
+      "explain": "Democrats won both chambers; Trump reversed his earlier acceptance without providing evidence of fraud.",
+      "options": [
+        "That he accepted the results, as he had said earlier",
+        "That Republicans had won the Senate",
+        "He questioned whether the election was 'honest', without offering evidence, after earlier accepting the outcome",
+        "That the elections would be repeated"
+      ],
+      "q": "What did President Trump claim on Monday about the midterm elections?"
+    },
+    {
+      "answer": 3,
+      "explain": "Financing costs more than doubled and data-centre plans were revised; its shares actually rose 13.9% on Tuesday.",
+      "options": [
+        "Its telecom unit collapsed",
+        "It was fined by China",
+        "Its shares fell 13.9%",
+        "Higher financing costs and a $3.7 billion first-half hit from revising plans for power equipment for US AI data centres, after a year-earlier gain on its OpenAI stake"
+      ],
+      "q": "Why did SoftBank report a $7 billion quarterly loss, according to Reuters and AFP?"
+    },
+    {
+      "answer": 0,
+      "explain": "Kosiniak-Kamysz said the visit concerns a permanent base and industry cooperation; Poland has long been in NATO.",
+      "options": [
+        "To push for a permanent US base in Poland, Patriot servicing and defence-industry cooperation before the US finishes reviewing its forces in Europe",
+        "To sign Poland's entry into NATO",
+        "To buy oil",
+        "To negotiate a trade deal on cars"
+      ],
+      "q": "Why is Poland's defence minister in Washington?"
+    },
+    {
+      "answer": 1,
+      "explain": "The President's Chancellery also says only the TK president can convene the assembly.",
+      "options": [
+        "It was called by the Sejm",
+        "It was convened by Judge Anna Korwin-Piotrowska, while TK President Bogdan Święczkowski says only he can convene it and calls the group 'usurpers'",
+        "The EU ordered it",
+        "All judges agreed to it"
+      ],
+      "q": "Why is the Constitutional Tribunal assembly on Tuesday contested?"
+    },
+    {
+      "answer": 2,
+      "explain": "80% cite food first and 44% lack enough drinking water; more than half are children.",
+      "options": [
+        "Mobile phones",
+        "Jobs abroad",
+        "Food, named by 80% of households",
+        "Schools"
+      ],
+      "q": "What do aid agencies say is the most urgent need of the roughly 50,000 people who fled Ethiopia into Kenya?"
+    },
+    {
+      "answer": 3,
+      "explain": "The authors attribute the dip mainly to war-driven prices; clean energy is growing but not yet enough to push emissions steadily down.",
+      "options": [
+        "Mainly because of a sudden boom in solar power",
+        "Because of a global recession similar to 2009",
+        "Because China closed its coal plants",
+        "Mainly because high oil and gas prices from the Iran war cut energy use, so the dip is probably temporary"
+      ],
+      "q": "According to the Nature Climate Change study, why are global fossil CO₂ emissions set to fall about 0.4% in 2026?"
+    },
+    {
+      "answer": 0,
+      "explain": "With more than 5,000 cases this year, PAHO is reviewing elimination status for the US and Mexico.",
+      "options": [
+        "Whether measles has become endemic (continuously circulating), which would end the US 'measles-free' status declared in 2000",
+        "Whether to approve a new vaccine",
+        "Whether to close US borders",
+        "Whether to fine the CDC"
+      ],
+      "q": "What is PAHO deciding this week about measles in the US?"
+    },
+    {
+      "answer": 1,
+      "explain": "Futures prices reflect expectations; the risk premium can vanish quickly when the chance of disruption looks lower.",
+      "options": [
+        "Because oil is priced only on past supply",
+        "Because the price includes a risk premium for possible disruption, which shrinks when the perceived risk falls",
+        "Because refineries close during talks",
+        "Because OPEC must cut prices during negotiations"
+      ],
+      "q": "Review (Lesson 11): why can oil fall sharply on mere hopes of a peace deal, before any barrels are added?"
+    },
+    {
+      "answer": 2,
+      "explain": "Rate hikes raise borrowing costs and tend to attract capital into the dollar; their effect on inflation works with long lags.",
+      "options": [
+        "Cheaper mortgages in the US",
+        "Lower bond yields everywhere",
+        "Higher borrowing costs and, usually, a stronger dollar",
+        "An immediate fall in US inflation the next day"
+      ],
+      "q": "Review (Lesson 7): if the Fed raises its policy rate in December, which effect is most likely?"
+    },
+    {
+      "answer": 3,
+      "explain": "Indices measure price changes of their members; one day's move says little about economic growth.",
+      "options": [
+        "Japan's economy grew five times faster than Hong Kong's",
+        "Hong Kong is in recession",
+        "The Nikkei is a better index",
+        "Japanese shares, led by chip-related firms, rose more on the day; an index move reflects its member companies' prices, not the whole economy"
+      ],
+      "q": "Review (Lesson 4): the Nikkei 225 rose 2.9% while the Hang Seng rose 0.6% on Tuesday. What is the safest conclusion?"
+    }
+  ],
+  "status": "complete",
+  "stories": [
+    {
+      "category": "Economy & markets",
+      "everyday": "Cheaper crude usually reaches Polish petrol stations with a lag of a few weeks, and it lowers pressure on inflation, which matters for interest rates on loans. Airlines and transport firms gain; oil producers and refiners such as Orlen lose revenue.",
+      "id": "oil-iran-war-effectively-over",
+      "importance": 5,
+      "markets": [
+        "Brent crude",
+        "WTI crude",
+        "Orlen",
+        "airlines",
+        "energy stocks"
+      ],
+      "rank": 1,
+      "rankWhy": "Oil feeds into transport, heating, food and factory costs everywhere, so a fall of about 20% this month in the global benchmark changes the inflation outlook for almost every country, including Poland.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "The Nation (Thailand) / Reuters",
+          "url": "https://www.nationthailand.com/news/world/40073309"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/10/oil-prices-continue-to-fall-on-hopes-of-us-iran-peace-deal-talks"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/news/article/2026-11-09/gold-silver-advance-dollar-weakens-fed-rate-expectations-face-inflation"
+        },
+        {
+          "name": "AP via KSAT",
+          "url": "https://www.ksat.com/business/2026/11/10/asian-stocks-rise-after-technology-shares-advance-on-wall-street-ahead-of-us-inflation-data/"
+        }
+      ],
+      "terms": [
+        "Risk premium",
+        "Settlement price",
+        "Naval blockade"
+      ],
+      "title": "Oil keeps falling after Trump calls the Iran war 'effectively over'; Brent posts its steepest daily drop in months and slips toward $91",
+      "what": "On Monday 9 November Brent crude, the global oil benchmark, settled at $92.57 a barrel, down $5.75 or 5.85%, and US crude (WTI) settled at $86.85, down 4.38%; prices kept falling after settlement to the lowest since late August. On Tuesday morning Brent traded around $91.4–91.7, down about 1–1.3%, and Euronews reports both benchmarks are down about 20% this month. After meeting Qatar's Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani at the White House, President Trump said Iran 'militarily is effectively over' and that renewed strikes were 'highly unlikely' if talks progress, while keeping the US naval blockade of Iranian ports in place. Iranian officials dismissed his remarks as 'fake news', and Secretary of State Marco Rubio called some Iranian demands 'outrageous'.",
+      "why": "Traders had been paying a 'risk premium' (an extra amount in the price for the chance of a supply disruption) because Iran has restricted shipping through the Strait of Hormuz since the war began on 28 February. Signs of diplomacy shrink that premium. Supply is also rising: according to a Reuters survey cited by The Nation (Thailand), OPEC output rose by 1.38 million barrels a day in October to 22.87 million, and JPMorgan estimated a global surplus of about 1.4 million barrels a day. Morgan Stanley said physical cargoes trading below futures signals a weak physical market."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "For Poland, the outcome affects defence spending, the risk of drones straying over its territory, the future of Ukrainian refugees and workers, and the huge reconstruction market next door. Hopes of peace also tend to lift European defence and construction stocks in different directions.",
+      "id": "abu-dhabi-trilateral-talks",
+      "importance": 5,
+      "markets": [
+        "European defence stocks",
+        "Ukrainian bonds",
+        "wheat"
+      ],
+      "rank": 2,
+      "rankWhy": "A path to ending Europe's largest war since 1945 would affect the security of every EU country, energy and grain markets, and millions of refugees, many of them living in Poland.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/10/russia-and-ukraine-security-focused-talks-start-in-abu-dhabi/"
+        },
+        {
+          "name": "Censor.NET (Ukrainian Air Force data)",
+          "url": "https://censor.net/en/news/4032901/russian-attack-on-november-10-air-defense-forces-shot-down-and-suppressed-135-out-of-162-drones"
+        },
+        {
+          "name": "Interfax-Ukraine",
+          "url": "https://en.interfax.com.ua/news/general/1233866.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/"
+        }
+      ],
+      "terms": [
+        "Security guarantee",
+        "Trilateral talks",
+        "Ballistic missile"
+      ],
+      "title": "Russia, Ukraine and the US open their first three-way talks since February in Abu Dhabi, after an overnight attack with 162 drones",
+      "what": "US-mediated talks between Russian and Ukrainian delegations began in Abu Dhabi on Tuesday 10 November, according to Ukrainian state media and Russia's RIA Novosti, as reported by The National. It is the first trilateral round since February; the US team is led by envoys Steve Witkoff and Jared Kushner, and the talks are planned for two days. Security guarantees for Ukraine and a longer-term security arrangement between Russia and Europe are expected to be central, along with de-escalation and humanitarian steps. Overnight, Ukraine's Air Force said Russia launched one Iskander-M ballistic missile and 162 drones; 135 drones were shot down or jammed, but strikes were recorded at 19 locations.",
+      "why": "Russia demands large territorial concessions while Kyiv has ruled out giving up land and wants firm guarantees against a future attack, so a breakthrough remains uncertain, The National reports. An unnamed US official said there was 'a shot' at serious progress. European governments, who met US officials in Abu Dhabi beforehand and pressed Rubio at the G7 in Paris, want a say because any deal would shape Europe's own security."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Polish investment funds and pension savings (PPK, IKE) that hold foreign shares rose in value. Big swings like 4% in a day show how quickly sentiment can change when a few large tech companies dominate indices.",
+      "id": "global-stocks-best-day-since-april",
+      "importance": 4,
+      "markets": [
+        "S&P 500",
+        "Nasdaq",
+        "Kospi",
+        "Nikkei 225",
+        "Stoxx 600",
+        "AMD",
+        "SK Hynix",
+        "Samsung"
+      ],
+      "rank": 3,
+      "rankWhy": "A broad rebound in the world's biggest stock markets after last week's AI-led sell-off affects pension funds, savings and company funding across the globe.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "AP via KSAT",
+          "url": "https://www.ksat.com/business/2026/11/10/asian-stocks-rise-after-technology-shares-advance-on-wall-street-ahead-of-us-inflation-data/"
+        },
+        {
+          "name": "Saxo Morning Brew",
+          "url": "https://www.home.saxo/en-ch/content/articles/morning-brew/morning-brew-november-10-2026-10112026"
+        },
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://ca.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-4945483"
+        },
+        {
+          "name": "Business Recorder / Reuters",
+          "url": "https://www.brecorder.com/news/40448235/gold-edges-lower-as-focus-shifts-to-us-inflation-data"
+        }
+      ],
+      "terms": [
+        "Rebound",
+        "Semiconductor index",
+        "Rate-hike odds"
+      ],
+      "title": "Wall Street has its best day since April and Asia follows: Kospi jumps 4.4% and the Nikkei closes above 60,000",
+      "what": "On Monday the S&P 500 rose about 2.3% to roughly 7,550, its best day since April, the Nasdaq Composite gained 2.7% and the Dow 2.2%; the Philadelphia semiconductor index jumped 6.9% (AP; Saxo). On Tuesday South Korea's Kospi closed up 4.4% at 5,239.13, Japan's Nikkei 225 up 2.9% at 60,459.58 and Australia's ASX 200 up 1.1%, while Hong Kong and Shanghai gained less than 1%; Indian markets were closed for a holiday. In Europe the Stoxx 600 rose about 0.9% early on Tuesday to within 1% of its record high, Reuters reported. Chip names led: AMD rose 13.3% on Monday, and in Asia SK Hynix gained 6.7% and Samsung 4.7%.",
+      "why": "AP says the rebound recovered most of last week's sharp losses, which were driven by fears about AI spending and by worries that the new Democratic majorities in Congress could restrict data centres. Falling oil eased fears of inflation, and Reuters said cheaper energy could reduce pressure for higher interest rates. Still, traders see about an 84% chance that the US Federal Reserve raises rates in December (CME FedWatch via Reuters), so Tuesday's US inflation figures are the next big test."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "So far the oil market has looked past these attacks because operations were not disrupted, but a successful strike on this pipeline could quickly reverse the fall in fuel prices that drivers in Poland are starting to benefit from.",
+      "id": "houthi-missiles-riyadh-pipeline",
+      "importance": 4,
+      "markets": [
+        "Brent crude",
+        "Saudi Aramco",
+        "shipping and insurance"
+      ],
+      "rank": 4,
+      "rankWhy": "The East–West pipeline is one of the main ways Gulf oil can reach world markets while the Strait of Hormuz is restricted, so attacks on it threaten global energy supply even as oil prices fall.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline"
+        },
+        {
+          "name": "TimesLIVE / Reuters",
+          "url": "https://www.timeslive.co.za/news/world/2026-11-10-saudi-coalition-says-it-intercepted-houthi-missiles-over-riyadh/"
+        }
+      ],
+      "terms": [
+        "Pipeline bypass",
+        "Cruise missile"
+      ],
+      "title": "Saudi Arabia shoots down Houthi missiles over Riyadh a day after the East–West oil pipeline, its route around Hormuz, was hit",
+      "what": "The Saudi-led coalition said on Tuesday 10 November that it destroyed a ballistic missile and a cruise missile fired toward Riyadh, another ballistic missile over the south and a drone over the oil-rich Eastern Province; residents of the capital received shelter alerts and explosions were heard, AFP reported. On Monday the East–West pipeline was struck in the Medina region; a Saudi Energy Ministry official told the state SPA agency it caused a 'limited fire' that was put out and that pipeline operations were unaffected. Coalition spokesman Maj-Gen Turki al-Maliki blamed the Iran-backed Houthis, who had not immediately commented. No injuries were reported.",
+      "why": "Reuters says the escalation began when the Houthis advanced toward the Bab el-Mandeb Strait in September; since then they have increased strikes on Saudi airports, ports and oil sites while Saudi Arabia backs a Yemeni government offensive. Because Iran restricts traffic through Hormuz, the pipeline to the Red Sea coast has become a vital export route, which makes it a target."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Cheap Chinese cars, electronics and online parcels keep some prices down for Polish shoppers, but they compete with European manufacturers, which is why the EU is weighing more trade defences.",
+      "id": "china-trade-surplus-1-trillion",
+      "importance": 4,
+      "markets": [
+        "Chinese yuan",
+        "European carmakers",
+        "chipmakers"
+      ],
+      "rank": 5,
+      "rankWhy": "China's huge surplus means a flood of cheap goods into other countries, which helps consumers but squeezes factories from Germany to Poland and fuels trade disputes with the EU and US.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "AP via KSAT",
+          "url": "https://www.ksat.com/news/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-for-a-2nd-straight-year-as-exports-surge-35/"
+        },
+        {
+          "name": "Saxo Morning Brew",
+          "url": "https://www.home.saxo/en-ch/content/articles/morning-brew/morning-brew-november-10-2026-10112026"
+        }
+      ],
+      "terms": [
+        "Trade surplus",
+        "Overcapacity"
+      ],
+      "title": "China's exports jump 35% in October and its trade surplus tops $1 trillion for a second year",
+      "what": "China's exports rose 35.2% year on year in October and imports 41.6%, customs data reported by AP show. The monthly surplus narrowed to $105.3 billion from $133.5 billion in September, but the January–October surplus reached $1.04 trillion, above $1 trillion for a second year. Semiconductor exports jumped 137.1% in value and car exports 37.6%; exports to the EU rose 24.3%. AP notes China's figures often differ from those of its trading partners.",
+      "why": "Moody's Analytics economist Dave Chia expects exports to stay strong, led by electronics and cars, but warned that EU trade curbs and an AI slowdown are risks. Natixis economist Alicia García-Herrero blamed overcapacity, high domestic savings and weak demand at home, calling the situation 'not sustainable'. Imports rose partly because crude shipments from the Gulf recovered. Presidents Trump and Xi are expected to meet at APEC in Shenzhen next week."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Divided government in Washington affects US trade, sanctions and support for Ukraine, all of which matter for Poland's security and economy.",
+      "id": "trump-questions-midterms",
+      "importance": 4,
+      "markets": [
+        "US Treasuries",
+        "US dollar"
+      ],
+      "rank": 6,
+      "rankWhy": "Trust in election results underpins US democracy and the stability of the world's largest economy; a dispute over the outcome would shape US policy for the last two years of Trump's term.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections"
+        },
+        {
+          "name": "CP24 / AFP",
+          "url": "https://www.cp24.com/news/world/2026/11/09/trump-casts-doubt-on-us-midterm-results-with-new-fraud-claims/"
+        },
+        {
+          "name": "Forbes",
+          "url": "https://www.forbes.com/sites/alisondurkee/2026/11/09/trump-starts-sowing-doubt-in-midterms-results-but-experts-say-he-cant-do-anything-to-change-them/"
+        }
+      ],
+      "terms": [
+        "Midterm elections",
+        "Certification of results"
+      ],
+      "title": "Trump questions the honesty of the midterm elections that handed Democrats both chambers of Congress, offering no evidence",
+      "what": "On Monday 9 November President Trump asked on Truth Social whether anyone believed the election was 'honest' and how the polls could be so wrong, claiming without evidence that large early-vote counts made Republican wins impossible, AFP and Al Jazeera report. Days earlier he had told The New York Times he 'absolutely' accepted the results and in a CBS interview said he was open to working with the incoming Democratic majority. Democrats won control of both the House and the Senate in the 3 November midterms. Senate Democratic leader Chuck Schumer called Trump's 'return to election denialism' inevitable.",
+      "why": "Al Jazeera notes that Pew Research found polls had understated Democrats' margin in most governor and Senate races, the opposite of the 2016–2024 pattern. Forbes reports that experts say Trump has no practical way to change the certified results. Some Republicans have begun distancing themselves from the president after the losses, Al Jazeera says."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Because Nvidia is a large weight in global index funds, its swings show up in many Polish investors' foreign-equity funds.",
+      "id": "nvidia-lawsuit-fbi",
+      "importance": 4,
+      "markets": [
+        "Nvidia",
+        "Nasdaq",
+        "chip stocks"
+      ],
+      "rank": 7,
+      "rankWhy": "Nvidia is one of the world's most valuable companies and the core supplier of AI chips, so doubts about its leadership move whole stock indices and touch US–China tech rivalry.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "City AM",
+          "url": "https://www.cityam.com/nvidia-hit-with-shareholder-lawsuit-after-190bn-market-value-wipeout/"
+        },
+        {
+          "name": "TRT World",
+          "url": "https://www.trtworld.com/article/334767712f9d"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy"
+        }
+      ],
+      "terms": [
+        "Class action",
+        "Market capitalisation"
+      ],
+      "title": "Nvidia sued by shareholders after losing about $190 billion in value; Trump says the FBI is looking into Jensen Huang's relationship with an alleged Chinese agent",
+      "what": "Nvidia shares closed 4.3% lower at $178.67 on Monday after falling almost 9% during the session, wiping out around $190 billion of market value, City AM reports. Shareholder Mark Kistenmacher filed a proposed class action in federal court in California, alleging Nvidia and CEO Jensen Huang misled investors by not disclosing his relationship with Alice Huang, a former executive at Singapore data-centre firm Megaspeed, whom US officials reportedly believe gathered intelligence for China. Nvidia's board has opened an independent investigation and says it has no reason to believe national security or company secrets were compromised; Jensen Huang admitted an extramarital relationship and apologised. On Monday Trump said the FBI is looking into the matter, that Huang told him he did not know she was a spy, and that he believed him.",
+      "why": "A class action lets one shareholder sue on behalf of everyone who bought during a period, here 9 October 2025 to 8 November 2026; such suits typically follow a sharp share-price fall. China's foreign ministry called the espionage allegations baseless. Nvidia reports quarterly results on 17 November, which investors will watch for any impact on its business."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Most Poles have no direct exposure to SoftBank, but its troubles are watched as an early warning sign: if the biggest AI investors struggle to fund data centres, demand for chips and power equipment could slow worldwide.",
+      "id": "softbank-7bn-loss",
+      "importance": 3,
+      "markets": [
+        "SoftBank Group",
+        "Nikkei 225",
+        "OpenAI (private)"
+      ],
+      "rank": 8,
+      "rankWhy": "SoftBank is one of the biggest financiers of the AI boom, including OpenAI, so its results are a test of whether huge AI investments are paying off.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "The Star / Reuters",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/11/10/softbank-swings-to-7-billion-net-loss-in-second-quarter"
+        },
+        {
+          "name": "RTÉ / AFP",
+          "url": "https://www.rte.ie/news/business/2026/1110/1598631-tech-investor-softbank-group-logs-7-billion-q2-net-loss/"
+        },
+        {
+          "name": "The Daily Guardian / Reuters",
+          "url": "https://thedailyguardian.com/news/science-tech/softbank-books-7-billion-quarterly-loss-on-us-data-centre-hit-financing-costs-773401/"
+        },
+        {
+          "name": "AP via KSAT",
+          "url": "https://www.ksat.com/business/2026/11/10/asian-stocks-rise-after-technology-shares-advance-on-wall-street-ahead-of-us-inflation-data/"
+        }
+      ],
+      "terms": [
+        "Net loss",
+        "Leverage"
+      ],
+      "title": "SoftBank swings to a $7 billion quarterly loss as AI data-centre costs bite, yet its shares jump 14%",
+      "what": "SoftBank Group reported a net loss of 1.1 trillion yen (about $7 billion) for its July–September quarter, against a profit of 2.5 trillion yen a year earlier, RTÉ reported citing AFP. The company cited interest costs and administrative expenses, and said a 'revision of procurement plans' for power-generation equipment for its US AI data-centre projects cost it $3.7 billion in the first half of the financial year. Reuters reports that financing costs more than doubled to 462 billion yen, and that three analysts polled by LSEG had expected anything from a 233 billion yen profit to a 113 billion yen loss. A year ago the profit came from a rise in the value of its stake in OpenAI, in which SoftBank has invested $64.6 billion for about 13%. Before the results, its shares rose 13.9% in Tokyo on Tuesday, rebounding from a one-year low on Monday (AP), though Reuters notes they have almost halved since early June.",
+      "why": "SoftBank borrows heavily to invest in AI companies and infrastructure, so rising interest costs and lower valuations of tech shares hit its profits quickly. The share jump shows that investors were reacting more to the global tech rebound than to the results themselves."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Chips are inside cars, phones and household appliances sold in Poland; strong demand for AI chips can also tighten supply and raise prices of memory and electronics.",
+      "id": "tsmc-october-record",
+      "importance": 3,
+      "markets": [
+        "TSMC",
+        "Taiex",
+        "Nvidia",
+        "chip stocks"
+      ],
+      "rank": 9,
+      "rankWhy": "TSMC makes most of the world's advanced chips, including Nvidia's, so its monthly sales are a real-time gauge of the AI boom that drives stock markets.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Hardware Busters",
+          "url": "https://hwbusters.com/news/tsmc-posts-record-nt586-9-billion-october-already-a-third-of-the-way-to-its-q4-target/"
+        },
+        {
+          "name": "FourWeekMBA",
+          "url": "https://fourweekmba.com/ai-tsmcs-october-sales-jump-59-7-to-a-2026-high-of-nt586-9b/"
+        },
+        {
+          "name": "AP via KSAT",
+          "url": "https://www.ksat.com/business/2026/11/10/asian-stocks-rise-after-technology-shares-advance-on-wall-street-ahead-of-us-inflation-data/"
+        }
+      ],
+      "terms": [
+        "Revenue",
+        "Guidance"
+      ],
+      "title": "TSMC's October sales hit a record, up almost 60% on a year earlier, as demand for AI chips keeps surging",
+      "what": "Taiwan Semiconductor Manufacturing Co. reported October revenue of about NT$586.9 billion (roughly $17.9 billion), a company record, up 59.7% from October 2025 and 14.7% from September, according to Hardware Busters and FourWeekMBA. The company has guided fourth-quarter revenue of $52.3–54.3 billion. Taiwan's stock index rose 2.5% on Tuesday (AP).",
+      "why": "Monthly sales give investors a much quicker signal than quarterly reports. Strong numbers ease fears, prominent last week, that AI spending is about to slow, which helps explain the chip-stock rebound from Seoul to New York."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "A permanent base would bring jobs and contracts locally and is seen by the government as a deterrent; defence-industry cooperation could mean more weapons serviced or produced in Poland.",
+      "id": "poland-defence-minister-washington",
+      "importance": 3,
+      "markets": [],
+      "rank": 10,
+      "rankWhy": "Where US troops are stationed in Europe shapes Poland's security for years; a permanent base would be a major strategic decision for NATO's eastern flank.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Polsat News",
+          "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/kosiniak-kamysz-z-bardzo-wazna-wizyta-w-waszyngtonie-spotka-sie-z-hegsethem/"
+        },
+        {
+          "name": "TVN24",
+          "url": "https://tvn24.pl/polska/wladyslaw-kosiniak-kamysz-o-spotkaniu-z-szefem-pentagonu-jezeli-uda-sie-wszystko-dopiac-podpiszemy-wazne-porozumienie-st9330951"
+        }
+      ],
+      "terms": [
+        "Force posture review",
+        "Patriot system"
+      ],
+      "title": "Poland's defence minister goes to the Pentagon seeking a permanent US base before Washington finishes reviewing its forces in Europe",
+      "what": "Defence Minister Władysław Kosiniak-Kamysz travelled to Washington to meet Pentagon chief Pete Hegseth, Polsat News reported on 10 November. He said the agenda includes a permanent US base in Poland, servicing of Patriot air-defence systems and closer cooperation between the two countries' defence industries, and told TVN24 that an important agreement could be signed 'if everything can be finalised'. Deputy minister Magdalena Sobkowiak-Czarnecka said Poland was getting closer to a decision on the base as the US review of its forces in Europe nears its end. The trip had been postponed in September.",
+      "why": "The US is reviewing how many troops it keeps in Europe, and the Polish government wants to secure a lasting American presence before decisions are made. No result of the talks had been reported by the time of this edition."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Ordinary citizens feel this indirectly: constitutional complaints can stall, and uncertainty about which rulings count affects laws on everything from taxes to abortion. It also colours politics ahead of Independence Day on 11 November.",
+      "id": "poland-tribunal-assembly",
+      "importance": 3,
+      "markets": [],
+      "rank": 11,
+      "rankWhy": "Who legitimately runs Poland's constitutional court affects whether its rulings are recognised, a long-running dispute that also shapes Poland's relations with the EU.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Rzeczpospolita",
+          "url": "https://www.rp.pl/sady-i-trybunaly/art45452641-sedzia-korwin-piotrowska-zwolala-kolejne-zgromadzenie-ogolne-sedziow-tk-znamy-date"
+        },
+        {
+          "name": "Wirtualna Polska",
+          "url": "https://wiadomosci.wp.pl/zgromadzenie-ogolne-tk-korwin-piotrowska-wydala-zarzadzenie-7347800409065920a"
+        }
+      ],
+      "terms": [
+        "Constitutional Tribunal",
+        "Rule of law"
+      ],
+      "title": "Poland's Constitutional Tribunal: a contested assembly of judges convened for Tuesday morning, which the Tribunal's president calls illegal",
+      "what": "Judge Anna Korwin-Piotrowska, the longest-serving judge of the Constitutional Tribunal (TK), convened a General Assembly of judges for 10:00 on Tuesday 10 November to change the Tribunal's internal rules and the way judges are assigned to cases, Rzeczpospolita and Wirtualna Polska report. A group of judges elected by the current Sejm says she has taken over the court's leadership, and she suspended TK President Bogdan Święczkowski and Vice-President Bartłomiej Sochański. Święczkowski does not recognise the move, calls the group 'usurpers' and says he and the judges he considers lawful will not attend. The head of the President's Chancellery, Zbigniew Bogucki, says only the TK president can convene the assembly; the Chancellery and the PiS parliamentary club have notified prosecutors.",
+      "why": "The dispute stems from contested appointments of judges since 2015; each side says the other's judges or decisions are invalid. Rzeczpospolita notes that many lawyers consider the takeover of the Tribunal's leadership legally doubtful."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "For Europeans this is far away, but displacement crises in the Horn of Africa are one of the long-run drivers of migration along routes that end in the Mediterranean.",
+      "id": "ethiopia-kenya-displacement",
+      "importance": 3,
+      "markets": [],
+      "rank": 12,
+      "rankWhy": "A sudden refugee flow of this size strains one of Kenya's poorest border regions and signals instability in Ethiopia, Africa's second-most populous country.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "allAfrica",
+          "url": "https://allafrica.com/stories/202611100121.html"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/africa/20261028-ethiopia-clashes-push-50-000-flee-to-kenya"
+        },
+        {
+          "name": "Addis Standard",
+          "url": "https://addisstandard.com/brief/n-61039/"
+        }
+      ],
+      "terms": [
+        "Refugee",
+        "Internally displaced person (IDP)"
+      ],
+      "title": "About 50,000 people have fled clashes in Ethiopia into northern Kenya; most say food is their most urgent need",
+      "what": "About 50,000 people have fled violence in Ethiopia's Oromia and Somali regions and crossed into Kenya's Moyale area since late October, according to aid agencies cited by allAfrica on 10 November. A needs assessment found that 80% of households name food as their most urgent need and 44% lack enough drinking water; more than half of the displaced are children. In late October the UN refugee agency said up to 50,000 people had crossed and urgently needed help (France 24), and UN agencies have sought $8.9 million to assist them (Addis Standard).",
+      "why": "When fighting flares near a border, families often cross to the nearest safe area abroad, where host communities and aid budgets may already be stretched; aid agencies are calling for urgent funding (allAfrica). The causes of the latest clashes were not detailed in the reports reviewed for this edition."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "In Poland, which still burns much coal, high fuel prices have hurt households; the study shows that lasting cuts depend on cheaper clean alternatives such as heat pumps, EVs and renewables, not on price shocks.",
+      "id": "co2-emissions-fall-2026",
+      "importance": 3,
+      "markets": [],
+      "rank": 13,
+      "rankWhy": "Whether global emissions peak decides how fast the planet warms; the finding lands as COP31 negotiators meet in Antalya.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Science News",
+          "url": "https://sciencenews.org/article/fossil-fuel-emissions-down-2026-gas"
+        },
+        {
+          "name": "TRT World (COP31)",
+          "url": "https://www.trtworld.com/article/adc1626e31f4"
+        }
+      ],
+      "terms": [
+        "Carbon dioxide (CO₂)",
+        "Emissions peak"
+      ],
+      "title": "Global fossil-fuel CO₂ emissions are set to fall 0.4% in 2026, but scientists say the war's high energy prices, not clean energy, are the main reason",
+      "what": "A study by C. Le Quéré and colleagues published in Nature Climate Change projects that global fossil-fuel CO₂ emissions will fall about 0.4% in 2026 to 38.24 billion tonnes, roughly 0.16 billion tonnes less than in 2025, Science News reported on 9 November. Emissions had grown about 0.8% a year on average in 2019–2025. The main reason for this year's dip is high oil and gas prices caused by the Iran war and disrupted shipping through the Strait of Hormuz, so it is probably temporary, the report says. Without electric cars, solar and wind, emissions would have grown about 1.9% a year in 2019–2025, the researchers estimate.",
+      "why": "Expensive energy forces people and firms to use less, which cuts emissions in the short run, but when prices fall demand usually rebounds. Researcher Glen Peters of the Center for International Climate Research in Oslo said the energy transition is not yet big enough to push emissions steadily down."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "The main protection is two doses of the MMR (measles, mumps, rubella) vaccine, which the CDC continues to recommend; checking that vaccinations are up to date before travel is standard advice.",
+      "id": "us-measles-elimination-review",
+      "importance": 3,
+      "markets": [],
+      "rank": 14,
+      "rankWhy": "Losing elimination status would mark the return of a dangerous childhood disease as a permanently circulating threat in the world's largest economy, with lessons for vaccination policy everywhere.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "NBC Palm Springs",
+          "url": "https://nbcpalmsprings.com/your-health-today/2026/11/09/us-reports-more-than-5000-measles-cases-in-2026-as-health-officials-warn-of-further-spread"
+        },
+        {
+          "name": "Washington Examiner",
+          "url": "https://www.washingtonexaminer.com/policy/healthcare/4797421/us-likely-to-lose-its-measles-elimination-status-this-week-battling-outbreaks/"
+        }
+      ],
+      "terms": [
+        "Endemic disease",
+        "Herd immunity",
+        "MMR vaccine"
+      ],
+      "title": "US measles cases pass 5,000 this year as the Pan American Health Organization reviews whether the country has lost its 'measles-free' status",
+      "what": "More than 5,000 measles cases have been reported in the US in 2026, more than double the 2025 total, with cases in all but four states, the CDC says, as reported by NBC Palm Springs on 9 November. Deaths have been reported in New York, Pennsylvania and Wisconsin, and state health departments say none of those who died were vaccinated. The Pan American Health Organization (PAHO) is meeting from Tuesday to Thursday this week to decide whether measles has become endemic – continuously circulating – in the US and Mexico, the Washington Examiner reports. The CDC says it is investing about $100 million in outbreak prevention and response.",
+      "why": "Measles is one of the most contagious diseases known, so outbreaks take off when vaccination rates in a community fall; health officials point to declining vaccination in recent years. The US was declared measles-free in 2000; losing that status would be a symbolic and practical setback."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Infineon's chips go into cars and power systems sold across Europe, so its outlook is a signal for the wider European industrial supply chain.",
+      "id": "infineon-outlook",
+      "importance": 2,
+      "markets": [
+        "Infineon",
+        "DAX",
+        "K+S"
+      ],
+      "rank": 15,
+      "rankWhy": "A strong outlook from a key supplier of chips for cars and power systems supports Europe's tech and industrial sectors.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://ca.investing.com/news/economy-news/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment-4945483"
+        }
+      ],
+      "terms": [
+        "Profit margin"
+      ],
+      "title": "Infineon shares rise after the German chipmaker forecasts more than 20% revenue growth in 2027",
+      "what": "German chipmaker Infineon forecast revenue growth of more than 20% in 2027 and a rise in profitability of roughly five percentage points, driven by demand from data centres, power infrastructure and software-defined vehicles, Reuters reported on Tuesday. Its shares rose 3.1% in early trading. Potash producer K+S rose 2.3% after beating third-quarter expectations.",
+      "why": "AI data centres need huge amounts of electricity, and Infineon's power chips manage that power, so the company benefits from the same boom as Nvidia and TSMC."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Workplace safety rules in the EU, including Poland, are enforced by labour inspectorates; accidents like this are a reminder of why such inspections matter.",
+      "id": "turkey-steel-plant-blast",
+      "importance": 2,
+      "markets": [],
+      "rank": 16,
+      "rankWhy": "A deadly industrial accident that raises questions about workplace safety in heavy industry.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://business-standard.com/amp/world-news/explosion-at-steel-plant-in-western-turkiye-leaves-16-dead-13-injured-126110901616_1.html"
+        },
+        {
+          "name": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-11-09/news-1RVWfOHCBUs/p.html"
+        }
+      ],
+      "terms": [
+        "Occupational safety"
+      ],
+      "title": "Explosion at a steel plant in western Türkiye kills at least 16 workers",
+      "what": "An explosion at the HABAS iron and steel plant in Aliağa, İzmir province, killed at least 16 people and injured 13 on Monday 9 November, Business Standard reported citing official statements. Provincial governor Süleyman Elban said a crane fell into a furnace while workers were replacing a boiler. President Recep Tayyip Erdoğan said judicial and administrative investigations had been launched, and the justice minister assigned four prosecutors; the Demirören News Agency reported five people were detained.",
+      "why": "Heavy industry combines molten metal, cranes and high-pressure systems, so maintenance work is among the riskiest moments; investigators will examine whether safety rules were followed."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Interest rates set by the council feed into the cost of mortgages and the return on savings deposits for Polish households.",
+      "id": "poland-mpc-vacancies",
+      "importance": 2,
+      "markets": [
+        "Polish government bonds",
+        "złoty"
+      ],
+      "rank": 17,
+      "rankWhy": "The Monetary Policy Council (RPP) sets Poland's interest rates, which affect every mortgage and loan in the country.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "wnp.pl / PAP Biznes",
+          "url": "https://www.wnp.pl/rynki/marszalek-senatu-wyznaczyla-senatorom-termin-9-25-listopada-na-zglaszanie-kandydatur-do-rpp,1118206.html"
+        },
+        {
+          "name": "TVN24",
+          "url": "https://tvn24.pl/biznes/z-kraju/kandydaci-do-rpp-marszalek-wyznaczyla-termin-st9330852"
+        }
+      ],
+      "terms": [
+        "Monetary Policy Council (RPP)"
+      ],
+      "title": "Poland's Senate opens nominations for two seats on the interest-rate-setting Monetary Policy Council",
+      "what": "Senate Marshal Małgorzata Kidawa-Błońska set 9–25 November (until 12:00) as the window for senators to nominate two new members of the Monetary Policy Council, wnp.pl reported citing PAP Biznes. The seats became vacant when the Senate recalled Ludwik Kotecki and Przemysław Litwiniuk on 6 November after both were appointed to the management board of the National Bank of Poland (NBP) by President Karol Nawrocki. The council has the NBP president as chair and nine members, three each appointed by the President, the Sejm and the Senate; vacancies must be filled within three months.",
+      "why": "Who sits on the council can shift the balance between members who favour higher or lower rates, so markets watch nominations closely."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Grid investment and electrification decisions also affect Polish power prices and the pace of the coal phase-out.",
+      "id": "cop31-day-two",
+      "importance": 2,
+      "markets": [],
+      "rank": 18,
+      "rankWhy": "How the climate summit handles energy security shapes investment in grids and renewables worldwide.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "TRT World",
+          "url": "https://www.trtworld.com/article/adc1626e31f4"
+        }
+      ],
+      "terms": [
+        "COP (Conference of the Parties)",
+        "Electrification"
+      ],
+      "title": "COP31 day two in Antalya turns to energy security, electrification and clean transport",
+      "what": "On Tuesday 10 November the UN climate conference COP31 in Antalya, Türkiye, which runs until 20 November, focuses on energy security, electrification and sustainable transport, with about 370 sessions, 140 of them on energy and transport, TRT World reported. Ministers are due to discuss a green-energy partnership between Azerbaijan, Kazakhstan and Uzbekistan, and sessions cover Ukraine's energy transition. No new commitments had been announced by the time of this edition.",
+      "why": "Sessions on 'green energy security' and reliable supplies amid geopolitical risks reflect how the year's energy shock has tied climate policy to security, TRT World reports."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Checking for traffic before joining a main road is a basic rule everywhere; enforcement makes the difference.",
+      "id": "tanzania-road-crash",
+      "importance": 2,
+      "markets": [],
+      "rank": 19,
+      "rankWhy": "A deadly crash that highlights road-safety risks on Tanzania's busy highways.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "allAfrica",
+          "url": "https://allafrica.com/stories/202611100121.html"
+        }
+      ],
+      "terms": [
+        "Road safety"
+      ],
+      "title": "Tanzania: at least 21 killed as a minibus and a truck collide on the Iringa–Njombe highway",
+      "what": "At least 21 people were killed and five injured when a passenger minibus and a cargo truck collided at Kiponzero junction on the Iringa–Njombe highway, allAfrica reported on 10 November. Police said the minibus driver entered the highway from a feeder road without checking that it was safe. President Samia Suluhu Hassan sent condolences to the victims' families.",
+      "why": "Crowded minibuses, heavy trucks and weak enforcement of traffic rules make junctions on major highways particularly dangerous."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "The case shows how justice for mass atrocities can continue decades after the events.",
+      "id": "rwanda-genocide-suspect-deported",
+      "importance": 2,
+      "markets": [],
+      "rank": 20,
+      "rankWhy": "Bringing suspects to trial decades later matters for justice for victims of the genocide against the Tutsi, in which hundreds of thousands were killed.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "allAfrica",
+          "url": "https://allafrica.com/stories/202611100121.html"
+        }
+      ],
+      "terms": [
+        "Genocide",
+        "Deportation"
+      ],
+      "title": "US deports a man accused of taking part in Rwanda's 1994 genocide; he was arrested on arrival in Kigali",
+      "what": "The United States deported Jean Léonard Teganya, 55, who is accused of taking part in the 1994 genocide against the Tutsi, including killings at a hospital and a student dormitory in Butare, allAfrica reported. He was arrested in Kigali. He had been convicted in the US in 2019 of immigration fraud and perjury, and Rwanda says he is the eighth genocide suspect deported from the US since 2007.",
+      "why": "Many suspects fled abroad after the genocide; countries that cannot try them for the crimes themselves can deport them for immigration offences so they face trial at home."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "The case shows how the war next to Poland draws in fighters from far beyond Europe.",
+      "id": "south-africa-zimbabweans-war-recruits",
+      "importance": 2,
+      "markets": [],
+      "rank": 21,
+      "rankWhy": "Recruitment of young Africans for the war in Ukraine has become a diplomatic and security issue for several African countries.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "allAfrica",
+          "url": "https://allafrica.com/stories/202611100121.html"
+        }
+      ],
+      "terms": [
+        "Mercenary"
+      ],
+      "title": "South Africa arrests nine young Zimbabweans suspected of trying to travel abroad to fight in the Russia–Ukraine war",
+      "what": "Nine Zimbabwean nationals aged 20 to 26 were arrested in Johannesburg, five at OR Tambo International Airport and four at a hotel, on suspicion of trying to travel abroad to fight in the Russia–Ukraine war, allAfrica reported. They face charges under South Africa's law regulating foreign military assistance. Authorities have not said which side they intended to join.",
+      "why": "South Africa's Regulation of Foreign Military Assistance Act restricts taking part in foreign armed conflicts, which is why the men were charged before they could leave."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Polish banks and the financial regulator KNF also warn customers regularly about fake messages; never share log-in codes, even with someone claiming to be from your bank.",
+      "id": "asia-bank-cyber-warnings",
+      "importance": 2,
+      "markets": [],
+      "rank": 22,
+      "rankWhy": "Banks hold people's savings and payments, so regulators' warnings signal a perceived increase in the risk of disruptive attacks.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Bernama",
+          "url": "https://www.bernama.com/en/world/news.php?id=2632132"
+        }
+      ],
+      "terms": [
+        "Phishing",
+        "Financial regulator"
+      ],
+      "title": "Indonesia's and Thailand's financial regulators tell banks to tighten cyber defences as AI-related threats rise",
+      "what": "Indonesia's Financial Services Authority (OJK) urged banks to stay highly vigilant against rising cyber threats and asked customers to remain calm, while the Bank of Thailand asked commercial banks to strengthen cybersecurity, citing a rise in AI-related cyber threats globally over the past one to two weeks, Bernama reported on 10 November, citing ANTARA and the Bangkok Post.",
+      "why": "AI tools can help attackers write convincing phishing messages and find weaknesses faster, so supervisors are asking banks to check their defences."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Migration tensions and how politicians respond to them are a shared challenge in Europe and Africa alike.",
+      "id": "nigeria-south-africa-xenophobia",
+      "importance": 2,
+      "markets": [],
+      "rank": 23,
+      "rankWhy": "Tension between Africa's two largest economies over the treatment of migrants affects trade and relations across the continent.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "allAfrica / Daily Trust",
+          "url": "https://allafrica.com/stories/202611100049.html"
+        }
+      ],
+      "terms": [
+        "Xenophobia"
+      ],
+      "title": "Nigeria's envoy warns that patience is wearing thin over xenophobic hostility toward Nigerians in South Africa",
+      "what": "Nigeria's High Commissioner to South Africa, Femi Fani-Kayode, said growing xenophobic hostility toward Nigerians and other Africans threatens the solidarity that helped end apartheid, Daily Trust reported via allAfrica. Speaking in Johannesburg, he said frustration in Nigeria's government was growing but ruled out cutting economic ties and urged Nigerians not to retaliate. The report did not detail specific incidents.",
+      "why": "The envoy blamed a minority driven by xenophobic and 'Afrophobic' sentiment and recalled Nigeria's support for the anti-apartheid struggle, including the 'Mandela Tax' paid by Nigerian civil servants."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Israeli politics matters for Europe's diplomacy in the Middle East and for energy and shipping routes that affect prices in Poland.",
+      "id": "israel-knesset-eisenkot",
+      "importance": 2,
+      "markets": [],
+      "rank": 24,
+      "rankWhy": "A change of government in Israel after Netanyahu's long rule would affect Gaza, Lebanon and the wider Iran conflict.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "The Times of Israel",
+          "url": "https://timesofisrael.com/liveblog-november-10-2026"
+        },
+        {
+          "name": "Just Security",
+          "url": "https://www.justsecurity.org/163775/early-edition-november-9-2026/"
+        }
+      ],
+      "terms": [
+        "Coalition government"
+      ],
+      "title": "Israel's new Knesset: Eisenkot's bloc, holding the mandate to form a government, picks Matan Kahana as its candidate for speaker",
+      "what": "Israel's 26th Knesset, with 120 members, 46 of them first-timers, is being sworn in, The Times of Israel reports. The bloc led by Gadi Eisenkot, who has received the mandate to form a government with the backing of 67 lawmakers, agreed to nominate Matan Kahana as Knesset speaker in place of Likud's Amir Ohana. Avigdor Liberman is set to chair the Foreign Affairs and Defense Committee.",
+      "why": "Who controls the speaker's chair and key committees shapes the parliamentary agenda while coalition talks continue; Eisenkot has 28 days to form a government, Just Security reported."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "EU rules on AI, which apply in Poland, are one of the frameworks such talks compare.",
+      "id": "japan-takaichi-ai-security",
+      "importance": 1,
+      "markets": [],
+      "rank": 25,
+      "rankWhy": "A small diplomatic step, but part of a growing effort to set international rules for advanced AI.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Nippon.com / Jiji Press",
+          "url": "https://www.nippon.com/en/articles/-/57166"
+        },
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/10/japan/politics/takaichi-ai-france-meeting/"
+        }
+      ],
+      "terms": [],
+      "title": "Japan's PM Takaichi calls for international cooperation on AI security at a France-hosted online meeting",
+      "what": "Prime Minister Sanae Takaichi said advanced AI creates new security challenges, such as its use in cyberattacks and the risk of loss of control, and that these cross borders, at an online meeting hosted by France on Monday, Jiji Press reported via Nippon.com. Japan plans to host an AI summit 'at an early date'.",
+      "why": "Governments want to encourage AI innovation while managing risks that no single country can control."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Many Poles follow papal journeys closely; the Vatican publishes the full programme online.",
+      "id": "pope-leo-argentina",
+      "importance": 1,
+      "markets": [],
+      "rank": 26,
+      "rankWhy": "Papal visits draw huge crowds and can put social issues such as poverty and abuse on national agendas.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Vatican News",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/vatican-press-office-presents-pope-leo-s-journey-latin-america.html"
+        }
+      ],
+      "terms": [],
+      "title": "Pope Leo XIV continues his visit to Argentina before heading to Peru on Wednesday",
+      "what": "Pope Leo XIV is in Argentina from 8 to 11 November, visiting Buenos Aires, Córdoba and Luján, as part of a 6–17 November journey that also includes Uruguay and Peru, Vatican News reports. The programme includes meetings with prisoners, the poor and victims of clerical sexual abuse; in Peru, where he long served as a missionary, he will visit Lima, Chiclayo, Cuzco and Pucallpa.",
+      "why": "Vatican News describes the Peru leg as a 'homecoming', and social justice as a main theme of the trip."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Poland's housing debates also revolve around who should get help buying a first home.",
+      "id": "korea-housing-subscription-fraud",
+      "importance": 1,
+      "markets": [],
+      "rank": 27,
+      "rankWhy": "Fairness in access to affordable housing is a sensitive social issue in South Korea's expensive cities.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "SBS",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008838924"
+        }
+      ],
+      "terms": [],
+      "title": "South Korea finds 354 suspected cases of fraud in its apartment-allocation lottery",
+      "what": "A joint government inspection identified 354 suspected cases of fraudulent applications for new apartments, including a high-income doctor couple who allegedly staged fake resignations to qualify for a special allocation for newlyweds, SBS reported on 10 November.",
+      "why": "Korea reserves some new flats for groups such as newlyweds (a 'special supply'); when housing is expensive, the incentive to cheat to qualify rises."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Synthetic drugs trafficked through Africa can end up on European markets too.",
+      "id": "kenya-meth-seizure",
+      "importance": 1,
+      "markets": [],
+      "rank": 28,
+      "rankWhy": "A large seizure that points to East Africa's growing role as a drug-trafficking transit route.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "allAfrica",
+          "url": "https://allafrica.com/stories/202611100121.html"
+        }
+      ],
+      "terms": [],
+      "title": "Kenya seizes 454 kg of methamphetamine worth about $27 million and arrests three suspects",
+      "what": "Kenyan authorities seized 454 kg of methamphetamine worth about $27 million and arrested two Tanzanians and a Ugandan in the coastal region, allAfrica reported. The network is believed to operate in several countries, including Tanzania, South Africa, Mozambique, Afghanistan and the UAE.",
+      "why": "Investigators believe some drugs seized in Tanzania may have come through the Kenyan port of Mombasa, showing how networks use regional ports."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "The same global risk mood also moves Warsaw: the WIG20 rose 0.8% on Monday.",
+      "id": "latam-markets-rally",
+      "importance": 1,
+      "markets": [
+        "Ibovespa",
+        "Brazilian real",
+        "COLCAP"
+      ],
+      "rank": 29,
+      "rankWhy": "Latin American markets often amplify global risk moods because foreign investors move money in and out quickly.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "The Rio Times",
+          "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-november-10-2026"
+        }
+      ],
+      "terms": [
+        "Emerging market"
+      ],
+      "title": "Latin American stocks join the global rebound: Brazil's Ibovespa rises 2.2% and Colombia's COLCAP 3.7%",
+      "what": "On Monday Brazil's Ibovespa closed up 2.22% at 172,236.05 after the Wall Street rally, while the real stayed weak at about 5.51 per dollar, and Colombia's COLCAP rose 3.67%, The Rio Times reported. Brazil's central bank held its Selic rate at 13.75% on 4 November after five cuts, with inflation above the 4.5% upper limit of its target range, the same report says.",
+      "why": "When global investors become more willing to take risk, emerging-market shares tend to rise more than developed ones; very high Brazilian interest rates reflect the fight against inflation."
+    }
+  ],
+  "watch": [
+    "US consumer price index (CPI) for October: today, Tuesday 10 November, 08:30 New York = 14:30 Warsaw. Consensus is about +0.3% month on month (core +0.2%); no year-on-year rate will be published because October 2025 data are missing after the government shutdown (Kiplinger).",
+    "US Treasury sells $42 billion of 10-year notes today at 13:00 New York = 19:00 Warsaw (Saxo); weak demand would push yields up.",
+    "Russia–Ukraine–US talks in Abu Dhabi continue on Wednesday 11 November; watch for any statement on security guarantees or a ceasefire.",
+    "Poland: Independence Day, Wednesday 11 November (public holiday); the Independence March in Warsaw is due in the afternoon.",
+    "US producer price index (PPI) for October on Friday 13 November; the Fed's next decision is on 9 December (Warsaw evening).",
+    "Developing: US–Iran contacts via Qatar; Houthi attacks on Saudi oil infrastructure; Nvidia's board investigation ahead of its results on 17 November."
+  ],
+  "window": "Mon 9 Nov 20:00 → Tue 10 Nov 10:00 (Warsaw time)",
+  "id": "2026-11-10-1000",
+  "updatedAt": "2026-11-10T09:15:28.207658Z"
+}

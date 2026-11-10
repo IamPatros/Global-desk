@@ -1,0 +1,263 @@
+{
+  "checkQuestions": [
+    {
+      "a": "Higher oil prices raise transport, energy and production costs, which lifts inflation (Lessons 6 and 11). Central banks respond by raising interest rates (Lesson 7), which pushes up bond yields (Lesson 8) and, if inflation expectations do not rise as much, real yields. Holding gold means giving up that higher interest, so its opportunity cost rises and some investors switch to bonds. If this effect is stronger than the safe-haven buying caused by fear, gold falls, as it did in 2026.",
+      "q": "Explain, step by step, how an oil price shock in the Gulf could end up pushing the gold price down rather than up."
+    },
+    {
+      "a": "Her return in złoty is (1 + gold change in dollars) × (1 + change in USD/PLN) − 1. If the złoty strengthened against the dollar (USD/PLN fell), part or all of the 2% would be wiped out; if the złoty weakened, she would gain more than 2%. Only if USD/PLN is unchanged is her return exactly 2% (before costs).",
+      "q": "A Polish saver says: 'Gold rose 2% in dollars this month, so I gained 2%.' Under what circumstances is she wrong, and why?"
+    },
+    {
+      "a": "Central banks hold reserves for safety and diversification, not only return. Gold is nobody's liability, so it cannot default, and if kept in the country's own vaults it cannot be frozen by a foreign government the way securities held abroad can; it also does not depend on any one currency. The WGC says diversification and risk management are central banks' main motives. The cost is the forgone interest and price volatility, which they accept as an insurance premium.",
+      "q": "Why might a central bank such as the NBP prefer gold to holding more US Treasury bonds, given that Treasuries pay interest and gold does not?"
+    },
+    {
+      "a": "A hedge is uncorrelated or negatively correlated with shares on average; a safe haven holds up specifically during extreme stress. An asset could be uncorrelated on normal days but get sold along with everything else in a panic (a hedge but not a haven), as gold sometimes is when investors face margin calls and sell what is liquid.",
+      "q": "What is the difference between a hedge and a safe haven? Give an example of an asset that could be one but fail to be the other."
+    },
+    {
+      "a": "If tonnes fell but spending rose, the average price per tonne must have risen by more than 17% (roughly 1.02 ÷ 0.83 ≈ 1.23, so about 23% higher). Buyers reduced quantity in response to higher prices, but less than proportionally, so total spending rose: demand was price-inelastic over this range (Lesson 2).",
+      "q": "Jewellery demand fell 17% in tonnes in Q3 2026 while its value rose 2%. Explain what this tells you about prices and price elasticity."
+    }
+  ],
+  "createdAt": "2026-11-10T08:57:23Z",
+  "date": "10 Nov 2026",
+  "editionId": "2026-11-10-1000",
+  "intro": "Gold pays no interest and no dividend, yet central banks hold thousands of tonnes of it and its price makes headlines whenever the world looks dangerous. In this lesson you will learn what actually drives the gold price, why it is quoted in dollars per troy ounce, and why 'safe haven' does not mean 'always goes up in a crisis'. By the end you will be able to convert the gold price into złoty, explain how interest rates create an opportunity cost for holding gold, and judge for yourself why gold fell this year even while a war was raging in the Gulf.",
+  "lessonQuiz": [
+    {
+      "answer": 1,
+      "explain": "(1.01 × 1.02) − 1 = 0.0302, about +3.0%: both the gold price and the dollar rose against the złoty, so the effects add up.",
+      "options": [
+        "+1.0%",
+        "+3.0%",
+        "−1.0%",
+        "+2.0%"
+      ],
+      "q": "Gold rises 1% in dollars on a day when USD/PLN rises 2%. Approximately how much does gold change for a Polish holder?"
+    },
+    {
+      "answer": 1,
+      "explain": "The rate channel is the mechanism described by Euronews and Reuters; lower supply would raise prices, and central banks have been buying, not selling.",
+      "options": [
+        "War → fewer gold mines operating → lower supply → lower price",
+        "War → oil shock → higher inflation → central banks raise rates → higher opportunity cost of gold → lower gold price",
+        "War → stronger demand for jewellery → higher price → buyers stop buying → lower price",
+        "War → central banks sell all their gold → lower price"
+      ],
+      "q": "Which chain best explains why gold could fall even though a war was raging in the Gulf in 2026?"
+    },
+    {
+      "answer": 2,
+      "explain": "(1.0456 ÷ 1.039) − 1 = 0.00635 ≈ 0.64%. The approximation 4.56 − 3.9 = 0.66 points is close but not exact.",
+      "options": [
+        "8.46%",
+        "0.66%",
+        "0.64%",
+        "1.17%"
+      ],
+      "q": "A two-year Treasury yields 4.56% and expected inflation is 3.9%. What is the exact real yield?"
+    },
+    {
+      "answer": 3,
+      "explain": "5,589.38 ÷ 4,114.48 − 1 = 0.358. The rise needed is larger than the 26.4% fall because it starts from a lower base.",
+      "options": [
+        "About 26.4%",
+        "About 30.0%",
+        "About 52.6%",
+        "About 35.8%"
+      ],
+      "q": "Gold fell from $5,589.38 to $4,114.48. What percentage rise is needed to return to the record?"
+    },
+    {
+      "answer": 2,
+      "explain": "A safe haven is defined by behaviour in stress relative to risky assets; it can still lose value, and gold pays no interest at all.",
+      "options": [
+        "An asset that can never fall in price",
+        "An asset guaranteed by a government",
+        "An asset that tends to hold or gain value when risky assets fall sharply in a crisis",
+        "An asset that always pays a fixed interest rate"
+      ],
+      "q": "What best defines a 'safe haven' asset?"
+    },
+    {
+      "answer": 0,
+      "explain": "Higher expected rates with unchanged inflation expectations raise real yields, making interest-paying assets more attractive than gold; higher US rates usually support, not weaken, the dollar.",
+      "options": [
+        "Downward pressure, because expected real yields and the opportunity cost of holding gold rise",
+        "Upward pressure, because higher rates mean higher inflation",
+        "No effect, because gold is priced only by supply and demand for jewellery",
+        "Upward pressure, because a higher Fed rate weakens the dollar"
+      ],
+      "q": "Markets raise the odds of a Fed rate hike from 74% to 84% while inflation expectations stay the same. All else equal, what is the most likely effect on gold?"
+    },
+    {
+      "answer": 2,
+      "explain": "Value ÷ quantity = 1.02 ÷ 0.83 ≈ 1.229, so the average price rose about 23%.",
+      "options": [
+        "It fell about 15%",
+        "It rose about 2%",
+        "It rose about 23%",
+        "It rose about 17%"
+      ],
+      "q": "In Q3 2026 jewellery demand fell 17% in tonnes but rose 2% in value. What happened to the average price per tonne of jewellery gold bought, approximately?"
+    },
+    {
+      "answer": 1,
+      "explain": "The WGC cites diversification and risk management; gold pays no interest and there is no EU rule setting a tonnage.",
+      "options": [
+        "To earn high interest income",
+        "Mainly for diversification and risk management, since gold is nobody's liability",
+        "Because EU rules require each central bank to hold 700 tonnes",
+        "To lower the price of jewellery for citizens"
+      ],
+      "q": "Why do central banks such as the NBP say they buy gold, according to the World Gold Council?"
+    },
+    {
+      "answer": 3,
+      "explain": "10% × 355.7 billion = 35.57 billion zł; the loss is on paper unless the gold is sold.",
+      "options": [
+        "3.6 billion zł",
+        "14.1 billion zł",
+        "70.0 billion zł",
+        "35.6 billion zł"
+      ],
+      "q": "The NBP's 700 tonnes are worth 355.7 billion zł. If gold falls 10% in złoty, roughly how much value is lost?"
+    },
+    {
+      "answer": 1,
+      "explain": "Bond prices and yields move inversely; higher yields make holding non-yielding gold more costly.",
+      "options": [
+        "Yields fall, which hurts gold",
+        "Yields rise, which raises gold's opportunity cost and tends to weigh on it",
+        "Yields rise, which always lifts gold",
+        "Yields are unaffected by bond prices"
+      ],
+      "q": "Connecting to Lesson 8: when bond prices fall, what happens to their yields, and what does that usually mean for gold?"
+    },
+    {
+      "answer": 3,
+      "explain": "A weaker dollar lowers gold's cost in other currencies, tending to raise demand and the dollar price; it is a tendency, not an exact one-for-one rule.",
+      "options": [
+        "It tends to fall, because gold becomes more expensive abroad",
+        "It is unaffected, because gold is priced in dollars",
+        "It always rises by exactly the dollar's fall",
+        "It tends to rise, because gold becomes cheaper for non-dollar buyers, lifting demand"
+      ],
+      "q": "Connecting to Lesson 5: the dollar weakens broadly against other currencies while nothing else changes. What is the typical effect on the dollar gold price?"
+    },
+    {
+      "answer": 0,
+      "explain": "President Nixon suspended dollar–gold convertibility, effectively ending the Bretton Woods gold link (Federal Reserve History).",
+      "options": [
+        "The US closed the 'gold window', ending the conversion of dollars into gold at $35 an ounce for foreign governments",
+        "Gold reached $5,589 an ounce",
+        "The euro replaced national currencies",
+        "Poland's central bank sold all its gold"
+      ],
+      "q": "What happened on 15 August 1971?"
+    }
+  ],
+  "level": "Core",
+  "minutes": 18,
+  "misconceptions": [
+    {
+      "myth": "Gold always rises when there is a war or crisis.",
+      "truth": "Gold's 2026 record came before the Iran war, and it is about 26% lower now. If a crisis raises inflation and interest rates, the higher opportunity cost can outweigh the fear effect; in sudden crashes, forced selling can also push gold down at first."
+    },
+    {
+      "myth": "The price of gold is the same for everyone.",
+      "truth": "The world price is in dollars; a Pole's price is the dollar price times USD/PLN. If gold is flat in dollars but the złoty strengthens, gold becomes cheaper in złoty, and vice versa."
+    },
+    {
+      "myth": "Gold is a reliable month-to-month protection against inflation.",
+      "truth": "Gold has broadly preserved purchasing power over very long periods, but over months or years it can fall while inflation is high, especially when central banks respond by raising real interest rates."
+    },
+    {
+      "myth": "If central banks are buying record amounts, the price must go up.",
+      "truth": "Central banks bought an estimated 321 tonnes in Q3 2026, far above average, yet prices fell below $4,000 at one point. Price depends on all buyers and sellers; jewellery demand fell and the opportunity cost rose."
+    },
+    {
+      "myth": "A 'safe haven' is risk-free.",
+      "truth": "Safe havens are assets that tend to hold up relative to shares in stress. They can still lose a lot: gold fell about 26% from its peak, and Treasuries lose value when rates rise."
+    }
+  ],
+  "number": 12,
+  "objectives": [
+    "Explain why gold has value even though it produces no cash flow, and name the main sources of gold demand and supply using World Gold Council data.",
+    "Calculate the price of gold in złoty from the dollar price and the USD/PLN exchange rate, and decompose a change in the złoty price into a gold effect and a currency effect.",
+    "Explain the opportunity-cost mechanism linking interest rates, real yields and the gold price, and calculate a real yield from a nominal yield and expected inflation.",
+    "Define a 'safe haven', distinguish it from a 'hedge', and give examples of assets that have played this role and the conditions under which they fail.",
+    "Trace why gold can fall during a war (as in 2026) by linking an oil shock to inflation, rate hikes and higher real yields.",
+    "Describe why central banks such as the NBP buy gold and calculate what their holdings are worth at current prices."
+  ],
+  "recap": "Lesson 11 showed that oil is priced as the Brent futures benchmark in dollars per barrel, that short-run supply and demand are inelastic so small disruptions cause big price swings, and that fear of a Hormuz closure adds a 'risk premium' that can vanish on hopes of a deal. We also saw that oil shocks push inflation up and force central banks to react. This lesson builds directly on that chain: when an oil shock raises inflation and central banks raise interest rates (Lesson 7), the return on bonds rises (Lesson 8), and that changes the attractiveness of gold, an asset that pays no interest at all.",
+  "sections": [
+    {
+      "body": "A share entitles you to part of a company's profits (Lesson 3) and a bond pays interest (Lesson 8), but a bar of gold produces nothing: its owner's only return is a possible rise in its price. Gold's value rests on physical properties and on social convention: it is scarce, does not rust or decay, can be divided and melted without loss, and has been accepted as a store of value across cultures for thousands of years. Because it does not decay, almost all the gold ever mined still exists, so each year's new mine output is small relative to the existing stock; that makes gold's price driven far more by changes in people's willingness to hold the existing stock than by annual production. The World Gold Council (WGC), the industry's main data source, splits demand into jewellery, technology, bars and coins, exchange-traded funds (ETFs) and central banks. In the third quarter of 2026 the WGC counted total demand of 1,369 tonnes: jewellery 313 t, technology 85 t, bars and coins 268 t, ETF inflows 211 t and central-bank purchases 321 t; the remaining roughly 171 t is the WGC's estimate of over-the-counter (OTC) and other investment (WGC via Kitco, 3 Nov 2026). On the supply side, mine production reached a quarterly record of 1,071 t and recycling of old gold added 314 t. Note that the WGC's demand and supply totals are made to balance, partly through estimates of unreported and over-the-counter buying, so individual categories are estimates, not exact counts. The key idea: gold behaves less like a commodity that is consumed (oil, wheat) and more like a currency that is held.",
+      "heading": "1. What gold is, and why it is valuable without paying anything"
+    },
+    {
+      "body": "The world gold price is quoted in US dollars per troy ounce; one troy ounce is 31.1035 grams, slightly heavier than the ordinary ounce. At 05:30 Warsaw time on Tuesday 10 November, spot gold (gold for immediate delivery) traded at $4,114.48, down 0.6% on the day, according to Reuters. Because gold is priced in dollars, the dollar's own value matters: when the dollar weakens, gold becomes cheaper for buyers using euros, złoty or yen, which tends to raise demand and the dollar price; when the dollar strengthens, the opposite pressure applies. On Monday, for example, the dollar index fell about 0.3% and gold rose about 1.7% (Kitco), although other forces such as falling oil and rising stocks were also at work, so one day never proves a rule. For a Polish buyer, the price that matters is the złoty price: dollar price multiplied by the USD/PLN exchange rate (Lesson 5). That means a Pole's gold return has two parts, the change in the dollar gold price and the change in USD/PLN, and they can offset each other. In 2022, the WGC showed gold up only 0.3% in dollars in the first months of the year but around 10% in euros, because the dollar was strengthening (WGC, May 2022). Simplification alert: the 'dollar effect' is a tendency, not a law; the WGC noted that gold's correlation with the dollar sometimes turns positive.",
+      "heading": "2. How the price is quoted, and why the dollar matters"
+    },
+    {
+      "body": "The most important financial driver of gold is the interest you give up by holding it, its opportunity cost. If a two-year US Treasury note yields about 4.56% (Saxo, 10 Nov), a person holding $10,000 of gold instead of that bond forgoes about $456 a year in interest; gold must rise by more than that just to keep up. When central banks raise rates (Lesson 7), bond yields rise (Lesson 8) and this opportunity cost grows, which tends to push gold down; when rates fall, the cost shrinks and gold tends to benefit. Reuters made exactly this point on Tuesday: with traders pricing an 84% chance of a Fed rate rise in December, higher rates raise the opportunity cost of holding a non-yielding metal. Economists refine this using the real yield: the nominal yield minus expected inflation (Lesson 6), because inflation erodes the purchasing power of interest just as it would erode cash. The approximate formula is real yield ≈ nominal yield − expected inflation; the exact version is (1 + nominal) ÷ (1 + inflation) − 1. Historically, WGC data for January 1971 to April 2022 show gold delivered much higher average annualised returns in months when US real rates were negative (about 17.9%) than when they were between 0% and 4% (about 8.8%). Limits: this is a historical tendency, not a formula; the WGC itself found that in 2022 gold did significantly better than a simple model based on real rates and the dollar predicted.",
+      "heading": "3. The opportunity cost: interest rates and real yields"
+    },
+    {
+      "body": "A safe haven is an asset that investors expect to keep or gain value when riskier assets, such as shares, fall sharply, so they move money into it during panics. A common academic distinction is between a hedge, an asset that on average does not move with shares (zero or negative correlation over normal times), and a safe haven, an asset that holds up specifically during extreme market stress. Assets that have traditionally played the safe-haven role include gold, US government bonds (Treasuries), the Swiss franc and the Japanese yen. Each has a mechanism: Treasuries are backed by the world's largest economy and are easy to sell in huge amounts; the franc rests on Switzerland's long record of political and economic stability; gold is nobody's liability, meaning it cannot default because no government or company owes it (though gold stored abroad can still be blocked: Venezuela's central-bank gold at the Bank of England has been frozen since 2019). The flows reinforce themselves: when many investors believe an asset is a haven, they buy it in a crisis, which makes it rise, which confirms the belief. But no haven is risk-free: Treasuries lose value when inflation and rates rise, and the yen, a traditional haven, was trading near 158 per dollar this week, a weak level that is a reminder that haven status does not guarantee strength. 'Safe' is always relative to what else is falling, and over a given period.",
+      "heading": "4. What a 'safe haven' is, and how it differs from a hedge"
+    },
+    {
+      "body": "If gold were simply a 'fear gauge', it should have soared after the US–Israel war on Iran began on 28 February 2026. Instead, gold's record high of $5,589.38 an ounce came on 28 January 2026, before the war (CBS News), and on Tuesday it traded near $4,114, about 26% lower. The chain runs through Lessons 6, 7, 8 and 11: the war restricted shipping through Hormuz, oil prices jumped, inflation rose, and central banks raised interest rates (Euronews notes the conflict pushed inflation up and led central banks to raise rates; the Fed raised rates in mid-September for the first time in three years, Kiplinger reports). Higher rates and yields raised gold's opportunity cost and strengthened the case for holding interest-paying assets instead. In other words, the inflation and rate effects of the war outweighed the fear effect. A second mechanism, well documented in past crashes, is forced selling: when share prices plunge, investors who borrowed to invest face margin calls and sell whatever is liquid, including gold, so gold can fall in the first days of a panic before recovering. Today the chain also runs in reverse: Monday's oil slump on peace hopes eased inflation fears, and Kyle Rodda, quoted by Reuters, said lower oil and less escalation would benefit gold through its effects on the dollar, inflation and rate expectations.",
+      "heading": "5. Why gold can fall during a war: the 2026 chain"
+    },
+    {
+      "body": "Different buyers respond to different signals. Jewellery buyers are price-sensitive (Lesson 2): with prices high, Q3 2026 jewellery demand fell 17% to 313 tonnes, the weakest third quarter in WGC data since 2000, even though its value rose 2% to $43 billion. ETF investors, who buy shares in funds that hold physical gold, respond to interest rates and momentum; ETFs added 211 tonnes in Q3 and their holdings hit a record 4,256 tonnes (WGC). Central banks are the most strategic buyers: they bought an estimated 321 tonnes in Q3 2026, 42% more than a year earlier and well above the five-year quarterly average of 227 tonnes, with 675 tonnes bought so far this year (WGC). The WGC says diversification and risk management are their main motives: gold kept in a country's own vaults cannot be frozen by a foreign government the way bank deposits or bonds held abroad can (gold stored abroad can be, as Venezuela found at the Bank of England), and it does not depend on any one country's currency. Poland is a leading example: the National Bank of Poland (NBP) bought 40 tonnes in Q3, second only to China's central bank (63 t), and NBP President Adam Glapiński announced on 5 November that holdings had reached 700 tonnes, worth 355.7 billion zł, placing Poland among the world's ten largest holders (Super Biznes). Because central banks buy steadily and rarely sell, their demand acts as a floor of support, but it does not guarantee rising prices, as this year's fall shows.",
+      "heading": "6. Who buys gold, and why central banks matter"
+    },
+    {
+      "body": "For much of modern history, money itself was tied to gold. Under the post-war Bretton Woods system, the US dollar was convertible into gold at a fixed $35 per ounce for foreign governments, and other currencies were pegged to the dollar. By the 1960s, dollars held abroad exceeded US gold holdings, creating the risk of a run on US gold, and persistent US payments deficits eroded confidence (Federal Reserve History). On 15 August 1971 President Richard Nixon closed the 'gold window', ending the conversion of dollars into gold; the system soon collapsed, and today's money is 'fiat' money, valuable because governments declare it legal tender and people trust central banks to keep inflation low. Since then the gold price has floated freely, from roughly $35 then to over $4,000 now, a rise that reflects, among other things, five decades of dollar inflation as well as changing real interest rates and risk appetite. This history explains why some people see gold as 'insurance against central banks': if trust in fiat money falls, gold is the classic alternative. Most mainstream economists do not favour returning to a gold standard, because it would stop central banks from responding to recessions and tie the money supply to mining output.",
+      "heading": "7. A short history: from the gold standard to floating gold"
+    },
+    {
+      "body": "Gold is volatile: it fell about 26% from its January record to Tuesday's price in roughly nine and a half months. It pays no income, physical gold has storage and insurance costs, and dealers charge a spread between buying and selling prices, so short-term trading is costly. Whether gold protects against inflation depends heavily on the time horizon: over months or even years it can fall while inflation is high, as it has in 2026 when central banks raised rates, so the 'inflation hedge' label is at best a rough, long-run description. When you read 'gold rises as investors seek safety', check the other drivers first: did the dollar fall, did bond yields drop, did expectations for central-bank rates change? On Tuesday, for example, gold slipped not because the world became safer but, according to Reuters, because of profit-taking after Monday's rally and caution before US inflation data. This lesson is for understanding how markets work, not advice on buying or selling gold.",
+      "heading": "8. Limits, risks and how to read gold headlines"
+    }
+  ],
+  "takeaways": [
+    "Gold produces no income; its price depends mostly on how willing people are to hold the huge existing stock, driven by jewellery, investment (bars, coins, ETFs) and central-bank demand.",
+    "The world price is in dollars per troy ounce (31.1035 g); the złoty price = dollar price × USD/PLN, so a Pole's return combines a gold effect and a currency effect.",
+    "Holding gold has an opportunity cost equal to the interest forgone; higher real yields (nominal yield minus expected inflation) tend to weigh on gold, lower real yields tend to support it.",
+    "A safe haven tends to hold up when shares fall in a crisis (gold, Treasuries, Swiss franc, yen), but none is risk-free and the role can fail when rates or currencies move against it.",
+    "In 2026 gold peaked at $5,589.38 before the Iran war and is now about 26% lower, because the war's inflation and rate effects outweighed the fear effect.",
+    "Central banks bought an estimated 321 tonnes in Q3 2026 for diversification; the NBP now holds 700 tonnes worth 355.7 billion zł, but steady official buying does not guarantee rising prices."
+  ],
+  "title": "Gold and safe havens",
+  "todayExample": "In this edition's market snapshot, spot gold traded at $4,114.48 at 05:30 Warsaw time, down 0.6%, as traders took profits after Monday's 1.7% rise and waited for US inflation data. Reuters noted that markets see an 84% chance of a Fed rate rise in December, which raises the opportunity cost of holding a metal that pays no interest. At the same time, the edition's top story shows oil falling about 20% this month on hopes of a US–Iran deal; lower oil can ease inflation and rate expectations, which analysts quoted by Reuters said would support gold over time. Today's 14:30 US CPI release is therefore a test for gold as well as for stocks.",
+  "workedExamples": [
+    {
+      "problem": "On Tuesday at 05:30 Warsaw time spot gold was $4,114.48 per troy ounce (Reuters), and at 07:00 USD/PLN was 3.9069 (money.pl). (a) What is the price of one ounce in złoty? (b) What is the price per gram? (c) Gold fell 0.6% in dollars and USD/PLN fell about 0.3% versus Monday afternoon. Roughly how much did gold change in złoty?",
+      "solution": "(a) Złoty price = dollar price × USD/PLN = 4,114.48 × 3.9069 = 16,074.86 zł per ounce. (b) One troy ounce = 31.1035 g, so 16,074.86 ÷ 31.1035 = 516.82 zł per gram. (c) The złoty price changes by (1 + gold change) × (1 + currency change) − 1 = (1 − 0.006) × (1 − 0.003) − 1 = 0.994 × 0.997 − 1 = −0.008982, about −0.90%. Interpretation: a Polish holder lost slightly more than a dollar-based holder because the dollar also weakened against the złoty; the two effects added up instead of offsetting. (Note the two quotes are at slightly different times, so this is an approximation.)",
+      "title": "Converting the gold price into złoty"
+    },
+    {
+      "problem": "Gold's record was $5,589.38 on 28 January 2026 (CBS News). On Tuesday it was $4,114.48. (a) By what percentage is gold below its record? (b) By what percentage would it have to rise to regain the record?",
+      "solution": "(a) Change = 4,114.48 ÷ 5,589.38 − 1 = 0.73612 − 1 = −0.26388, so gold is about 26.4% below its record (a fall of 5,589.38 − 4,114.48 = $1,474.90). (b) Required rise = 5,589.38 ÷ 4,114.48 − 1 = 1.35847 − 1 = +35.85%. Interpretation: percentage losses and gains are asymmetric; after a 26.4% fall you need a 35.8% rise to get back, because the rise starts from a smaller base. This is why large drawdowns are so damaging for any asset.",
+      "title": "How far is gold from its record, and what would it take to get back?"
+    },
+    {
+      "problem": "The US two-year Treasury yield was about 4.56% on Tuesday (Saxo). (a) If you hold $10,000 of gold instead of the bond for a year, how much interest do you give up? (b) Starting from $4,114.48, what gold price would you need after a year just to match the bond? (c) BMO estimates US headline inflation of about 3.9% for October (Kiplinger); this is an estimate built from an averaged base, because October 2025 prices were not collected during the US government shutdown. Using it as a stand-in for expected inflation (a simplification: it measures past, not expected, inflation; comparing a 2-year yield with a 1-year holding period is also a simplification), what is the approximate and the exact real yield?",
+      "solution": "(a) Interest forgone = 10,000 × 0.0456 = $456. (b) Break-even gold price = 4,114.48 × 1.0456 = $4,302.10, a rise of 4.56% (ignoring storage and trading costs, which would raise the hurdle). (c) Approximate real yield = 4.56% − 3.9% = 0.66 percentage points. Exact: (1.0456 ÷ 1.039) − 1 = 0.00635, i.e. about 0.64%. Interpretation: the real yield is positive, so lending to the US government currently beats inflation, which raises gold's opportunity cost; markets already price an ~84% chance of a December hike, so only if they come to expect more hikes than now (with inflation expectations unchanged) would real yields rise further, a headwind for gold. (Using one month's inflation estimate as 'expected inflation' is a simplification.)",
+      "title": "The opportunity cost of gold and the real yield"
+    },
+    {
+      "problem": "The NBP said on 5 November that it holds 700 tonnes of gold worth 355.7 billion zł, with an unrealised gain of 140.5 billion zł (Super Biznes). One tonne = 32,150.75 troy ounces. (a) What price per ounce in złoty does the valuation imply? (b) At Tuesday's USD/PLN of 3.9069, what dollar price is that? (c) What was the cost of the gold, and what is the percentage gain?",
+      "solution": "(a) Ounces = 700 × 32,150.75 = 22,505,523 oz. Implied price = 355.7 billion ÷ 22,505,523 = 15,805 zł per ounce. (b) 15,805 ÷ 3.9069 = about $4,045 per ounce, consistent with gold trading near $4,000–4,100 in early November (the valuation date and exchange rate used by the NBP may differ slightly). (c) Cost = 355.7 − 140.5 = 215.2 billion zł; gain = 140.5 ÷ 215.2 = 0.6529, about 65%. Interpretation: the gain is 'unrealised', it exists only on paper and, as Glapiński noted, it will fluctuate with the gold price; a 10% fall in gold would cut the holding's value by about 35.6 billion zł.",
+      "title": "What is Poland's gold worth?"
+    }
+  ],
+  "updatedAt": "2026-11-10T09:15:13.966602Z"
+}
