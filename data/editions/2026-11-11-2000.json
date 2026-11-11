@@ -1,0 +1,1376 @@
+{
+  "bigPicture": "Diplomacy and AI dominated the day. Russia and Ukraine ended their first direct talks in nine months in Abu Dhabi with a deal on a large prisoner exchange but no ceasefire, and US envoys will take the talks to President Putin in Moscow on Thursday. Iran's security chief ruled out sending its enriched uranium abroad, and another tanker hit a mine in the Strait of Hormuz, so oil stayed near $92 and European gas prices rose. On markets, strong results from AI cloud company CoreWeave revived the AI trade: Europe's Stoxx 600 closed at a record and Wall Street rose. In Spain, millions of workers joined the first general strike in 14 years over the cost of housing, while Poland marked Independence Day.",
+  "createdAt": "2026-11-11T18:58:49Z",
+  "glossary": [
+    {
+      "def": "The recurring but irregular swings of an economy between expansion (growth, rising jobs) and contraction (recession).",
+      "example": "Lesson 15 traces how a demand or supply shock moves an economy through the cycle.",
+      "term": "Business cycle"
+    },
+    {
+      "def": "A significant decline in economic activity spread across the economy that lasts more than a few months (NBER definition); a popular rule of thumb is two consecutive quarters of falling GDP.",
+      "example": "The NBER dated the 2020 US recession as two months long.",
+      "term": "Recession"
+    },
+    {
+      "def": "A quarterly growth rate compounded over four quarters to show the yearly pace: (1 + q/q)^4 − 1.",
+      "example": "US Q3 2026 growth of 3.4% annualised ≈ 0.84% in the quarter.",
+      "term": "Annualised growth rate"
+    },
+    {
+      "def": "The difference between actual and potential output, as a percentage of potential; negative means idle capacity.",
+      "example": "Actual 1,940 vs potential 2,000 gives a −3% gap (hypothetical).",
+      "term": "Output gap"
+    },
+    {
+      "def": "Weak or falling output combined with high inflation, typically caused by a supply shock such as an oil price jump.",
+      "example": "Oil-importing economies risk stagflation when Hormuz is disrupted.",
+      "term": "Stagflation"
+    },
+    {
+      "def": "The ratio of the total change in income to the initial change in spending that caused it; in the simplest model 1 ÷ (1 − MPC).",
+      "example": "With MPC 0.6 the simple multiplier is 2.5.",
+      "term": "Multiplier"
+    },
+    {
+      "def": "Taxes and benefits that change with the economy without new decisions, cushioning incomes in recessions and cooling booms.",
+      "example": "Unemployment benefit spending rises automatically when jobs are lost.",
+      "term": "Automatic stabilisers"
+    },
+    {
+      "def": "A member of the armed forces captured by the enemy during a conflict, protected by the Geneva Conventions.",
+      "example": "Russia and Ukraine agreed a large POW exchange in Abu Dhabi.",
+      "term": "Prisoner of war (POW)"
+    },
+    {
+      "def": "A company's first sale of shares to the general public, after which its shares trade on a stock exchange.",
+      "example": "Anthropic set an IPO price range of $70–78 a share.",
+      "term": "Initial public offering (IPO)"
+    },
+    {
+      "def": "The value of orders or contracts a company has signed but not yet delivered and recognised as revenue.",
+      "example": "CoreWeave's backlog reached about $132.5 billion.",
+      "term": "Order backlog"
+    },
+    {
+      "def": "A strike in which workers across many industries stop work at the same time, usually called by trade unions over a broad issue.",
+      "example": "Spain's first general strike since 2012 was over housing costs.",
+      "term": "General strike"
+    },
+    {
+      "def": "The time between infection and the first symptoms of a disease.",
+      "example": "Ebola's incubation period is up to 21 days, so outbreaks end after 42 days without cases.",
+      "term": "Incubation period"
+    },
+    {
+      "def": "The end of continuous transmission of a disease in a defined area for at least 12 months, while cases can still be imported.",
+      "example": "The US may lose its measles elimination status held since 2000.",
+      "term": "Disease elimination"
+    },
+    {
+      "def": "The EU's seven-year budget plan that sets spending limits for each policy area; it must be agreed unanimously by member states.",
+      "example": "Merz threatened to block the 2028–2034 MFF over Ukraine funding.",
+      "term": "Multiannual financial framework (MFF)"
+    },
+    {
+      "def": "The ability of aid agencies to reach people in need and deliver supplies in a conflict or disaster.",
+      "example": "Aid groups say 150,000 tents are waiting to enter Gaza.",
+      "term": "Humanitarian access"
+    }
+  ],
+  "label": "Wed 11 Nov · evening",
+  "lessonNumber": 15,
+  "markets": [
+    {
+      "change": 1.3,
+      "changeText": "+1.3%",
+      "group": "Stocks · Americas",
+      "key": true,
+      "name": "S&P 500",
+      "note": "Intraday, around midday New York (about 18:00 Warsaw); rebound led by chip and AI-infrastructure stocks after CoreWeave's results (TheStreet).",
+      "region": "US",
+      "value": "",
+      "what": "An index of 500 large US companies, the main gauge of the US stock market."
+    },
+    {
+      "change": 2,
+      "changeText": "+2.0%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Nasdaq Composite",
+      "note": "Intraday; tech-heavy index up about 2% as AI stocks recovered from last week's sell-off (investingLive, Benzinga).",
+      "region": "US",
+      "value": "",
+      "what": "An index of over 3,000 Nasdaq-listed shares, dominated by technology companies."
+    },
+    {
+      "change": 0.1,
+      "changeText": "+0.1%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Dow Jones Industrial Average",
+      "note": "Intraday; roughly flat because it holds few AI-chip companies (investingLive).",
+      "region": "US",
+      "value": "",
+      "what": "A price-weighted index of 30 big US companies, the oldest US stock index."
+    },
+    {
+      "change": 1.1,
+      "changeText": "+1.1%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "DAX",
+      "note": "Wednesday close; up 1.1–1.2% and near its record, led by Siemens Energy +10.8% after raising its 2027 margin goals (Reuters, investingLive).",
+      "region": "Germany",
+      "value": "",
+      "what": "An index of the 40 biggest companies on the Frankfurt stock exchange."
+    },
+    {
+      "change": 0.72,
+      "changeText": "+0.72%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "Stoxx 600",
+      "note": "Wednesday close, a record; tech sector +2.5% on AI optimism, defence sector hit by CSG's 21.6% fall (Reuters).",
+      "region": "Europe",
+      "value": "663.05",
+      "what": "An index of 600 large and mid-sized companies from 17 European countries."
+    },
+    {
+      "change": 0.78,
+      "changeText": "+0.78%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "FTSE 100",
+      "note": "Wednesday close (investingLive).",
+      "region": "UK",
+      "value": "",
+      "what": "An index of the 100 largest companies listed in London."
+    },
+    {
+      "change": null,
+      "changeText": "closed",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "WIG20",
+      "note": "Warsaw Stock Exchange closed on Wednesday for Independence Day; trading resumes Thursday 12 November.",
+      "region": "Poland",
+      "value": "",
+      "what": "An index of the 20 largest companies on the Warsaw Stock Exchange."
+    },
+    {
+      "change": 1.3,
+      "changeText": "+1.3%",
+      "group": "Stocks · Asia-Pacific",
+      "key": true,
+      "name": "Nikkei 225",
+      "note": "Wednesday close; lifted by AI-chip demand (AP).",
+      "region": "Japan",
+      "value": "61,248.59",
+      "what": "An index of 225 large companies listed in Tokyo."
+    },
+    {
+      "change": 2.4,
+      "changeText": "+2.4%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Kospi",
+      "note": "Wednesday close; chip makers rose on AI demand (AP).",
+      "region": "South Korea",
+      "value": "5,365.75",
+      "what": "The main index of the Korean stock exchange, dominated by Samsung and SK Hynix."
+    },
+    {
+      "change": null,
+      "changeText": "lower",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Hang Seng",
+      "note": "Wednesday; fell about 0.7–1.1% (AP reports differ by time of day).",
+      "region": "Hong Kong",
+      "value": "",
+      "what": "An index of the largest companies listed in Hong Kong, many of them Chinese."
+    },
+    {
+      "change": 0.6,
+      "changeText": "+0.6%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Shanghai Composite",
+      "note": "Wednesday close (AP).",
+      "region": "China",
+      "value": "3,685.27",
+      "what": "An index of all shares traded on the Shanghai Stock Exchange."
+    },
+    {
+      "change": 0.3,
+      "changeText": "+0.3%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "S&P/ASX 200",
+      "note": "Wednesday close (AP).",
+      "region": "Australia",
+      "value": "9,153.20",
+      "what": "An index of the 200 largest companies listed in Australia."
+    },
+    {
+      "change": 0.95,
+      "changeText": "+0.95%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Sensex",
+      "note": "Wednesday close; foreign buying, a stronger rupee and lower oil helped, analysts quoted by Business Today said.",
+      "region": "India",
+      "value": "81,879.40",
+      "what": "An index of 30 large companies on the Bombay Stock Exchange."
+    },
+    {
+      "change": null,
+      "changeText": "steady",
+      "group": "Currencies",
+      "key": true,
+      "name": "EUR/PLN",
+      "note": "Wednesday 07:00 rate (money.pl); Polish markets closed for the holiday, so trading was thin.",
+      "region": "Poland",
+      "value": "4.396",
+      "what": "How many złoty one euro costs."
+    },
+    {
+      "change": null,
+      "changeText": "",
+      "group": "Currencies",
+      "key": true,
+      "name": "USD/PLN",
+      "note": "Approximate cross rate derived from EUR/PLN 4.396 and EUR/USD 1.116 on Wednesday morning (money.pl figures; our calculation).",
+      "region": "Poland",
+      "value": "≈3.94",
+      "what": "How many złoty one US dollar costs."
+    },
+    {
+      "change": null,
+      "changeText": "lower",
+      "group": "Currencies",
+      "key": false,
+      "name": "EUR/USD",
+      "note": "Asian session Wednesday, down from 1.1171; the dollar is supported by bets on a December Fed rate rise after hot US inflation (AP).",
+      "region": "Global",
+      "value": "1.1153",
+      "what": "How many US dollars one euro buys."
+    },
+    {
+      "change": null,
+      "changeText": "higher",
+      "group": "Currencies",
+      "key": false,
+      "name": "USD/JPY",
+      "note": "Asian session Wednesday, up from 158.70 (AP).",
+      "region": "Japan",
+      "value": "158.85",
+      "what": "How many Japanese yen one US dollar buys."
+    },
+    {
+      "change": 1,
+      "changeText": "+1%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Brent crude oil",
+      "note": "Wednesday European/US morning, about $92.4–92.7 (AP, TheStreet); rebounded from a two-month low as Hormuz tanker attacks continued.",
+      "region": "Global",
+      "value": "≈$92.5",
+      "what": "The main world benchmark price for a barrel of crude oil."
+    },
+    {
+      "change": 0.7,
+      "changeText": "+0.7%",
+      "group": "Commodities",
+      "key": false,
+      "name": "WTI crude oil",
+      "note": "Wednesday morning (AP, TheStreet); same Hormuz worries.",
+      "region": "US",
+      "value": "≈$86.6",
+      "what": "The US benchmark price for a barrel of crude oil."
+    },
+    {
+      "change": 0.19,
+      "changeText": "+0.19%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Gold",
+      "note": "US futures at 09:20 New York; steadying after Tuesday's fall on the hot US inflation report (TheStreet).",
+      "region": "Global",
+      "value": "$4,037.90",
+      "what": "The price of one troy ounce (31.1 g) of gold, a traditional safe haven."
+    },
+    {
+      "change": 2.7,
+      "changeText": "+2.7%",
+      "group": "Commodities",
+      "key": false,
+      "name": "TTF gas (Netherlands)",
+      "note": "Front-month at 09:30 Amsterdam, rebounding from Tuesday's one-month low of about €82 on renewed Iran-war uncertainty (OilPrice.com).",
+      "region": "Europe",
+      "value": "≈€87/MWh",
+      "what": "Europe's benchmark wholesale natural gas price, per megawatt-hour."
+    },
+    {
+      "change": null,
+      "changeText": "closed",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US Treasury market",
+      "note": "US bond market closed on Wednesday for Veterans Day; on Tuesday the 10-year yield briefly topped 5% after hot inflation data (Yahoo Finance).",
+      "region": "US",
+      "value": "",
+      "what": "Interest rates on US government debt, which set borrowing costs worldwide."
+    },
+    {
+      "change": null,
+      "changeText": "unchanged",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US federal funds target range",
+      "note": "Markets now almost fully price a rate rise at the Fed's 8–9 December meeting (TheStreet).",
+      "region": "US",
+      "value": "3.75%–4.00%",
+      "what": "The Fed's key short-term interest rate."
+    }
+  ],
+  "marketsAsOf": "Europe: Wednesday 11 Nov close. Wall Street: intraday around midday New York (≈18:00 Warsaw), not closing levels. Asia-Pacific and India: Wednesday 11 Nov close. Currencies: Wednesday morning. Oil, gas and gold: Wednesday morning/midday. Warsaw Stock Exchange and the US bond market were closed for holidays.",
+  "quiz": [
+    {
+      "answer": 1,
+      "explain": "Kushner said the biggest prisoner release was agreed, with numbers to be set Thursday; Russia still demands Ukraine leave Donbas and rejects an immediate ceasefire.",
+      "options": [
+        "A ceasefire starting Thursday",
+        "Agreement in principle on a large prisoner exchange, but no deal on territory or a ceasefire",
+        "Ukraine's agreement to leave Donbas",
+        "Nothing at all; talks collapsed"
+      ],
+      "q": "What did the Russia–Ukraine talks in Abu Dhabi produce?"
+    },
+    {
+      "answer": 0,
+      "explain": "A swap is a humanitarian step with no territorial concession, so it is easier to agree than the core disputes over land and security.",
+      "options": [
+        "Because each side gets its own people back without giving up anything on the battlefield",
+        "Because international law forces an exchange every year",
+        "Because they end the war automatically",
+        "Because the US pays for each prisoner"
+      ],
+      "q": "Why are prisoner exchanges often agreed even when peace talks stall?"
+    },
+    {
+      "answer": 2,
+      "explain": "Washington wants nuclear issues in any first deal; Rezaei ruled out shipping material abroad and said no talks are under way, so hopes of a quick settlement faded.",
+      "options": [
+        "It promised to reopen Hormuz immediately",
+        "It announced new oil exports",
+        "Refusing to send uranium abroad removes an easy compromise, making a quick US–Iran deal less likely",
+        "It confirmed a signed peace deal"
+      ],
+      "q": "Why did Iran's security chief's statement on enriched uranium matter for oil traders?"
+    },
+    {
+      "answer": 1,
+      "explain": "A deal alone does not restore traffic: ships need cleared routes, affordable insurance and owners willing to sail.",
+      "options": [
+        "Only the price of Brent",
+        "Mine clearance, insurance costs and shipowners' willingness to take the risk",
+        "The US midterm results",
+        "OPEC's production quota"
+      ],
+      "q": "According to LSEG analysts, what would decide whether more oil flows through Hormuz even after a deal?"
+    },
+    {
+      "answer": 3,
+      "explain": "Revenue rose 168% and the backlog reached about $132.5 billion; it still made a $709 million net loss, so it was demand, not profit, that reassured investors.",
+      "options": [
+        "Because it reported its first annual net profit",
+        "Because it announced a merger with Nvidia",
+        "Because the Fed cut rates the same day",
+        "Because strong revenue growth and a bigger backlog suggested AI computing demand is still growing after bubble fears"
+      ],
+      "q": "Why did CoreWeave's results lift chip and power-equipment shares in the US and Europe?"
+    },
+    {
+      "answer": 0,
+      "explain": "The Stoxx 600 closed 0.72% higher at a record 663.05. The other indices listed did not set records that day.",
+      "options": [
+        "Stoxx 600",
+        "WIG20",
+        "Hang Seng",
+        "Dow Jones Industrial Average"
+      ],
+      "q": "Which index closed at a record high on Wednesday?"
+    },
+    {
+      "answer": 2,
+      "explain": "The founders keep 50.1% of the votes through a special share class, so buyers of ordinary shares have limited influence.",
+      "options": [
+        "Buyers of Class A shares",
+        "Google and Nvidia",
+        "The founders, through a special share class with 50.1% of the votes",
+        "The US government"
+      ],
+      "q": "Anthropic's planned IPO values the company at up to $1.4 trillion. Who keeps control of most voting power after the listing?"
+    },
+    {
+      "answer": 3,
+      "explain": "Average rent is about €1,176, roughly 98.7% of a young person's average monthly salary (Youth Council); the Bank of Spain estimates a shortage of about 750,000 homes.",
+      "options": [
+        "A rise in VAT",
+        "Pension cuts",
+        "A ban on remote work",
+        "The housing affordability crisis: rents rising much faster than wages"
+      ],
+      "q": "What was the main cause of Spain's general strike?"
+    },
+    {
+      "answer": 1,
+      "explain": "A one-day stoppage with partial participation removes only a small slice of a year's output.",
+      "options": [
+        "Because strikes never affect GDP",
+        "Because one day is a small part of the year, and most workers (about 4 of 23 million, on union figures) did not strike",
+        "Because the government paid strikers",
+        "Because exports rose that day"
+      ],
+      "q": "BBVA Research estimated the strike could cut Spain's annual GDP by 0.1–0.2%. Why so little for a strike by millions?"
+    },
+    {
+      "answer": 0,
+      "explain": "Nawrocki walked in the march; Tusk, in Szczecin, invited him and his family to share the Christmas wafer and talk.",
+      "options": [
+        "President Nawrocki marched in the nationalist Independence March, while PM Tusk invited him to talks at his home in Sopot",
+        "Tusk and Nawrocki marched together",
+        "The march was banned after the Kraków shooting",
+        "Parliament held an early election"
+      ],
+      "q": "What happened during Poland's Independence Day?"
+    },
+    {
+      "answer": 2,
+      "explain": "Ukraine was striking Russian Baltic ports such as Ust-Luga; drones can stray into NATO airspace, and alerts were lifted hours later with no injuries.",
+      "options": [
+        "Russia attacked Baltic cities with missiles",
+        "A NATO exercise went wrong",
+        "Unidentified drones entered from Russia or Belarus during the Russia–Ukraine exchange of strikes",
+        "A storm threatened coastal towns"
+      ],
+      "q": "Why did Lithuania, Latvia and Estonia issue shelter alerts overnight?"
+    },
+    {
+      "answer": 0,
+      "explain": "Ebola's incubation period is up to 21 days; waiting twice that long without cases makes it very unlikely that undetected chains of transmission remain.",
+      "options": [
+        "It is twice the maximum 21-day incubation period, giving a safety margin that no hidden infections remain",
+        "Because vaccines take 42 days to work",
+        "Because WHO meets every 42 days",
+        "Because the virus dies after exactly 42 days in the air"
+      ],
+      "q": "Why is a country declared Ebola-free only after 42 days without new cases, as Kenya hopes to be on 23 December?"
+    },
+    {
+      "answer": 1,
+      "explain": "Elimination means no continuous spread for at least 12 months; long outbreaks in low-vaccination communities break that, with nearly 5,200 cases in 2026.",
+      "options": [
+        "That nobody in the US is vaccinated",
+        "That measles has spread continuously within the US for 12 months or more",
+        "That measles is now untreatable",
+        "That the US leaves the WHO"
+      ],
+      "q": "What would the US losing measles 'elimination' status mean?"
+    },
+    {
+      "answer": 3,
+      "explain": "Forecasts showed gusts above 120 km/h; the government, criticised after Storm Kristin, opted for precaution. The mainland escaped severe damage and no deaths were reported.",
+      "options": [
+        "Because the storm caused many deaths on the mainland",
+        "Because the EU ordered it",
+        "Because the Web Summit asked it to",
+        "Because it chose maximum precaution after criticism of its weak response to Storm Kristin in January"
+      ],
+      "q": "Why did Portugal close all its schools and non-essential services for Storm Charles?"
+    },
+    {
+      "answer": 1,
+      "explain": "Germany wants Ukraine support to be a collective commitment; Ukraine's projected funding gap is about €70 billion, and the Slovak and Czech PMs called the demand blackmail.",
+      "options": [
+        "That the EU budget be cut in half",
+        "That all member states share the cost of closing Ukraine's funding gap",
+        "That Germany receive more EU funds",
+        "That Ukraine join the EU immediately"
+      ],
+      "q": "Merz threatened to block the EU's 2028–2034 budget. What is he demanding?"
+    },
+    {
+      "answer": 2,
+      "explain": "Brent rebounded from a two-month low as shipping attacks continued and Iran said no talks are under way and uranium will stay in the country.",
+      "options": [
+        "Because OPEC cut output",
+        "Because the US released oil reserves",
+        "Because continued tanker attacks in Hormuz and a hard Iranian line reduced hopes of a quick peace",
+        "Because China's imports collapsed"
+      ],
+      "q": "Market snapshot: why did Brent crude rise about 1% on Wednesday?"
+    },
+    {
+      "answer": 0,
+      "explain": "The rally was concentrated in AI infrastructure and semiconductors, which weigh much more in the Nasdaq; the bond market, not the stock market, was closed.",
+      "options": [
+        "The Dow holds few AI-chip companies, and the day's rally was led by AI and chip stocks",
+        "The Dow was closed for Veterans Day",
+        "The Dow only contains oil companies",
+        "The Dow is measured in euros"
+      ],
+      "q": "Market snapshot: why did the Dow rise far less than the Nasdaq on Wednesday?"
+    },
+    {
+      "answer": 3,
+      "explain": "Overall balance = 41 − 45 = −4. Primary balance = −4 + 2.5 = −1.5% of GDP (hypothetical numbers).",
+      "options": [
+        "A deficit of 4% of GDP",
+        "A deficit of 6.5% of GDP",
+        "A surplus of 2.5% of GDP",
+        "A deficit of 1.5% of GDP"
+      ],
+      "q": "Review (Lesson 14): a government has revenue of 41% of GDP and spending of 45% of GDP, including interest of 2.5% of GDP. What is its primary balance?"
+    },
+    {
+      "answer": 1,
+      "explain": "Oil is traded globally, so a supply disruption at a key chokepoint raises the world price, and energy costs feed into many other prices.",
+      "options": [
+        "Because oil is priced in złoty",
+        "Because a large share of world oil and LNG passes through it, and oil and gas are inputs to transport, industry and heating everywhere",
+        "Because Hormuz is where oil prices are set by law",
+        "Because only Poland imports oil"
+      ],
+      "q": "Review (Lesson 11): why can a disruption in the Strait of Hormuz raise prices far from the Middle East?"
+    },
+    {
+      "answer": 0,
+      "explain": "Gold yields no income; when interest rates on bonds and deposits rise, holding gold means giving up more interest.",
+      "options": [
+        "Higher rates raise the opportunity cost of holding gold, which pays no interest",
+        "Higher rates force central banks to sell gold by law",
+        "Higher rates make gold mining cheaper",
+        "Higher rates reduce the amount of gold in the world"
+      ],
+      "q": "Review (Lesson 12): gold edged up only slightly on Wednesday after falling on Tuesday's hot US inflation report. Which mechanism links higher expected US interest rates to weaker gold?"
+    }
+  ],
+  "status": "complete",
+  "stories": [
+    {
+      "category": "Politics & conflict",
+      "everyday": "For thousands of families in Ukraine and Russia, a swap could bring relatives home within weeks. For Poland and the rest of Europe, any real move toward ending the war would affect defence spending, energy prices and the situation of Ukrainian refugees, but today's talks did not yet produce that.",
+      "id": "abu-dhabi-talks-end",
+      "importance": 5,
+      "markets": [
+        "European defence stocks",
+        "Ukrainian bonds"
+      ],
+      "rank": 1,
+      "rankWhy": "The first direct Russia–Ukraine talks in nine months shape the course of Europe's largest war, the fate of thousands of prisoners and Europe's security and energy outlook.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu"
+        },
+        {
+          "name": "Just Security (citing AP, BBC)",
+          "url": "https://www.justsecurity.org/164111/early-edition-november-11-2026/"
+        },
+        {
+          "name": "The Hill",
+          "url": "https://thehill.com/policy/international/6213290-russia-ukraine-prisoner-swap-abu-dhabi-talks/"
+        }
+      ],
+      "terms": [
+        "Prisoner of war (POW)",
+        "Ceasefire"
+      ],
+      "title": "Russia–Ukraine talks in Abu Dhabi end with a deal on the 'biggest' prisoner exchange but no ceasefire; US envoys head to Putin on Thursday",
+      "what": "The two-day US-brokered talks between Russia and Ukraine in Abu Dhabi ended on Wednesday with agreement in principle on a large exchange of prisoners of war. US envoy Jared Kushner called it the biggest humanitarian release of prisoners and said the final number would be set on Thursday; President Zelensky had earlier said 1,000 prisoners per side were discussed, possibly rising to 1,500. Russia's chief negotiator Vladimir Medinsky confirmed the deal. There was no breakthrough on a ceasefire or on territory: Russia still demands that Ukraine withdraw from the part of the eastern Donbas region it controls and rejects an immediate ceasefire. Kushner and Steve Witkoff plan to travel to Moscow on Thursday to meet President Vladimir Putin and then to Dublin for talks with Zelensky.",
+      "why": "Prisoner swaps are the one area where both sides have repeatedly been able to agree, because each gets its own people back without conceding anything on the battlefield. The core disputes (land in Donbas and security guarantees) are untouched, which is why the US is now taking the talks to the leaders themselves. Zelensky has said territorial decisions can only be made at leaders' level."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Oil near $92 keeps petrol, diesel and transport costs high in Poland and the rest of Europe. Higher gas prices matter at the start of the heating season, with EU gas storage only 72% full on 10 November, below the five-year average.",
+      "id": "iran-uranium-hormuz-oil",
+      "importance": 5,
+      "markets": [
+        "Brent crude",
+        "WTI crude",
+        "TTF gas",
+        "Tanker shipping",
+        "Airlines"
+      ],
+      "rank": 2,
+      "rankWhy": "The Iran war and the Strait of Hormuz govern the price of oil and gas for the whole world; a hardened Iranian position on uranium makes a quick peace deal less likely.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Reuters via AOL",
+          "url": "https://www.aol.com/articles/iran-not-allow-enriched-nuclear-102614000.html"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/11/oil-markets-rise-as-investors-monitor-shipping-disruption-in-the-strait-of-hormuz"
+        },
+        {
+          "name": "Reuters via Yahoo Finance",
+          "url": "https://finance.yahoo.com/energy/articles/oil-rebounds-hormuz-shipping-attacks-045504059.html"
+        },
+        {
+          "name": "OilPrice.com",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Prices-Rebound-on-Iran-War-Uncertainty.html"
+        }
+      ],
+      "terms": [
+        "Uranium enrichment",
+        "Force majeure",
+        "Naval mine"
+      ],
+      "title": "Iran says its enriched uranium will never leave the country and threatens US bases in Europe; another tanker hits a mine in Hormuz and oil holds near $92",
+      "what": "Iran's security chief Mohsen Rezaei said on Lebanon's Al Mayadeen TV that Iran will not let any enriched nuclear material leave the country, that it is needed for nuclear-powered ships and submarines, and that there are currently no negotiations with Washington. He warned that new US attacks would be answered with strikes on distant US bases, including in European countries whose bases were used. Iran's army said an oil tanker struck a mine and caught fire in a 'prohibited area' in the east of the Strait of Hormuz; the Washington Institute counted 37 ship attacks in October, the most since the war began in late February. Brent crude rose about 1% to roughly $92–92.70 a barrel in European trading, recovering from Tuesday's two-month low, and Europe's TTF gas price rose 2.7% to about €87 per megawatt-hour in the morning.",
+      "why": "Washington says nuclear issues must be part of any first deal to end the war; Rezaei's refusal to ship uranium abroad (Russia had offered to take it) removes one of the easiest compromises, so traders pared bets on a quick settlement. At the same time the attacks keep ships, insurers and LNG cargoes away from Hormuz: LSEG analysts say even after a deal, flows would depend on mine clearance, insurance costs and shipowners' willingness. QatarEnergy has extended its force majeure on LNG deliveries to at least the end of December, according to OilPrice.com."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Most people own these companies indirectly through pension and investment funds (for example Polish PPK and IKE funds that hold global indices), so swings in AI stocks move their savings. CoreWeave's interest bill, above its operating profit, is a reminder that the AI boom is partly financed with debt.",
+      "id": "ai-rebound-coreweave",
+      "importance": 4,
+      "markets": [
+        "CoreWeave",
+        "Nvidia",
+        "Siemens Energy",
+        "S&P 500",
+        "Nasdaq",
+        "Stoxx 600",
+        "DAX"
+      ],
+      "rank": 3,
+      "rankWhy": "AI-related companies are the biggest weight in world stock indices, so a revival of the AI trade lifts pension funds and savings worldwide after last week's sell-off.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Unite.AI (company results)",
+          "url": "https://www.unite.ai/coreweave-ai-cloud-revenue-climbs-168-as-backlog-more-than-doubles/"
+        },
+        {
+          "name": "Reuters via AOL",
+          "url": "https://www.aol.com/articles/europes-stoxx-600-near-record-081454000.html"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-11-2026"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://ca.finance.yahoo.com/news/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+        }
+      ],
+      "terms": [
+        "Order backlog",
+        "Capital expenditure (capex)"
+      ],
+      "title": "AI trade rebounds: CoreWeave's results lift Wall Street and push Europe's Stoxx 600 to a record close",
+      "what": "CoreWeave, a company that rents out AI computing power, reported third-quarter revenue of $3.66 billion, up 168% from a year earlier, raised its full-year revenue forecast to $13.0–13.3 billion and said its order backlog reached about $132.5 billion; it still made a net loss of $709 million. Its shares jumped by roughly 13–21% during Wednesday's session. By midday in New York the S&P 500 was up about 1.3% and the Nasdaq about 2%, while the Dow was roughly flat; Nvidia rebounded about 2–3% after two days of steep losses, despite a downgrade by Baird. In Europe the Stoxx 600 closed 0.72% higher at a record 663.05 and Germany's DAX rose about 1.1–1.2%, led by Siemens Energy (+10.8%), which raised its 2027 margin goals and plans to more than triple its dividend.",
+      "why": "Last week fears of an 'AI bubble' (that companies are spending far more on data centres than AI will earn back) triggered a global sell-off, with CoreWeave at its centre. Strong revenue and a bigger backlog suggested demand for AI computing is still growing, so investors bought back chip and power-equipment stocks. Reuters noted that sectors with little AI exposure, such as retail and food, lagged, and Societe Generale called the rally 'somewhat stretched'."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Ordinary investors cannot easily buy at the IPO price, but up to 20% of the offering is set aside for retail buyers. A very large listing can pull money away from other shares and will quickly enter indices that pension funds track.",
+      "id": "anthropic-ipo-range",
+      "importance": 4,
+      "markets": [
+        "Nasdaq",
+        "Nvidia",
+        "Google (Alphabet)",
+        "Microsoft"
+      ],
+      "rank": 4,
+      "rankWhy": "It would be one of the largest share sales ever, testing how much investors will pay for AI and affecting the giant tech companies that are buying in alongside it.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-sets-ipo-price-range-140602411.html"
+        }
+      ],
+      "terms": [
+        "Initial public offering (IPO)",
+        "Valuation"
+      ],
+      "title": "Anthropic sets its IPO price range at $70–78 a share, valuing the AI company at up to $1.4 trillion; trading could start around 19 November",
+      "what": "Anthropic, the maker of the Claude AI models, set a price range of $70 to $78 per share for its initial public offering (IPO), its first sale of shares to the public, according to an updated filing reported on Tuesday 10 November. It plans to sell 825 million Class A shares, raising $57.75–64.35 billion before any extra shares for underwriters, at an implied fully diluted value of up to $1.404 trillion; trading on Nasdaq under the ticker 'ANT' is expected close to 19 November. Seven tech companies, including Google and Nvidia (each $10 billion), agreed to buy $26 billion of separate non-voting shares at the IPO price. The filing shows revenue of $17 billion in the third quarter and a net loss of $104 billion over nine months; the founders keep 50.1% of the votes through a special share class.",
+      "why": "AI developers need enormous sums for computing power: the filing lists $900.9 billion of compute and infrastructure commitments, according to TechCrunch. Selling shares to the public is a way to raise that money, and the price investors accept will show whether the AI boom still has investor support after last week's sell-off. (Global Desk is made with Anthropic's Claude; this story is reported only from the sources listed.)"
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Housing shortages also push up rents in Polish cities; Spain shows how high housing costs can turn into a major political issue. BBVA Research estimated the strike could cut Spain's annual GDP by 0.1–0.2%.",
+      "id": "spain-general-strike",
+      "importance": 4,
+      "markets": [
+        "Spanish stocks (IBEX 35)",
+        "Spanish government bonds"
+      ],
+      "rank": 5,
+      "rankWhy": "Millions of workers in the eurozone's fourth-largest economy walked out over housing costs, less than three weeks before a snap election.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Dawn (AFP)",
+          "url": "https://www.dawn.com/news/2043822/millions-of-spaniards-stage-first-general-strike-in-14-years-as-anger-rages-over-housing"
+        },
+        {
+          "name": "ABC News (AP)",
+          "url": "https://abcnews.com/Business/wireStory/spains-general-strike-14-years-brings-clashing-social-138035789"
+        },
+        {
+          "name": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-11-12/spain-protests-housing-election/107375816"
+        }
+      ],
+      "terms": [
+        "General strike"
+      ],
+      "title": "Spain's first general strike in 14 years: unions say about 4 million workers walked out over housing costs",
+      "what": "Spanish unions said about 4 million workers joined Wednesday's 24-hour general strike, the first since 2012, out of roughly 23 million workers; participation was strongest in coastal regions. Unions reported 90% participation at ports and in the car industry, with full stoppages at Volkswagen's Navarre plant and SEAT's Barcelona plant. Police reported 40 arrests by midday from 476 incidents such as blockades and burning bins; unions said a police operation with tear gas and batons injured 20 protesters. Grid operator Red Eléctrica said electricity demand fell by up to 15.5% between 10 and 11 a.m. A snap general election is set for 29 November.",
+      "why": "Rents have risen much faster than wages: the average rent is €1,176, about 98.7% of a young person's average monthly salary, according to Spain's Youth Council, and the Bank of Spain estimates a shortage of about 750,000 homes. Parliament rejected government decrees to curb evictions and rent rises last month, which led Prime Minister Pedro Sánchez to call the election. The business lobby CEOE called the strike counterproductive and said the answer is building more homes and cutting taxes on construction."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Relations between the president and the government decide whether laws pass: the president can veto bills, so a working relationship affects everything from budgets to courts.",
+      "id": "poland-independence-day",
+      "importance": 3,
+      "markets": [],
+      "rank": 6,
+      "rankWhy": "Shows the depth of Poland's political divide a year before the next parliamentary election, days after the deadly Kraków shooting.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Notes from Poland",
+          "url": "https://notesfrompoland.com/2026/11/11/annual-polish-independence-march-passes-through-warsaw/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/tens-of-thousands-join-polands-nationalist-independence-day-march"
+        },
+        {
+          "name": "Polsat News",
+          "url": "https://www.polsatnews.pl/wiadomosc/2026-11-11/obchody-11-listopada-w-szczecinie-tusk-zaprosil-prezydenta-do-swojego-domu-w-sopocie/"
+        }
+      ],
+      "terms": [
+        "Presidential veto"
+      ],
+      "title": "Poland's Independence Day: President Nawrocki joins the nationalist march, while Tusk invites him home for talks",
+      "what": "Tens of thousands of people joined the annual Independence March in Warsaw under the slogan 'Polak w Polsce gospodarzem' (roughly, 'Poles are the hosts in Poland'); organisers claimed about half a million, while the city had not yet published an estimate. President Karol Nawrocki walked in the march, as did PiS leader Jarosław Kaczyński and Confederation politicians; Krzysztof Bosak called for an election victory next year. Warsaw's mayor Rafał Trzaszkowski said the march was passing without major incident apart from illegal flares, and security was increased after the Kraków shooting of 7 November in which six people were killed. Prime Minister Donald Tusk, speaking in Szczecin, invited Nawrocki and his family to his home in Sopot to share the Christmas wafer and talk, saying 'Poland is worth our conversation'.",
+      "why": "The march is organised mainly by people linked to the Confederation party, and critics say it has featured anti-immigrant and antisemitic rhetoric, while supporters see it as national pride, Al Jazeera reports. Nawrocki said Poland does not exist so that elites can manage citizens against the nation's will, which Al Jazeera described as an apparent jab at the government. Tusk's invitation is a public gesture after months of conflict between the government and the president."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Poland faces the same risk on its eastern border, which is why air-raid alerts, shelters and air defence spending are now everyday topics in the region.",
+      "id": "baltic-drone-alerts",
+      "importance": 3,
+      "markets": [
+        "Russian oil exports"
+      ],
+      "rank": 7,
+      "rankWhy": "Stray drones from the Russia–Ukraine air war keep forcing NATO countries on Poland's doorstep to send people to shelters.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Cyprus Mail (Reuters)",
+          "url": "https://cyprus-mail.com/2026/11/11/nato-jets-scrambled-as-drone-alerts-sweep-baltic-states"
+        },
+        {
+          "name": "Daily Maverick (Reuters)",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-11-baltic-nations-briefly-issue-drone-alerts-as-russia-ukraine-exchange-strikes/"
+        }
+      ],
+      "terms": [
+        "Air-raid alert"
+      ],
+      "title": "Lithuania, Latvia and Estonia issue overnight shelter alerts as drones stray from the Russia–Ukraine air war; NATO jets scrambled",
+      "what": "The three Baltic states urged residents to take shelter overnight from unidentified drones entering from Russia or Belarus, then withdrew the alerts hours later; one Lithuanian alert covered Kaunas, a city of about 300,000. Lithuanian Prime Minister Mindaugas Sinkevicius said four drones were detected across the region and that an attempt was made to shoot one down over northern Lithuania. NATO fighter jets were activated and no injuries were reported; Finland briefly restricted airspace and sea traffic in the eastern Gulf of Finland. The same night Ukrainian drones set fire to the area of Russia's Ust-Luga Baltic export port, injuring three people, while Russian strikes cut power in parts of Kryvyi Rih and injured seven people in Kharkiv and Zaporizhzhia, according to local officials cited by Reuters.",
+      "why": "Ukraine is striking Russian oil ports and refineries near the Baltic, and drones heading there can stray over NATO territory. Moscow accuses Kyiv of using NATO airspace as cover, Kyiv blames Russian signal jamming for pushing drones off course, and NATO countries blame Russia. Reuters noted such incidents contributed to a government collapse in Latvia this year."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Poland is one of the largest recipients of EU funds, so the size and rules of the next EU budget matter for roads, farms and regional projects here.",
+      "id": "merz-eu-budget-ukraine",
+      "importance": 3,
+      "markets": [
+        "EU bonds",
+        "Euro"
+      ],
+      "rank": 8,
+      "rankWhy": "The EU's next seven-year budget and how to fill Ukraine's €70 billion funding gap affect every member state's contributions, Poland included.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Anadolu via A News",
+          "url": "https://www.anews.com.tr/europe/2026/11/10/germanys-merz-demands-eu-budget-changes-firm-financial-support-for-ukraine"
+        },
+        {
+          "name": "DW News (via Whatfinger)",
+          "url": "https://worldnews.whatfinger.com/2026/11/11/germanys-merz-takes-heat-for-eu-wide-ukraine-financing-demands-dw-news"
+        }
+      ],
+      "terms": [
+        "Multiannual financial framework (MFF)",
+        "Net contributor"
+      ],
+      "title": "Merz threatens to block the EU's 2028–2034 budget unless all members share the cost of Ukraine; Slovakia and Czechia cry 'blackmail'",
+      "what": "German Chancellor Friedrich Merz said on Tuesday that the EU's next long-term budget, the multiannual financial framework, must keep Ukraine funding firm, calling support for Ukraine a task for all members. Media reports said he warned European Council President António Costa in a letter that Germany would not back the 2028–2034 budget unless all member states helped close Ukraine's projected €70 billion funding gap. On Wednesday the Slovak and Czech prime ministers accused him of blackmail, DW reported. EU leaders are expected to discuss the dispute at an informal summit in Dublin on Friday.",
+      "why": "The EU agreed a €90 billion loan for Ukraine for 2026–2027, but more money is needed; the Commission is looking at ways to cover about two-thirds of the extra need, roughly €45 billion, according to Anadolu. Germany is one of the biggest net payers, so it wants the burden shared, while some governments say they will not contribute more."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Climate policy decides how fast Poland must cut coal use and what households pay for CO2 permits, heating and electricity.",
+      "id": "cop31-guterres",
+      "importance": 3,
+      "markets": [
+        "Coal",
+        "Renewable energy stocks"
+      ],
+      "rank": 9,
+      "rankWhy": "The annual UN climate summit sets the direction of global climate policy, but most big-economy leaders are absent this year.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31"
+        },
+        {
+          "name": "Just Security (citing Reuters, AP)",
+          "url": "https://www.justsecurity.org/164111/early-edition-november-11-2026/"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/world/europe/greta-thunberg-un-climate-talks-cop31-rcna608698"
+        }
+      ],
+      "terms": [
+        "COP (Conference of the Parties)"
+      ],
+      "title": "'The climate crisis is outrunning us,' Guterres tells COP31 leaders, attacking the fossil-fuel lobby",
+      "what": "UN Secretary-General António Guterres told the leaders' segment of COP31 in Antalya, Türkiye, that the world must move away from coal, oil and gas to avert disaster, citing record emissions in 2025 and the four hottest years on record. 'The dinosaurs did not have a lobby, but fossil fuels do,' he said. Leaders present included Türkiye's Recep Tayyip Erdoğan, Brazil's Lula, Iran's Masoud Pezeshkian and EU Commission President Ursula von der Leyen, while the leaders of France, Germany, Italy, Canada and Japan stayed away and the US skipped the talks for a second year. Five countries, including Kenya, Nigeria and Bangladesh, backed a declaration to double the number of homes with rooftop solar by 2030, and activist Greta Thunberg condemned the talks as hypocritical.",
+      "why": "Guterres linked fossil-fuel dependence to the economic damage from this year's oil price surge after the war with Iran disrupted Middle East exports, Al Jazeera reported. Türkiye is pushing a voluntary goal to raise electricity's share of world energy use to 35% by 2035; the EU insists that electrification must be 'clean'. With many leaders absent, big binding commitments look unlikely."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Shutting a country for a day has real costs for families and businesses, but so does being caught unprepared: governments everywhere, Poland's included, now face this trade-off more often as extreme weather grows.",
+      "id": "storm-charles-portugal",
+      "importance": 3,
+      "markets": [
+        "Airlines",
+        "Portuguese tourism"
+      ],
+      "rank": 10,
+      "rankWhy": "A whole EU country shut its schools and public services for a storm, a rare step that shows how governments now react to extreme weather.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/11/portugal-closes-all-schools-and-non-essential-services-over-storm-charles"
+        }
+      ],
+      "terms": [
+        "Red weather alert"
+      ],
+      "title": "Storm Charles: Portugal closes all schools, cancels more than 300 flights and suspends Web Summit",
+      "what": "Portugal shut all schools and non-essential public services nationwide on Wednesday as Storm Charles arrived, a step Al Jazeera described as unprecedented in living memory. More than 300 flights were cancelled, operations stopped at four international airports, and the Web Summit tech conference in Lisbon, with about 70,000 attendees, cancelled the day's events. The weather agency IPMA recorded gusts above 120 km/h; the red alert, which first covered more than half the country, was limited to the Algarve by mid-afternoon. The storm passed the mainland without severe damage and no deaths were reported; it had hit Madeira on Tuesday with 130 km/h winds and flooding in Funchal.",
+      "why": "The government was criticised for a weak response to Storm Kristin in January, so it chose maximum precaution; Interior Minister Luís Neves rejected claims of overreaction. The storm was forecast to move on into Spain."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Hoax threats are a cheap way to disrupt daily life: the safe response is always to evacuate and check, which costs lessons and police time even when there is no bomb.",
+      "id": "italy-school-bomb-hoax",
+      "importance": 3,
+      "markets": [],
+      "rank": 11,
+      "rankWhy": "Hundreds of thousands of pupils were disrupted, and Italy's government calls it a deliberate destabilisation campaign.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/11/at-least-300-schools-in-italy-evacuated-after-emailed-bomb-threats"
+        },
+        {
+          "name": "ABC News (AP)",
+          "url": "https://abcnews.com/International/wireStory/300-italian-schools-evacuated-due-bomb-threats-138040834"
+        }
+      ],
+      "terms": [
+        "Hybrid threat"
+      ],
+      "title": "About 300 Italian schools evacuated after hoax email bomb threats; ministers see a destabilisation strategy",
+      "what": "About 300 schools across Italy were evacuated on Wednesday after headteachers received emailed bomb threats, Education Minister Giuseppe Valditara said. The email, signed with a fake name, also claimed a bomb had been placed in Prime Minister Giorgia Meloni's car. Meloni said there was no sign of concrete danger and that the threats aimed to generate alarm; she called a meeting of ministers. Defence Minister Guido Crosetto called the alerts part of a destabilisation strategy and said he would report to parliament.",
+      "why": "Similar hoax threats from the same purported author were sent to media outlets in Ireland and Bulgaria in the past week, Euronews reported, and AP noted recent hoax threats against airlines and broadcasters. Such campaigns are cheap to run but force costly evacuations, which officials say is the point. Meloni has blamed pro-Russian hackers for a separate leak of Foreign Minister Antonio Tajani's data."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Rising spy tensions are one reason Poland keeps strengthening border security and counter-intelligence.",
+      "id": "fsb-polish-spies-kaliningrad",
+      "importance": 3,
+      "markets": [],
+      "rank": 12,
+      "rankWhy": "A new round in the spy war between Russia and Poland, which already involves sabotage charges and diplomatic expulsions.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "LIGA.net",
+          "url": "https://news.liga.net/en/world/news/on-polands-independence-day-russia-announced-the-detention-of-polish-spies-warsaw-responded"
+        },
+        {
+          "name": "The Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/11/11/fsb-arrests-alleged-polish-intelligence-agents-in-kaliningrad-region-a94225"
+        }
+      ],
+      "terms": [
+        "Exclave"
+      ],
+      "title": "Russia's FSB says it arrested two 'Polish intelligence agents' in Kaliningrad; Warsaw calls it a provocation",
+      "what": "Russia's FSB security service said on Wednesday, Poland's Independence Day, that it had detained two people in the Kaliningrad region who allegedly worked for Polish military and civilian intelligence and gathered information on Russian military sites and personnel; a court ordered them held. The FSB said it had also warned seven Polish and three Russian citizens over contacts with Polish services and barred the Poles from entering Russia; it was not clear what nationality the two detainees are, The Moscow Times reported. Jacek Dobrzyński, spokesman for Poland's minister-coordinator of special services, called the claims another provocation and act of disinformation.",
+      "why": "Kaliningrad is a heavily militarised Russian exclave between Poland and Lithuania. The announcement came on Poland's national holiday, and the FSB's claims cannot be independently checked; Warsaw's spokesman said he does not comment on material Russian services publish online."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "The risk to people in Europe is very low, but travel rules are tightening: Saudi Arabia suspended visas for Kenyans in October and Kenya screens arrivals from 10 countries.",
+      "id": "kenya-ebola-countdown",
+      "importance": 3,
+      "markets": [],
+      "rank": 13,
+      "rankWhy": "Good news in the worst Ebola crisis since 2014–16: Kenya may soon contain its spill-over from Congo, while Congo's outbreak keeps growing.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/kenya-discharges-last-ebola-patient"
+        },
+        {
+          "name": "Al Jazeera (Congo figures)",
+          "url": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths"
+        },
+        {
+          "name": "OkayAfrica",
+          "url": "https://www.okayafrica.com/today-in-africa-nov-11-2026-ghana-is-turning-notorious-e-waste-dump-into-a-20000-job-industry-eswatini-shuts-down-asian-owned-shops/1441820"
+        }
+      ],
+      "terms": [
+        "Incubation period"
+      ],
+      "title": "Kenya discharges its last Ebola patient and starts a 42-day countdown; Congo's outbreak passes 11,000 cases",
+      "what": "Kenya's Health Minister Aden Duale announced on Wednesday that the country's last Ebola patient had been discharged, starting a 42-day countdown that could see Kenya declared Ebola-free on 23 December if there are no new cases. Kenya recorded nine cases from October, all linked to a man who travelled from Congo through Uganda; he and his mother died and seven people recovered. In the Democratic Republic of Congo, government data show 11,042 cases and 5,387 deaths, the second-largest Ebola outbreak on record after West Africa's in 2014–16, which infected more than 28,600 people. The outbreak is caused by the rare Bundibugyo strain, for which there is no specific vaccine or treatment.",
+      "why": "An outbreak is declared over after 42 days, twice Ebola's maximum 21-day incubation period, without new cases. Kenya contained its cases by tracing 135 contacts of the first patient. In Congo, delayed detection, conflict and weak health services have driven spread, Reuters reported; WHO approved trials of two new vaccines earlier this month, with results expected in early 2027."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "Measles is one of the most contagious diseases; in Poland, as elsewhere, two doses of MMR protect children, and falling vaccination anywhere lets the virus travel.",
+      "id": "us-measles-status",
+      "importance": 3,
+      "markets": [],
+      "rank": 14,
+      "rankWhy": "The US is about to lose a public-health milestone it has held since 2000, a warning about falling vaccination rates.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Reuters via Galveston County Daily News",
+          "url": "https://www.galvnews.com/news_reuters/nation/exclusive-cdc-chief-says-agency-will-not-change-measles-response-if-us-loses-elimination-status/article_bd54db6a-1032-521f-875f-937bae5315c5.html"
+        },
+        {
+          "name": "TheGrio",
+          "url": "https://thegrio.com/2026/11/11/cdc-measles-response-us-elimination-status/"
+        }
+      ],
+      "terms": [
+        "Disease elimination"
+      ],
+      "title": "US set to learn within days whether it has lost its 'measles-free' status after nearly 5,200 cases this year",
+      "what": "Experts convened by the Pan American Health Organization (PAHO) are due to decide within days whether the United States has lost the measles elimination status it has held since 2000; CDC Director Erica Schwartz told Reuters she expects a decision by early next week. The US has nearly 5,200 confirmed cases in 2026, up from 2,289 in all of 2025, and state health departments have reported 11 deaths since early 2025. Schwartz said the CDC would not fundamentally change its response if the status is lost and stressed that the MMR vaccine is the main protection.",
+      "why": "'Elimination' means no continuous spread of the virus for 12 months or more; long outbreaks in close-knit communities with low vaccination rates, such as some religious groups, break that chain, Reuters reported. Medical experts say Health Secretary Robert F. Kennedy Jr.'s doubts about the MMR vaccine have contributed to lower vaccination rates."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Living in tents in winter brings cold, disease and flooding risks, especially for children and the elderly.",
+      "id": "gaza-winter-floods",
+      "importance": 3,
+      "markets": [],
+      "rank": 15,
+      "rankWhy": "Hundreds of thousands of displaced Gazans face winter in damaged tents while aid is held up, a growing humanitarian and diplomatic issue.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "KSAT (AP)",
+          "url": "https://www.ksat.com/news/world/2026/11/11/netanyahu-says-israel-is-not-to-blame-for-the-flood-crisis-in-gaza-and-other-mideast-news/"
+        },
+        {
+          "name": "Times of Israel live blog",
+          "url": "https://www.timesofisrael.com/liveblog-november-11-2026/"
+        }
+      ],
+      "terms": [
+        "Humanitarian access"
+      ],
+      "title": "Floods wreck tents in Gaza; Netanyahu denies Israel is blocking winter supplies, as the UK calls the situation 'intolerable'",
+      "what": "Heavy rain has flooded makeshift camps in Gaza and damaged tens of thousands of tents; four people, including three children, were killed on Sunday when a sandstone slab collapsed onto tents, AP reported. The UN and aid groups say they have more than 150,000 tents ready to enter, but the UN humanitarian office said on Sunday that Israel had not given permission, nor allowed pumps to remove floodwater. Prime Minister Benjamin Netanyahu rejected the claims, blamed Hamas for refusing to disarm, and his office said Israel is helping bring in winter supplies, including over 91,000 tents. Israeli strikes on Wednesday killed three Palestinians in Gaza City, according to Shifa Hospital; the Israeli military said it targeted militants.",
+      "why": "Aid entry is controlled by Israel, and the two sides blame each other: AP notes that the ceasefire deal does not make the entry of tents and aid conditional on Hamas disarming. The US-created Board of Peace said Israel's delay of winter supplies made a foreseeable problem worse, and British Foreign Secretary Ed Miliband demanded an end to 'arbitrary restrictions'."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Aid budgets in rich countries, including EU ones, decide how much help reaches crises like this one.",
+      "id": "sudan-children-drones",
+      "importance": 3,
+      "markets": [],
+      "rank": 16,
+      "rankWhy": "In Sudan's war, attacks on power stations and drought put hundreds of thousands of children at risk.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Radio Dabanga",
+          "url": "https://www.dabangasudan.org/en/all-news/article/unicef-drone-attacks-unlike-anything-sudan-has-seen-before"
+        },
+        {
+          "name": "allAfrica",
+          "url": "https://allafrica.com/stories/202611110253.html"
+        },
+        {
+          "name": "Macau Business (AFP)",
+          "url": "https://macaubusiness.com/drones-behind-two-thirds-of-child-casualties-in-sudan-un/"
+        }
+      ],
+      "terms": [
+        "Severe acute malnutrition"
+      ],
+      "title": "UNICEF: drones cause two in three child casualties in Sudan, and up to 15 power stations were hit in October",
+      "what": "UNICEF spokesperson James Elder, back from Sudan, said in Geneva that armed drones caused two in three child casualties in Sudan this year and that up to 15 power stations were hit in October, with one struck every day in the last week of the month. He said the planting window for the 2026–27 cereal harvest has largely closed because of drought. An estimated 825,000 children under five are expected to suffer severe acute malnutrition this year, and UNICEF's response is only about one-third funded, allAfrica reported.",
+      "why": "Power cuts stop water pumps, hospitals and irrigation, so strikes on electricity hit health and food production at the same time; drought then reduces the harvest further, Elder explained."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Most refugees in the world stay in neighbouring poor countries rather than travelling to Europe, so funding gaps there matter for whether people move further.",
+      "id": "nigeria-refugees-niger",
+      "importance": 2,
+      "markets": [],
+      "rank": 17,
+      "rankWhy": "A growing refugee flow from Africa's most populous country into one of the world's poorest states.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Vanguard (UNHCR briefing)",
+          "url": "https://www.vanguardngr.com/2026/11/nearly-64000-nigerians-flee-to-niger-over-insecurity-unhcr/"
+        },
+        {
+          "name": "allAfrica",
+          "url": "https://allafrica.com/stories/202611110253.html"
+        }
+      ],
+      "terms": [
+        "Refugee",
+        "Asylum-seeker"
+      ],
+      "title": "Nearly 64,000 Nigerians have fled to Niger this year to escape militants and gangs, UNHCR says",
+      "what": "The UN refugee agency UNHCR said nearly 64,000 Nigerians have fled into Niger since January because of escalating violence by Islamist militants and armed criminal gangs, with several hundred more crossing into Benin. In total about 327,500 Nigerians are sheltering in Niger, which already hosts more than 500,000 refugees and asylum-seekers. Only about 5% of this year's arrivals are formally registered, which limits their access to aid, and UNHCR is seeking $11.4 million for its response in Niger, Nigeria and Benin.",
+      "why": "Insecurity in northern Nigeria is pushing people across borders into regions that are themselves poor and insecure: UNHCR says Diffa, where most arrivals go, accounts for over 70% of Niger's reported security incidents this year."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Press freedom determines what citizens can learn about their own government; independent outlets are often the only source of critical reporting.",
+      "id": "egypt-mada-masr",
+      "importance": 2,
+      "markets": [],
+      "rank": 18,
+      "rankWhy": "A test case for press freedom in the Arab world's most populous country.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/11/egyptian-court-postpones-retrial-independent-news-sites-editor"
+        },
+        {
+          "name": "Mada Masr",
+          "url": "https://www.madamasr.com/en/2026/10/27/news/u/lina-attalah-in-custody-after-court-issues-le3-mn-fine-orders-mada-masrs-closure/"
+        },
+        {
+          "name": "Amnesty International",
+          "url": "https://www.amnesty.org/en/documents/mde12/1633/2026/en/"
+        }
+      ],
+      "terms": [
+        "Press freedom"
+      ],
+      "title": "Egyptian court postpones retrial of Mada Masr editor Lina Attalah to 18 November",
+      "what": "An Egyptian court on Wednesday postponed until 18 November the retrial of Lina Attalah, editor of the independent news site Mada Masr, on charges of publishing false news and running an unlicensed website, after her defence asked for a different judge. On 27 October a court fined her 3 million Egyptian pounds and ordered Mada Masr closed for operating without a licence; her appeal against that ruling is due on 25 November. Mada Masr says it applied for a licence under a 2018 media law but never received a decision.",
+      "why": "Rights groups such as Amnesty International see the cases as part of a wider crackdown on independent media in Egypt; the licensing law gives the authorities a legal route to close outlets."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Little direct effect on daily life.",
+      "id": "darchiev-dies",
+      "importance": 2,
+      "markets": [],
+      "rank": 19,
+      "rankWhy": "Moscow loses its top diplomat in Washington just as US envoys prepare to meet Putin.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "The Moscow Times",
+          "url": "https://www.themoscowtimes.com/2026/11/11/russias-ambassador-to-the-united-states-dies-at-66-a94232"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66"
+        }
+      ],
+      "terms": [
+        "Ambassador"
+      ],
+      "title": "Russia's ambassador to the US, Alexander Darchiev, dies at 66",
+      "what": "Russia's Foreign Ministry announced on Wednesday that Alexander Darchiev, its ambassador to the United States, had died aged 66, without giving a cause. He took up the post in early 2025, replacing Anatoly Antonov, during a thaw in US–Russia relations after Donald Trump returned to the White House. He had earlier been ambassador to Canada and head of the ministry's North American department.",
+      "why": "Ambassadors keep day-to-day channels open, but The Moscow Times notes that Moscow and Washington handle most major issues at a higher level, so the practical effect on the peace talks is likely limited."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Cheap Chinese goods keep some prices down in Poland, but surging imports also put pressure on European factories, which is why the EU is adding trade limits.",
+      "id": "china-trade-surplus",
+      "importance": 2,
+      "markets": [
+        "Chinese yuan",
+        "European carmakers"
+      ],
+      "rank": 20,
+      "rankWhy": "China's record export surplus shapes trade tensions with Europe and prices of goods worldwide.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/11/why-chinas-1-trillion-trade-surplus-isnt-all-good-news-for-its-economy"
+        }
+      ],
+      "terms": [
+        "Trade surplus"
+      ],
+      "title": "China's trade surplus tops $1 trillion in ten months, but economists warn its export model is unbalanced",
+      "what": "China's trade surplus reached $1.04 trillion in the first ten months of 2026, putting it on track to beat last year's record of $1.2 trillion, Al Jazeera reported; exports rose 35.2% year on year in October, driven by semiconductors and computers. Household consumption is only about 39% of China's GDP, compared with 68% in the US, according to the Hinrich Foundation, and retail sales grew just 1.1% in September. Earlier this month the EU said it would cap imports of Chinese hybrid cars at 350,000 a year.",
+      "why": "Economists quoted by Al Jazeera blame a weak social safety net, high household saving, an undervalued currency, a property slump and industrial policy that favours factories over consumers. Bruegel's Alicia García Herrero said Chinese households are in effect subsidising consumers abroad, while HKUST's Carsten Holz doubted that export growth is sustainable."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Little direct effect in Europe, but changes in Asian security policy can affect trade and tensions in a region that makes many of the world's electronics.",
+      "id": "japan-nuclear-exception",
+      "importance": 2,
+      "markets": [],
+      "rank": 21,
+      "rankWhy": "A possible shift in a decades-old pillar of Japan's post-war security policy, watched closely by China and the Koreas.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Xinhua (citing Kyodo)",
+          "url": "https://english.news.cn/20261111/09255b714c404bf7b6c0f7850056d562/c.html"
+        },
+        {
+          "name": "Morning Star",
+          "url": "https://morningstaronline.co.uk/article/japanese-official-calls-nuclear-weapons-be-allowed-japan-emergencies"
+        }
+      ],
+      "terms": [
+        "Nuclear umbrella"
+      ],
+      "title": "Senior Japanese official calls for an emergency exception allowing nuclear weapons into Japan",
+      "what": "A senior Japanese government official told reporters on Tuesday that nuclear weapons should be allowed into Japan in emergencies, stated explicitly as an exception to the Three Non-Nuclear Principles of not possessing, not producing and not permitting the introduction of nuclear weapons, Kyodo News reported (via Xinhua). The ruling Liberal Democratic Party and its partner, the Japan Innovation Party, began working-level talks on Tuesday on revising Japan's three key security documents, including the principles, nuclear-powered submarines and a new defence spending target.",
+      "why": "Japanese media reported on 5 November that the government does not plan to rewrite the principles directly for now but favours writing in an emergency exception. The debate reflects concern about regional threats and reliance on the US nuclear umbrella."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Emerging markets such as India and Poland compete for the same foreign money, so flows into one region can affect others.",
+      "id": "india-stocks-rally",
+      "importance": 2,
+      "markets": [
+        "Sensex",
+        "Nifty 50",
+        "Indian rupee"
+      ],
+      "rank": 22,
+      "rankWhy": "India is one of the largest emerging stock markets; foreign money is flowing back in.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Business Today",
+          "url": "https://www.businesstoday.in/markets/stocks/story/sensex-jumps-773-points-nifty-tops-25250-profit-booking-trims-gains-566912-2026-11-11"
+        },
+        {
+          "name": "The Week",
+          "url": "https://www.theweek.in/news/biz-tech/2026/11/11/nifty-rallies-210-points-sensex-up-772-points-as-banking-automobile-stocks-lead-the-gain.html"
+        }
+      ],
+      "terms": [
+        "Foreign portfolio investment"
+      ],
+      "title": "Indian shares rise nearly 1% as foreign investors buy and oil eases",
+      "what": "India's Sensex closed 0.95% higher at 81,879.40 and the Nifty 50 rose 0.84% to 25,255.05 on Wednesday, led by car makers, banks and consumer-goods stocks. Religare Broking said foreign portfolio investors had bought about $5.68 billion of Indian shares so far in November, the strongest monthly inflow since September 2024.",
+      "why": "Analysts quoted by Business Today pointed to a stronger rupee, Brent near $93 easing worries about imported inflation, and investors looking for growth outside crowded AI stocks."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "QatarEnergy's extended force majeure on LNG deliveries (see the Iran story) shows how Gulf security feeds directly into Europe's gas prices.",
+      "id": "eu-gulf-defence",
+      "importance": 2,
+      "markets": [
+        "LNG"
+      ],
+      "rank": 23,
+      "rankWhy": "The EU is seeking closer security ties with Gulf states whose stability matters for Europe's energy supplies.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/11/11/eu-plans-doha-defence-talks-to-strengthen-security-ties-with-gulf-countries"
+        }
+      ],
+      "terms": [
+        "Gulf Cooperation Council (GCC)"
+      ],
+      "title": "EU plans defence talks with Gulf states in Doha, backing free navigation through Hormuz",
+      "what": "The EU's new ambassador to Qatar, Antonino Maggiore, told Euronews the bloc plans to deepen defence cooperation with Qatar and the Gulf Cooperation Council, including a defence technology and AI seminar in Doha on 3 December and a platform linking defence industries. He said the postponement of an EU–GCC summit planned for 24 October was a missed opportunity. The EU backs Qatar's mediation between the US and Iran and its position on free navigation through Hormuz: 'no fees, no tolls'.",
+      "why": "With Iran restricting traffic through the Strait of Hormuz, the EU wants a bigger role in Gulf security and closer trade ties with energy suppliers such as Qatar."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "A large share of world trade passes through the South China Sea, so tensions there can affect prices of goods shipped from Asia to Europe.",
+      "id": "asean-summit-preview",
+      "importance": 2,
+      "markets": [],
+      "rank": 24,
+      "rankWhy": "Leaders of the region's 11 ASEAN states, plus the US president, meet next week; a South China Sea code of conduct is on the table.",
+      "region": "Asia-Pacific",
+      "sources": [
+        {
+          "name": "Philstar",
+          "url": "https://www.philstar.com/headlines/2026/11/11/2569423/manila-host-world-leaders-49th-asean-summit"
+        }
+      ],
+      "terms": [
+        "ASEAN"
+      ],
+      "title": "Manila prepares for the ASEAN summit from Sunday; a South China Sea code of conduct is still unfinished",
+      "what": "The Philippines will host the ASEAN summit from Sunday 15 November, with summits with partners including China, Japan, the US and India on 16–17 November; President Trump will attend the ASEAN–US summit on 17 November before travelling to China for the APEC summit in Shenzhen, according to the Philippine foreign ministry. Concluding the long-stalled code of conduct for the South China Sea was a main goal of the Philippine chair, but the government has not said whether it will be done by the end-2026 deadline. Chinese President Xi Jinping is not expected to attend.",
+      "why": "The code is meant to stop incidents at sea from escalating into armed conflict; observers say Beijing has repeatedly resisted making it legally binding, Philstar reported."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Little effect beyond those applying.",
+      "id": "south-africa-digital-asylum",
+      "importance": 1,
+      "markets": [],
+      "rank": 25,
+      "rankWhy": "An administrative change for asylum-seekers in South Africa.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "OkayAfrica",
+          "url": "https://www.okayafrica.com/today-in-africa-nov-11-2026-ghana-is-turning-notorious-e-waste-dump-into-a-20000-job-industry-eswatini-shuts-down-asian-owned-shops/1441820"
+        }
+      ],
+      "terms": [],
+      "title": "South Africa launches online registration for asylum-seekers",
+      "what": "South Africa's Home Affairs Department launched the first phase of a digital asylum system on 10 November, letting people register online their intention to apply; registration is not a formal application and does not grant refugee status. Later phases are planned to add appointment booking and AI-assisted processing, according to Minister Leon Schreiber.",
+      "why": "Moving the first step online is meant to make it easier to start the process and to manage the queue of applicants."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Clothes and electronics thrown away in Europe can end up in such dumps, which is why EU rules on textile and electronic waste matter.",
+      "id": "ghana-agbogbloshie",
+      "importance": 1,
+      "markets": [],
+      "rank": 26,
+      "rankWhy": "A local clean-up with a global angle: rich countries' waste ending up in Africa.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "OkayAfrica",
+          "url": "https://www.okayafrica.com/today-in-africa-nov-11-2026-ghana-is-turning-notorious-e-waste-dump-into-a-20000-job-industry-eswatini-shuts-down-asian-owned-shops/1441820"
+        }
+      ],
+      "terms": [
+        "E-waste"
+      ],
+      "title": "Ghana plans to turn the Agbogbloshie e-waste dump into a recycling industry with up to 20,000 jobs",
+      "what": "Ghana's government plans to clear about 1 million tonnes of waste from the Agbogbloshie site in Accra in a three-month effort and to bring informal scrap collectors into formal recycling, with a target of up to 20,000 permanent jobs, Local Government Minister Mahama Ayariga said. Greenpeace estimates that 15 million used garments arrive in Ghana every week.",
+      "why": "Greenpeace says wealthy countries use Ghana as a dumping ground for fashion waste; a University of Ghana epidemiologist says workers face lung and neurological risks."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Little effect outside Eswatini.",
+      "id": "eswatini-shops",
+      "importance": 1,
+      "markets": [],
+      "rank": 27,
+      "rankWhy": "A small country's ownership law with large effects on the foreign shop-owners involved.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "OkayAfrica",
+          "url": "https://www.okayafrica.com/today-in-africa-nov-11-2026-ghana-is-turning-notorious-e-waste-dump-into-a-20000-job-industry-eswatini-shuts-down-asian-owned-shops/1441820"
+        }
+      ],
+      "terms": [],
+      "title": "Eswatini begins closing foreign-owned shops under a new economic empowerment law",
+      "what": "Officials in Eswatini began enforcing the Citizen Economic Empowerment Act on Tuesday, closing Asian-owned shops, MP Welcome Dlamini said. The law aims to increase local ownership; parliament had agreed that foreign owners should get at least 12 months to leave, and MPs remain divided on how fast to act.",
+      "why": "About 70% of Eswatini's people live below the poverty line, and the government wants more businesses in local hands."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Little direct effect outside Washington.",
+      "id": "trump-arch-veterans-day",
+      "importance": 1,
+      "markets": [],
+      "rank": 28,
+      "rankWhy": "A symbolic but contested project; a court has paused work while lawsuits proceed.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "KSAT (AP)",
+          "url": "https://www.ksat.com/news/politics/2026/11/11/trump-says-the-towering-arch-he-wants-to-be-build-might-be-dedicated-to-military-veterans/"
+        },
+        {
+          "name": "Just Security",
+          "url": "https://www.justsecurity.org/164111/early-edition-november-11-2026/"
+        }
+      ],
+      "terms": [
+        "Temporary restraining order"
+      ],
+      "title": "On Veterans Day, Trump says his planned 76-metre 'triumphal arch' in Washington will be dedicated to veterans",
+      "what": "Speaking at Arlington National Cemetery on Veterans Day, President Donald Trump said 'a magnificent triumphal arc' would soon be dedicated to veterans. The planned arch would be 250 feet (76 metres) tall near Arlington National Cemetery and the Lincoln Memorial; a White House website calls it the United States Military Triumphal Arch. Several groups, including three veterans, are suing to stop it, and last week US District Judge Tanya Chutkan issued a temporary restraining order barring work for 14 days, AP reported.",
+      "why": "Trump has said the arch would be inspired by the Arc de Triomphe; critics question its cost and approval process, and AP notes the White House gives no cost, with some estimates reaching $100 million."
+    }
+  ],
+  "watch": [
+    "Thursday 12 November: US envoys Steve Witkoff and Jared Kushner due in Moscow to meet President Putin, then in Dublin for talks with President Zelensky; the size of the agreed prisoner exchange is to be finalised.",
+    "Thursday 12 November: Warsaw Stock Exchange reopens after the Independence Day holiday.",
+    "Thursday 12 November: COP31 leaders' segment continues in Antalya, Türkiye; UK Prime Minister Andy Burnham is due to speak.",
+    "Friday 13 November: US producer prices (PPI) for October, 08:30 New York = 14:30 Warsaw.",
+    "Around 19 November: Anthropic's shares expected to start trading on Nasdaq.",
+    "Sunday 29 November: Spain's snap general election.",
+    "Developing: Strait of Hormuz shipping attacks and US–Iran contacts; Congo's Ebola outbreak; Israel's coalition talks."
+  ],
+  "window": "Wed 11 Nov 10:00 → Wed 11 Nov 20:00 (Warsaw time)",
+  "id": "2026-11-11-2000",
+  "updatedAt": "2026-11-11T19:13:20.039248Z"
+}

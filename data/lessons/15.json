@@ -1,0 +1,263 @@
+{
+  "checkQuestions": [
+    {
+      "a": "Two small negative GDP quarters might come from a one-off drop in inventories or trade while jobs and incomes keep rising, so the fall is neither deep nor widespread. The reverse is also possible (hypothetical): jobs, incomes and production fall sharply and across most industries for several months, but quarterly GDP dips in only one quarter, so the 'two quarters' rule is not met while the NBER criteria of depth, diffusion and duration are.",
+      "q": "Explain why an economy can have a 'technical recession' that the NBER would not call a recession, and the reverse."
+    },
+    {
+      "a": "Fuel and energy costs rise for transport and factories, so firms raise prices (inflation up). Households spend more on fuel and heating and have less for other goods, so demand for other products falls. Firms facing higher costs and weaker sales cut output and hiring, so unemployment rises over time. If the central bank raises rates to stop inflation spreading, the slowdown can deepen.",
+      "q": "Trace step by step how a 10% jump in the oil price could lead to both higher inflation and higher unemployment in Poland."
+    },
+    {
+      "a": "Investment depends on expected future demand: firms build capacity only if they expect sales to keep growing (the accelerator). A small change in expected growth can turn a large expansion plan into none at all, and projects can be postponed. Households, by contrast, try to smooth consumption using savings and borrowing, because they need to eat and pay rent in every period.",
+      "q": "Why is investment much more volatile than consumption over the business cycle?"
+    },
+    {
+      "a": "In a recession incomes and profits fall, so tax revenue falls, while spending on unemployment benefits rises, without any new law. The wider deficit keeps money flowing to households and firms, which cushions spending and reduces the multiplier chain of job losses. As Lesson 14 showed, it does add to debt, so it is sustainable only if deficits shrink again in the recovery.",
+      "q": "Why do automatic stabilisers make deficits widen in recessions, and why is that usually seen as helpful rather than harmful?"
+    },
+    {
+      "a": "The euro-area figure is a quarterly rate and the US figure is annualised. Annualising 0.4% gives about 1.6%, so the US grew roughly twice as fast, not over eight times as fast.",
+      "q": "A news report says the euro area grew 0.4% while the US grew 3.4% in the third quarter. Explain what is misleading and give the correct comparison."
+    }
+  ],
+  "createdAt": "2026-11-11T19:55:00Z",
+  "date": "11 Nov 2026",
+  "editionId": "2026-11-11-2000",
+  "intro": "Economies do not grow in a straight line: periods of fast growth and rising employment (booms) alternate with periods when output and jobs shrink (recessions). In this lesson you will learn how economists describe and measure these swings, what a recession officially is, and the main mechanisms that start and amplify them: demand shocks, supply shocks such as oil, credit and confidence. By the end you will be able to convert quarterly growth into an annual rate, read an output gap, trace how a shock spreads through spending and jobs, and judge headlines such as 'the economy is in a technical recession'.",
+  "lessonQuiz": [
+    {
+      "answer": 1,
+      "explain": "Annualising compounds four quarters: (1.034)^(1/4) − 1 ≈ 0.84%. Multiplying by four (13.6%) goes the wrong way.",
+      "options": [
+        "3.4%",
+        "0.84%",
+        "1.7%",
+        "13.6%"
+      ],
+      "q": "The US reports Q3 growth of 3.4% at an annual rate. Roughly how much did US real GDP grow during that single quarter?"
+    },
+    {
+      "answer": 3,
+      "explain": "(1.004)^4 − 1 ≈ 1.61%. Comparing 0.4% directly with the US 3.4% overstates the gap.",
+      "options": [
+        "About 0.1%",
+        "About 0.4%",
+        "About 3.4%",
+        "About 1.6%"
+      ],
+      "q": "Eurostat reports euro-area growth of 0.4% q/q. Which annualised rate makes it comparable with US figures?"
+    },
+    {
+      "answer": 0,
+      "explain": "The NBER weighs depth, diffusion and duration across many indicators; a shallow, narrow dip with rising jobs fails depth and diffusion.",
+      "options": [
+        "Probably not a recession, because the decline is neither deep nor spread across the economy",
+        "Automatically a recession, because two negative quarters is the official definition",
+        "A depression, because it lasted six months",
+        "A recession only if the stock market also fell"
+      ],
+      "q": "A country's GDP falls 0.1% in two consecutive quarters because firms ran down inventories, while employment and real incomes keep rising. How would the NBER's approach most likely judge this?"
+    },
+    {
+      "answer": 2,
+      "explain": "The NBER treats depth, diffusion and duration as somewhat interchangeable; the 2020 collapse was extreme on depth and diffusion.",
+      "options": [
+        "Because a law requires a recession to be declared whenever unemployment rises",
+        "Because the stock market fell more than 20%",
+        "Because the fall was so deep and widespread that it outweighed the short duration",
+        "Because the government declared an emergency"
+      ],
+      "q": "Why did the NBER call the 2020 downturn a recession although it lasted only two months?"
+    },
+    {
+      "answer": 3,
+      "explain": "A negative supply shock raises costs and cuts real incomes: stagflation. A demand shock would push output and inflation down together.",
+      "options": [
+        "Output up, inflation down",
+        "Output down, inflation down",
+        "Output up, inflation up",
+        "Output down, inflation up"
+      ],
+      "q": "Oil prices jump because a key shipping route is blocked. Which combination is the textbook result for an oil-importing economy?"
+    },
+    {
+      "answer": 1,
+      "explain": "Multiplier = 1 ÷ (1 − 0.75) = 4, so the fall is 4 × 4 = 16 billion. 3 billion is only the first round of lost spending.",
+      "options": [
+        "4 billion",
+        "16 billion",
+        "3 billion",
+        "5.33 billion"
+      ],
+      "q": "Hypothetical: households spend 0.75 of every extra złoty of income, with no taxes or imports. A firm cancels a 4 billion złoty project. In the simple multiplier model, how much does total income fall?"
+    },
+    {
+      "answer": 0,
+      "explain": "Imports and taxes are leakages from the domestic income chain, so less of each round of spending becomes domestic income.",
+      "options": [
+        "The real multiplier is smaller than 1 ÷ (1 − MPC) because part of extra spending goes on imports and taxes",
+        "The real multiplier is larger because imports add to GDP",
+        "The multiplier is always exactly 1",
+        "Imports do not affect the multiplier because they are paid in foreign currency"
+      ],
+      "q": "Which statement about the simple multiplier is most accurate for a small open economy such as Poland?"
+    },
+    {
+      "answer": 2,
+      "explain": "Output gap = (490 − 500) ÷ 500 = −2%. Extra unemployment = 2 ÷ 2 = 1 point, so 4% + 1 = 5%.",
+      "options": [
+        "2%",
+        "6%",
+        "5%",
+        "4.5%"
+      ],
+      "q": "Hypothetical: potential output is 500, actual output is 490, natural unemployment is 4%, and the Okun coefficient is 2. What is the estimated unemployment rate?"
+    },
+    {
+      "answer": 1,
+      "explain": "Firms often first use existing staff more intensively and hire only when they trust the recovery, so unemployment turns later than output.",
+      "options": [
+        "The recovery is fake and GDP data must be wrong",
+        "Unemployment is a lagging indicator; firms wait to be sure of recovery before hiring",
+        "The central bank must have raised rates",
+        "Unemployment is a leading indicator of a new recession"
+      ],
+      "q": "Unemployment is still rising three months after GDP began growing again. What does this most likely show?"
+    },
+    {
+      "answer": 2,
+      "explain": "These are automatic stabilisers: they widen the deficit in bad times, supporting spending, and reverse in the recovery.",
+      "options": [
+        "Discretionary stimulus; the deficit narrows",
+        "Austerity; the deficit narrows",
+        "Automatic stabilisers; the deficit widens and cushions incomes",
+        "Crowding out; the deficit is unchanged"
+      ],
+      "q": "Linking to Lesson 14: during a recession, Poland's tax revenue falls and benefit spending rises without any new law. What is this called, and what does it do to the deficit?"
+    },
+    {
+      "answer": 3,
+      "explain": "Rate rises work through demand, not oil supply; they restrain inflation spreading to other prices at the cost of weaker output and jobs.",
+      "options": [
+        "Higher rates raise oil supply, so prices fall without any effect on jobs",
+        "Higher rates make borrowing cheaper, so investment rises and output grows",
+        "Higher rates have no effect because the shock came from oil",
+        "Higher rates cool borrowing and spending, reducing price pressure but deepening the slowdown"
+      ],
+      "q": "Linking to Lesson 7: inflation is high because of an oil supply shock, and the central bank raises its policy rate. Which chain is correct?"
+    },
+    {
+      "answer": 0,
+      "explain": "The accelerator: capacity is built for expected future sales, so expectations swing investment sharply; consumption is smoothed.",
+      "options": [
+        "Because firms invest based on expected growth in demand, so small changes in expectations cause large swings (the accelerator)",
+        "Because investment is mostly government spending decided once a year",
+        "Because investment is measured only once a year",
+        "Because households cannot borrow to invest"
+      ],
+      "q": "Why is investment usually the most volatile component of GDP over the cycle?"
+    }
+  ],
+  "level": "Core",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "A recession means two quarters of falling GDP, by official definition.",
+      "truth": "That is only a rule of thumb. In the US the NBER uses depth, diffusion and duration across many monthly indicators; it dated the 2020 recession as two months long."
+    },
+    {
+      "myth": "US growth of 3.4% means the US economy grew 3.4% in that quarter.",
+      "truth": "US figures are annualised: 3.4% a year corresponds to about 0.84% in the quarter. European headlines usually give the un-annualised quarterly rate."
+    },
+    {
+      "myth": "When unemployment starts falling, the recession has only just begun to end; when it is still rising, the economy must still be shrinking.",
+      "truth": "Unemployment is a lagging indicator: it often keeps rising for months after output has started to recover."
+    },
+    {
+      "myth": "Every recession is caused by too little spending, so the cure is always more spending.",
+      "truth": "Supply shocks such as an oil price jump cut output and raise prices at the same time; extra demand can then add to inflation rather than restore output."
+    },
+    {
+      "myth": "The business cycle is regular, so you can predict the next recession by counting years.",
+      "truth": "Expansions vary greatly in length and each recession has different triggers; forecasters have a poor record of calling turning points."
+    }
+  ],
+  "number": 15,
+  "objectives": [
+    "Explain the four phases of the business cycle (expansion, peak, contraction, trough) and the difference between the cycle and long-run trend growth.",
+    "Calculate an annualised growth rate from a quarter-on-quarter rate, and explain why US and European headlines report growth differently.",
+    "Explain the NBER definition of a recession (depth, diffusion, duration) and why 'two negative quarters' is only a rule of thumb.",
+    "Trace how a demand shock is amplified by the multiplier and by investment, and calculate a simple multiplier.",
+    "Distinguish demand shocks from supply shocks, and explain why an oil shock can bring stagflation.",
+    "Calculate an output gap and use Okun's rule of thumb to link it to unemployment, stating the limits of that rule."
+  ],
+  "recap": "Lesson 14 showed that a budget deficit is a yearly flow and debt is the stock it builds, and that the debt ratio depends on interest rates, nominal growth and the primary balance. Growth (g) appeared in that formula as a given number; this lesson asks why growth itself speeds up and slows down. It also builds on Lesson 9 (GDP measures output), Lesson 10 (jobs and unemployment), Lesson 7 (central banks set interest rates) and Lesson 11 (oil shocks).",
+  "sections": [
+    {
+      "body": "Lesson 9 defined real GDP as the value of everything an economy produces, adjusted for inflation. If you plot real GDP over decades, you see two things at once: a rising long-run trend and wiggles around it. The trend reflects the economy's capacity to produce, called potential output: it grows as the workforce grows, as firms install more machines and as technology and skills improve (productivity). The wiggles are the business cycle: short-term swings in how intensively that capacity is used. The cycle has four phases: an expansion (output and jobs rise), a peak (the high point of activity), a contraction or recession (activity falls) and a trough (the low point), after which a new expansion begins. Despite the word 'cycle', the swings are not regular like a pendulum: expansions can last a year or more than a decade, and each recession has different causes. A useful image is a car on a slowly rising road: the road's slope is trend growth, and the driver's speeding up and braking is the cycle. Policymakers care about the cycle because recessions throw people out of work and waste capacity that cannot be recovered, while overheated booms tend to push up inflation (Lesson 6).",
+      "heading": "1. Trend and cycle: two ideas in one GDP line"
+    },
+    {
+      "body": "Statistical offices publish GDP every quarter, and the same data can be reported in three ways. Quarter-on-quarter (q/q) growth compares a quarter with the previous quarter, usually after removing seasonal patterns such as Christmas shopping (seasonal adjustment). Year-on-year (y/y) growth compares a quarter with the same quarter a year earlier; it is smoother but reacts later to turning points. The US reports an annualised rate: the q/q rate compounded over four quarters, which answers 'how fast would the economy grow in a year if this quarter's pace continued?'. Example with official numbers: the US Bureau of Economic Analysis (advance estimate, 29 October 2026) reported real GDP growth of 3.4% at an annual rate in the third quarter of 2026, equal to 0.8% at a quarterly rate; Eurostat's flash estimate (30 October 2026) put euro-area growth at 0.4% q/q (and 1.3% y/y). These are not directly comparable: 0.4% per quarter compounds to about 1.6% a year, so the US was growing roughly twice as fast, not eight times as fast. Always check which convention a headline uses before comparing countries, and remember that first estimates are often revised: Poland's statistics office GUS revised its 2025 growth from 3.6% to 3.8% in October 2026.",
+      "heading": "2. Measuring the swings: quarter-on-quarter, year-on-year and annualised rates"
+    },
+    {
+      "body": "There is no single worldwide legal definition of a recession. A popular rule of thumb, often called a 'technical recession', is two consecutive quarters of falling real GDP. In the United States the turning points are dated by the Business Cycle Dating Committee of the National Bureau of Economic Research (NBER), a private research body, which defines a recession as a significant decline in economic activity that is spread across the economy and lasts more than a few months. The NBER looks at three criteria, depth, diffusion and duration, and at many monthly indicators such as employment, real income and industrial production, not only GDP; it treats the criteria as somewhat interchangeable, so an extremely deep fall can count even if it is short. That is why the NBER dated the 2020 pandemic recession as lasting only two months (peak in February 2020, trough in April 2020), the shortest US recession on record. Quarterly GDP did also fall in two consecutive quarters (Q1 and Q2 2020), but the NBER's monthly dating shows how much shorter the actual downturn was than the two quarters the GDP rule needs. The rule of thumb can also mislead the other way: two tiny negative quarters caused by, say, a drop in inventories may not be a broad downturn at all. Committees date recessions only with a delay of many months, sometimes more than a year, because they wait for revised data; by the time a recession is official it is often over.",
+      "heading": "3. What counts as a recession"
+    },
+    {
+      "body": "Many recessions start with a fall in spending, called a negative demand shock: households become worried and save more, firms cancel investment, or exports fall because a trading partner slumps. One person's spending is another's income, so a fall in spending spreads: if a firm cancels a factory, the builders earn less and cut their own spending, which cuts the income of shop owners, and so on. The share of each extra złoty of income that people spend is the marginal propensity to consume (MPC). In the simplest textbook model, the total effect of an initial change in spending is the initial change multiplied by 1 ÷ (1 − MPC): with MPC = 0.6 the multiplier is 2.5. In real economies the multiplier is much smaller than this simple formula suggests, because part of extra spending goes on imports and taxes (so it leaks out of the domestic income chain) and because central banks and prices react; estimates vary widely and economists genuinely disagree about their size. Investment is the most volatile part of GDP because of the accelerator: firms invest to expand capacity, so when they expect slower sales growth, they may cut investment sharply even if sales are still rising. This is why booms often feature an investment surge: the 2026 AI build-out is an example, with CoreWeave alone guiding to $37–39 billion of capital expenditure this year; if expectations about AI were reassessed, which the IMF lists as a downside risk in its October 2026 outlook, the same mechanism could work in reverse. Confidence links all of this: expectations can become self-fulfilling when everyone cuts spending at once.",
+      "heading": "4. Demand shocks and how they are amplified: the multiplier and the accelerator"
+    },
+    {
+      "body": "A negative supply shock reduces what the economy can produce at given costs: a jump in oil prices, a war that blocks trade routes, a drought or a pandemic that keeps workers at home. Unlike a demand shock, which pushes output and inflation down together, a supply shock pushes output down and prices up at the same time. This combination is called stagflation (stagnation plus inflation). Lesson 11 showed why oil matters: it is an input to transport, plastics, fertiliser and heating, so a higher oil price raises firms' costs across the economy and cuts the real income households have left for other things. The 1970s oil shocks are the classic example; today the war with Iran and attacks in the Strait of Hormuz are a live case, which the UN Secretary-General linked to economic damage at COP31 this week. Supply shocks put central banks in a dilemma: raising interest rates fights inflation but deepens the slowdown, while cutting rates supports output but risks letting inflation spread to wages. The IMF's October 2026 outlook describes energy-importing economies outside the technology supply chain as facing the most difficult outlook, which is what a supply shock to energy importers would predict. Positive supply shocks exist too: a productivity boom (for example from new technology) can raise output while holding inflation down.",
+      "heading": "5. Supply shocks: when the economy's capacity is hit"
+    },
+    {
+      "body": "Lesson 7 showed that central banks raise interest rates to cool inflation and cut them to support activity; this is the main tool for smoothing the cycle, but it acts with long and variable lags of many months. When a boom pushes inflation up, central banks tighten, which raises borrowing costs, cools housing and investment and can end the expansion; markets currently expect the US Federal Reserve to raise its rate in December after hot inflation data. Credit amplifies the cycle: in good times, rising asset prices make borrowers look safer, banks lend more, and the extra spending pushes prices up further; when prices fall, the process reverses, and debt that looked safe must be repaid out of falling incomes. Recessions that follow credit or housing booms tend to be deeper and longer. Fiscal policy (Lesson 14) also smooths the cycle automatically: in a recession tax revenue falls and unemployment benefits rise, so the deficit widens without any new decision. These are called automatic stabilisers, and they cushion household incomes. Governments can add discretionary stimulus, but it is slow to pass and its effect depends on the multiplier, which is disputed. Economists differ on how much policy should try to fine-tune the cycle: Keynesian economists stress that demand shortfalls can persist and policy can help, while real-business-cycle economists see many fluctuations as efficient responses to supply and technology shocks; most mainstream models today combine elements of both.",
+      "heading": "6. Money, credit and policy: why booms can sow the seeds of busts"
+    },
+    {
+      "body": "The output gap is actual GDP minus potential GDP, as a percentage of potential: a negative gap means idle workers and machines, a positive gap means the economy is running hot and inflation tends to rise. Potential output cannot be observed, only estimated, so output-gap estimates are uncertain and often revised. Lesson 10 explained unemployment; Okun's law is the rule of thumb that links the two: historically in the US, each 1 percentage point of negative output gap has gone with unemployment roughly half a point above its normal level (equivalently, a coefficient of about 2). The coefficient differs across countries and periods; in countries with strong job protection, firms adjust hours more than headcount. Economists classify indicators by timing. Leading indicators tend to turn before the economy: business surveys such as purchasing managers' indexes (PMIs), new orders, building permits, share prices and the slope of the government bond yield curve (Lesson 8). Coincident indicators move with the economy (industrial production, real incomes, employment). Lagging indicators turn later; unemployment typically keeps rising for a while after a recession has ended. No single indicator is reliable: the US yield curve inverted in 2022 without a recession following quickly, which is a reminder that these are signals, not laws.",
+      "heading": "7. Jobs, the output gap and indicators that help spot turning points"
+    },
+    {
+      "body": "Recessions are easy to see in hindsight and very hard to predict; professional forecasters have a poor record of calling turning points in advance. The cycle looks different in each country at the same time: in the third quarter of 2026, Eurostat's flash estimate showed Ireland +5.5% q/q, Spain +0.6%, Germany +0.2%, Italy 0.0% and France −0.1%, while Poland grew 1.1% q/q in the second quarter (GUS revised figure published 16 October 2026, seasonally adjusted; the earlier preliminary estimate was 1.0%). A national average can hide regional and sectoral recessions: one industry (for example, car making) can be shrinking while the economy as a whole grows. GDP for small, open economies such as Ireland can swing wildly because of multinational companies' accounting, so one quarter's number may say little about living standards. Growth rates also depend on population: a country can have rising GDP but falling GDP per person if its population grows faster. Finally, the cycle is measured in averages, but recessions are felt unevenly: young workers, temporary staff and people in cyclical industries such as construction usually lose jobs first.",
+      "heading": "8. Limits: what the business-cycle picture cannot tell you"
+    }
+  ],
+  "takeaways": [
+    "Real GDP = long-run trend (potential output) + the business cycle (expansion, peak, contraction, trough), and the cycle is irregular.",
+    "US growth is reported annualised: (1 + q/q)^4 − 1; 0.4% q/q ≈ 1.6% a year, and the US Q3 2026 rate of 3.4% ≈ 0.84% in the quarter.",
+    "'Two negative quarters' is a rule of thumb; the NBER dates US recessions by depth, diffusion and duration (2020: February peak, April trough, two months).",
+    "Demand shocks are amplified by the multiplier (1 ÷ (1 − MPC) in the simplest model) and by volatile investment; real-world multipliers are smaller and disputed.",
+    "Supply shocks such as oil raise prices and cut output together (stagflation), putting central banks in a dilemma.",
+    "Output gap = (actual − potential) ÷ potential; Okun's rule links a negative gap to higher unemployment, but potential and the coefficient are uncertain."
+  ],
+  "title": "Booms and recessions: the business cycle",
+  "todayExample": "Today's edition shows the cycle's main forces at work. The AI boom is an investment-led expansion: CoreWeave reported revenue up 168% and an order backlog of about $132.5 billion, which revived share prices of chip and power-equipment firms, a reminder that investment and confidence move together. At the same time, oil near $92 because of attacks in the Strait of Hormuz is a supply shock that raises costs for energy importers such as Poland. Spain's one-day general strike gives a sense of scale: BBVA Research estimated it could cut Spain's annual GDP by only 0.1–0.2%. One reason the figure is small: a single day is a small part of a year's output, and on union figures about 4 million of roughly 23 million workers struck.",
+  "workedExamples": [
+    {
+      "problem": "The US Bureau of Economic Analysis reported real GDP growth of 0.8% at a quarterly rate and 3.4% at an annual rate for Q3 2026 (advance estimate, 29 October 2026). (a) Annualise 0.8% exactly. (b) Why does the BEA show 3.4%, not your answer? (c) What quarterly rate gives exactly 3.4% a year?",
+      "solution": "(a) Annualising means compounding for four quarters: (1 + 0.008)^4 − 1 = 1.03239 − 1 = 0.0324, i.e. about 3.24%. (b) The BEA compounds the unrounded quarterly growth, not the rounded 0.8%; a small rounding difference in the quarterly figure becomes about four times bigger after annualising. (c) Reverse the calculation: (1.034)^(1/4) − 1 = 0.00839, i.e. about 0.84% per quarter, which rounds to 0.8%. Interpretation: when you see '3.4%' in a US headline, it means the economy grew about 0.84% in that one quarter, not 3.4%.",
+      "title": "Turning a quarterly rate into an annual rate (US, Q3 2026)"
+    },
+    {
+      "problem": "Eurostat's flash estimate put euro-area growth in Q3 2026 at 0.4% q/q; GUS's revised data (16 October 2026) put Polish growth at 1.1% q/q (seasonally adjusted) in Q2 2026, up from a preliminary 1.0%. Annualise both and compare them with the US annualised rate of 3.4% (Q3 2026). Note the different quarters.",
+      "solution": "Euro area: (1.004)^4 − 1 = 1.01610 − 1 ≈ 1.61% a year. Poland: (1.011)^4 − 1 = 1.04473 − 1 ≈ 4.47% a year. US: 3.4% a year. On a like-for-like basis Poland's Q2 pace (≈4.5%) was faster than the US Q3 pace (3.4%), and the euro area's (≈1.6%) was less than half the US pace. Caveat: Poland's figure is for a different quarter (Q2) and has been revised (at the preliminary 1.0%, the annualised rate would be (1.010)^4 − 1 ≈ 4.06%, still faster than the US); one quarter is a noisy guide to the trend.",
+      "title": "Comparing Europe, Poland and the US on the same basis"
+    },
+    {
+      "problem": "Hypothetical numbers: an economy's potential output is 2,000 billion and actual output is 1,940 billion. Its normal ('natural') unemployment rate is 5%. Use Okun's rule of thumb with a coefficient of 2 (each 2% of negative output gap goes with 1 point of extra unemployment). (a) Calculate the output gap. (b) Estimate the unemployment rate. (c) Name one reason the estimate might be wrong.",
+      "solution": "(a) Output gap = (1,940 − 2,000) ÷ 2,000 = −60 ÷ 2,000 = −0.03 = −3%. (b) Extra unemployment = 3 ÷ 2 = 1.5 percentage points, so unemployment ≈ 5% + 1.5 = 6.5%. (c) Potential output is estimated, not observed, so the gap could be larger or smaller; and the Okun coefficient varies by country and period (for example, firms may cut hours instead of jobs).",
+      "title": "Output gap and Okun's rule of thumb (hypothetical numbers)"
+    },
+    {
+      "problem": "Hypothetical numbers: firms cancel 10 billion złoty of investment projects. (a) With a marginal propensity to consume of 0.6 and no leakages, what is the total fall in income in the simple multiplier model? (b) Now households spend 0.8 of each extra złoty of disposable income, but 25% of income goes in taxes, so they spend 0.8 × 0.75 = 0.6 of each extra złoty of total income. What is the multiplier now? (c) Why are real-world multipliers usually smaller than this?",
+      "solution": "(a) Multiplier = 1 ÷ (1 − 0.6) = 1 ÷ 0.4 = 2.5, so income falls by 10 × 2.5 = 25 billion złoty. (b) The share of extra income spent is 0.8 × 0.75 = 0.6, so the multiplier is again 1 ÷ (1 − 0.6) = 2.5 and the fall is 25 billion: taxes act as a leakage that lowers the effective spending share from 0.8 to 0.6 (without the tax the multiplier would be 1 ÷ 0.2 = 5). (c) Spending also leaks into imports (especially in an open economy such as Poland), prices and interest rates adjust, and people smooth consumption using savings, so estimated real-world multipliers are much smaller and disputed.",
+      "title": "A demand shock and the simple multiplier (hypothetical numbers)"
+    }
+  ],
+  "updatedAt": "2026-11-11T19:13:06.215063Z"
+}
