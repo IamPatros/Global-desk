@@ -1,5 +1,5 @@
 {
-  "bigPicture": "Two forces are pulling on the world's markets this morning. In the US, Federal Reserve officials opened the door to a half-point interest-rate rise in December after hotter-than-expected inflation, pushing the 10-year US government bond yield to about 5% and Wall Street lower, with Nvidia hit again by a shareholder lawsuit over its CEO's alleged links to a suspected Chinese agent. In Asia, strong AI-chip demand, shown by TSMC's 60% jump in monthly sales, lifted Taiwan, Korea and Japan. Oil bounced off a two-month low because ships are still being hit in the Strait of Hormuz even as Washington talks of the Iran war being over. Beyond markets, Congo's Ebola outbreak passed 11,000 cases, the second-largest ever recorded, and Russia, Ukraine and the US hold a second day of talks in Abu Dhabi focused on a large prisoner exchange, while Poland marks Independence Day.",
+  "bigPicture": "Two forces are pulling on the world's markets this morning. In the US, Federal Reserve officials opened the door to a half-point interest-rate rise in December after hotter-than-expected inflation, pushing the 10-year US government bond yield to about 5% and Wall Street lower, with Nvidia hit again by a shareholder lawsuit over its CEO's alleged links to a suspected Chinese agent. In Asia, strong AI-chip demand, shown by TSMC's 60% jump in monthly sales, lifted Taiwan, Korea and Japan. Oil bounced off a two-month low because ships are still being hit in the Strait of Hormuz even as Washington talks of the Iran war being over. Beyond markets, Congo's Ebola outbreak passed 11,000 cases, the second-largest ever recorded, and Russia, Ukraine and the US hold a second day of talks in Abu Dhabi focused on a large prisoner exchange, while Poland marks Independence Day and Orlen became the first long-term buyer to cancel a Qatari LNG contract because of the war.",
   "createdAt": "2026-11-11T08:58:00Z",
   "glossary": [
     {
@@ -170,14 +170,14 @@
       "what": "An index of 225 large companies on the Tokyo Stock Exchange."
     },
     {
-      "change": 2.4,
-      "changeText": "+2.4%",
+      "change": 2.6,
+      "changeText": "+2.6%",
       "group": "Stocks · Asia-Pacific",
       "key": false,
       "name": "Kospi",
-      "note": "Wednesday (AP). Samsung +3.4%, SK hynix +5.4% on AI-chip demand.",
+      "note": "Wednesday close, a record (JoongAng Daily). Samsung +3.6%, SK hynix +5.4% on AI-chip demand.",
       "region": "South Korea",
-      "value": "5,365.75",
+      "value": "5,375.36",
       "what": "The main index of the Korea Exchange."
     },
     {
@@ -186,31 +186,31 @@
       "group": "Stocks · Asia-Pacific",
       "key": false,
       "name": "Taiex",
-      "note": "Wednesday (AP). TSMC +3.1% after strong October sales.",
+      "note": "Wednesday close (AP). TSMC +3.1% after strong October sales.",
       "region": "Taiwan",
       "value": "",
       "what": "The main index of the Taiwan Stock Exchange, dominated by TSMC."
     },
     {
-      "change": -0.7,
-      "changeText": "−0.7%",
+      "change": -0.93,
+      "changeText": "−0.9%",
       "group": "Stocks · Asia-Pacific",
       "key": false,
       "name": "Hang Seng",
-      "note": "Wednesday (AP); bucked the regional rise.",
+      "note": "Wednesday close (24/7 Wall St); it held gains in the morning before late selling, bucking the regional rise.",
       "region": "Hong Kong",
-      "value": "24,387.06",
+      "value": "",
       "what": "The main index of the Hong Kong stock exchange."
     },
     {
-      "change": 0.6,
-      "changeText": "+0.6%",
+      "change": 0.42,
+      "changeText": "+0.4%",
       "group": "Stocks · Asia-Pacific",
       "key": false,
       "name": "Shanghai Composite",
-      "note": "Wednesday (AP).",
+      "note": "Wednesday close (24/7 Wall St); AP had it up 0.6% at 3,685.27 earlier in the session.",
       "region": "China",
-      "value": "3,685.27",
+      "value": "",
       "what": "An index of all shares on the Shanghai stock exchange."
     },
     {
@@ -219,7 +219,7 @@
       "group": "Stocks · Asia-Pacific",
       "key": false,
       "name": "S&P/ASX 200",
-      "note": "Wednesday (AP).",
+      "note": "Wednesday close (AP).",
       "region": "Australia",
       "value": "9,153.20",
       "what": "An index of the 200 largest companies on the Australian exchange."
@@ -230,7 +230,7 @@
       "group": "Stocks · Asia-Pacific",
       "key": false,
       "name": "Sensex",
-      "note": "Wednesday (AP): highest level in six months. Indian markets were shut on Tuesday for a Diwali holiday; Monday's close was 81,106.65 (HDFC Sky). Cheaper oil helps India, a big importer.",
+      "note": "Wednesday morning, still trading at this edition's time (AP): highest level in six months. Indian markets were shut on Tuesday for a Diwali holiday; Monday's close was 81,106.65 (HDFC Sky). Cheaper oil helps India, a big importer.",
       "region": "India",
       "value": "",
       "what": "An index of 30 large companies on the Bombay Stock Exchange."
@@ -372,7 +372,7 @@
     },
     {
       "answer": 0,
-      "explain": "Reuters said Hormuz shipping attacks offset truce hopes; the Washington Institute counted 37 attacks in October. API data actually showed US stocks up 9 million barrels.",
+      "explain": "Reuters said Hormuz shipping attacks offset truce hopes; the Washington Institute counted 37 attacks in October.",
       "options": [
         "Continued attacks on ships in and near the Strait of Hormuz offset hopes of an end to the war",
         "OPEC announced deep production cuts",
@@ -438,7 +438,7 @@
     },
     {
       "answer": 1,
-      "explain": "The complaint seeks class-action status for buyers from 9 October to 8 November; Huang has acknowledged the affair and said he will cooperate.",
+      "explain": "A retail investor, Mark Kistenmacher, filed the suit in California seeking class-action status; Huang has acknowledged the affair and said he will cooperate.",
       "options": [
         "That Nvidia hid falling sales",
         "That they misled investors by not disclosing Huang's relationship with a woman reportedly suspected of working for Chinese intelligence, and about a company linked to her",
@@ -504,7 +504,7 @@
     },
     {
       "answer": 0,
-      "explain": "dpa-AFX said falling oil and strong results such as Henkel's helped; US stocks fell more because higher rate expectations hit tech shares.",
+      "explain": "dpa-AFX said falling oil and gains in stocks such as Henkel helped; US stocks fell more because higher rate expectations hit tech shares.",
       "options": [
         "Lower oil prices helped Europe, and a December Fed hike was already largely priced in, so the inflation surprise only trimmed gains",
         "The ECB cut rates on Tuesday",
@@ -547,7 +547,7 @@
       "q": "Review (Lesson 11): why can a few tanker attacks move the oil price several percent in a day?"
     }
   ],
-  "status": "partial",
+  "status": "complete",
   "stories": [
     {
       "category": "Economy & markets",
@@ -740,6 +740,10 @@
         {
           "name": "TokenPost – Nikkei closes at 61,248.59",
           "url": "https://www.tokenpost.com/news/investing/53656"
+        },
+        {
+          "name": "Korea JoongAng Daily – Kospi rises 2.6%",
+          "url": "https://www.koreajoongangdaily.com/business/kospi-jumps-26-as-tech-stocks-rally/12967946"
         }
       ],
       "terms": [
@@ -748,7 +752,7 @@
         "Preferred stock"
       ],
       "title": "TSMC's October sales jump 60% and it will invest up to $1 billion in Anthropic and OpenAI; Asian chip stocks surge",
-      "what": "Taiwan Semiconductor Manufacturing Co. (TSMC) reported October revenue of NT$586.89 billion, up 59.7% from a year earlier and 14.7% from September, its filing to the US Securities and Exchange Commission shows. Its board also approved buying up to $500 million of Anthropic shares at the IPO price and up to $500 million of OpenAI preferred stock, plus about $40.9 billion of capital spending. On Wednesday Taiwan's Taiex rose 3.6%, South Korea's Kospi 2.4% to 5,365.75 and Japan's Nikkei 225 1.3% to 61,248.59; Samsung Electronics gained 3.4%, SK hynix 5.4% and TSMC 3.1% (AP). Hong Kong's Hang Seng was the exception, down 0.7%.",
+      "what": "Taiwan Semiconductor Manufacturing Co. (TSMC) reported October revenue of NT$586.89 billion, up 59.7% from a year earlier and 14.7% from September, its filing to the US Securities and Exchange Commission shows. Its board also approved buying up to $500 million of Anthropic shares at the IPO price and up to $500 million of OpenAI preferred stock, plus about $40.9 billion of capital spending. On Wednesday Taiwan's Taiex rose 3.6% and TSMC 3.1% (AP), South Korea's Kospi closed 2.6% higher at a record 5,375.36 with Samsung Electronics up 3.6% and SK hynix 5.4% (JoongAng Daily), and Japan's Nikkei 225 rose 1.3% to 61,248.59. Hong Kong's Hang Seng was the exception, closing about 0.9% lower.",
       "why": "AP attributed the gains to solid demand for AI chips, which outweighed Wall Street's fall on inflation worries. Rising monthly sales at the main chip foundry suggest that companies are still spending heavily on AI data centres despite recent doubts about AI valuations. Chip makers investing in their own customers, such as AI developers, also ties their fortunes more closely together."
     },
     {
@@ -1553,5 +1557,5 @@
   ],
   "window": "Tue 10 Nov 20:00 → Wed 11 Nov 10:00 (Warsaw time)",
   "id": "2026-11-11-1000",
-  "updatedAt": "2026-11-11T09:15:54.594967Z"
+  "updatedAt": "2026-11-11T09:19:36.188251Z"
 }
