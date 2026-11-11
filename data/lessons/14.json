@@ -1,0 +1,263 @@
+{
+  "checkQuestions": [
+    {
+      "a": "Debt rises by the deficit each year, but the ratio divides debt by nominal GDP. If nominal GDP grows faster in percentage terms than the debt does, the ratio falls. With debt d, the ratio falls when the primary deficit is smaller than (g − r) ÷ (1 + g) × d, which requires nominal growth g to exceed the interest rate r by enough.",
+      "q": "Explain, step by step, how a country can run a budget deficit every year and still see its debt-to-GDP ratio fall."
+    },
+    {
+      "a": "Tax revenues fall as incomes, profits and spending fall, while spending on unemployment and other benefits rises automatically. These automatic stabilisers put money into the economy when private demand is weak, softening the downturn; in a boom they work in reverse.",
+      "q": "In a recession, a government's deficit widens even though parliament passes no new laws. Why, and why might economists see this as useful?"
+    },
+    {
+      "a": "Higher inflation made a Fed rate hike more likely, so investors demanded higher yields; the 10-year yield rose to 4.99%. New bonds and bonds refinanced at maturity carry higher coupons, so as old debt rolls over the average interest rate r on the debt rises, increasing interest outlays and, via the r − g term, putting upward pressure on the debt ratio.",
+      "q": "Trace how hotter US inflation data on 10 November could raise the US government's interest bill over the following years."
+    },
+    {
+      "a": "National saving S is private saving plus government saving (the budget balance). A bigger deficit lowers S. If private saving and investment do not change, S − I falls, so net exports must fall: the country borrows more from abroad. This is the 'twin deficits' idea; in practice private saving or investment often adjust, so the link is not one-to-one.",
+      "q": "Using Lesson 13's identity NX = S − I, explain why a larger government deficit can be linked to a larger trade deficit."
+    },
+    {
+      "a": "The national rules use 'state public debt', a domestic definition, while the EU uses general-government debt under EU accounting. Some borrowing, such as off-budget funds like the Armed Forces Support Fund, is treated differently, so the domestic ratio is lower. A headline about 'Poland's debt' may refer to either, so readers must check which measure is meant before comparing it with a threshold.",
+      "q": "Why do Poland's national debt thresholds use a different debt measure from the EU's 60% reference value, and why does this matter for news readers?"
+    }
+  ],
+  "createdAt": "2026-11-11T09:10:51Z",
+  "date": "11 Nov 2026",
+  "editionId": "2026-11-11-1000",
+  "intro": "Every government spends money and collects taxes, and the gap between the two is one of the most quoted numbers in the news. In this lesson you will learn the difference between a deficit (a yearly flow) and debt (a stock), why interest costs and economic growth decide whether a debt burden grows or shrinks, how deficits are financed with bonds, and which rules limit borrowing in the EU and in Poland. By the end you will be able to calculate a primary balance, project a debt-to-GDP ratio one year ahead, and judge claims such as 'the deficit is falling, so the debt problem is solved'.",
+  "lessonQuiz": [
+    {
+      "answer": 2,
+      "explain": "Overall balance = 40 − 44 = −4. Primary balance = overall balance + interest = −4 + 2 = −2% of GDP.",
+      "options": [
+        "A deficit of 4% of GDP",
+        "A surplus of 2% of GDP",
+        "A deficit of 2% of GDP",
+        "A deficit of 6% of GDP"
+      ],
+      "q": "Hypothetical: a government collects revenue of 40% of GDP and spends 44% of GDP, of which 2% of GDP is interest. What is its primary balance?"
+    },
+    {
+      "answer": 0,
+      "explain": "New debt = 60 + 5% of this year's GDP (104) = 65.2; ratio = 65.2 ÷ 104 = 62.7%. A smaller deficit slows the rise but does not reverse it.",
+      "options": [
+        "It still rises, by roughly 2.7 points, because the new borrowing outweighs the effect of growth",
+        "It falls, because the deficit is shrinking",
+        "It stays at 60%, because a 5% deficit is the EU limit",
+        "It falls by 2 points, the size of the deficit cut"
+      ],
+      "q": "Hypothetical: debt is 60% of GDP, the deficit falls from 7% to 5% of GDP, and nominal GDP grows 4%. What happens to the debt ratio this year?"
+    },
+    {
+      "answer": 3,
+      "explain": "(0.03 − 0.05) ÷ 1.05 × 100 = −1.90. Growth above the interest rate dilutes the debt even with no primary surplus.",
+      "options": [
+        "The ratio rises by about 2 points",
+        "The ratio is unchanged because the budget is balanced",
+        "The ratio rises by about 3 points, the interest rate",
+        "The ratio falls by about 1.9 points"
+      ],
+      "q": "Hypothetical: debt is 100% of GDP, the average interest rate is 3%, nominal growth is 5% and the primary budget is balanced. Using Δd ≈ (r − g) ÷ (1 + g) × d − primary balance, what happens?"
+    },
+    {
+      "answer": 1,
+      "explain": "Deficit = flow over the year; debt = stock at year-end. Adding them ignores GDP growth (the ratio rose only 4.8 points in 2025).",
+      "options": [
+        "The debt will reach 66.8% next year, because 59.6 + 7.2 = 66.8",
+        "The deficit is the shortfall during 2025; the debt is the total owed at the end of 2025, built up by past deficits",
+        "Debt and deficit are both yearly flows, measured over 2025",
+        "A 7.2% deficit means the debt grew by exactly 7.2 points in 2025"
+      ],
+      "q": "Eurostat reports Poland's 2025 deficit at 7.2% of GDP and its debt at 59.6% of GDP. Which statement is correct?"
+    },
+    {
+      "answer": 0,
+      "explain": "The Council of the EU states the reference values as 3% of GDP for the deficit and 60% for debt; 55% is a Polish national threshold.",
+      "options": [
+        "A deficit of 3% of GDP and debt of 60% of GDP",
+        "A deficit of 0.5% of GDP and debt of 100% of GDP",
+        "A deficit of 2% of GDP and debt of 55% of GDP",
+        "Inflation of 2% and debt of 60% of GDP"
+      ],
+      "q": "Which pair are the EU's treaty reference values for government finances?"
+    },
+    {
+      "answer": 2,
+      "explain": "A bond's coupon is fixed when issued. Higher yields affect new issues and rollovers, so the interest bill rises gradually.",
+      "options": [
+        "Interest on all existing Treasury bonds rises by 0.11 points immediately",
+        "Nothing, because yields only matter for private investors",
+        "New and refinanced borrowing becomes more expensive; existing fixed-coupon bonds keep their coupons until maturity",
+        "The government's debt falls because bond prices fell"
+      ],
+      "q": "The US 10-year Treasury yield rose from 4.88% to 4.99% on 10 November. What is the most accurate effect on the US government (link to Lesson 8)?"
+    },
+    {
+      "answer": 3,
+      "explain": "Government saving is the budget balance, part of S. Lower S with unchanged I means lower NX: the 'twin deficits' mechanism.",
+      "options": [
+        "Net exports rise by 2% of GDP",
+        "Nothing changes, because government saving is not part of national saving",
+        "Investment must rise by 2% of GDP",
+        "National saving falls by 2% of GDP, so net exports fall by 2% of GDP: the country borrows more from abroad"
+      ],
+      "q": "Using NX = S − I from Lesson 13: the government's deficit widens by 2% of GDP while private saving and investment stay the same. What follows?"
+    },
+    {
+      "answer": 1,
+      "explain": "Primary balance = −1.993 + 1.143 = −0.850 trillion dollars: the US would run a deficit even without paying interest.",
+      "options": [
+        "A primary deficit of about $3.1 trillion",
+        "A primary deficit of about $0.85 trillion",
+        "A primary surplus of about $0.85 trillion",
+        "A primary deficit of about $1.14 trillion"
+      ],
+      "q": "CBO data for US fiscal year 2026: deficit $1.993 trillion, net interest $1.143 trillion. What was the primary balance?"
+    },
+    {
+      "answer": 0,
+      "explain": "The 2027 budget used the 2025 ratio; by the same rule a 2027 breach shapes the 2029 budget, as economists quoted by bank.pl note.",
+      "options": [
+        "In the budget for 2029",
+        "Immediately in 2027",
+        "In the budget for 2028",
+        "Never, because only the EU's 60% limit is binding"
+      ],
+      "q": "Poland's budget for a given year is drafted using the state-public-debt ratio from two years earlier. If the ratio first exceeds 55% at the end of 2027, when do the prudential measures (such as a state-sector pay freeze) first apply?"
+    },
+    {
+      "answer": 1,
+      "explain": "Crowding out works through the price of borrowing: more government demand for loans raises rates and deters some private investment, mainly near full capacity.",
+      "options": [
+        "Government spending always raises private investment one-for-one",
+        "Heavy government borrowing competes for savings, pushing up interest rates and reducing private investment",
+        "Higher taxes crowd out imports",
+        "Central banks buy all government bonds, crowding out private buyers without effect on rates"
+      ],
+      "q": "Which chain best describes 'crowding out'?"
+    },
+    {
+      "answer": 2,
+      "explain": "Automatic stabilisers: lower incomes and profits cut taxes, and more people claim unemployment benefits, so the deficit widens on its own.",
+      "options": [
+        "It shrinks, because the government spends less automatically",
+        "It stays the same, because the budget law fixes it",
+        "It widens, because tax revenue falls and benefit payments rise automatically",
+        "It widens only if the central bank cuts rates"
+      ],
+      "q": "A recession starts and parliament passes no new budget law. What happens to the deficit and why?"
+    },
+    {
+      "answer": 3,
+      "explain": "Dollar debt converted into a weaker home currency is worth more, while GDP is earned in the home currency, so B's ratio jumps.",
+      "options": [
+        "Both see the same rise in their debt ratio",
+        "Country A's debt ratio rises more, because its currency fell",
+        "Neither is affected, because debt is measured in % of GDP",
+        "Country B's debt burden in its own currency rises sharply, while A's own-currency debt is unchanged by the exchange rate"
+      ],
+      "q": "Two countries each have debt of 60% of GDP. Country A borrows in its own currency; Country B borrows mostly in US dollars. Both currencies fall 20% against the dollar. Which statement is correct?"
+    }
+  ],
+  "level": "Core",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "Deficit and debt are two words for the same thing.",
+      "truth": "The deficit is the yearly shortfall (a flow); debt is the total owed at a point in time (a stock). Deficits add to debt, surpluses reduce it."
+    },
+    {
+      "myth": "If the deficit is falling, the debt is falling too.",
+      "truth": "Any deficit, even a shrinking one, still adds to the amount of debt. The debt-to-GDP ratio falls only if nominal growth outpaces the new borrowing and interest."
+    },
+    {
+      "myth": "A government should always balance its budget, just like a household.",
+      "truth": "Unlike a household, a government can roll over debt indefinitely, collects taxes from a growing economy and can stabilise demand in recessions. Persistent large deficits still raise interest costs and risks, so the comparison fails in both directions."
+    },
+    {
+      "myth": "A government can always print money to pay its debts without consequences.",
+      "truth": "In the EU direct central-bank financing of governments is forbidden, and anywhere, financing deficits with new money risks inflation and a loss of confidence that raises interest rates."
+    },
+    {
+      "myth": "Poland's 'state budget deficit' and its EU deficit are the same number.",
+      "truth": "The state budget voted by the Sejm covers only central government; the EU measure covers general government, including local governments, social funds and off-budget funds, so the figures differ."
+    }
+  ],
+  "number": 14,
+  "objectives": [
+    "Explain the difference between a budget deficit (flow) and government debt (stock), and how one builds the other.",
+    "Calculate the primary balance from the overall balance and interest payments, using US fiscal-year 2026 data.",
+    "Calculate how the debt-to-GDP ratio changes in one year from the interest rate, nominal GDP growth and the primary balance.",
+    "Trace how a rise in bond yields feeds through to a government's interest bill, and why the effect is gradual.",
+    "Explain the EU's 3% deficit and 60% debt reference values, the excessive deficit procedure, and Poland's national 55% and 60% debt thresholds.",
+    "Evaluate the main arguments for and against government deficits (stabilisation, investment, crowding out) and state where they break down."
+  ],
+  "recap": "Lesson 13 showed that a country's trade balance equals national saving minus investment (NX = S − I), so a trade deficit reflects how much a country saves and invests, not whether it is 'winning'. National saving has two parts: private saving and government saving, and government saving is simply the budget balance. This lesson opens up that government part, and it also builds on Lesson 8 (bonds and yields), because deficits are financed by selling bonds, and on Lesson 9 (GDP), because budgets and debts are measured as a share of GDP.",
+  "sections": [
+    {
+      "body": "A government budget has two sides. Revenue is mainly taxes (on income, profits and spending such as VAT and excise) plus social-security contributions. Expenditure covers purchases of goods and services (teachers' and soldiers' pay, roads, weapons), transfers (pensions, child benefits, unemployment benefits, which move money from some people to others without buying anything) and interest on existing debt. The budget balance is revenue minus expenditure: if it is negative the government runs a deficit, if positive a surplus. Economists compare these numbers with GDP (Lesson 9) so that countries of different sizes can be compared. Eurostat reported on 21 October 2026 that Poland's general government spent 50.9% of GDP in 2025 and collected 43.6%; the published balance was a deficit of 7.2% of GDP (the simple subtraction gives 7.3 because each figure is rounded). That was the second-largest deficit in the EU after Romania's 7.8%; the euro-area average was 3.0% and the EU average 3.1%. 'General government' means all levels together: central government, local governments and social-security funds. This is wider than the 'state budget' voted by the Sejm, and the difference matters, as section 7 shows.",
+      "heading": "1. The budget: revenue, spending and the balance"
+    },
+    {
+      "body": "A deficit is a flow, measured over a period (usually a year); debt is a stock, measured at a moment (usually 31 December). The link is simple: to cover a deficit the government must borrow, so, roughly, debt at the end of this year = debt at the end of last year + this year's deficit. (In practice there are also 'stock-flow adjustments', for example when the government builds up cash reserves or a debt in foreign currency changes value because the exchange rate moves.) A useful analogy is a bathtub: the deficit is the tap, the debt is the water level. Turning the tap down (a smaller deficit) slows the rise of the water, but the level still rises as long as the tap is open. Poland's general government debt rose from 54.8% of GDP in 2024 to 59.6% in 2025 (Eurostat), an increase of 4.8 percentage points in a single year, while the euro-area ratio rose from 86.6% to 87.7%. A surplus is the only way to reduce the amount of debt in money terms; the ratio to GDP, however, can also fall through growth, as the next sections explain.",
+      "heading": "2. Debt: the stock that deficits build"
+    },
+    {
+      "body": "Part of every year's spending is interest on old debt, which today's government cannot change. To see what current policy is doing, economists use the primary balance: the budget balance excluding interest payments. Primary balance = overall balance + interest paid. If a government runs an overall deficit of 5% of GDP while paying 2% of GDP in interest, its primary deficit is 3% of GDP: even with no debt at all it would spend more than it collects. Interest bills are rising in many countries. The US Congressional Budget Office (CBO) estimates that the federal deficit was about $2.0 trillion in fiscal year 2026 (October 2025 to September 2026), 6.2% of GDP, and that net interest was one of the fastest-growing outlays; a summary of CBO data by Trend & Ticker puts net interest at about $1.14 trillion, up 11%. In Poland, bank.pl, citing Erste Bank, reports debt-service costs of about 90 billion zł (about 2% of GDP) in 2026 and about 107 billion zł (about 2.4% of GDP) planned for 2027. Interest payments are a transfer to bondholders, many of whom are domestic banks, pension funds and households.",
+      "heading": "3. Interest and the primary balance"
+    },
+    {
+      "body": "What matters for sustainability is usually the ratio of debt to GDP, d, because GDP is the base from which taxes are paid. In one year the debt grows by the interest on it plus any primary deficit, while nominal GDP grows with real growth plus inflation. The standard approximation is: change in d ≈ (r − g) ÷ (1 + g) × d − primary balance, where r is the average nominal interest rate on the debt and g is nominal GDP growth (both as decimals, the primary balance in % of GDP, positive for a surplus). Step by step: if r is above g, interest makes the debt grow faster than the economy and the ratio drifts up even with a balanced primary budget; if g is above r, growth 'dilutes' the debt and the ratio drifts down. Hypothetical numbers: with d = 60%, r = 6%, g = 7% and a primary deficit of 3% of GDP, the change is (−0.01 ÷ 1.07) × 60 + 3 ≈ 2.44 points, so the ratio rises to about 62.4%. Note what this means: inflation, by raising nominal g, lowers debt ratios in the short run, which is one reason governments are tempted to tolerate it, but higher inflation tends to push up interest rates (Lesson 7), so the effect fades as old bonds are refinanced. The formula is an identity: it explains the arithmetic, not whether markets will keep lending.",
+      "heading": "4. Debt dynamics: why the interest rate and growth decide the trend"
+    },
+    {
+      "body": "Governments cover deficits mainly by selling debt securities (Lesson 8): short-term Treasury bills and longer-term bonds sold to banks, investment and pension funds, foreign investors and households. Poland also sells retail savings bonds: PAP Biznes reported sales of 8.17 billion zł in October 2026 and 72.8 billion zł since January, 13% more than a year earlier. Each year the government must also refinance bonds that mature, so its gross borrowing need is much larger than its deficit; bank.pl, citing the 2027 budget plan, puts Poland's gross borrowing needs at 565 billion zł against net needs of 317 billion zł. This is why yields matter: when the US 10-year yield rose to 4.99% on 10 November from 4.88% (AP), every new US bond sold after that costs more. The effect on the total interest bill is gradual, because existing fixed-coupon bonds keep their original coupons until they mature; how quickly it shows depends on the average maturity of the debt. EU law forbids central banks from lending directly to governments (the 'monetary financing' ban), so a government cannot simply ask its central bank to pay its bills.",
+      "heading": "5. How deficits are financed: bonds, bills and who lends"
+    },
+    {
+      "body": "Deficits are not automatically bad. First, automatic stabilisers: in a recession tax revenue falls and spending on unemployment benefits rises without any new law, so the deficit widens and supports demand; in a boom the reverse happens. Second, discretionary policy: Keynesian economics argues that deliberate extra spending or tax cuts in a slump can raise output when private demand is weak. Third, investment: borrowing to build things that pay off for decades, such as railways, power grids or defence, spreads the cost over the generations that benefit. Against this, mainstream economics stresses crowding out: when the government borrows heavily, it competes with firms for savings, which can push up interest rates and reduce private investment, especially when the economy is already at full capacity. Some economists also point to 'Ricardian equivalence', the idea that households save more today because they expect higher taxes later, which weakens the boost from deficits; most evidence suggests it holds only partly. Where experts genuinely disagree is how much debt is too much: there is no single safe threshold, because it depends on r − g, on who holds the debt and on the currency it is in.",
+      "heading": "6. Why governments run deficits, and the debate about them"
+    },
+    {
+      "body": "EU countries have agreed, in the EU treaties, reference values of 3% of GDP for the deficit and 60% of GDP for debt (Council of the EU). A country that breaches them can be placed under the excessive deficit procedure (EDP): the Commission reports, the Council decides an excessive deficit exists, recommends a corrective path and deadline, and can impose sanctions if there is no effective action (for euro members, fines of up to 0.05% of GDP). Poland has been under an EDP since 26 July 2024, alongside, among others, France, Italy, Belgium, Hungary and Romania (Council page reviewed July 2026). Poland also has national rules in its public finance act (Article 86) based on 'state public debt', a domestic measure that differs from the EU's general-government debt: crossing 55% of GDP triggers prudential steps such as freezing pay in the state sector and limiting pension indexation to inflation, and crossing 60% bans new borrowing that would raise the ratio further (Infor; bank.pl). State public debt stood at 53.3% of GDP at the end of June 2026 (Infor), and economists quoted by bank.pl expect it to exceed 55% in 2027. Measures in the year a threshold is crossed apply with a delay, because each budget uses the ratio from two years earlier. The domestic measure is lower partly because some borrowing, such as the Armed Forces Support Fund, sits outside the state budget; Erste Bank estimates such off-budget debt will reach 13.6% of GDP at end-2027 (bank.pl).",
+      "heading": "7. The rules: the EU's 3% and 60% and Poland's own thresholds"
+    },
+    {
+      "body": "The debt formula treats r as given, but r itself can jump if lenders lose confidence, which raises interest costs and can turn a manageable debt into a crisis; this feedback is why credibility matters. The currency of the debt is crucial: a government borrowing in its own currency, as the US does in dollars, cannot be forced to default by a lack of that currency, though it can still suffer inflation or a market sell-off; a government borrowing in a foreign currency sees its debt burden jump when its own currency falls. Who holds the debt matters too: domestic savers are usually more stable lenders than foreign funds. Finally, ratios hide timing: a country with long-maturity debt feels higher yields slowly, one with short-maturity debt feels them fast. Simplification warning: real budgets include one-off items, guarantees and pension promises that do not appear in headline debt, so always check which measure (state budget, general government, EU or national definition) a news story uses.",
+      "heading": "8. Limits of the model: when debt becomes dangerous"
+    }
+  ],
+  "takeaways": [
+    "Budget balance = revenue − expenditure; a deficit is a yearly flow, debt is the stock it builds (Poland 2025: deficit 7.2% of GDP, debt 59.6%, Eurostat).",
+    "Primary balance = overall balance + interest; it shows what current policy does, excluding the cost of past debt (US FY2026 primary deficit ≈ $0.85 trillion).",
+    "Change in the debt ratio ≈ (r − g) ÷ (1 + g) × d − primary balance: interest pushes the ratio up, nominal growth pulls it down.",
+    "Deficits are financed with bills and bonds; higher yields raise the cost of new and refinanced debt gradually, depending on maturity.",
+    "EU reference values are 3% (deficit) and 60% (debt); Poland has been under an excessive deficit procedure since 26 July 2024 and also has national 55% and 60% thresholds on state public debt.",
+    "There is no universal safe debt level: it depends on r − g, the currency of the debt, who holds it and the credibility of policy."
+  ],
+  "title": "Government budgets, debt and deficits",
+  "todayExample": "This edition's top story reports that the yield on the 10-year US Treasury bond rose to 4.99% from 4.88% after hotter-than-expected inflation, as Fed officials opened the door to a half-point rate rise. A Treasury yield is the interest rate the US government pays to borrow, so this is the price of financing the US deficit going up. As this lesson shows, the cost does not hit the whole debt at once: only new bonds and refinanced ones pay the higher rate, but over time a higher r raises interest outlays and, through the r − g term, the trend of the debt ratio.",
+  "workedExamples": [
+    {
+      "problem": "Eurostat (21 October 2026): Poland's general government expenditure was 50.9% of GDP in 2025 and revenue 43.6%. Debt was 54.8% of GDP in 2024 and 59.6% in 2025. (a) Calculate the balance. (b) By how many points did the debt ratio rise? (c) Why can the published deficit (7.2%) differ slightly from your answer to (a)?",
+      "solution": "(a) Balance = revenue − expenditure = 43.6 − 50.9 = −7.3% of GDP, a deficit of 7.3%. (b) 59.6 − 54.8 = 4.8 percentage points. (c) Eurostat rounds each ratio to one decimal place before publishing, so the difference between two rounded numbers can be 0.1 off the rounded difference of the unrounded numbers; the official balance is −7.2%. Interpretation: Poland added debt worth about 4.8% of GDP in one year, less than the 7.2% deficit, because nominal GDP growth enlarged the denominator (and stock-flow adjustments also play a role).",
+      "title": "Poland's 2025 deficit from Eurostat's revenue and spending figures"
+    },
+    {
+      "problem": "CBO estimates (via Trend & Ticker): US federal revenue $5.403 trillion, outlays $7.396 trillion, net interest $1.143 trillion in fiscal 2026. (a) Check the deficit. (b) Calculate the primary deficit. (c) What share of the deficit is interest, and what share of revenue goes on interest?",
+      "solution": "(a) Deficit = 7.396 − 5.403 = $1.993 trillion, matching CBO's 'about $2.0 trillion'. (b) Primary balance = overall balance + interest = −1.993 + 1.143 = −$0.850 trillion: a primary deficit of $850 billion. (c) 1.143 ÷ 1.993 = 0.574, so about 57% of the deficit is interest; 1.143 ÷ 5.403 = 0.212, so about 21 cents of every revenue dollar go on interest. Interpretation: even if all interest were magically forgiven, the US would still run a primary deficit, so the debt ratio can fall only if growth exceeds the interest rate by enough or the primary balance improves.",
+      "title": "The US primary deficit in fiscal year 2026"
+    },
+    {
+      "problem": "Hypothetical numbers. A country has debt of 60% of GDP, pays an average nominal interest rate of 6% on it, expects nominal GDP growth of 7% and runs a primary deficit of 3% of GDP. (a) Use the formula Δd ≈ (r − g) ÷ (1 + g) × d − primary balance. (b) Check with the exact calculation d₁ = d × (1 + r) ÷ (1 + g) + primary deficit. (c) What primary balance would keep the ratio stable?",
+      "solution": "(a) (0.06 − 0.07) ÷ 1.07 × 60 = −0.01 ÷ 1.07 × 60 = −0.561; the primary balance is −3, so −(−3) = +3; Δd = −0.561 + 3 = +2.44 points. (b) 60 × 1.06 ÷ 1.07 = 59.44; plus 3 = 62.44% (the two methods agree because the primary deficit is expressed as a share of this year's GDP). (c) Set Δd = 0: primary balance = (r − g) ÷ (1 + g) × d = −0.56, so the country could run a primary deficit of about 0.56% of GDP and keep debt stable. Interpretation: because growth exceeds the interest rate, a small primary deficit is sustainable, but the actual 3% is not.",
+      "title": "Projecting a debt ratio one year ahead"
+    },
+    {
+      "problem": "The US 10-year Treasury yield rose to 4.99% on 10 November from 4.88% (AP). Hypothetical numbers: a government must sell $500 billion of new 10-year bonds this year. (a) How much extra interest per year does the rise cost on that issuance? (b) Why doesn't the whole debt immediately cost more?",
+      "solution": "(a) The yield rose by 4.99 − 4.88 = 0.11 percentage points = 0.0011. Extra interest = 500 × 0.0011 = $0.55 billion a year, for each of the 10 years the bonds are outstanding. (b) Bonds already sold keep their fixed coupons until they mature (Lesson 8); only new borrowing and refinancing pay the new rate. Interpretation: a small, one-day move adds up over many years and many auctions, which is why finance ministries watch yields closely.",
+      "title": "How much does a rise in yields cost?"
+    }
+  ],
+  "updatedAt": "2026-11-11T09:11:56.814022Z"
+}

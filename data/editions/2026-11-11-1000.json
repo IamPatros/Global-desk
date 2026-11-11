@@ -1,0 +1,1557 @@
+{
+  "bigPicture": "Two forces are pulling on the world's markets this morning. In the US, Federal Reserve officials opened the door to a half-point interest-rate rise in December after hotter-than-expected inflation, pushing the 10-year US government bond yield to about 5% and Wall Street lower, with Nvidia hit again by a shareholder lawsuit over its CEO's alleged links to a suspected Chinese agent. In Asia, strong AI-chip demand, shown by TSMC's 60% jump in monthly sales, lifted Taiwan, Korea and Japan. Oil bounced off a two-month low because ships are still being hit in the Strait of Hormuz even as Washington talks of the Iran war being over. Beyond markets, Congo's Ebola outbreak passed 11,000 cases, the second-largest ever recorded, and Russia, Ukraine and the US hold a second day of talks in Abu Dhabi focused on a large prisoner exchange, while Poland marks Independence Day.",
+  "createdAt": "2026-11-11T08:58:00Z",
+  "glossary": [
+    {
+      "def": "The interest rate the US government pays when it borrows by selling bonds; it rises when bond prices fall.",
+      "example": "The 10-year Treasury yield rose to 4.99% on 10 November.",
+      "term": "Treasury yield"
+    },
+    {
+      "def": "A government's budget balance excluding interest payments on its debt; it shows what current policy is doing.",
+      "example": "The US primary deficit in fiscal 2026 was about $0.85 trillion.",
+      "term": "Primary balance"
+    },
+    {
+      "def": "Government debt divided by a year's GDP, used to compare debt burdens across countries.",
+      "example": "Poland's general government debt was 59.6% of GDP in 2025 (Eurostat).",
+      "term": "Debt-to-GDP ratio"
+    },
+    {
+      "def": "The EU process that pushes a country whose deficit or debt breaks the 3% or 60% reference values to correct it, with possible sanctions.",
+      "example": "Poland has been under an EDP since 26 July 2024.",
+      "term": "Excessive deficit procedure (EDP)"
+    },
+    {
+      "def": "The extra price or return demanded to compensate for a possible bad outcome, such as a supply disruption.",
+      "example": "Attacks in the Strait of Hormuz keep a risk premium in oil prices.",
+      "term": "Risk premium"
+    },
+    {
+      "def": "Using warships to stop ships from entering or leaving a country's ports.",
+      "example": "The US keeps a naval blockade of Iranian ports.",
+      "term": "Naval blockade"
+    },
+    {
+      "def": "A contract clause that excuses a party from its obligations when events beyond its control, such as war, prevent it from performing.",
+      "example": "QatarEnergy has been under force majeure on LNG deliveries since spring 2026.",
+      "term": "Force majeure"
+    },
+    {
+      "def": "Natural gas cooled to about −162°C so it becomes liquid and can be shipped by tanker.",
+      "example": "Orlen cancelled a contract for 1 million tonnes of Qatari LNG a year.",
+      "term": "Liquefied natural gas (LNG)"
+    },
+    {
+      "def": "A company that manufactures chips designed by other firms.",
+      "example": "TSMC is the world's leading chip foundry.",
+      "term": "Foundry"
+    },
+    {
+      "def": "A lawsuit filed by one or a few people on behalf of a larger group with the same claim.",
+      "example": "An Nvidia shareholder seeks class-action status for investors who bought between 9 October and 8 November.",
+      "term": "Class action"
+    },
+    {
+      "def": "The formal process in which a legislature charges an official with wrongdoing; in the US the House impeaches and the Senate holds the trial.",
+      "example": "The House shelved articles of impeachment against Defense Secretary Hegseth.",
+      "term": "Impeachment"
+    },
+    {
+      "def": "Replacing fuels burned directly (petrol, gas, coal) with electricity, for example electric cars and heat pumps.",
+      "example": "Türkiye proposes raising electricity to 35% of global energy use by 2035.",
+      "term": "Electrification"
+    },
+    {
+      "def": "The total amount of CO2 that can still be emitted while keeping warming below a given limit such as 1.5°C.",
+      "example": "Scientists estimate 150 billion tonnes remain for 1.5°C, less than four years of current emissions.",
+      "term": "Carbon budget"
+    },
+    {
+      "def": "A bacterial disease spread by contaminated water or food that causes severe diarrhoea; it is treatable with oral rehydration and antibiotics.",
+      "example": "Congo has recorded more than 60,000 cholera cases this year.",
+      "term": "Cholera"
+    },
+    {
+      "def": "Research that watches what happens to people without assigning treatments, so it can show links but not prove cause and effect.",
+      "example": "The Italian GLP-1 study linked stopping the drugs to higher heart risk but could not prove causation.",
+      "term": "Observational study"
+    }
+  ],
+  "label": "Wed 11 Nov · morning",
+  "lessonNumber": 14,
+  "markets": [
+    {
+      "change": -0.4,
+      "changeText": "−0.4%",
+      "group": "Stocks · Americas",
+      "key": true,
+      "name": "S&P 500",
+      "note": "Tuesday close (AP). Fell after hotter-than-expected inflation raised Fed rate-hike bets; Nvidia was the biggest drag.",
+      "region": "US",
+      "value": "7,520.93",
+      "what": "An index of 500 large US companies, the main gauge of the US stock market."
+    },
+    {
+      "change": -0.7,
+      "changeText": "−0.7%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Nasdaq Composite",
+      "note": "Tuesday close (AP). Tech shares are most sensitive to higher interest rates.",
+      "region": "US",
+      "value": "25,065.87",
+      "what": "An index of shares listed on the Nasdaq exchange, heavy in technology firms."
+    },
+    {
+      "change": -0.3,
+      "changeText": "−0.3%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Dow Jones Industrial Average",
+      "note": "Tuesday close (AP).",
+      "region": "US",
+      "value": "52,231.89",
+      "what": "A price-weighted index of 30 large US companies."
+    },
+    {
+      "change": 0.31,
+      "changeText": "+0.31%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "DAX",
+      "note": "Tuesday close (dpa-AFX). Lower oil prices helped; Henkel rose 4.4% on strong results; the US inflation surprise only trimmed gains.",
+      "region": "Germany",
+      "value": "26,347.45",
+      "what": "An index of the 40 biggest companies on the Frankfurt stock exchange."
+    },
+    {
+      "change": 0.6,
+      "changeText": "+0.6%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "Euro Stoxx 50",
+      "note": "Tuesday close (dpa-AFX).",
+      "region": "Eurozone",
+      "value": "",
+      "what": "An index of 50 large companies from eurozone countries."
+    },
+    {
+      "change": -0.3,
+      "changeText": "−0.3%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "FTSE 100",
+      "note": "Tuesday close (dpa-AFX).",
+      "region": "UK",
+      "value": "",
+      "what": "An index of the 100 biggest companies listed in London."
+    },
+    {
+      "change": 1.04,
+      "changeText": "+1.04%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "WIG20",
+      "note": "Tuesday close (PAP Biznes). The Warsaw Stock Exchange is closed on Wednesday 11 November for Independence Day.",
+      "region": "Poland",
+      "value": "4,208.46",
+      "what": "An index of the 20 largest companies on the Warsaw Stock Exchange."
+    },
+    {
+      "change": 1.31,
+      "changeText": "+1.3%",
+      "group": "Stocks · Asia-Pacific",
+      "key": true,
+      "name": "Nikkei 225",
+      "note": "Wednesday close, +789.01 points (TokenPost; AP). AP attributed Asian gains to AI-chip demand.",
+      "region": "Japan",
+      "value": "61,248.59",
+      "what": "An index of 225 large companies on the Tokyo Stock Exchange."
+    },
+    {
+      "change": 2.4,
+      "changeText": "+2.4%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Kospi",
+      "note": "Wednesday (AP). Samsung +3.4%, SK hynix +5.4% on AI-chip demand.",
+      "region": "South Korea",
+      "value": "5,365.75",
+      "what": "The main index of the Korea Exchange."
+    },
+    {
+      "change": 3.6,
+      "changeText": "+3.6%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Taiex",
+      "note": "Wednesday (AP). TSMC +3.1% after strong October sales.",
+      "region": "Taiwan",
+      "value": "",
+      "what": "The main index of the Taiwan Stock Exchange, dominated by TSMC."
+    },
+    {
+      "change": -0.7,
+      "changeText": "−0.7%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Hang Seng",
+      "note": "Wednesday (AP); bucked the regional rise.",
+      "region": "Hong Kong",
+      "value": "24,387.06",
+      "what": "The main index of the Hong Kong stock exchange."
+    },
+    {
+      "change": 0.6,
+      "changeText": "+0.6%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Shanghai Composite",
+      "note": "Wednesday (AP).",
+      "region": "China",
+      "value": "3,685.27",
+      "what": "An index of all shares on the Shanghai stock exchange."
+    },
+    {
+      "change": 0.3,
+      "changeText": "+0.3%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "S&P/ASX 200",
+      "note": "Wednesday (AP).",
+      "region": "Australia",
+      "value": "9,153.20",
+      "what": "An index of the 200 largest companies on the Australian exchange."
+    },
+    {
+      "change": 1.6,
+      "changeText": "+1.6%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Sensex",
+      "note": "Wednesday (AP): highest level in six months. Indian markets were shut on Tuesday for a Diwali holiday; Monday's close was 81,106.65 (HDFC Sky). Cheaper oil helps India, a big importer.",
+      "region": "India",
+      "value": "",
+      "what": "An index of 30 large companies on the Bombay Stock Exchange."
+    },
+    {
+      "change": null,
+      "changeText": "steady",
+      "group": "Currencies",
+      "key": true,
+      "name": "EUR/PLN",
+      "note": "Wednesday 07:00 (money.pl).",
+      "region": "Poland",
+      "value": "4.396",
+      "what": "How many złoty one euro costs."
+    },
+    {
+      "change": null,
+      "changeText": "",
+      "group": "Currencies",
+      "key": true,
+      "name": "USD/PLN",
+      "note": "Calculated from EUR/PLN 4.396 and EUR/USD 1.1161 at 07:00 Wednesday (money.pl).",
+      "region": "Poland",
+      "value": "≈3.94",
+      "what": "How many złoty one US dollar costs."
+    },
+    {
+      "change": null,
+      "changeText": "lower",
+      "group": "Currencies",
+      "key": false,
+      "name": "EUR/USD",
+      "note": "Early Wednesday, down from 1.1171 (AP). A stronger dollar reflects bets on higher US rates.",
+      "region": "Global",
+      "value": "1.1153",
+      "what": "How many US dollars one euro costs."
+    },
+    {
+      "change": null,
+      "changeText": "higher",
+      "group": "Currencies",
+      "key": false,
+      "name": "USD/JPY",
+      "note": "Early Wednesday, up from 158.70 (AP).",
+      "region": "Japan",
+      "value": "158.85",
+      "what": "How many Japanese yen one US dollar costs."
+    },
+    {
+      "change": 0.78,
+      "changeText": "+0.8%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Brent crude oil",
+      "note": "02:19 Warsaw Wednesday (Reuters): rebounded from a two-month low as Hormuz shipping attacks offset hopes of an end to the Iran war.",
+      "region": "Global",
+      "value": "$92.20",
+      "what": "The main global benchmark price for a barrel of crude oil."
+    },
+    {
+      "change": 0.57,
+      "changeText": "+0.6%",
+      "group": "Commodities",
+      "key": false,
+      "name": "WTI crude oil",
+      "note": "02:19 Warsaw Wednesday (Reuters).",
+      "region": "US",
+      "value": "$86.53",
+      "what": "The main US benchmark price for a barrel of crude oil."
+    },
+    {
+      "change": null,
+      "changeText": "flat",
+      "group": "Commodities",
+      "key": true,
+      "name": "Gold",
+      "note": "Kitco spot bid at 00:47 Warsaw Wednesday, little changed in late trading (+0.09%). Higher US yields make gold, which pays no interest, less attractive.",
+      "region": "Global",
+      "value": "$4,035.40",
+      "what": "The price of one troy ounce (31.1 g) of gold in dollars."
+    },
+    {
+      "change": 1.6,
+      "changeText": "+1.6%",
+      "group": "Commodities",
+      "key": false,
+      "name": "TTF gas (Netherlands)",
+      "note": "11 November (Trading Economics), citing low EU storage (below 73% vs a five-year average of 89%) and colder weather.",
+      "region": "Europe",
+      "value": "≈€86.1/MWh",
+      "what": "Europe's benchmark wholesale natural-gas price, per megawatt-hour."
+    },
+    {
+      "change": null,
+      "changeText": "+0.11 pt",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 10-year Treasury yield",
+      "note": "Up from 4.88% on Monday (AP) after the inflation surprise and Fed officials' talk of a half-point hike.",
+      "region": "US",
+      "value": "4.99%",
+      "what": "The interest rate the US government pays to borrow for 10 years; a benchmark for loans worldwide."
+    },
+    {
+      "change": null,
+      "changeText": "unchanged",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US federal funds target range",
+      "note": "Next decision 8–9 December; a hike is widely expected (Reuters).",
+      "region": "US",
+      "value": "3.75%–4.00%",
+      "what": "The Fed's key short-term interest rate."
+    }
+  ],
+  "marketsAsOf": "Wall Street and Europe: Tuesday 10 Nov close. Asia-Pacific: Wednesday 11 Nov close (Tokyo, Seoul, Shanghai, Hong Kong, Sydney) or latest reported. Currencies, oil, gas and gold: early Wednesday 11 Nov. The Warsaw Stock Exchange is closed on Wednesday for Independence Day.",
+  "quiz": [
+    {
+      "answer": 1,
+      "explain": "Waller had said a 0.3% core reading would justify a bigger move, and Logan said the 3.75%–4.00% range is too low (Reuters).",
+      "options": [
+        "Because US unemployment jumped",
+        "Because core prices rose 0.3% in October for a third straight month, above the 0.2% forecast",
+        "Because oil prices hit a record",
+        "Because the Fed cut rates in October by mistake"
+      ],
+      "q": "Why did Fed officials start talking about a half-point (0.5 point) rate rise in December?"
+    },
+    {
+      "answer": 3,
+      "explain": "The 2-year yield closely tracks expected Fed policy rates over the next two years, so it jumps when hike expectations rise.",
+      "options": [
+        "That the US government is about to default",
+        "That investors expect lower inflation",
+        "That gold demand has surged",
+        "That investors now expect higher Fed interest rates in the coming months"
+      ],
+      "q": "The 2-year US Treasury yield had its biggest one-day rise since early April 2025. What does that mainly signal?"
+    },
+    {
+      "answer": 0,
+      "explain": "Reuters said Hormuz shipping attacks offset truce hopes; the Washington Institute counted 37 attacks in October. API data actually showed US stocks up 9 million barrels.",
+      "options": [
+        "Continued attacks on ships in and near the Strait of Hormuz offset hopes of an end to the war",
+        "OPEC announced deep production cuts",
+        "US crude inventories fell sharply",
+        "The US lifted its blockade of Iranian ports"
+      ],
+      "q": "Brent rose about 0.8% early on Wednesday even though President Trump had said the Iran war was 'militarily' effectively over. Which explanation matches the reports?"
+    },
+    {
+      "answer": 2,
+      "explain": "Xinhua and Middle East Eye relayed the IRGC statement only; no shipping company, flag state or monitor confirmed the mine claim.",
+      "options": [
+        "The US Navy confirmed both were hit by Iranian missiles",
+        "Both ships sank with heavy loss of life",
+        "The details come from Iran's Revolutionary Guards and had not been independently confirmed; no names or casualties were given",
+        "The tankers were carrying Polish LNG"
+      ],
+      "q": "Which statement about the two tankers that caught fire in the Strait of Hormuz on Tuesday is accurate?"
+    },
+    {
+      "answer": 1,
+      "explain": "Reports cite renewed violence in Ituri and North Kivu, attacks on facilities, a strained health system and mistrust. Ebola spreads through body fluids, not air.",
+      "options": [
+        "Because the virus now spreads through the air",
+        "Because conflict, attacks on health workers, poor roads and mistrust have delayed detection and care",
+        "Because a vaccine campaign failed",
+        "Because cases were imported from Europe"
+      ],
+      "q": "Why is Congo's Ebola outbreak spreading faster than past ones, according to AP and Al Jazeera?"
+    },
+    {
+      "answer": 3,
+      "explain": "Al Jazeera notes there is no specific vaccine or treatment; WHO approved trials of two new Ebola vaccines, with results expected in early 2027.",
+      "options": [
+        "It only infects children",
+        "It is resistant to soap and disinfectant",
+        "It has already been eradicated in Uganda",
+        "No vaccine or treatment has been developed specifically for it, and it kills about half of those infected"
+      ],
+      "q": "What makes the Bundibugyo strain behind Congo's outbreak especially hard to fight?"
+    },
+    {
+      "answer": 0,
+      "explain": "Zelensky described the 1,000-for-1,000 or 1,500-for-1,500 format; Rubio called the talks very productive but said a solution was not imminent.",
+      "options": [
+        "Discussion of a large prisoner exchange of 1,000 or 1,500 per side, but no imminent overall solution",
+        "A signed ceasefire",
+        "Russia's agreement to leave all occupied regions",
+        "Ukraine's agreement to give up its NATO bid"
+      ],
+      "q": "What did the first day of the Russia–Ukraine–US talks in Abu Dhabi produce, according to Zelensky and Rubio?"
+    },
+    {
+      "answer": 2,
+      "explain": "TSMC makes most advanced AI chips, so its monthly sales are a real-time gauge of AI investment; AP linked Asian chip gains to AI demand.",
+      "options": [
+        "Smartphone sales have collapsed",
+        "TSMC raised prices because of tariffs only",
+        "Companies are still spending heavily on AI chips and data centres",
+        "Taiwan's currency doubled in value"
+      ],
+      "q": "TSMC's October revenue rose 59.7% from a year earlier. What is the most reasonable reading of this number?"
+    },
+    {
+      "answer": 1,
+      "explain": "The complaint seeks class-action status for buyers from 9 October to 8 November; Huang has acknowledged the affair and said he will cooperate.",
+      "options": [
+        "That Nvidia hid falling sales",
+        "That they misled investors by not disclosing Huang's relationship with a woman reportedly suspected of working for Chinese intelligence, and about a company linked to her",
+        "That Nvidia overpaid for an acquisition",
+        "That Huang sold shares illegally"
+      ],
+      "q": "What does the shareholder lawsuit against Nvidia and Jensen Huang claim?"
+    },
+    {
+      "answer": 3,
+      "explain": "Electrification replaces fuels burned directly in transport, buildings and industry with electricity; the EU insists it must be 'clean'.",
+      "options": [
+        "A global carbon tax",
+        "Banning coal by 2030",
+        "Doubling climate finance to poor countries",
+        "Raising electricity's share of global energy use to 35% by 2035"
+      ],
+      "q": "What is the host Türkiye's headline proposal at the COP31 leaders' summit?"
+    },
+    {
+      "answer": 0,
+      "explain": "Land-use emissions are projected at 5.1 billion tonnes, worsened by El Niño, pushing total CO2 to 43.3 billion tonnes from 42.8 billion.",
+      "options": [
+        "Because peat fires and forest damage in Southeast Asia raise land-use emissions",
+        "Because India's emissions fell",
+        "Because oil use rose 1.9%",
+        "Because the study counts methane as CO2"
+      ],
+      "q": "The Global Carbon Project projects fossil CO2 emissions will fall 0.4% in 2026. Why are total CO2 emissions still expected to rise?"
+    },
+    {
+      "answer": 2,
+      "explain": "Qatar has been under force majeure since spring; its October LNG exports were about 2.7 million tonnes versus about 6.2 million in February (Kpler).",
+      "options": [
+        "Because Polish gas demand collapsed",
+        "Because the EU banned Qatari gas",
+        "Because, Orlen says, QatarEnergy cannot meet its obligations while the Iran war disrupts exports through the Strait of Hormuz",
+        "Because Orlen was sold to a foreign buyer"
+      ],
+      "q": "Why did Orlen terminate one of its long-term LNG contracts with QatarEnergy?"
+    },
+    {
+      "answer": 1,
+      "explain": "The Local reports the strike is backed by Spain's two biggest unions, the first joint general strike since 2012, ahead of a 29 November snap election.",
+      "options": [
+        "A pension cut passed last week",
+        "Anger over the housing crisis and purchasing power, with protests growing after a pensioner died following an eviction",
+        "A dispute only among train drivers",
+        "A ban on public-sector unions"
+      ],
+      "q": "What lies behind Spain's 24-hour general strike on 11 November?"
+    },
+    {
+      "answer": 3,
+      "explain": "Waldemar Żurek cited visits to websites about Anders Breivik and said no letter explaining the motive was found.",
+      "options": [
+        "That he acted on orders from a foreign state",
+        "That he left a detailed manifesto",
+        "That there was no evidence of any ideology",
+        "That investigators found very strong traces of right-wing extremism, while also checking whether mental disorders played a role"
+      ],
+      "q": "What did Poland's justice minister say about the Kraków gunman on Tuesday?"
+    },
+    {
+      "answer": 0,
+      "explain": "dpa-AFX said falling oil and strong results such as Henkel's helped; US stocks fell more because higher rate expectations hit tech shares.",
+      "options": [
+        "Lower oil prices helped Europe, and a December Fed hike was already largely priced in, so the inflation surprise only trimmed gains",
+        "The ECB cut rates on Tuesday",
+        "German inflation fell to zero",
+        "The DAX closed before US markets opened, so it could not react to anything"
+      ],
+      "q": "On Tuesday Germany's DAX rose 0.31% while the S&P 500 fell 0.4%. Which explanation matches the reports?"
+    },
+    {
+      "answer": 2,
+      "explain": "Cross rate: USD/PLN = EUR/PLN ÷ EUR/USD = 4.396 ÷ 1.1161 ≈ 3.94.",
+      "options": [
+        "4.91",
+        "3.52",
+        "3.94",
+        "4.40"
+      ],
+      "q": "Review (Lesson 5): at 07:00 on Wednesday EUR/PLN was 4.396 and EUR/USD 1.1161. What was USD/PLN approximately?"
+    },
+    {
+      "answer": 3,
+      "explain": "Holding gold has an opportunity cost equal to the interest forgone; when real yields rise, that cost rises.",
+      "options": [
+        "Because gold miners pay more tax",
+        "Because central banks must sell gold when rates rise",
+        "Because gold becomes cheaper to mine",
+        "Because gold pays no interest, so the income you give up by holding it rises"
+      ],
+      "q": "Review (Lesson 12): why do higher real interest rates tend to weigh on the gold price?"
+    },
+    {
+      "answer": 1,
+      "explain": "With inelastic short-run demand and supply, the price must move a lot to rebalance even small changes in expected supply.",
+      "options": [
+        "Because oil is priced in euros",
+        "Because in the short run oil demand and supply are both inelastic, so small supply risks cause large price moves",
+        "Because OPEC sets the price daily",
+        "Because tankers carry most of the world's oil reserves"
+      ],
+      "q": "Review (Lesson 11): why can a few tanker attacks move the oil price several percent in a day?"
+    }
+  ],
+  "status": "partial",
+  "stories": [
+    {
+      "category": "Economy & markets",
+      "everyday": "AP noted that the jump in yields feeds into higher US mortgage and loan rates. For Poles the link is indirect: Polish loan rates follow the National Bank of Poland, but higher US rates tend to strengthen the dollar, which makes dollar-priced goods such as fuel dearer in złoty.",
+      "id": "fed-half-point-yields",
+      "importance": 5,
+      "markets": [
+        "US Treasuries",
+        "S&P 500",
+        "Nasdaq",
+        "US dollar",
+        "EUR/USD",
+        "Gold"
+      ],
+      "rank": 1,
+      "rankWhy": "The Fed's rate path and the US 10-year yield set the price of borrowing across the world, so a jump toward 5% affects loans, currencies and share prices almost everywhere, Poland included.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Reuters via Yahoo Finance – Fed officials open door to a half-point hike",
+          "url": "https://finance.yahoo.com/economy/policy/articles/fed-officials-open-door-half-164918823.html"
+        },
+        {
+          "name": "AP via ClickOnDetroit – Asian shares mostly rise despite Wall Street's retreat",
+          "url": "https://www.clickondetroit.com/business/2026/11/11/asian-shares-mostly-rise-on-ai-chip-demand-despite-wall-streets-retreat-on-inflation-data/"
+        },
+        {
+          "name": "dpa-AFX via ARIVA – Aktien Frankfurt Schluss (10 Nov)",
+          "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-dax-daemmt-gewinne-ein-12202122"
+        }
+      ],
+      "terms": [
+        "Basis point",
+        "Treasury yield",
+        "Core inflation",
+        "Rate hike"
+      ],
+      "title": "Fed officials open the door to a half-point rate rise in December; the US 10-year bond yield jumps to nearly 5%",
+      "what": "After Tuesday's hotter-than-expected US inflation report, Fed Governor Christopher Waller said a 50-basis-point hike (0.5 percentage point) should be considered at the 8–9 December meeting, and Dallas Fed President Lorie Logan said it may be possible to move faster than September's quarter-point rise, Reuters reported. Traders saw a quarter-point hike as all but certain and, by Tuesday midmorning in New York, put the chance of a half-point move at close to 15%. The yield on the 10-year US Treasury bond rose to 4.99% from 4.88% on Monday (AP), and the 2-year yield, which tracks expectations for Fed rates, had its biggest one-day rise since early April 2025 (Reuters). The Fed's key rate is currently 3.75%–4.00%.",
+      "why": "'Core' prices (excluding food and energy) rose 0.3% in October for a third straight month, above the 0.2% forecast; Waller had said a 0.3% reading would make him back a bigger move, and Logan called the current rate range too low, saying it adds to inflationary pressures (Reuters). When investors expect higher policy rates, they demand higher yields on government bonds, so bond prices fall. According to the dpa-AFX news agency, European shares took the news calmly because a December hike was already largely priced in."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Brent drives what refiners pay for crude, so these swings reach Polish petrol stations and heating-oil bills with a lag of days to weeks. The mines and attacks mean a risk premium in prices can last even if diplomacy progresses.",
+      "id": "hormuz-tankers-oil",
+      "importance": 5,
+      "markets": [
+        "Brent crude",
+        "WTI crude",
+        "Tanker shipping",
+        "Airlines",
+        "Oil companies"
+      ],
+      "rank": 2,
+      "rankWhy": "About a fifth of the world's oil normally passes through the Strait of Hormuz, so continuing attacks on tankers keep energy prices high and volatile for every importing country.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Reuters via Business Standard – Oil rises from 2-month low as Hormuz shipping attacks offset truce hopes",
+          "url": "https://www.business-standard.com/amp/markets/commodities/oil-rises-from-2-month-low-as-hormuz-shipping-attacks-offset-truce-hopes-126111100088_1.html"
+        },
+        {
+          "name": "Xinhua – IRGC says 2 tankers exploded on Hormuz's 'unauthorized' route",
+          "url": "https://english.news.cn/20261110/5989d72ebcba45e1b11074ff1ec50940/c.html"
+        },
+        {
+          "name": "Middle East Eye – IRGC says two oil tankers catch fire",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-says-two-oil-tankers-catch-fire-strait-hormuz"
+        },
+        {
+          "name": "Al Jazeera – Trump calls Iran war 'effectively over'",
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+        }
+      ],
+      "terms": [
+        "Strait of Hormuz",
+        "Naval blockade",
+        "Risk premium"
+      ],
+      "title": "Iran's Revolutionary Guards say two tankers caught fire on a 'forbidden' Hormuz route; oil bounces off a two-month low",
+      "what": "On Tuesday the navy of Iran's Islamic Revolutionary Guard Corps (IRGC) said two oil tankers that had switched off their tracking systems caught fire on what Iran calls an unauthorised route through the Strait of Hormuz: one, it said, hit naval mines; the other was set ablaze after an unspecified 'incident' while, it claimed, US fighter jets were protecting it (Xinhua, Middle East Eye). These are Iranian claims; no ship names, flags or casualties were given and they have not been independently confirmed. Separately, the UK Maritime Trade Operations centre reported another tanker struck north-east of Lima in Oman on Tuesday, and the Washington Institute for Near East Policy counted 37 attacks on ships in and near the strait in October, the most of any month since the war began, and 10 so far in November (Reuters). Brent crude rose 0.8% to $92.20 a barrel by 02:19 Warsaw time on Wednesday after hitting a two-month low on Tuesday.",
+      "why": "Iran has restricted passage through the strait since 28 February, when US and Israeli strikes started the war, and the US keeps a naval blockade of Iranian ports. Prices swing between peace hopes, after President Trump said on Monday the war was 'militarily' effectively over, and the reality of attacks on shipping. Analysts at LSEG wrote that even with a deal, more oil would flow only after mines are cleared and insurance costs and shipowners' fears ease (Reuters)."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "Ebola spreads through direct contact with the body fluids of sick people, not through the air, so the risk to people in Europe remains very low. The human cost is concentrated in eastern Congo, where families also face war and displacement.",
+      "id": "ebola-drc-11000",
+      "importance": 4,
+      "markets": [],
+      "rank": 3,
+      "rankWhy": "The second-largest Ebola outbreak ever recorded has killed more than 5,300 people and has spread to East, Central and West Africa, with no specific vaccine or treatment.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "AP via ClickOrlando – Congo's Ebola outbreak tops 11,000 cases",
+          "url": "https://clickorlando.com/news/world/2026/11/11/congos-ebola-outbreak-tops-11000-cases-as-disease-keeps-spreading"
+        },
+        {
+          "name": "Al Jazeera – Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
+          "url": "https://aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths"
+        },
+        {
+          "name": "WHO – Disease Outbreak News: Bundibugyo virus disease, DRC, Kenya and Nigeria",
+          "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON625"
+        }
+      ],
+      "terms": [
+        "Ebola (Bundibugyo strain)",
+        "Contact tracing",
+        "Case fatality rate"
+      ],
+      "title": "Congo's Ebola outbreak passes 11,000 cases and 5,387 deaths, the second-largest on record",
+      "what": "Congo has recorded 11,042 Ebola cases and at least 5,387 deaths since the outbreak was declared in mid-May, according to health-ministry figures reported on 11 November (AP, Al Jazeera). It is caused by the rare Bundibugyo strain, for which no vaccine or treatment has been specifically developed, and which kills about half of those it infects. Eight of Congo's 26 provinces are affected, with Ituri and North Kivu the hotspots, and cases have also been reported in Uganda, Kenya and Nigeria. Only the 2014–2016 West African outbreak (more than 28,600 cases and more than 11,000 deaths) was larger. Earlier in November the WHO approved clinical trials of two new Ebola vaccines, with results expected in early 2027.",
+      "why": "AP and Al Jazeera report that armed conflict, including renewed violence in Ituri and North Kivu, attacks on health workers and facilities, poor roads, a strained health system and mistrust have delayed detection and let the virus spread faster than in past outbreaks. Many deaths are happening outside treatment centres, which makes tracing contacts harder. Health authorities are calling for a halt to fighting so that health workers can reach the sick."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "A prisoner exchange would bring thousands of soldiers and civilians home to their families. For Poland, which hosts many Ukrainian refugees and borders both countries, a durable settlement would change security, defence spending and reconstruction business.",
+      "id": "abu-dhabi-talks-day2",
+      "importance": 4,
+      "markets": [
+        "European defence stocks",
+        "Ukrainian bonds",
+        "EUR/PLN",
+        "European gas"
+      ],
+      "rank": 4,
+      "rankWhy": "Any progress toward ending Europe's largest war since 1945 would affect the security, energy prices and budgets of the whole continent, Poland above all.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "AP via PBS – Russia and Ukraine hold nearly 4 hours of US-mediated talks",
+          "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi"
+        },
+        {
+          "name": "Ukrinform – Zelensky: large-scale prisoner exchange discussed",
+          "url": "https://www.ukrinform.net/rubric-society/4183555-zelensky-possibility-of-largescale-prisoner-exchange-discussed-in-abu-dhabi.html"
+        },
+        {
+          "name": "Ukrainska Pravda via Yahoo – 1,000 or 1,500 per side",
+          "url": "https://www.yahoo.com/news/world/articles/possibility-1-000-1-000-203200116.html"
+        },
+        {
+          "name": "Kyiv Post – Abu Dhabi talks raise hope for prisoner swap",
+          "url": "https://kyivpost.com/post/89694"
+        },
+        {
+          "name": "Anadolu – Morning Briefing 11 Nov (Rubio)",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-11/4119658"
+        }
+      ],
+      "terms": [
+        "Trilateral talks",
+        "Security guarantees",
+        "Prisoner exchange"
+      ],
+      "title": "Russia–Ukraine–US talks in Abu Dhabi enter a second day, with a large prisoner exchange of 1,000 or 1,500 per side on the table",
+      "what": "The first US-mediated three-way talks since February ran for about four hours on Tuesday (AP); Russia's TASS put it at four and a half hours including a break. Russia's team was led by Vladimir Medinsky, Ukraine's by Rustem Umerov, and the US was represented by Jared Kushner and envoy Steve Witkoff. President Volodymyr Zelensky said the sides discussed a 'large-scale' prisoner exchange of 1,000 for 1,000, possibly 1,500 for 1,500, which the Americans would take to Moscow, and that Wednesday's main day would cover de-escalation, energy, the Black Sea, the exchange and a possible three-way leaders' meeting. US Secretary of State Marco Rubio called the talks 'very productive' but said a solution was not imminent.",
+      "why": "The positions on the core issue remain far apart: Vladimir Putin wants Ukraine to withdraw from four regions Russia claims to have annexed but has not fully captured, to drop its NATO bid and accept military limits, while Kyiv rejects giving up territory and wants an immediate ceasefire (AP). Zelensky said Russia raised territory and that this belongs at leaders' level. AP notes that pressure on Russia's wartime economy, the US midterm results and Russia's winter strikes on Ukraine's power grid have changed the backdrop."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Few Poles own Asian chip shares directly, but many pension and savings funds hold global indices dominated by tech. AI-chip demand also affects the price of the memory in phones and laptops.",
+      "id": "asia-chips-tsmc",
+      "importance": 4,
+      "markets": [
+        "TSMC",
+        "Taiex",
+        "Kospi",
+        "Nikkei 225",
+        "Samsung Electronics",
+        "SK hynix"
+      ],
+      "rank": 5,
+      "rankWhy": "TSMC makes most of the world's advanced chips, so its sales are a real-time gauge of the AI boom that drives stock markets from Taipei and Seoul to New York.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "TSMC Form 6-K – October 2026 revenue (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000796/tsm-revenue20261110.htm"
+        },
+        {
+          "name": "TSMC Form 6-K – Board resolutions (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000797/tsm-boardx202611xx.htm"
+        },
+        {
+          "name": "AP via ClickOnDetroit – Asian shares mostly rise on AI chip demand",
+          "url": "https://www.clickondetroit.com/business/2026/11/11/asian-shares-mostly-rise-on-ai-chip-demand-despite-wall-streets-retreat-on-inflation-data/"
+        },
+        {
+          "name": "TokenPost – Nikkei closes at 61,248.59",
+          "url": "https://www.tokenpost.com/news/investing/53656"
+        }
+      ],
+      "terms": [
+        "Foundry",
+        "Year on year",
+        "Preferred stock"
+      ],
+      "title": "TSMC's October sales jump 60% and it will invest up to $1 billion in Anthropic and OpenAI; Asian chip stocks surge",
+      "what": "Taiwan Semiconductor Manufacturing Co. (TSMC) reported October revenue of NT$586.89 billion, up 59.7% from a year earlier and 14.7% from September, its filing to the US Securities and Exchange Commission shows. Its board also approved buying up to $500 million of Anthropic shares at the IPO price and up to $500 million of OpenAI preferred stock, plus about $40.9 billion of capital spending. On Wednesday Taiwan's Taiex rose 3.6%, South Korea's Kospi 2.4% to 5,365.75 and Japan's Nikkei 225 1.3% to 61,248.59; Samsung Electronics gained 3.4%, SK hynix 5.4% and TSMC 3.1% (AP). Hong Kong's Hang Seng was the exception, down 0.7%.",
+      "why": "AP attributed the gains to solid demand for AI chips, which outweighed Wall Street's fall on inflation worries. Rising monthly sales at the main chip foundry suggest that companies are still spending heavily on AI data centres despite recent doubts about AI valuations. Chip makers investing in their own customers, such as AI developers, also ties their fortunes more closely together."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Global index funds and many Polish pension and investment funds hold large positions in US tech, so a fall in Nvidia shows up in their values. The case also shows how personal conduct of a CEO can become a company risk.",
+      "id": "wall-street-nvidia-lawsuit",
+      "importance": 4,
+      "markets": [
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones",
+        "Nvidia"
+      ],
+      "rank": 6,
+      "rankWhy": "Nvidia is one of the world's most valuable companies and the heaviest weight in US indices, so its slide drags on the savings of millions of index investors.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "AP via KRMG – How major US stock indexes fared 11/10/2026",
+          "url": "https://krmg.com/2026/11/10/how-major-us-stock-indexes-fared-tuesday-11-10-2026/"
+        },
+        {
+          "name": "AP via PBS – Nvidia and Huang face lawsuit",
+          "url": "https://www.pbs.org/newshour/world/nvidia-and-huang-face-lawsuit-alleging-investors-were-misled-about-spy-affair"
+        },
+        {
+          "name": "AP via ClickOnDetroit – Asian shares mostly rise",
+          "url": "https://www.clickondetroit.com/business/2026/11/11/asian-shares-mostly-rise-on-ai-chip-demand-despite-wall-streets-retreat-on-inflation-data/"
+        }
+      ],
+      "terms": [
+        "Class action",
+        "Market capitalisation"
+      ],
+      "title": "Wall Street closes lower after the inflation surprise; Nvidia falls again as a shareholder sues over its CEO's alleged links to a suspected Chinese agent",
+      "what": "The S&P 500 fell 0.4% to 7,520.93 on Tuesday, the Dow Jones 0.3% to 52,231.89 and the Nasdaq Composite 0.7% to 25,065.87, though all remain higher for the week and the year (AP). Nvidia was the biggest drag on the S&P 500, falling 5.5% according to AP. A retail investor, Mark Kistenmacher, filed a lawsuit in California on Monday seeking class-action status, alleging Nvidia and CEO Jensen Huang misled investors by not disclosing Huang's relationship with a woman news reports say is suspected of working for Chinese intelligence, and about a Singapore company linked to her (AP via PBS). Nvidia's board is investigating, President Trump said the FBI is looking into the matter, and Huang has acknowledged the affair, apologised and said he will cooperate.",
+      "why": "Shares fell because the inflation report raised bets on Fed rate hikes, and higher rates make future company profits worth less today, hitting expensive tech stocks hardest (AP). For Nvidia, investors also weigh legal and reputational risk and the national-security questions raised by the allegations, which the lawsuit calls material risks to the business."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Decisions on electrification and fossil fuels feed into EU rules that shape Poland's coal phase-out, heating costs and car prices over the coming years.",
+      "id": "cop31-leaders-summit",
+      "importance": 3,
+      "markets": [
+        "Renewable energy stocks",
+        "Utilities",
+        "Carbon prices"
+      ],
+      "rank": 7,
+      "rankWhy": "The yearly UN climate summit shapes how fast nearly 200 countries cut emissions, but the absence of most big-economy leaders limits what this round can deliver.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "AFP via RTÉ – World leaders take stage at COP31 but big names missing",
+          "url": "https://www.rte.ie/news/world/2026/1111/1598779-cop-31-turkey/"
+        },
+        {
+          "name": "AFP via Kuwait Times – big names missing",
+          "url": "https://kuwaittimes.com/article/53424/world/world-leaders-take-stage-at-cop31-but-big-names-missing/"
+        },
+        {
+          "name": "Hürriyet Daily News – COP31 leaders' summit set to open",
+          "url": "https://www.hurriyetdailynews.com/cop31-leaders-summit-set-to-open-in-turkiye-with-electrification-in-focus-229258"
+        }
+      ],
+      "terms": [
+        "COP (Conference of the Parties)",
+        "Electrification",
+        "Paris Agreement"
+      ],
+      "title": "COP31 leaders' summit opens in Antalya, but most big-economy leaders stay away; Türkiye pushes a global electrification goal",
+      "what": "World leaders address the COP31 UN climate conference in Antalya, Türkiye, on Wednesday and Thursday; the talks run from 9 to 20 November. UK Prime Minister Andy Burnham is the only G7 leader scheduled to speak; France's Emmanuel Macron, Germany's Friedrich Merz and Italy's Giorgia Meloni are skipping it, US President Donald Trump is not attending, and China is represented by Vice President Han Zheng (AFP via RTÉ). Brazil's Lula da Silva, Iran's Masoud Pezeshkian and European Commission President Ursula von der Leyen are among those attending. The host is seeking support for a voluntary goal to raise electricity's share of global energy use to 35% by 2035.",
+      "why": "Electrification means replacing fuels burned directly in transport, buildings and industry with electricity, for example electric cars and heat pumps. The EU insists the electricity must be 'clean', which could reopen arguments over oil, gas and coal; countries agreed in 2023 to transition away from fossil fuels but have struggled to advance that goal since (AFP). EU climate chief Wopke Hoekstra said expectations are 'not necessarily high'."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "A one-year dip does not stop warming: CO2 keeps accumulating as long as emissions are above zero. That is why heatwaves, floods and fires keep becoming more frequent, including in Central Europe.",
+      "id": "global-carbon-budget-2026",
+      "importance": 3,
+      "markets": [
+        "Oil",
+        "Coal",
+        "Renewable energy"
+      ],
+      "rank": 8,
+      "rankWhy": "The most-watched annual scientific estimate of global CO2 emissions shows the first fall in fossil emissions in years, but total CO2 still rising, framing every climate negotiation.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "ScienceDaily – Global fossil fuel emissions set to fall in 2026",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261109205358.htm"
+        },
+        {
+          "name": "Tyndall Centre – Fossil CO2 emissions decrease in 2026",
+          "url": "https://tyndall.ac.uk/news/fossil-co2-emissions-decrease-in-2026/"
+        },
+        {
+          "name": "Anadolu – Morning Briefing 11 Nov",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-11/4119658"
+        }
+      ],
+      "terms": [
+        "Carbon budget",
+        "Land-use emissions"
+      ],
+      "title": "Scientists project that fossil-fuel CO2 emissions will fall 0.4% in 2026, helped by solar, wind and the Iran war, while total CO2 still rises",
+      "what": "The Global Carbon Project's annual report, published on 10 November, projects fossil CO2 emissions of 38.2 billion tonnes in 2026, down 0.4%. China's emissions are projected to fall 0.9%, the US's 1.3% and the EU's 1.5%, while India's rise 4.4%. Emissions from oil are expected to drop 1.9%. But total CO2 emissions, including land use, are projected to rise to 43.3 billion tonnes from 42.8 billion, because of peat fires and forest damage in Southeast Asia. The scientists estimate 150 billion tonnes of CO2 can still be emitted to limit warming to 1.5°C, less than four years at today's rate (ScienceDaily summary of the study).",
+      "why": "The report attributes the fossil decline to growing solar and wind power and to energy disruption from the Iran conflict, which it calls a temporary shock for oil. In China lower oil use outweighed a small rise in coal; in the US coal use fell after rising in 2025. Land-use emissions jumped because drier El Niño conditions worsened fires."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "The fight over who authorises war matters beyond the US: the Iran war has driven up fuel and gas prices across Europe, Poland included.",
+      "id": "hegseth-impeachment-shelved",
+      "importance": 3,
+      "markets": [],
+      "rank": 9,
+      "rankWhy": "A vote on holding the US defence secretary to account for the Iran war tests how Congress checks presidential war powers, though it changes no policy for now.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "AP via 6abc – House tables Hegseth impeachment",
+          "url": "https://6abc.com/story/hegseth-dismisses-impeachment-effort-political-spectacle/20029818/"
+        },
+        {
+          "name": "Anadolu – Morning Briefing 11 Nov",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-11/4119658"
+        },
+        {
+          "name": "Time – Democrats could revive effort in 2027",
+          "url": "https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/"
+        }
+      ],
+      "terms": [
+        "Impeachment",
+        "War powers"
+      ],
+      "title": "US House votes 211–204 to shelve a Republican's articles of impeachment against Defense Secretary Hegseth",
+      "what": "On Tuesday evening (US time) the House of Representatives voted 211–204 to send Republican Thomas Massie's resolution to impeach Defense Secretary Pete Hegseth to the Judiciary Committee, which effectively kills it in the current, Republican-controlled Congress (AP via 6abc; Anadolu). Massie was the only Republican to vote against the referral, and all Democrats did so. His eight articles accuse Hegseth of, among other things, waging the Iran war without congressional approval and ordering strikes on alleged drug-smuggling boats in the Caribbean and eastern Pacific. Hegseth called the effort a 'political spectacle' and said the operations were lawful orders from the president.",
+      "why": "Under the US Constitution, the House can impeach (formally charge) officials and the Senate holds the trial. Referring a resolution to committee is a procedural way to avoid a direct vote. Time magazine noted that Democrats, who take control of Congress in January after the midterms, could revive the effort in 2027."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Poland imports LNG through the Świnoujście terminal; diversified supply is what protects households from shortages even when one supplier fails. The prices Poles pay depend on European gas prices, which remain high (TTF about €86/MWh).",
+      "id": "orlen-qatar-lng",
+      "importance": 3,
+      "markets": [
+        "Orlen",
+        "TTF gas",
+        "LNG"
+      ],
+      "rank": 10,
+      "rankWhy": "Poland's biggest company is the first long-term buyer to walk away from a Qatari LNG contract because of the Iran war, a signal for Europe's gas supply planning.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "OilPrice.com – Orlen becomes first buyer to cancel long-term Qatar LNG deal",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Polands-Orlen-Becomes-First-Buyer-to-Cancel-Long-Term-Qatar-LNG-Deal.html"
+        },
+        {
+          "name": "Strefa Inwestorów – Skrót wiadomości 10 listopada",
+          "url": "https://strefainwestorow.pl/wiadomosci/20261110/skrot-wiadomosci-wtorek-10-listopada-2100"
+        },
+        {
+          "name": "Energetyka24 – Orlen zrywa kontrakt na LNG z Kataru",
+          "url": "https://energetyka24.com/gospodarka/spolki/orlen-zrywa-kontrakt-na-lng-z-kataru-nasze-zapotrzebowanie-jest-pokryte"
+        }
+      ],
+      "terms": [
+        "Liquefied natural gas (LNG)",
+        "Force majeure"
+      ],
+      "title": "Orlen cancels one of its two long-term LNG contracts with QatarEnergy, saying Qatar cannot deliver because of the Iran war",
+      "what": "Poland's state-controlled Orlen said late on Tuesday that it had terminated one of its two long-term contracts for liquefied natural gas (LNG) with QatarEnergy (PAP via Strefa Inwestorów). The contract, signed by PGNiG in June 2009, covered 1 million tonnes of LNG a year (about 15.3 TWh) from 2016 until 2034, with an estimated 2026 value of nearly €570 million; it stays in force for 60 days after notice, and the second, gas-indexed contract continues (Energetyka24). OilPrice.com says Orlen is the first long-term client to cancel during Qatar's 'force majeure'. Qatar declared force majeure (a legal clause excusing a supplier from obligations because of events beyond its control) in spring and extended it to the end of 2026. Qatar's LNG exports were about 2.7 million tonnes in October versus about 6.2 million in February (Kpler data cited by OilPrice.com).",
+      "why": "Almost all Qatari LNG has to pass through the Strait of Hormuz, where attacks on tankers peaked in October, and Iranian strikes in March knocked out 17% of QatarEnergy's export capacity, the company said then. Orlen said its own production and other long-term contracts fully cover the group's needs (Energetyka24)."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Expect large crowds in central Warsaw in the afternoon; most shops are closed, as on every Polish public holiday.",
+      "id": "poland-independence-day",
+      "importance": 3,
+      "markets": [],
+      "rank": 11,
+      "rankWhy": "Poland's national day comes amid a bitter government–president standoff and days after a deadly attack, so the scale and tone of Warsaw's march will be read as a gauge of political tension.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "dpa via Yahoo – Poland's right wing to hold Independence March",
+          "url": "https://www.yahoo.com/news/politics/articles/polands-wing-hold-independence-march-050333652.html"
+        },
+        {
+          "name": "Bloomberg – Nawrocki rally appearance risks fuelling tension",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/poland-s-nawrocki-rally-appearance-risks-fueling-tension"
+        },
+        {
+          "name": "Irish Times – Polish leaders lead march for Kraków victims",
+          "url": "https://www.irishtimes.com/world/europe/2026/11/09/polish-leaders-set-differences-aside-to-lead-thousands-on-march-for-krakow-victims/"
+        }
+      ],
+      "terms": [
+        "Constitutional Tribunal"
+      ],
+      "title": "Poland marks Independence Day; President Nawrocki and opposition leaders to join the right-wing Independence March in Warsaw",
+      "what": "Wednesday is a public holiday marking the restoration of Polish statehood in 1918 after 123 years of partition among Prussia, Austria-Hungary and Russia. The Independence March, organised by right-wing groups, starts in Warsaw in the early afternoon under the slogan 'The Pole is master in his own house', and organisers expect far more participants than last year (dpa via Yahoo). President Karol Nawrocki confirmed he will take part, as did Law and Justice (PiS) leader Jarosław Kaczyński and far-right politician Grzegorz Braun. The Warsaw Stock Exchange is closed.",
+      "why": "Opposition parties are mobilising against Prime Minister Donald Tusk's government after the recent turmoil over the Constitutional Tribunal. Bloomberg reported that the president's appearance risks fuelling tension. On Monday Nawrocki and Tusk had briefly set aside their rivalry to walk together at a vigil for the victims of Saturday's Kraków shooting (Irish Times)."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "The case shows how quickly fake pictures circulate after a tragedy: checking whether an image comes from a reliable source before sharing it is one of the most useful habits of media literacy.",
+      "id": "krakow-attack-extremism",
+      "importance": 3,
+      "markets": [],
+      "rank": 12,
+      "rankWhy": "Evidence about the motive for Poland's deadliest recent mass shooting shapes the debate on extremism, gun rules and online disinformation.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Notes from Poland – 'Strong traces of right-wing extremism'",
+          "url": "https://notesfrompoland.com/2026/11/10/strong-traces-of-right-wing-extremism-in-activity-of-krakow-terrorist-says-justice-minister/"
+        },
+        {
+          "name": "Irish Times – Kraków shooting and vigil",
+          "url": "https://www.irishtimes.com/world/europe/2026/11/09/polish-leaders-set-differences-aside-to-lead-thousands-on-march-for-krakow-victims/"
+        },
+        {
+          "name": "Strefa Inwestorów (PAP) – Skrót wiadomości 10 listopada",
+          "url": "https://strefainwestorow.pl/wiadomosci/20261110/skrot-wiadomosci-wtorek-10-listopada-2100"
+        }
+      ],
+      "terms": [
+        "Disinformation",
+        "Deepfake"
+      ],
+      "title": "Justice minister says the Kraków gunman showed 'very strong traces of right-wing extremism'; officials warn of a wave of fake images",
+      "what": "Justice Minister and Prosecutor General Waldemar Żurek told Radio Kraków on Tuesday that investigators found very strong traces of right-wing extremism in the activity of Michał Oksiński, who killed six people on Kraków's Main Market Square on Saturday and died of his wounds on Monday (Notes from Poland). Żurek said his computer showed visits to websites about Norwegian far-right terrorist Anders Breivik, that no letter explaining the motive was found, and that investigators are also checking whether mental disorders played a role. The gunman's parents and sister were found shot dead at his home. Thirteen of the 15 injured were still in hospital on Tuesday (PAP via Strefa Inwestorów).",
+      "why": "Right-wing opposition figures had accused Interior Minister Marcin Kierwiński of making unfounded early claims about the motive; Żurek said the evidence confirmed them. False images spread online, including an AI-generated picture of Kierwiński shaking hands with the attacker, and Digital Affairs Minister Krzysztof Gawkowski blamed 'pseudo-journalists and politicians' (Notes from Poland)."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "Cholera is easily prevented with clean water and treated cheaply with oral rehydration salts, which is why its spread is a measure of how badly war has damaged basic services.",
+      "id": "congo-cholera",
+      "importance": 3,
+      "markets": [],
+      "rank": 13,
+      "rankWhy": "Tens of thousands of people in an Ebola- and war-hit region face a second deadly epidemic at once, stretching health services to breaking point.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "CIDRAP – Cholera in DR Congo",
+          "url": "https://www.cidrap.umn.edu/cholera/quick-takes-cholera-dr-congo-canada-oks-mrna-flu-flu-covid-vaccines-polio-4-nations"
+        },
+        {
+          "name": "allAfrica – All of Africa Today, 11 November 2026",
+          "url": "https://allafrica.com/stories/202611110253.html"
+        }
+      ],
+      "terms": [
+        "Cholera",
+        "Oral rehydration"
+      ],
+      "title": "Congo is also fighting its worst cholera outbreak in decades: more than 60,000 cases and 1,800 deaths this year, WHO says",
+      "what": "The Democratic Republic of Congo has recorded more than 60,000 cholera cases and about 1,800 deaths since the start of the year, WHO Director-General Tedros Adhanom Ghebreyesus said, calling it the worst outbreak in decades (CIDRAP; allAfrica). Most cases are in North and South Kivu, the same provinces hit by Ebola, and Tedros said vaccine coverage against cholera there is very low. There are fears the disease could spread to the capital Kinshasa during the rainy season, and Doctors Without Borders (MSF) has expanded its response.",
+      "why": "Cholera is a bacterial infection spread by contaminated water and food; it thrives where clean water and sanitation are lacking. Tedros said years of conflict have left a critical water and sanitation deficit in eastern Congo, and violence makes containment harder."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Travellers to Spain may face transport disruption. Housing affordability is a concern in many European countries, Poland included, and Spain's protests show how it can turn into mass political action.",
+      "id": "spain-general-strike",
+      "importance": 3,
+      "markets": [
+        "Spanish real estate",
+        "IBEX 35"
+      ],
+      "rank": 14,
+      "rankWhy": "A nationwide strike over housing in the EU's fourth-largest economy, weeks before a snap election, puts the housing crisis felt across Europe at the centre of politics.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "The Local Spain – Spain faces general strike over housing ahead of election",
+          "url": "https://www.thelocal.es/20261110/spain-faces-general-strike-over-housing-ahead-of-election"
+        },
+        {
+          "name": "idealista – Spain general strike on 11 November",
+          "url": "https://www.idealista.com/en/news/legal-advice-in-spain/2026/11/10/917678-spain-general-strike-over-housing-crisis-takes-place-on-11-november"
+        }
+      ],
+      "terms": [
+        "General strike",
+        "Snap election"
+      ],
+      "title": "Spain holds a 24-hour general strike over the housing crisis and wages, less than three weeks before a snap election",
+      "what": "Spain's two largest union federations, UGT and CCOO, have called a nationwide 24-hour general strike on Wednesday 11 November, the first joint national general strike in 14 years, demanding pay rises of 4% to 7%, limits on rents and more protected public housing (idealista, The Local). Minimum services apply to trains (for example 75% of Cercanías commuter trains at peak hours), hospitals and some schools, and demonstrations are planned in Madrid and Barcelona. A snap general election is due on 29 November.",
+      "why": "Protests grew after an 87-year-old Madrid pensioner, Maricarmen Abascal, died days after a forced eviction in September, and included a five-week occupation of Madrid's Puerta del Sol square (The Local)."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "For families in Gaza, displacement camps and tents remain home as winter approaches.",
+      "id": "gaza-strikes-shelter",
+      "importance": 3,
+      "markets": [],
+      "rank": 15,
+      "rankWhy": "Continued deadly strikes a year into the ceasefire show how fragile it is for Gaza's population.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "The National – Father and son among at least seven killed",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/11/father-and-son-among-at-least-seven-killed-in-israeli-attacks-on-gaza/"
+        },
+        {
+          "name": "Dawn – Seven killed by Israeli fire in Gaza Strip",
+          "url": "https://www.dawn.com/news/2043688/father-and-son-among-seven-killed-by-israeli-fire-in-gaza-strip"
+        }
+      ],
+      "terms": [
+        "Ceasefire"
+      ],
+      "title": "At least seven Palestinians killed in Israeli strikes across Gaza, including a father and his 13-year-old son in a shelter",
+      "what": "At least seven Palestinians were killed across Gaza, on Tuesday, according to Palestinian health sources and medics quoted by The National and Dawn. Medics said Fadi Rajab and his 13-year-old son were killed in an air strike on a displacement shelter in Zeitoun, Gaza City; three people were killed in a strike on a metal foundry in Sabra and one near a school in Daraj, and a man was shot in Khan Younis. Israel's military said it struck militants in Zeitoun and Daraj without giving details. Gaza health officials say at least 1,600 Palestinians have been killed since the US-brokered ceasefire took effect in October 2025; Israel says four of its soldiers have been killed in that period.",
+      "why": "The ceasefire's next stages are stuck: negotiators have not agreed terms for Hamas to disarm or for Israel to withdraw. Israeli troops control about two-thirds of the territory. Israel says Hamas is regrouping; Hamas says it is committed to the truce and accuses Israel of undermining it (The National)."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Who governs Israel affects the Gaza ceasefire and the Iran war, which in turn affect energy prices in Europe.",
+      "id": "israel-new-knesset",
+      "importance": 3,
+      "markets": [
+        "Israeli shekel",
+        "Tel Aviv stocks"
+      ],
+      "rank": 16,
+      "rankWhy": "A change of prime minister in Israel would affect the Gaza ceasefire, Iran policy and the region.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Time – How Israel will choose its next prime minister",
+          "url": "https://time.com/article/2026/11/10/how-israel-will-choose-its-next-prime-minister-explained/"
+        },
+        {
+          "name": "The Media Line – Change Bloc picks Matan Kahana for Knesset speaker",
+          "url": "https://themedialine.org/headlines/change-bloc-picks-matan-kahana-for-knesset-speaker-lieberman-to-head-defense-committee/"
+        }
+      ],
+      "terms": [
+        "Coalition government",
+        "Confidence vote"
+      ],
+      "title": "Israel's new parliament is sworn in; the anti-Netanyahu bloc picks its candidate for speaker as Gadi Eisenkot tries to form a government",
+      "what": "The 26th Knesset was sworn in on Tuesday after the 27 October election, in which no bloc won the 61 seats needed for a majority (Time; The Media Line). Netanyahu's bloc won 53 seats, the parties backing Gadi Eisenkot 48 and Arab-led parties a record 19. President Isaac Herzog gave Eisenkot the mandate on Sunday after 67 of 120 lawmakers recommended him; he has 28 days, until 6 December, with a possible 14-day extension. On Tuesday the 'Change Bloc' named Matan Kahana as its candidate to replace Likud's Amir Ohana as speaker in a vote expected in about a week, and Avigdor Lieberman to chair the Foreign Affairs and Defense Committee.",
+      "why": "Eisenkot's coalition arithmetic is hard: some of his backers, including Lieberman, reject a government relying on Arab-led parties, and his allies refuse to sit with Netanyahu (Time). Netanyahu remains head of the outgoing government until a new one wins a confidence vote."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "The EU's cybersecurity chief has warned that household appliances could be the next target (Euronews), so updating and securing smart devices at home matters.",
+      "id": "france-iran-fridge-cyberattack",
+      "importance": 3,
+      "markets": [
+        "Carrefour",
+        "Cybersecurity stocks"
+      ],
+      "rank": 17,
+      "rankWhy": "A state-linked hack that spoiled food in hundreds of supermarkets across several EU countries shows how everyday connected devices can become targets.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Al Jazeera – France accuses Iran of cyberattack on supermarket fridges",
+          "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges"
+        },
+        {
+          "name": "Anadolu – Morning Briefing 11 Nov (Barrot)",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-11/4119658"
+        },
+        {
+          "name": "Euronews – Latest news bulletin 11 Nov (headlines)",
+          "url": "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-morning"
+        }
+      ],
+      "terms": [
+        "Cyberattack",
+        "Internet of things (IoT)"
+      ],
+      "title": "France weighs 'all possible responses' after blaming Iran's Revolutionary Guards for hacking supermarket fridges",
+      "what": "France says a cyber unit linked to Iran's Revolutionary Guards remotely raised temperatures in supermarket refrigeration systems to 50°C overnight on 11–12 October, spoiling food worth millions of euros and in some cases causing fires (Al Jazeera). Chains hit included Carrefour (80 supermarkets) and Intermarché (at least 300 stores), and similar problems were reported on 2 November in Belgium, Estonia, Ireland, Luxembourg and Sweden. Prosecutors requested international arrest warrants for the leader of the unit, called Shahid Kaveh, and two deputies. Foreign Minister Jean-Noël Barrot said France is weighing all possible responses, including measures beyond diplomacy and EU sanctions (Anadolu).",
+      "why": "The attackers reached the refrigeration controls through the internet; investigators say they used Farsi and IP addresses linked to devices in Iran (Al Jazeera). Iran had not accepted responsibility in the reports read for this edition. Internet-connected industrial equipment is often poorly protected, which makes it an attractive target for state hackers."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "Anyone thinking of stopping such a medicine should talk to their doctor first, experts quoted by ABC advised. The study is also a good example of why 'linked to' does not mean 'causes'.",
+      "id": "glp1-stopping-study",
+      "importance": 2,
+      "markets": [
+        "Novo Nordisk",
+        "Eli Lilly"
+      ],
+      "rank": 18,
+      "rankWhy": "Millions of people with diabetes use GLP-1 drugs and many stop within a year, so a link to heart risk matters for patients and doctors, though it does not prove cause.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Euronews – Stopping GLP-1 drugs linked to doubled risk",
+          "url": "https://www.euronews.com/2026/11/11/for-diabetes-patients-stopping-glp-1-drugs-linked-to-doubled-risk-of-heart-attack-stroke-d"
+        },
+        {
+          "name": "ABC News (Australia) – Study links stopping Ozempic-like drugs with poor heart outcomes",
+          "url": "https://www.abc.net.au/news/health/2026-11-10/type-2-diabetes-heart-attack-stroke-glp1-stop/107342430"
+        }
+      ],
+      "terms": [
+        "Observational study",
+        "Correlation vs causation"
+      ],
+      "title": "Stopping GLP-1 diabetes drugs is linked to double the risk of heart attack, stroke or death in a large Italian study",
+      "what": "A study of 80,302 Italian adults with type 2 diabetes and no known heart disease, published on 10 November in The Lancet Regional Health – Europe, found that about 4 in 100 people who stopped their GLP-1 medicine per year had a heart attack, stroke or died, against about 2 in 100 who continued (Euronews; ABC Australia). About 60% of participants stopped. Most used older GLP-1 drugs such as liraglutide and dulaglutide; few used semaglutide (Ozempic, Wegovy) and tirzepatide (Mounjaro) was not included.",
+      "why": "The study is observational, so it cannot show that stopping causes the higher risk: people may stop because they are already sicker, and the reasons for stopping were not recorded. Lead author Antonio Ceriello suggested the drugs may protect the heart directly; independent experts quoted by ABC said the conclusion could be misleading without knowing why people stopped."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "The case shows how editing choices can become legal and political battles, and why trust in public broadcasters depends on careful, transparent corrections.",
+      "id": "trump-bbc-lawsuit",
+      "importance": 2,
+      "markets": [],
+      "rank": 19,
+      "rankWhy": "A $10 billion defamation case by a sitting president against a public broadcaster is a test for press freedom and media accountability on both sides of the Atlantic.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Reuters via CP24 – US judge says Trump's BBC case can proceed",
+          "url": "https://www.cp24.com/news/world/2026/11/11/us-judge-says-trumps-us10-billion-bbc-defamation-case-can-proceed/"
+        },
+        {
+          "name": "NBC News – Trump's BBC defamation case can proceed",
+          "url": "https://www.nbcnews.com/politics/trump-administration/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed-rcna608707"
+        }
+      ],
+      "terms": [
+        "Defamation",
+        "Actual malice"
+      ],
+      "title": "US judge lets Trump's $10 billion defamation lawsuit against the BBC go ahead",
+      "what": "US District Judge Jeffrey Kuntz in Florida declined on Tuesday to dismiss President Trump's defamation claim against the BBC over a Panorama documentary that edited his 6 January 2021 speech, but threw out a separate unfair-trade-practices claim (Reuters via CP24). The ruling does not decide whether Trump's claims are true; the judge found he had plausibly alleged reputational harm. The BBC has admitted the edit was misleading and apologised, but denies it was defamatory. Trump called the ruling a 'huge victory'.",
+      "why": "Defamation means a false statement that damages someone's reputation; in the US a public figure must also show 'actual malice', meaning the publisher knew it was false or recklessly ignored the truth. The judge said the claim that the BBC knew or should have known the clip was misleading was plausible enough to proceed."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Arson and photographing of military sites are reported to the police and ABW; the case is a reminder that sabotage can look like ordinary crime.",
+      "id": "abw-ukrainians-spying",
+      "importance": 2,
+      "markets": [],
+      "rank": 20,
+      "rankWhy": "Another case of Russia allegedly hiring foreigners for sabotage in Poland, part of a pattern that shapes Polish security policy.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Polsat News – ABW detains Ukrainians suspected of spying",
+          "url": "https://www.polsatnews.pl/wiadomosc/2026-11-10/abw-zatrzymala-ukraincow-podejrzanych-o-szpiegostwo-rozpoznawali-i-robili-zdjecia/"
+        },
+        {
+          "name": "Notes from Poland – Two Ukrainians charged with spying and sabotage",
+          "url": "https://notesfrompoland.com/2026/11/10/two-ukrainians-charged-with-spying-and-sabotage-for-russia-in-poland/"
+        }
+      ],
+      "terms": [
+        "Sabotage",
+        "Hybrid warfare"
+      ],
+      "title": "Poland charges two Ukrainians with spying and sabotage for Russian intelligence, including setting vehicles on fire",
+      "what": "Poland's Internal Security Agency (ABW) detained two Ukrainian citizens aged 24 and 25 in Mińsk Mazowiecki, who have been charged with espionage and sabotage on behalf of Russian special services and with setting vehicles on fire, said Tomasz Siemoniak, the minister coordinating the special services (Polsat News). Investigators say they photographed critical infrastructure and military sites and changed number plates to resemble those of the Ukrainian army, which could have shifted suspicion onto Ukraine. They were paid partly in cryptocurrency and have been remanded for three months.",
+      "why": "According to investigators, the men were paid for individual tasks, partly in cryptocurrency, and disguising vehicles as Ukrainian could have steered suspicion toward Ukraine and fed tensions between Poles and Ukrainians."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Damage to refineries tightens the global supply of diesel and other fuels, which can nudge prices at European pumps.",
+      "id": "russia-refining-hit",
+      "importance": 2,
+      "markets": [
+        "Diesel",
+        "Brent crude"
+      ],
+      "rank": 21,
+      "rankWhy": "Losing about a third of refining capacity hurts Russia's fuel supply and export income, a key pressure point in the war.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Reuters via Business Standard – Oil rises from 2-month low",
+          "url": "https://www.business-standard.com/amp/markets/commodities/oil-rises-from-2-month-low-as-hormuz-shipping-attacks-offset-truce-hopes-126111100088_1.html"
+        },
+        {
+          "name": "bne IntelliNews – Ukraine's strikes hit refineries representing 30% of capacity",
+          "url": "https://www.intellinews.com/ukraine-s-strikes-hit-russian-refineries-representing-30-of-capacity-as-abu-dhabi-talks-open-483858"
+        }
+      ],
+      "terms": [
+        "Oil refinery"
+      ],
+      "title": "Ukrainian drone strikes have cut Russia's oil-refining capacity by about 30% since late October, industry sources say",
+      "what": "Russia's oil-refining capacity has fallen by about 30% since late October after renewed Ukrainian drone attacks, Reuters reported citing industry sources. bne IntelliNews also reported that strikes hit Russian refineries representing 30% of capacity as the Abu Dhabi talks opened.",
+      "why": "Refineries turn crude oil into petrol, diesel and jet fuel; when they are damaged, Russia must export more crude and less fuel, and can face domestic fuel shortages. Ukraine targets them to reduce the money and fuel available for Russia's war."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Air defence decides whether Ukrainian families have electricity and heating this winter.",
+      "id": "usai-400m-ukraine",
+      "importance": 2,
+      "markets": [
+        "US defence stocks"
+      ],
+      "rank": 22,
+      "rankWhy": "US-funded weapons, above all air-defence missiles, matter for Ukraine's ability to protect cities and power plants this winter.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Ukrinform – Ukraine to receive USD 400M worth of weapons soon",
+          "url": "https://www.ukrinform.net/amp/rubric-defense/4183150-ukraine-to-receive-usd-400m-worth-of-weapons-soon-pentagon-confirms-sienik.html"
+        },
+        {
+          "name": "112.ua – Pentagon confirms $400M under USAI",
+          "url": "https://112.ua/en/pentagon-pidtverdiv-vidilenna-400-mln-dolariv-ukraini-v-mezah-iniciativi-usai-2026-197144"
+        }
+      ],
+      "terms": [
+        "Air defence"
+      ],
+      "title": "Ukraine expects $400 million of US weapons 'in the near future' under the Pentagon's USAI programme",
+      "what": "Ukraine's chargé d'affaires in Washington, Denys Sienik, said the Pentagon confirmed deliveries under the Ukraine Security Assistance Initiative (USAI), for which $400 million was allocated in the past fiscal year, are expected soon (Ukrinform, 10 November). Kyiv's top priority is faster delivery of PAC-3 interceptor missiles for Patriot air-defence systems. The administration told Congress it would not use the full amount at once; funds are to be disbursed in instalments through 2029. Allies next meet in the Ramstein format on 17 November.",
+      "why": "USAI pays US companies to produce new weapons for Ukraine, unlike transfers from existing US stocks. Air defence is critical because Russia is striking Ukraine's power grid as winter approaches."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Tension on the Korean peninsula can affect markets for chips and electronics made in South Korea.",
+      "id": "north-korea-guterres",
+      "importance": 2,
+      "markets": [
+        "Korean won",
+        "Kospi"
+      ],
+      "rank": 23,
+      "rankWhy": "Rising tension on the Korean border after a landmine blast keeps one of the world's most militarised frontiers on edge.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Korea Times – N. Korea rejects UN chief's call for dialogue",
+          "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261110/n-korea-rejects-un-chiefs-call-for-inter-korean-dialogue-after-mine-blast"
+        },
+        {
+          "name": "Anadolu – Morning Briefing 11 Nov 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-11/4119658"
+        }
+      ],
+      "terms": [
+        "Demilitarized Zone (DMZ)"
+      ],
+      "title": "North Korea rejects the UN chief's call to restore talks with the South after a border landmine blast",
+      "what": "Kim Yo-jong, sister of North Korean leader Kim Jong-un, called UN Secretary-General António Guterres 'prejudiced and irresponsible' for urging the two Koreas to restore communication channels, the state agency KCNA reported on Tuesday (Yonhap via Korea Times). A joint South Korean and UN Command investigation found that mines North Korea planted south of the demarcation line caused a 21 September blast that wounded three South Korean soldiers; Pyongyang calls the finding fabricated. She said North Korea's border fortification is lawful self-defence.",
+      "why": "Kim Yo-jong accused Guterres of echoing Seoul's claims and of ignoring US and allied military activity; Seoul has asked the UN Security Council to press Pyongyang to apologise and remove the mines (Korea Times)."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Much of the trade between Asia and Europe passes through Southeast Asian waters, so stability there matters for the goods Europeans buy.",
+      "id": "asean-summit-trump",
+      "importance": 2,
+      "markets": [],
+      "rank": 24,
+      "rankWhy": "The ASEAN summit gathers Southeast Asia's leaders and major powers; the South China Sea code is a long-running test of China's relations with its neighbours.",
+      "region": "Asia-Pacific",
+      "sources": [
+        {
+          "name": "Philstar – Manila to host world leaders for 49th ASEAN summit",
+          "url": "https://www.philstar.com/headlines/2026/11/11/2569423/manila-host-world-leaders-49th-asean-summit"
+        },
+        {
+          "name": "Manila Bulletin – Five days of ASEAN meetings",
+          "url": "https://mb.com.ph/2026/11/11/manila-to-host-five-days-of-asean-meetings-partner-summits-and-chairship-turnover"
+        }
+      ],
+      "terms": [
+        "ASEAN",
+        "Code of conduct"
+      ],
+      "title": "Trump confirmed for an ASEAN–US summit in Manila on 17 November; a South China Sea code of conduct is high on the agenda",
+      "what": "The Philippines' foreign ministry confirmed on 11 November that President Trump will attend an ASEAN–US special summit on 17 November during the 49th ASEAN summit in Manila, before travelling to China for the APEC summit in Shenzhen (Philstar). Chinese President Xi Jinping is not expected; Premier Li Qiang customarily leads China's delegation. Concluding a code of conduct for the South China Sea was a key goal of the Philippine chairmanship, but it is unclear whether it will be finished by the end-2026 deadline. Myanmar's junta leaders remain excluded.",
+      "why": "China claims most of the South China Sea, overlapping with claims by the Philippines, Vietnam and others; a binding code would set rules for behaviour at sea. Observers quoted by Philstar say Beijing has repeatedly blocked making it legally binding."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Climate finance debates at COP31 are partly about who pays to protect the most exposed people.",
+      "id": "un-women-climate",
+      "importance": 2,
+      "markets": [],
+      "rank": 25,
+      "rankWhy": "Highlights that climate damage falls hardest on poorer women and girls, a theme in the COP31 talks.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Anadolu – Morning Briefing 11 Nov 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-11/4119658"
+        }
+      ],
+      "terms": [
+        "Climate vulnerability"
+      ],
+      "title": "UN Women: more than 1.5 billion women and girls live where climate hazards meet poverty and gender inequality",
+      "what": "UN Women warned that more than 1.5 billion women and girls, over a third of the total, live in places where climate hazards overlap with economic insecurity and gender inequality (Anadolu, 11 November). The warning comes as leaders meet at the COP31 climate summit.",
+      "why": "The warning points to an overlap of three risks: exposure to climate hazards, lack of money to recover, and unequal rights. People with fewer savings and resources find it harder to rebuild after droughts or floods."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "A 50-litre tank of diesel at the cap costs 383 zł, against 305 zł for the same amount of Pb95.",
+      "id": "poland-fuel-max-prices",
+      "importance": 2,
+      "markets": [
+        "Orlen",
+        "Diesel"
+      ],
+      "rank": 26,
+      "rankWhy": "Fuel prices affect every Polish driver and the cost of transporting goods.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Strefa Inwestorów (PAP Biznes) – Skrót wiadomości 10 listopada, 21:00",
+          "url": "https://strefainwestorow.pl/wiadomosci/20261110/skrot-wiadomosci-wtorek-10-listopada-2100"
+        }
+      ],
+      "terms": [
+        "Price cap"
+      ],
+      "title": "Poland's maximum fuel prices for 11–12 November: petrol 95 at 6.10 zł a litre, diesel at 7.66 zł",
+      "what": "The maximum prices set for 11–12 November are 6.10 zł per litre for Pb95 petrol, 6.70 zł for Pb98 and 7.66 zł for diesel, PAP Biznes reported on Tuesday.",
+      "why": "Fuel prices follow crude oil, priced in dollars, and the dollar–złoty exchange rate with a lag; Brent is near $92 a barrel this morning. The report does not explain why diesel is so much dearer than petrol."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "Good data is invisible when it works: where deaths are fully recorded, statistics quickly reveal flu waves or heatwave deaths.",
+      "id": "who-africa-health-data",
+      "importance": 2,
+      "markets": [],
+      "rank": 27,
+      "rankWhy": "Without counting deaths and their causes, governments cannot see epidemics like Ebola and cholera early or measure whether health policies work.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "allAfrica – All of Africa Today, 11 November 2026",
+          "url": "https://allafrica.com/stories/202611110253.html"
+        }
+      ],
+      "terms": [
+        "Civil registration"
+      ],
+      "title": "WHO: fewer than half of 40 African countries record at least 80% of deaths",
+      "what": "A WHO report covering 40 countries found that fewer than half notify authorities of at least 80% of deaths, and only 21 record causes for a similar share of registered deaths (allAfrica, 11 November). Forty-three of WHO's 47 African member states have adopted digital platforms for health data. The findings were presented at the first African Health Data Forum in Nairobi; WHO said responsible use of AI needs legislation and safeguards.",
+      "why": "Civil registration (recording births, deaths and causes) is the basis of public-health statistics; gaps mean outbreaks and rising diseases can go unseen."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Business sentiment often moves before hiring and investment decisions.",
+      "id": "poland-pie-sentiment",
+      "importance": 1,
+      "markets": [
+        "WIG20"
+      ],
+      "rank": 28,
+      "rankWhy": "A monthly survey of business sentiment; a small signal about the Polish economy.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Strefa Inwestorów (PAP Biznes) – Skrót wiadomości 10 listopada, 21:00",
+          "url": "https://strefainwestorow.pl/wiadomosci/20261110/skrot-wiadomosci-wtorek-10-listopada-2100"
+        },
+        {
+          "name": "Strefa Inwestorów – NBP raises inflation forecasts for 2027",
+          "url": "https://strefainwestorow.pl/gospodarka/projekcja-inflacji-nbp-listopad-2026"
+        }
+      ],
+      "terms": [
+        "Sentiment index"
+      ],
+      "title": "Polish business sentiment index falls 3.1 points in November",
+      "what": "The Polish Economic Institute's Monthly Business Sentiment Index (MIK) fell by 3.1 points to 99.3 in November, PAP Biznes reported on Tuesday.",
+      "why": "The fall suggests firms became more cautious. It comes after the National Bank of Poland's November projection raised its 2027 inflation forecast to 4.2% from 2.7% (Strefa Inwestorów)."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Group layoffs (zwolnienia grupowe) are announced in advance, giving staff and unions time to negotiate terms.",
+      "id": "bnp-poland-layoffs",
+      "importance": 1,
+      "markets": [
+        "BNP Paribas Bank Polska"
+      ],
+      "rank": 29,
+      "rankWhy": "Affects up to 400 bank employees; part of a wider trend of banks cutting branch and back-office jobs.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Strefa Inwestorów (PAP Biznes) – Skrót wiadomości 10 listopada, 21:00",
+          "url": "https://strefainwestorow.pl/wiadomosci/20261110/skrot-wiadomosci-wtorek-10-listopada-2100"
+        }
+      ],
+      "terms": [
+        "Group layoffs"
+      ],
+      "title": "BNP Paribas Bank Polska plans group layoffs of up to 400 people in 2027–2029",
+      "what": "BNP Paribas Bank Polska announced group layoffs covering up to 400 employees between 2027 and 2029, PAP Biznes reported on Tuesday.",
+      "why": "The report read for this edition does not give the bank's reasons."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "A divided US government usually means fewer big laws and more fights over budgets.",
+      "id": "us-senate-thune",
+      "importance": 1,
+      "markets": [],
+      "rank": 30,
+      "rankWhy": "Sets the Republican leader for the next Senate, where Democrats will hold the majority from January.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Anadolu – Morning Briefing 11 Nov 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-11/4119658"
+        },
+        {
+          "name": "CBS News – Congress live updates as GOP picks House and Senate leaders",
+          "url": "https://www.cbsnews.com/live-updates/congress-today-senate-house-leadership-elections/"
+        }
+      ],
+      "terms": [
+        "Filibuster"
+      ],
+      "title": "Senate Republicans re-elect John Thune as their leader; he will be minority leader when Democrats take over in January",
+      "what": "Senate Republicans re-elected John Thune as their leader on Tuesday; he will become minority leader when Democrats take control of the Senate in January after the midterm elections (Anadolu; CBS News).",
+      "why": "Party leaders in the Senate organise their side's votes and negotiate which bills reach the floor."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Automated tools help, but how far platforms may scan private content is debated in many countries because of privacy.",
+      "id": "korea-ai-abuse-detection",
+      "importance": 1,
+      "markets": [],
+      "rank": 31,
+      "rankWhy": "A practical use of AI to protect children online; affects mainly South Korea.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Anadolu – Morning Briefing 11 Nov 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-11/4119658"
+        }
+      ],
+      "terms": [
+        "Content moderation"
+      ],
+      "title": "South Korea deploys an AI system that sharply increases detection of child sexual abuse material online",
+      "what": "South Korea's Gender Equality and Family Ministry said it has deployed an AI system to detect and remove online child sexual abuse material, increasing the daily detection rate nearly tenfold (Anadolu, 11 November).",
+      "why": "Automated detection lets small teams find and take down illegal material far faster than manual review."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "If an online contact claims to be someone famous or refuses a live, unedited video call, treat it as a likely scam.",
+      "id": "gruffudd-ai-impersonation",
+      "importance": 1,
+      "markets": [],
+      "rank": 32,
+      "rankWhy": "A personal case, but a clear example of how AI-generated fakes are used for romance scams.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Anadolu – Morning Briefing 11 Nov 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-11/4119658"
+        }
+      ],
+      "terms": [
+        "Deepfake"
+      ],
+      "title": "Actor Ioan Gruffudd warns fans after a woman was deceived for over a year by an AI impersonation of him",
+      "what": "Welsh actor Ioan Gruffudd warned fans after a woman at a fan convention said she had believed she was in a relationship with him for more than a year; he said she showed him AI-generated images and videos of someone impersonating him (Anadolu, 11 November).",
+      "why": "Generative AI makes convincing fake photos, videos and voices cheap to produce, which scammers use to build trust before asking for money or personal data."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "A reminder that one driver error or vehicle fault can affect dozens of people at once.",
+      "id": "bundang-bus-crash",
+      "importance": 1,
+      "markets": [],
+      "rank": 33,
+      "rankWhy": "A serious road accident with local impact.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "SBS – Major News Headlines, 11 November 2026",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008840930"
+        }
+      ],
+      "terms": [],
+      "title": "South Korea: a city bus hits about 30 cars at a traffic light in Bundang, injuring more than 50 people",
+      "what": "A city bus crashed into about 30 vehicles stopped at a traffic light in Bundang, Gyeonggi Province, on Wednesday morning; more than 50 people were reported injured, nine of them seriously, broadcaster SBS reported.",
+      "why": "The cause was under investigation in the report read for this edition."
+    }
+  ],
+  "watch": [
+    "Russia–Ukraine–US talks in Abu Dhabi, day two: Wednesday 11 November. Watch for a date and size of the prisoner exchange and any plan for a leaders' meeting.",
+    "Poland: Independence Day, Wednesday 11 November (public holiday; Warsaw Stock Exchange closed). The right-wing Independence March in Warsaw starts in the early afternoon; President Karol Nawrocki has said he will take part.",
+    "COP31 leaders' summit in Antalya, Türkiye: opening session with President Erdoğan and UN Secretary-General Guterres on Wednesday 11 November at 12:15 local time = 10:15 Warsaw; national statements from 14:30 local = 12:30 Warsaw; continues Thursday 12 November.",
+    "Allegro third-quarter results: Thursday 12 November (Strefa Inwestorów calendar), the first Warsaw trading day after the holiday.",
+    "Argentina's October inflation (Indec): Thursday 12 November; markets expect about 1.8% for the month (Rio Times).",
+    "US producer prices (PPI) for October: Friday 13 November, 08:30 New York = 14:30 Warsaw (BLS schedule). The Fed's next rate decision is on 8–9 December.",
+    "Coming up: ASEAN summit in Manila from Sunday 15 November, with an ASEAN–US summit attended by President Trump on 17 November; Ramstein-format meeting on aid to Ukraine on 17 November.",
+    "Developing: Strait of Hormuz shipping attacks and US–Iran contacts via Qatar; Nvidia's board investigation; Congo's Ebola and cholera outbreaks; Israeli coalition talks (mandate to 6 December)."
+  ],
+  "window": "Tue 10 Nov 20:00 → Wed 11 Nov 10:00 (Warsaw time)",
+  "id": "2026-11-11-1000",
+  "updatedAt": "2026-11-11T09:15:54.594967Z"
+}

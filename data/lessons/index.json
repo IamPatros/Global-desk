@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T19:18:53Z",
+  "updated": "2026-11-11T09:16:29Z",
   "lessons": [
     {
       "number": 1,
@@ -104,6 +104,14 @@
       "date": "10 Nov 2026",
       "createdAt": "2026-11-10T20:30:00Z",
       "updatedAt": "2026-11-10T19:13:31.96606Z"
+    },
+    {
+      "number": 14,
+      "title": "Government budgets, debt and deficits",
+      "level": "Core",
+      "date": "11 Nov 2026",
+      "createdAt": "2026-11-11T09:10:51Z",
+      "updatedAt": "2026-11-11T09:11:56.814022Z"
     }
   ]
 }
