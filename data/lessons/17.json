@@ -1,0 +1,263 @@
+{
+  "checkQuestions": [
+    {
+      "a": "Index providers judge stock markets, not living standards, and each uses its own criteria for size, liquidity and accessibility for foreign investors. FTSE Russell decided in 2018 that Poland met its developed criteria; MSCI still sees accessibility issues (for example limited English disclosure and no nominee status) and has not upgraded it. The World Bank, using income alone, already counts Poland as high-income.",
+      "q": "Explain why Poland can be classified as 'developed' by FTSE Russell but 'emerging' by MSCI at the same time."
+    },
+    {
+      "a": "Expected higher US rates make dollar assets pay more → investors move money from riskier markets to the US (push factor) → they sell złoty assets and buy dollars → the dollar strengthens and USD/PLN rises → investors also sell Polish bonds, pushing their prices down and their yields up (Lesson 8). A weaker złoty also raises import prices, which can keep inflation and rates higher.",
+      "q": "Trace, step by step, how an expected Fed rate rise can weaken the złoty and raise Polish bond yields."
+    },
+    {
+      "a": "Because of currency mismatch: the firm earns local currency, so if the local currency falls, the debt and interest grow in local terms without any new borrowing. If foreign lenders also stop rolling over loans (a sudden stop), the firm may be unable to pay even if its business is healthy. In local currency, a depreciation does not change the size of the debt.",
+      "q": "Why are debts in foreign currency more dangerous for an emerging-market firm than debts in its own currency?"
+    },
+    {
+      "a": "When capital per worker is low, each new investment adds a lot of output and copying existing technology brings big gains. As Poland accumulates capital and adopts the best technology, each extra investment adds less, and future growth must come from genuine innovation and productivity gains, which are harder to achieve. So the growth gap with richer countries naturally narrows.",
+      "q": "Using the idea of diminishing returns, explain why Poland's growth is likely to slow as it approaches the EU average income."
+    },
+    {
+      "a": "According to the Dallas Fed study, countries with low foreign-exchange reserves relative to their needs saw currency falls of nearly 15% and had to raise rates sharply, while better-protected countries lost about 2%. Countries relying on foreign money to fund current-account deficits (the 'Fragile Five') were most exposed because outflows directly threatened their financing.",
+      "q": "In 2013, why did some emerging markets suffer much more than others from the same Fed signal?"
+    }
+  ],
+  "createdAt": "2026-11-12T20:30:00Z",
+  "date": "12 Nov 2026",
+  "editionId": "2026-11-12-2000",
+  "intro": "'Emerging markets' are where most of the world's people live and where most of its growth now comes from, but the label hides huge differences and has no single official definition. In this lesson you will learn who decides whether a country is 'emerging' and why Poland is counted as emerging by some and developed by others, why poorer economies can grow faster, and why investors demand higher interest rates to lend to them. You will then trace how a stronger dollar and higher US interest rates, like this week's, pull money out of emerging markets, and calculate why debts in foreign currency are so dangerous. By the end you should be able to read a headline about the złoty, the peso or the rupee and explain the mechanism behind it.",
+  "lessonQuiz": [
+    {
+      "answer": 1,
+      "explain": "Index providers use separate criteria; FTSE upgraded Poland in 2018, S&P DJI announced its upgrade in August 2026, and MSCI keeps it in emerging markets. The World Bank lists Poland as high-income.",
+      "options": [
+        "MSCI, FTSE Russell and S&P Dow Jones Indices all classify Poland as a developed market",
+        "FTSE Russell classifies Poland as developed, S&P Dow Jones Indices has announced an upgrade effective September 2027, and MSCI still classifies it as emerging",
+        "The World Bank classifies Poland as upper-middle income, which is why MSCI calls it emerging",
+        "The IMF decides which countries index funds must treat as emerging markets"
+      ],
+      "q": "Which statement about Poland's classification is correct as of November 2026?"
+    },
+    {
+      "answer": 2,
+      "explain": "6.19 − 3.31 = 2.88 percentage points; 1 percentage point = 100 basis points, so 288 bp.",
+      "options": [
+        "2.88 basis points",
+        "28.8 basis points",
+        "288 basis points",
+        "0.288 percentage points"
+      ],
+      "q": "Poland's 10-year yield is 6.19% and Germany's is 3.31%. What is the spread?"
+    },
+    {
+      "answer": 3,
+      "explain": "1.0619 × 0.97 = 1.0300, so about 3.0%. The currency loss eats most of the extra yield.",
+      "options": [
+        "9.2%",
+        "6.19%",
+        "2.5%",
+        "3.0%"
+      ],
+      "q": "A German investor earns 6.19% in złoty on a Polish bond, but the złoty falls 3% against the euro over the year. Approximately what is the return in euros?"
+    },
+    {
+      "answer": 0,
+      "explain": "10m × 3.60 = 36.0m zł; 10m × 3.98 = 39.8m zł; 39.8 ÷ 36.0 − 1 ≈ 10.6%. A higher USD/PLN means a weaker złoty.",
+      "options": [
+        "It rises by about 10.6%, from 36.0 million zł to 39.8 million zł",
+        "It falls by about 9.5%, because the złoty is stronger",
+        "It is unchanged, because the firm has not borrowed more dollars",
+        "It rises by 0.38%"
+      ],
+      "q": "A firm owes $10 million and USD/PLN rises from 3.60 to 3.98. What happens to its debt in złoty?"
+    },
+    {
+      "answer": 2,
+      "explain": "This is the 'push' factor seen in 2013 and this week: higher expected US rates push money out of emerging markets and back into dollar assets, weakening emerging currencies.",
+      "options": [
+        "US yields fall → money flows into emerging markets → emerging currencies strengthen",
+        "The Fed buys emerging-market bonds → their yields fall",
+        "Dollar assets pay more → money leaves emerging markets → their currencies weaken and local yields rise",
+        "Emerging-market central banks must cut rates to match the Fed"
+      ],
+      "q": "Markets start to expect the Fed to raise rates. Which chain is the most likely?"
+    },
+    {
+      "answer": 0,
+      "explain": "Diminishing returns to capital and technology catch-up are the core of convergence; inflation raises nominal, not real, GDP (Lesson 9).",
+      "options": [
+        "Because capital is scarce, so each new investment adds a lot of output, and they can copy existing technology",
+        "Because their governments always spend more",
+        "Because their currencies are weaker, which automatically raises GDP",
+        "Because inflation is higher, which raises real GDP"
+      ],
+      "q": "Why do poorer economies tend to grow faster than rich ones, other things equal?"
+    },
+    {
+      "answer": 2,
+      "explain": "Countries with low reserve adequacy saw currency falls of nearly 15% and big rate rises; those with stronger reserves lost about 2%.",
+      "options": [
+        "Whether they were in Asia or Latin America",
+        "Whether their stock markets were in the MSCI index",
+        "The adequacy of their foreign-exchange reserves",
+        "Whether they had elections that year"
+      ],
+      "q": "In the 2013 taper tantrum, what separated the worst-hit emerging markets from the least affected, according to the Dallas Fed study?"
+    },
+    {
+      "answer": 3,
+      "explain": "That is currency mismatch: dollar debts grew in baht terms overnight, and lenders stopped rolling them over (a sudden stop).",
+      "options": [
+        "Because a weaker baht made Thai exports too expensive",
+        "Because a weaker currency always causes deflation",
+        "Because the central bank printed too many dollars",
+        "Because banks and firms that had borrowed in dollars suddenly owed far more in baht than their baht income could cover"
+      ],
+      "q": "Thailand defended a fixed exchange rate until July 1997, then the baht collapsed. Why did this cause a banking crisis?"
+    },
+    {
+      "answer": 1,
+      "explain": "The dollar's role as the world's borrowing currency means a stronger dollar raises the local cost of dollar debts, and investors pull money from riskier currencies first.",
+      "options": [
+        "Because emerging markets cannot trade in euros",
+        "Because many emerging-market firms and governments borrow in dollars and their currencies are seen as riskier, so a strong dollar both enlarges debts and triggers outflows",
+        "Because the dollar is not used in Europe",
+        "Because Germany has higher inflation"
+      ],
+      "q": "Linking to Lesson 16: why is an emerging-market country more exposed to a stronger dollar than Germany is?"
+    },
+    {
+      "answer": 1,
+      "explain": "Real yield ≈ nominal yield − expected inflation (Lesson 8); 6.19 − 3.5 ≈ 2.7 points is a rough approximation using current, not expected, inflation.",
+      "options": [
+        "The real yield is negative, so lenders lose money",
+        "Using current inflation as a rough guide, lenders expect a real return of around 2.7 percentage points, though true real yields depend on expected future inflation",
+        "The yield is high only because Poland is likely to default",
+        "Inflation and yields are unrelated"
+      ],
+      "q": "Linking to Lessons 6 and 8: Poland's inflation is 3.5% and its 10-year yield 6.19%. Which statement is the best interpretation?"
+    },
+    {
+      "answer": 3,
+      "explain": "Borrowing in one's own currency avoids mismatches, and a floating rate absorbs shocks instead of breaking suddenly.",
+      "options": [
+        "A large current-account deficit financed by short-term foreign loans",
+        "Borrowing mainly in foreign currency",
+        "A fixed exchange rate defended with small reserves",
+        "Deep local-currency bond markets and a floating exchange rate"
+      ],
+      "q": "Which of these makes an emerging market LESS vulnerable to a sudden stop?"
+    },
+    {
+      "answer": 0,
+      "explain": "81 × (1.03/1.01)^t = 90 → t = ln(90/81) ÷ ln(1.0198) ≈ 0.1054 ÷ 0.0196 ≈ 5.4 years.",
+      "options": [
+        "About 5.4 years",
+        "About 2 years",
+        "About 9 years",
+        "About 18 years"
+      ],
+      "q": "Assume Polish GDP per person grows 3% a year and the EU average 1% (hypothetical). Starting at 81% of the EU average, about how long until Poland reaches 90%?"
+    }
+  ],
+  "level": "Core",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "'Emerging market' is an official status, like EU membership.",
+      "truth": "There is no single definition. The IMF, the World Bank and index providers use different criteria, which is why Poland is high-income for the World Bank, developed for FTSE Russell, but still emerging for MSCI."
+    },
+    {
+      "myth": "Faster growth means an emerging market's shares or bonds will give higher returns.",
+      "truth": "Expected growth is usually already in prices, and returns for foreign investors also depend on the currency. A 6% bond can return less than a 3% one if the currency falls enough."
+    },
+    {
+      "myth": "A higher bond yield means a country is about to default.",
+      "truth": "Yields include expected inflation, policy rates, currency risk and liquidity. Poland's 10-year yield is higher than Germany's mainly for these reasons, not because a default is expected."
+    },
+    {
+      "myth": "When an emerging-market currency falls, it must be because that country did something wrong.",
+      "truth": "Often the cause is global: higher US rates and a stronger dollar push money out of many emerging markets at once (the 'push' factor), as in 2013 and this week."
+    },
+    {
+      "myth": "Poor countries automatically catch up with rich ones.",
+      "truth": "Convergence is conditional on institutions, education, investment and stability. Many countries stall at middle income; Poland's catch-up since 1995 is a success, not a law of nature."
+    }
+  ],
+  "number": 17,
+  "objectives": [
+    "Explain why there is no single definition of an 'emerging market' and compare how the IMF, the World Bank and stock-index providers (MSCI, FTSE Russell, S&P Dow Jones Indices) classify Poland.",
+    "Explain the mechanism of catch-up (convergence) growth and why it slows as a country gets richer, using Poland's rise from 44% to 81% of the EU average income (in purchasing-power terms) between 1995 and 2025.",
+    "Calculate a yield spread in percentage points and basis points (e.g. Polish versus German 10-year bonds) and break it into its likely components: inflation, policy rates, currency risk, fiscal risk and liquidity.",
+    "Calculate how a fall in the local currency raises the burden of foreign-currency debt, and explain the term 'currency mismatch'.",
+    "Trace the chain from higher expected US interest rates to capital outflows, weaker emerging-market currencies and higher local interest rates, using the 2013 'taper tantrum' as evidence.",
+    "Evaluate which defences (floating exchange rates, reserves, credible central banks, local-currency borrowing) make an emerging market more resilient, and why emerging markets are not one bloc."
+  ],
+  "recap": "Lesson 16 showed that the dollar is the world's main currency for trade, borrowing and reserves, so when the Federal Reserve is expected to raise rates the dollar strengthens and the effect spreads abroad through import prices, dollar debts and capital flows. Lesson 8 explained that a bond's yield is the return a lender demands, and Lessons 6 and 7 that inflation and central-bank rates drive it. Lesson 9 introduced GDP and growth. This lesson applies all of these to a group of countries that are especially exposed to the dollar cycle: emerging markets.",
+  "sections": [
+    {
+      "body": "The phrase 'emerging market' was coined in the investment world in the 1980s to describe developing countries whose financial markets were opening to foreign investors, and it still means different things to different institutions. The IMF's World Economic Outlook splits the world into 'advanced economies' and 'emerging market and developing economies' (EMDEs), using judgement about income, diversification of exports and integration into global finance. The World Bank instead sorts countries purely by gross national income (GNI) per person: for its current fiscal year 2027, 'high income' means more than $14,375 per person (Atlas method, 2025 data), and Poland is on its high-income list (World Bank data help desk, read 12 Nov 2026). Stock-index providers use a third rulebook, based on the size and liquidity of the stock market and how easy it is for foreigners to invest (for example, ease of moving money in and out, quality of disclosure in English, and settlement rules). That is why Poland can be 'emerging' and 'developed' at the same time: FTSE Russell moved Poland to developed status in 2018, S&P Dow Jones Indices announced in August 2026 that Poland will move to developed status at its September 2027 rebalancing, while MSCI still classifies Poland as an emerging market (IntelliNews, 24 Aug 2026, on the S&P Dow Jones Indices decision; QNB analysis, 17 Oct 2026; MSCI 2026 Global Market Accessibility Review). MSCI's 2026 accessibility review still lists issues for Poland such as limited company information in English and no recognised 'nominee' account status. The label matters in practice because trillions of dollars in index funds follow these lists automatically: when a country moves from an emerging to a developed index, funds tracking the emerging index must sell and funds tracking the developed index buy, and the two flows are not the same size. Simplification alert: 'emerging market' is a convenient bucket, not an economic law; within it you find a country of 1.4 billion people (India) next to small economies, and rich-but-closed markets next to poorer-but-open ones.",
+      "heading": "1. What is an 'emerging market'? Three different rulebooks"
+    },
+    {
+      "body": "From Lesson 9, GDP grows when an economy has more workers, more capital (machines, buildings, infrastructure) or better technology and organisation (productivity). A poorer country has less capital per worker, so each extra machine or road adds a lot of output: this is the idea of diminishing returns to capital, meaning the first tractor on a farm raises output far more than the tenth. Poorer countries can also copy technology and management methods that richer countries have already invented, which is cheaper than inventing them, and they can move workers from low-productivity farming to factories and services. Together these forces produce 'convergence': other things equal, poorer economies tend to grow faster and close the income gap. The IMF's October 2026 World Economic Outlook projects growth of 3.7% in 2026 for emerging market and developing economies against 2.1% for advanced economies (as reported by The Week, 13 Oct 2026). Poland is a textbook example: Eurostat data show its GDP per person in purchasing power standards (PPS, which adjust for price differences between countries) rose from 44% of the EU average in 1995 to 81% in 2025, its highest ever (Notes from Poland, 26 Mar 2026). But convergence is conditional, not automatic: it requires stable institutions, education, open trade and investment, and many countries have stalled at middle income, a pattern economists call the 'middle-income trap' (the term is debated, but the stalls are real). And as a country gets richer, the easy gains run out, so growth naturally slows unless productivity keeps rising: closing the last 20 points of the gap is harder than the first 20.",
+      "heading": "2. Why poorer economies can grow faster: catch-up growth"
+    },
+    {
+      "body": "Lenders to emerging-market governments usually demand higher interest rates than lenders to Germany or the US. A 'spread' is the difference between two yields; it is quoted in percentage points or in basis points (1 basis point = 0.01 percentage point, so 1 percentage point = 100 bp). On 11 November 2026 Poland's 10-year government bond yielded 6.19% and Germany's about 3.31% (Trading Economics), a spread of 2.88 percentage points, or 288 bp. That spread can be broken into likely components, although they cannot be measured exactly: (a) expected inflation, since Polish inflation (3.5% flash estimate for October, against the NBP's 2.5% ±1 point target) is higher than in the euro area; (b) the policy rate, since the NBP reference rate is 3.75%; (c) currency risk, because a foreign lender is repaid in złoty and the złoty could fall; (d) fiscal risk, since Poland's budget deficit was about 7.2–7.3% of GDP in 2025 (Eurostat figure in Lesson 14; QNB cites 7.3%), among the highest in the EU; and (e) liquidity, because Polish bonds trade less than German ones. The key mechanism: a yield is a price of risk and time, so anything that raises the chance of losses, inflation or a weaker currency makes lenders ask for more. Note that Poland's government borrows mostly in its own currency (about 80% of State Treasury debt was in złoty in July 2026, according to the Ministry of Finance), so the spread against Germany mixes credit risk with currency and inflation differences; for countries that borrow in dollars, analysts often compare dollar bonds with US Treasuries to isolate credit risk. Limits: spreads also move with global mood, so a spread can widen even when nothing changes in the country itself.",
+      "heading": "3. Higher risk, higher yield: reading an emerging-market bond spread"
+    },
+    {
+      "body": "International investors move money between countries according to 'pull' factors (conditions in the emerging market itself, such as growth, inflation and political stability) and 'push' factors (conditions in rich countries, especially US interest rates and global risk appetite). When US rates are low, a 5% or 6% yield in an emerging market looks attractive, money flows in, the local currency strengthens and borrowing gets cheaper. When US rates are expected to rise, as this week when markets priced a December Fed hike as almost certain (about 90–100% odds, depending on the source), the push reverses: dollar assets pay more, so money flows back, emerging currencies weaken and local yields rise. The best-known example is the 2013 'taper tantrum': after Fed Chairman Ben Bernanke said on 22 May 2013 that the Fed could slow its bond purchases, emerging-market currencies fell about 6% against the dollar over four months, according to a 2021 Dallas Fed study. The damage was uneven: countries with weak foreign-exchange reserves lost nearly 15% and had to raise interest rates by more than 1 percentage point, while better-protected countries lost about 2%. Analysts at the time grouped Brazil, India, Indonesia, Turkey and South Africa as the 'Fragile Five' because they relied on foreign money to finance current-account deficits (Lesson 13: a country that imports more than it exports must borrow or attract investment from abroad). This is the same mechanism as Lesson 16's 'global dollar cycle', seen from the receiving end.",
+      "heading": "4. Push and pull: why money flows in and out"
+    },
+    {
+      "body": "A currency mismatch exists when a borrower earns in one currency but owes in another, for example a firm selling in złoty but repaying a dollar loan. If the local currency falls, the debt grows in local-currency terms even though nothing else has changed, and so do the interest payments. Economists Barry Eichengreen and Ricardo Hausmann called the inability of many poorer countries to borrow abroad in their own currency 'original sin', because it forces them into mismatches. The Asian financial crisis of 1997–98 shows the danger: after Thailand stopped defending the baht's fixed exchange rate in July 1997, the currency collapsed, banks and firms with dollar debts suddenly owed far more in baht, and the crisis spread to Indonesia, South Korea and others. A sudden stop, when foreign lending dries up all at once, turns a weak currency into a liquidity crisis, and possibly a solvency crisis, because maturing dollar debts cannot be rolled over. The same mechanism hit households: Polish households with Swiss-franc mortgages taken before 2008 saw their debts jump in złoty when the franc strengthened, a long-running legal and social issue. The lesson is that the currency of a debt matters as much as its size.",
+      "heading": "5. Currency mismatch and 'original sin'"
+    },
+    {
+      "body": "Several features make an emerging market more resilient to shocks. A floating exchange rate acts as a shock absorber: the currency can weaken a little, making exports cheaper, instead of the central bank burning reserves to defend a fixed rate until it breaks (as Thailand did in 1997). Foreign-exchange reserves, a central bank's holdings of foreign currencies and gold, let it smooth disorderly moves and reassure lenders; the Dallas Fed study found reserve adequacy separated the winners from the losers in 2013. A credible, independent central bank with an inflation target (in Poland, 2.5% ±1 point, set by the Monetary Policy Council, RPP) keeps inflation expectations anchored, so a weaker currency causes less lasting inflation. Borrowing in local currency, through deep domestic bond markets, avoids currency mismatches. Membership of larger structures helps too: Poland's EU membership gives access to the single market and EU funds, which supports investment and investor confidence. None of these is a guarantee: a big enough shock, such as a war or a sudden change in global rates, can still hit even well-run economies, as the złoty's slide against a broadly stronger dollar this autumn shows (against the euro it barely moved).",
+      "heading": "6. Defences: why some emerging markets cope better"
+    },
+    {
+      "body": "Poland combines features of both groups. On the developed side: the World Bank rates it high-income, its GDP per person in purchasing-power terms reached 81% of the EU average in 2025, its nominal GDP is above $1 trillion and it grew 3.6% in 2025, one of the faster rates in the EU (Notes from Poland; QNB). On the emerging side: MSCI still classifies its stock market as emerging, its bond yields and inflation are higher than in the euro area, and its currency is more volatile than the euro, so foreign investors treat złoty assets as riskier. Foreign investors accounted for a record 73% of trading on the Warsaw Stock Exchange's main market in the first half of 2026 (QNB), which shows both how attractive and how exposed the market is to shifts in global money. An upgrade by MSCI, which the Warsaw exchange hopes for within three to five years (Euronews, Oct 2025), would move Poland from the emerging into the developed category used by many big funds. Because Polish shares are large within the emerging index but would be small within the developed one, analysts disagree about whether such a switch brings net buying or net selling; the evidence from past upgrades is mixed. A useful way to think about Poland is as an economy that has largely 'emerged' in income terms but whose financial markets are still priced partly as emerging.",
+      "heading": "7. Poland: emerging, developed, or both?"
+    },
+    {
+      "body": "Emerging markets react to the same global forces in different ways because their starting points differ. This week, the dollar's rise to a 19-month high pushed USD/PLN to about 3.98 and Mexico's peso to about 18.63 per dollar, while India's inflation jumped to 6.09%, above the top of its central bank's 2–6% tolerance band, mostly because of food prices after a weak monsoon. Mexico's risk is trade policy (a threat to double US tariffs), India's is food inflation, and Poland's is mainly fiscal and geopolitical; a single 'emerging markets' headline hides all of this. When reading news, ask four questions: Is the shock global (US rates, the dollar, oil) or local (an election, a harvest, a budget)? Does the country borrow in its own currency or in dollars? How large are its reserves and how credible is its central bank? Does it import or export the commodity whose price is moving? Those questions, built on Lessons 5–16, explain most of what happens to emerging-market currencies and bonds on any given day. Limit: markets also move on sentiment and positioning, so even a well-reasoned chain can be overridden in the short run.",
+      "heading": "8. Not one bloc: reading today's emerging-market headlines"
+    }
+  ],
+  "takeaways": [
+    "There is no single definition of an emerging market: the IMF uses broad judgement, the World Bank uses income (Poland is high-income; threshold above $14,375 GNI per person for FY2027), and index providers use market size and accessibility.",
+    "Poland is developed for FTSE Russell (since 2018), will be developed for S&P Dow Jones Indices from September 2027, but is still emerging for MSCI; the label decides which index funds must hold its shares.",
+    "Catch-up growth comes from capital deepening, technology copying and moving workers to more productive jobs; it is conditional and slows as a country gets richer (Poland: 44% → 81% of EU average income in PPS, 1995–2025).",
+    "A yield spread (e.g. Poland 6.19% − Germany 3.31% = 288 bp) bundles expected inflation, policy rates, currency risk, fiscal risk and liquidity; a foreign investor's return also depends on the currency.",
+    "Capital flows respond to push factors (US rates, the dollar, global mood) and pull factors (local conditions); in the 2013 taper tantrum emerging currencies fell about 6% in four months, and much more where reserves were thin.",
+    "Currency mismatch is the classic emerging-market danger; floating exchange rates, reserves, credible central banks and local-currency borrowing are the main defences."
+  ],
+  "title": "Emerging markets, Poland included",
+  "todayExample": "This edition shows the emerging-market mechanism in action. Fed rate-hike bets pushed the US 10-year yield above 5% and the dollar to its highest since April 2025, and the dollar stayed just below 4 zł. Mexico's peso weakened about 0.2% after President Trump threatened to double tariffs, and India's inflation rose to 6.09%, above its central bank's 6% ceiling, on food prices. At the same time Warsaw's WIG20 rose 1.7%, catching up after the Independence Day holiday and led by Allegro's 5.1% jump on strong results, a reminder that local and company news can outweigh the global push on a given day.",
+  "workedExamples": [
+    {
+      "problem": "Trading Economics showed Poland's 10-year government bond yield at 6.19% on 11 November 2026, Germany's 10-year yield at 3.31% and the US 10-year yield at 4.99% on the same page. (a) Calculate the Poland–Germany and Poland–US spreads in percentage points and basis points. (b) Which components could explain the Poland–Germany spread? (c) Why is the Poland–US spread much smaller?",
+      "solution": "(a) Poland − Germany = 6.19 − 3.31 = 2.88 percentage points = 288 basis points. Poland − US = 6.19 − 4.99 = 1.20 percentage points = 120 basis points. (b) Higher expected inflation in Poland (3.5% flash CPI in October against a 2.5% target), a higher policy rate (NBP 3.75%), the risk that the złoty weakens against the euro, a larger budget deficit (about 7.2–7.3% of GDP in 2025) and lower liquidity. (c) US yields are themselves high because markets expect the Fed to raise rates to fight inflation, so the US benchmark is closer to Poland's. Spreads depend on both sides: a spread can narrow because the other country's yield rises, not only because the country got safer. Note: US 10-year yields rose further on 12 November to about 5.1%, so the Poland–US gap on that day would be smaller still.",
+      "title": "Measuring Poland's risk premium"
+    },
+    {
+      "problem": "A Polish company (hypothetical numbers) borrowed $10 million when USD/PLN was 3.60 and pays 5% interest a year in dollars. Its revenue is in złoty. On 12 November 2026 USD/PLN was about 3.98 (Trading Economics). (a) What is the debt worth in złoty at each rate? (b) By what percentage has the złoty value of the debt risen? (c) What happens to the yearly interest bill in złoty?",
+      "solution": "(a) At 3.60: 10,000,000 × 3.60 = 36,000,000 zł. At 3.98: 10,000,000 × 3.98 = 39,800,000 zł. (b) 39.8 ÷ 36.0 − 1 = 0.1056, so the debt is about 10.6% larger in złoty, an extra 3.8 million zł, although the company has not borrowed a single extra dollar. (c) Interest is 5% × $10m = $500,000 a year. In złoty: 500,000 × 3.60 = 1,800,000 zł before, 500,000 × 3.98 = 1,990,000 zł now, i.e. 190,000 zł more each year. This is why firms and governments that earn in local currency try to borrow in local currency or hedge (Lesson 16 showed the same mechanism for oil priced in dollars).",
+      "title": "Currency mismatch: a dollar loan in a złoty business"
+    },
+    {
+      "problem": "A German investor compares a one-year investment in a Polish bond yielding 6.19% with a German bond yielding 3.31% (yields from Trading Economics, 11 Nov 2026; for simplicity treat both as one-year returns, hypothetical). (a) If the złoty falls 3% against the euro over the year, what is the return in euros on the Polish bond? (b) By how much can the złoty fall before the Polish bond does worse than the German one?",
+      "solution": "(a) 1 euro buys złoty, grows by 6.19% to 1.0619 in złoty value, and is converted back after a 3% fall: 1.0619 × 0.97 = 1.0300, so the euro return is about 3.0%, below the German 3.31%. (b) Break-even: 1.0619 × (1 − d) = 1.0331, so 1 − d = 1.0331 ÷ 1.0619 = 0.9729, d ≈ 2.71%. Equivalently, the złoty can lose about 2.7% against the euro before the extra yield is wiped out (the simple difference 6.19 − 3.31 = 2.88 points is only an approximation). Lesson: the extra yield is compensation for currency risk, not free money. This is why capital flows reverse quickly when investors expect emerging currencies to fall.",
+      "title": "Does a higher yield mean a higher return for a foreign investor?"
+    },
+    {
+      "problem": "Poland's GDP per person in purchasing-power terms was 81% of the EU average in 2025 (Eurostat via Notes from Poland). Assume (hypothetical numbers) that Polish GDP per person grows 3% a year and the EU average 1% a year. (a) How many years until Poland reaches 90% of the EU average? (b) What does the calculation leave out?",
+      "solution": "(a) Each year the ratio is multiplied by 1.03 ÷ 1.01 = 1.0198. We need 81 × 1.0198^t = 90, so t = ln(90 ÷ 81) ÷ ln(1.0198) = 0.1054 ÷ 0.0196 ≈ 5.4 years. (b) Growth rates are not constant: convergence normally slows as a country gets richer (diminishing returns), Poland's population is ageing, PPS figures are revised, and shocks such as war or a financial crisis can interrupt the process. Between 1995 and 2025 Poland gained 37 points (44% → 81%), about 1.2 points a year on average; the formula simply shows how strongly a growth gap compounds.",
+      "title": "How long does catch-up take?"
+    }
+  ],
+  "updatedAt": "2026-11-12T19:14:22.568948Z"
+}
