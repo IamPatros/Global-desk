@@ -1,0 +1,263 @@
+{
+  "checkQuestions": [
+    {
+      "a": "Higher expected US rates make dollar assets more attractive, so investors buy dollars and the dollar strengthens, including against the złoty (USD/PLN rises). Oil is priced in dollars, so the złoty price of oil equals the dollar price times USD/PLN. With an unchanged dollar price, a higher USD/PLN means each barrel costs more złoty, and refiners and fuel retailers eventually pass part of that on to pump prices, with a lag and diluted by taxes and margins.",
+      "q": "Explain, step by step, why expectations of a Fed rate rise can raise the price of petrol in Poland even if the dollar price of oil does not change."
+    },
+    {
+      "a": "Money is a network good. The more trades go through one currency, the deeper its markets, so the gap between buying and selling prices narrows and trading costs fall. Lower costs attract more traders and firms to use it as a vehicle currency, deepening the market further. This self-reinforcing loop explains why a hub currency like the dollar persists even when its home country's share of world output falls.",
+      "q": "Why does a currency used by many people tend to become even more widely used? Use the idea of transaction costs."
+    },
+    {
+      "a": "Under Bretton Woods, other currencies were fixed to the dollar and the dollar to gold at $35 an ounce. The world needed more dollars for trade and reserves, and the US supplied them by running deficits with the rest of the world. But as foreign-held dollars grew larger than US gold reserves, confidence that dollars could all be converted into gold weakened, raising the risk of a run. This tension between supplying dollars and keeping them credible led the US to close the gold window in August 1971.",
+      "q": "Explain the Triffin dilemma and how it helped bring down the Bretton Woods system."
+    },
+    {
+      "a": "If they earn in local currency but owe dollars, a stronger dollar raises the local-currency value of their debt and interest payments without any new borrowing. At the same time, higher US yields draw investors away from emerging markets, weakening their currencies further and making refinancing harder and more expensive. Their own central banks may then have to raise rates to defend the currency, slowing the economy. These channels reinforce each other.",
+      "q": "Why are emerging-market companies that borrow in dollars especially vulnerable when the Fed tightens policy?"
+    },
+    {
+      "a": "They are arrangements in which the Fed lends dollars to a foreign central bank in exchange for its currency, so the foreign central bank can lend dollars to its own banks during a dollar shortage. Standing lines exist with the Bank of Canada, Bank of England, Bank of Japan, ECB and Swiss National Bank. Knowing that dollar liquidity can be supplied in a crisis makes it safer to use dollars for funding and trade, which reinforces their use; but it also makes the system dependent on the Fed's decisions.",
+      "q": "What are Fed swap lines and why do they strengthen the dollar's international role?"
+    }
+  ],
+  "createdAt": "2026-11-12T09:12:42Z",
+  "date": "12 Nov 2026",
+  "editionId": "2026-11-12-1000",
+  "intro": "The dollar is not just America's money: it is the currency in which much of the world trades, borrows, saves and settles payments. In this lesson you will learn what makes a currency 'international', measure how dominant the dollar is using the latest official data (BIS, IMF, ECB, US Treasury), and understand the network effects and history that keep it on top. Most importantly, you will be able to trace how a stronger dollar, like this week's, spreads to import prices, foreign debts and markets far from the United States, including Poland, and judge claims that the dollar's era is ending.",
+  "lessonQuiz": [
+    {
+      "answer": 2,
+      "explain": "Shares are counted for both sides of each trade, so they total 200%; 200 − 89.2 = 110.8% for all other currencies.",
+      "options": [
+        "The dollar and euro together account for 118.1% of trading, which is impossible, so the data must be wrong",
+        "All currencies other than the dollar together account for 10.8% of trading",
+        "Because each trade involves two currencies, shares sum to 200%, so all non-dollar currencies together account for 110.8%",
+        "The euro is involved in more trades than the dollar when measured in euros"
+      ],
+      "q": "The BIS reports that the dollar is on one side of 89.2% of FX trades and the euro of 28.9%. Which statement is correct?"
+    },
+    {
+      "answer": 3,
+      "explain": "USD/PLN = EUR/PLN ÷ EUR/USD = 4.4031 ÷ 1.1088 ≈ 3.9710, close to the quoted 3.9712.",
+      "options": [
+        "4.8822",
+        "0.2518",
+        "4.4031",
+        "3.9710"
+      ],
+      "q": "On Thursday EUR/PLN was 4.4031 and EUR/USD 1.1088. What USD/PLN rate is implied?"
+    },
+    {
+      "answer": 3,
+      "explain": "EUR/USD fell about 1.4%; the złoty lost little against the euro, so the main driver was broad dollar strength.",
+      "options": [
+        "Poland's economy suddenly deteriorated, so the złoty fell equally against all currencies",
+        "The NBP must have cut interest rates on Wednesday",
+        "The euro strengthened against the dollar, pulling USD/PLN up",
+        "The dollar strengthened broadly, including against the euro, so most of the move came from the dollar side"
+      ],
+      "q": "Between Tuesday and Thursday USD/PLN rose 1.88% while EUR/PLN rose 0.46%. What is the best explanation?"
+    },
+    {
+      "answer": 0,
+      "explain": "5,000,000 × (3.9712 − 3.8980) = 5,000,000 × 0.0732 = 366,000 zł.",
+      "options": [
+        "366,000 zł",
+        "73,200 zł",
+        "732,000 zł",
+        "36,600 zł"
+      ],
+      "q": "Hypothetical: a Polish firm owes $5 million. USD/PLN rises from 3.8980 to 3.9712. By how much does the złoty value of its debt rise?"
+    },
+    {
+      "answer": 1,
+      "explain": "363.37 zł falls to 337.77 zł: 337.77 ÷ 363.37 − 1 ≈ −7.0%. (The reverse move, from 3.70 up to 3.98, is +7.6%, a common trap.)",
+      "options": [
+        "About 2.8%",
+        "About 7.0%",
+        "About 7.6%",
+        "It does not change, because oil is priced in dollars"
+      ],
+      "q": "Brent is $91.29 a barrel and USD/PLN is 3.9804. If the dollar oil price stays the same but USD/PLN falls to 3.70, by roughly how much does the złoty price of a barrel fall?"
+    },
+    {
+      "answer": 2,
+      "explain": "Concentrating trading in a few deep markets narrows price gaps; this network effect is the core of the vehicle-currency mechanism.",
+      "options": [
+        "Because the US government subsidises currency conversions",
+        "Because the dollar is backed by gold, which removes exchange-rate risk",
+        "Because the złoty–dollar and dollar–won markets are much deeper than a direct złoty–won market, so the two conversions can be cheaper than one thin direct trade",
+        "Because direct złoty–won trading is illegal"
+      ],
+      "q": "Why does a 'vehicle currency' lower costs for a Polish firm buying Korean won?"
+    },
+    {
+      "answer": 1,
+      "explain": "Firms and governments that owe dollars but earn local currency see their debts grow in local terms, which squeezes spending and lending.",
+      "options": [
+        "Stronger dollar → cheaper imports for emerging markets → higher profits → more investment",
+        "Stronger dollar → higher local-currency value of dollar debts → weaker balance sheets → less spending and lending",
+        "Stronger dollar → US exports become cheaper → US trade surplus → falling US yields",
+        "Stronger dollar → gold rises → central banks sell dollars → dollar weakens automatically"
+      ],
+      "q": "Which chain best describes the 'balance-sheet channel' of a stronger dollar?"
+    },
+    {
+      "answer": 3,
+      "explain": "Closing the gold window ended dollar–gold convertibility; Bretton Woods dated from 1944 and the standing swap lines from 2013.",
+      "options": [
+        "It created the Bretton Woods system and fixed the dollar to gold at $35 an ounce",
+        "It introduced the euro as a rival reserve currency",
+        "It created the Fed's swap lines with five central banks",
+        "It ended foreign governments' ability to convert dollars into gold, moving the world towards fiat currencies"
+      ],
+      "q": "What did President Nixon's decision of 15 August 1971 change?"
+    },
+    {
+      "answer": 0,
+      "explain": "Reserve shares are measured in dollars, so exchange-rate moves alone change them; the Central Banking report said higher euro holdings drove the drop.",
+      "options": [
+        "Valuation effects: if other currencies rose against the dollar, non-dollar reserves were worth more in dollar terms, lowering the dollar's share without any selling",
+        "That the BIS changed its survey method",
+        "That US inflation fell",
+        "That oil prices rose"
+      ],
+      "q": "The IMF reports the dollar's share of reserves fell from 57.2% to 56.7% between March and June 2026. Which explanation must you rule out before concluding that central banks sold dollars?"
+    },
+    {
+      "answer": 1,
+      "explain": "Short-term government yields track expected policy rates closely (Lesson 8), so hot inflation data and hawkish Fed comments lift them most.",
+      "options": [
+        "A fall in the US government's credit rating",
+        "Changing expectations about the Fed's policy rate over the next couple of years",
+        "Higher demand for gold",
+        "A rise in the euro's share of reserves"
+      ],
+      "q": "Linking to Lesson 8: US 2-year yields jumped while 10-year yields were steady near 4.99%. What does a big rise in the 2-year yield mainly reflect?"
+    },
+    {
+      "answer": 0,
+      "explain": "Gold yields nothing, so higher rates make it less attractive (Lesson 12), and a stronger dollar reduces demand from buyers using other currencies.",
+      "options": [
+        "Higher expected interest rates raise the opportunity cost of holding gold, which pays no interest, and a stronger dollar makes gold dearer for non-dollar buyers",
+        "Gold is legally tied to the Fed's policy rate",
+        "Central banks are required to sell gold when the Fed raises rates",
+        "Gold falls whenever oil falls, by definition"
+      ],
+      "q": "Linking to Lessons 7 and 12: why did gold fall below $4,000 as markets priced a Fed hike?"
+    },
+    {
+      "answer": 2,
+      "explain": "The dollar still holds about 57% of reserves and its FX share rose from 88.4% to 89.2%; the renminbi holds close to 2% of reserves versus the euro's 20.2%.",
+      "options": [
+        "The dollar has already lost its majority share of official reserves",
+        "The dollar's share of FX trading fell sharply between 2022 and 2025",
+        "Reserve diversification and gold buying are happening slowly, but the dollar's FX-trading share rose to 89.2% in 2025, so a rapid replacement is not supported by the data",
+        "The renminbi now has a larger share of reserves than the euro"
+      ],
+      "q": "Which statement about 'de-dollarisation' is best supported by the data in this lesson?"
+    }
+  ],
+  "level": "Core",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "The dollar dominates because it is still backed by gold.",
+      "truth": "The dollar's link to gold ended on 15 August 1971 when the US closed the gold window. Its role now rests on network effects, deep and open US financial markets, legal institutions and the Fed's role as dollar lender of last resort."
+    },
+    {
+      "myth": "If the dollar is involved in 89% of currency trades, other currencies share only 11%.",
+      "truth": "Each trade involves two currencies, so shares sum to 200%. Other currencies together have 110.8% (200 − 89.2), led by the euro at 28.9%."
+    },
+    {
+      "myth": "When USD/PLN rises, it must be because something is wrong in Poland.",
+      "truth": "Check the cross rates. This week EUR/PLN rose only about 0.5% while EUR/USD fell about 1.4%: the dollar was rising against almost everything because of US rate expectations."
+    },
+    {
+      "myth": "A dominant currency is always a strong (rising) currency.",
+      "truth": "Dominance is about how widely a currency is used; strength is about its price. The dollar's share of reserves dipped in 2026 even as the dollar itself rose this week; use and value are different things."
+    },
+    {
+      "myth": "De-dollarisation means the dollar will soon be replaced.",
+      "truth": "The data show slow diversification in reserves (about 57% for the dollar) and more gold buying, but the dollar's share of FX trading rose to 89.2% in 2025. Network effects make sudden change unlikely; economists disagree about the pace of any shift."
+    }
+  ],
+  "number": 16,
+  "objectives": [
+    "Explain the three functions of money (unit of account, medium of exchange, store of value) and how each applies internationally, for private firms and for central banks.",
+    "Quote and correctly interpret the main measures of dollar dominance: its share of foreign-exchange trading (which sums to 200%), of official reserves, and foreign holdings of US Treasury securities.",
+    "Explain the network effect and 'vehicle currency' mechanism, and calculate how a single hub currency reduces the number of exchange markets needed.",
+    "Calculate how a change in USD/PLN alters the złoty cost of dollar debts and of dollar-priced commodities such as oil.",
+    "Trace the chain from higher expected US interest rates to a stronger dollar and then to inflation, debt burdens and capital flows in other countries.",
+    "Evaluate arguments about 'de-dollarisation' using data rather than headlines, and state where the evidence is uncertain."
+  ],
+  "recap": "Lesson 5 showed that an exchange rate is the price of one currency in another and that cross rates link currencies (USD/PLN = EUR/PLN ÷ EUR/USD). Lesson 7 explained how central banks set interest rates, Lesson 8 that bond yields reflect expected policy rates, and Lessons 11–13 that oil and gold are priced in dollars and that trade runs on global supply chains. This lesson combines these ideas: when the Federal Reserve is expected to raise rates, the dollar strengthens, and because so much of the world's trade and debt is in dollars, the effect travels far beyond the US.",
+  "sections": [
+    {
+      "body": "Lesson 5 defined money by three functions: a unit of account (what prices are written in), a medium of exchange (what is handed over in payment) and a store of value (what wealth is kept in). An international currency performs these functions for people and governments outside its home country. For private firms, it is the currency in which contracts are invoiced (unit of account), the currency used to settle trades and to swap between two other currencies (medium of exchange), and the currency in which they borrow and hold deposits and bonds (store of value). For central banks it is the currency in which they hold foreign-exchange reserves, intervene in markets, and sometimes peg their own currency. The dollar plays all of these roles at once, which is unusual: the euro, for example, is widely used in Europe's own trade but much less in trade between third countries. A useful way to think about it is that the dollar is the world's common language for money: two firms in Poland and South Korea that share no currency can both price, pay and borrow in dollars. Note the simplification: in practice each role is measured separately, and a currency can be strong in one role (such as trade invoicing in its own region) while weak in another (such as reserves).",
+      "heading": "1. What makes a currency 'international'"
+    },
+    {
+      "body": "The best data on currency trading come from the Bank for International Settlements (BIS), which surveys banks every three years. In April 2025 the foreign-exchange market traded $9.6 trillion per day, up 28% from $7.5 trillion in 2022, and the dollar was on one side of 89.2% of all trades; the euro was on one side of 28.9%, the yen 16.8%, sterling 10.2% and the renminbi 8.5%. Because every trade involves two currencies, these shares add up to 200%, not 100%, so the right reading is 'the dollar is involved in nearly nine trades out of ten'. For official reserves, the IMF's COFER data show the dollar's share at 56.7% at the end of June 2026, down from 57.2% at the end of March, while the ECB reports the euro at 20.2% at the end of 2025, the yen below 6%, sterling below 5% and the renminbi close to 2%. Foreign investors held $9.33 trillion of US Treasury securities in August 2026, led by Japan ($1.07 trillion), the UK ($1.01 trillion) and mainland China ($0.59 trillion), according to the US Treasury, which warns that custodian data may not show the true final owners. Two cautions: shares of reserves move with exchange rates (if the dollar rises, dollar reserves are worth more in dollar terms even if no one buys any), and each measure covers a different activity, so no single number captures 'dominance'.",
+      "heading": "2. Measuring dominance: the numbers"
+    },
+    {
+      "body": "Money is a network good: a currency is more useful the more other people use it, like a language or a phone network. This creates a powerful mechanism called the vehicle currency. Suppose a Polish importer wants Korean won: there is little direct trading between złoty and won, so banks typically convert złoty into dollars and dollars into won, because both of those markets are deep and cheap. With 20 currencies, a world in which every pair traded directly would need 20 × 19 ÷ 2 = 190 separate markets; if every currency trades only against one hub, it needs just 19, and each of those 19 markets is busier, so prices are tighter and costs lower. Lower costs attract more users, which makes the hub even cheaper: a self-reinforcing loop that explains why dominance is sticky. Other supports matter too: the US has the deepest and most liquid government bond market, an open capital account (money can move in and out freely), long-standing legal protections for investors, and a central bank, the Fed, that markets see as able to act as lender of last resort in dollars. These are reasons widely cited by economists; their relative importance is debated.",
+      "heading": "3. Why the dollar? Network effects and the vehicle currency"
+    },
+    {
+      "body": "After the Second World War, 44 countries meeting at Bretton Woods, New Hampshire, in 1944 designed a system in which currencies were fixed to the dollar and the dollar was fixed to gold at $35 an ounce, according to the Federal Reserve's history of the period. Foreign governments could swap their dollars for US gold. By the 1960s, foreign-held dollars exceeded US gold reserves, creating the risk of a run on gold. The economist Robert Triffin identified the underlying problem, now called the Triffin dilemma: the world needed a growing supply of dollars, which the US could provide only by running deficits with the rest of the world, but those very deficits undermined confidence that the dollar was as good as gold. On 15 August 1971 President Nixon closed the 'gold window', so foreign governments could no longer convert dollars into gold, and the system soon broke down; the dollar became a fiat currency backed by the US economy and institutions rather than by gold. Remarkably, the dollar's international role survived the end of its gold link, which shows that network effects and trust in institutions, not gold, were the deeper foundation. The Triffin idea still matters today in a modified form: the world's demand for safe dollar assets pushes the US towards borrowing from abroad.",
+      "heading": "4. From gold to fiat: a short history"
+    },
+    {
+      "body": "Because the rest of the world wants to hold dollar assets, the US can borrow in its own currency at relatively low interest rates; this advantage is often called the 'exorbitant privilege'. American firms and households face little exchange-rate risk on their borrowing and trade, because so much is priced in their own currency. The US also gains leverage: because dollar payments are ultimately settled through accounts at US banks, the US can impose financial sanctions that cut targets off from the dollar system. There are costs as well. Strong foreign demand for dollar assets tends to keep the dollar stronger than it would otherwise be, which makes US exports more expensive and can hurt US manufacturing. And when global investors panic and rush into dollars, the dollar can rise just when the US economy does not need it to. Economists disagree on the size of the net benefit; mainstream estimates of the borrowing-cost advantage vary, so treat any single number with caution.",
+      "heading": "5. Who gains and who pays: the 'exorbitant privilege'"
+    },
+    {
+      "body": "Here is the chain that this week's news illustrates. Step 1: October's US inflation came in high (+0.4% in a month) and Fed officials discussed a bigger rate rise, so markets expect higher US interest rates. Step 2: higher expected returns on dollar assets attract money, so the dollar rises; the euro fell to about $1.108 and the dollar reached 159.94 yen. Step 3: everything priced in dollars becomes more expensive in other currencies, even if the dollar price is unchanged; oil, metals and many traded goods are priced in dollars (Lessons 11 and 12). Step 4: anyone who borrowed in dollars but earns in another currency sees the debt grow in local terms; this 'balance-sheet channel' hits emerging-market firms and governments hardest. Step 5: investors pull money from riskier markets towards higher US yields, which can push down other currencies further and force their central banks to keep rates higher than their own economies need. Countries can push back, as Japan did when it intervened this summer, spending a record 15.4 trillion yen, according to Reuters. The chain is not mechanical: if the dollar rises because the US economy is booming, stronger US demand for imports partly offsets the damage abroad.",
+      "heading": "6. The global dollar cycle: how a strong dollar spreads"
+    },
+    {
+      "body": "In a financial panic, banks and firms around the world that rely on dollar funding may suddenly be unable to roll over their dollar loans, and they scramble for dollars, which pushes the dollar up even when the panic started in the US. Foreign central banks can print their own currency but not dollars. To prevent such dollar shortages from causing a collapse, the Federal Reserve has standing swap lines with five central banks: the Bank of Canada, the Bank of England, the Bank of Japan, the European Central Bank and the Swiss National Bank, in place as standing arrangements since 31 October 2013, according to the New York Fed. In a swap, the Fed lends dollars to a foreign central bank in exchange for that bank's currency, and the foreign central bank lends the dollars on to its own banks. The National Bank of Poland is not on that standing list. This safety net strengthens the dollar's role, because users know dollar liquidity will be available in a crisis, but it also means the Fed's decisions matter enormously for financial stability abroad.",
+      "heading": "7. The dollar safety net in crises"
+    },
+    {
+      "body": "Headlines about 'de-dollarisation' are frequent, so check them against data. Some evidence points to gradual diversification: the dollar's reserve share edged down to 56.7% in mid-2026 (IMF), the renminbi's share of FX trading has risen to 8.5%, central banks bought around 850 tonnes of gold in 2025 after more than 1,000 tonnes a year in 2022–2024 (ECB), and alternative payment systems are spreading. Other evidence shows resilience: the dollar's share of FX trading actually rose from 88.4% to 89.2% between 2022 and 2025, and in this week's stress investors again ran towards the dollar. The ECB's June 2026 report said the euro's international role grew only moderately and that deeper European capital markets would be needed for it to gain much more. A fair summary is that the dollar's lead is large and very sticky because of network effects, but its share in reserves has been drifting down slowly; economists genuinely disagree about how fast this could go, and a sudden collapse is not a mainstream forecast. Remember that a currency's international role (how widely it is used) is different from its value (how many euros or złoty it buys): the dollar can be dominant and still fall in value, or be rising while its share slowly erodes.",
+      "heading": "8. Is the dollar's era ending? Evidence and limits"
+    }
+  ],
+  "takeaways": [
+    "An international currency serves as unit of account, medium of exchange and store of value for foreigners; the dollar does all three for firms (invoicing, payments, borrowing) and for central banks (reserves, intervention, pegs).",
+    "Latest data: the dollar is on one side of 89.2% of FX trades ($9.6 trillion a day, BIS, April 2025; shares sum to 200%), holds 56.7% of official reserves (IMF COFER, end-June 2026) and foreigners own $9.33 trillion of US Treasuries (August 2026).",
+    "Network effects make a hub currency cheaper to use: 20 currencies need 190 direct markets but only 19 through a hub, and deeper markets attract still more users.",
+    "The dollar's gold link ended on 15 August 1971; its role now rests on deep, open US markets, legal institutions and the Fed's role as lender of last resort, including standing swap lines with five central banks since 2013.",
+    "A stronger dollar spreads abroad by raising local prices of dollar-priced goods (oil at $91.29 × 3.9804 = 363 zł a barrel), enlarging dollar debts in local currency, and drawing capital towards higher US yields.",
+    "De-dollarisation is real but slow: reserve shares drift down and central banks buy gold, yet the dollar's FX-trading share rose in 2025; distinguish a currency's use from its value."
+  ],
+  "title": "The US dollar's special role",
+  "todayExample": "This edition's markets show the global dollar cycle in action. After a hotter-than-expected 0.4% rise in US consumer prices in October and talk from Fed officials of a larger rate rise, the dollar climbed: the euro fell to about $1.108, the dollar touched 159.94 yen, prompting a warning from Japan's top currency diplomat, and gold dropped below $4,000 an ounce. In Poland, the dollar rose to about 3.97–3.98 zł while the euro rose much less, showing that the move was driven by the dollar rather than by the złoty alone. Polish 10-year bond yields also rose to 6.19%, consistent with higher US yields pulling global borrowing costs up.",
+  "workedExamples": [
+    {
+      "problem": "PAP Biznes reported EUR/PLN 4.3829, USD/PLN 3.8980 and EUR/USD 1.1243 on Tuesday 10 November at 09:05, and EUR/PLN 4.4031, USD/PLN 3.9712 and EUR/USD 1.1088 on Thursday 12 November at 09:14. (a) Calculate the percentage change in each rate. (b) Check that USD/PLN ≈ EUR/PLN ÷ EUR/USD on Thursday. (c) What does the comparison tell you about the cause of the złoty's move?",
+      "solution": "(a) EUR/PLN: 4.4031 ÷ 4.3829 − 1 = +0.46%. USD/PLN: 3.9712 ÷ 3.8980 − 1 = +1.88%. EUR/USD: 1.1088 ÷ 1.1243 − 1 = −1.38%. (b) 4.4031 ÷ 1.1088 = 3.9710, almost exactly the quoted 3.9712 (the tiny gap comes from rounding and quotes taken a moment apart). (c) The złoty lost only 0.46% against the euro, but the euro itself lost 1.38% against the dollar. Combining them: 1.0046 ÷ 0.9862 ≈ 1.0187, i.e. the dollar gained about 1.87% against the złoty, matching (a). So most of the move was the dollar strengthening against everything, not a Poland-specific problem. This is the cross-rate check from Lesson 5 applied to this week's dollar surge.",
+      "title": "Is it the złoty falling, or the dollar rising?"
+    },
+    {
+      "problem": "Hypothetical numbers: a Polish company that earns in złoty owes $10 million to a foreign lender. Using the PAP Biznes USD/PLN rates of 3.8980 (Tuesday) and 3.9712 (Thursday), calculate the złoty value of the debt on each day and the change. Then explain why such 'currency mismatches' matter for emerging economies.",
+      "solution": "Tuesday: 10,000,000 × 3.8980 = 38,980,000 zł. Thursday: 10,000,000 × 3.9712 = 39,712,000 zł. Change: 39,712,000 − 38,980,000 = 732,000 zł, or 732,000 ÷ 38,980,000 = +1.88%, in just two days, without the company borrowing a single extra dollar. If its złoty revenues are unchanged, its debt burden has risen. Across a whole economy where many firms or the government borrow in dollars, a strong dollar can therefore squeeze spending and investment; this is the balance-sheet channel of the global dollar cycle. Firms reduce the risk by borrowing in the currency they earn or by hedging with forward contracts (Lesson 5).",
+      "title": "How a stronger dollar makes a dollar loan heavier"
+    },
+    {
+      "problem": "Reuters reported Brent crude at $91.29 a barrel at 04:26 GMT on Thursday; Money.pl gave USD/PLN at 3.9804 at 07:00. (a) What is the price of a barrel in złoty? (b) A barrel holds about 158.987 litres; what is the crude cost per litre? (c) Hypothetically, if the dollar cost 3.70 zł with the same dollar oil price, how much cheaper would crude be in złoty?",
+      "solution": "(a) 91.29 × 3.9804 = 363.37 zł per barrel. (b) 363.37 ÷ 158.987 = 2.29 zł per litre of crude (before refining, taxes, transport and retail margins, which make up much of the pump price). (c) 91.29 × 3.70 = 337.77 zł per barrel. The difference is 363.37 ÷ 337.77 − 1 = +7.6%: with the dollar at 3.98 rather than 3.70, the same oil costs 7.6% more in złoty. Interpretation: for a Polish buyer, the złoty price of oil depends on two prices, the dollar oil price and USD/PLN; this week oil fell in dollars, but the stronger dollar offset part of that fall.",
+      "title": "Oil in złoty: the dollar effect"
+    },
+    {
+      "problem": "(a) With 20 currencies, how many direct currency pairs exist? (b) How many markets are needed if each currency trades only against one hub? (c) Using the BIS figure that the dollar is on one side of 89.2% of trades, what is the combined share of all other currencies, and why must it be 110.8%?",
+      "solution": "(a) Each pair is counted once: 20 × 19 ÷ 2 = 190 pairs. (b) 19 markets (each of the other 19 currencies against the hub). With a hub, trading is concentrated in 19 markets instead of being spread over 190, so each market is deeper and transaction costs fall. (c) Every trade has two currencies, so all shares add to 200%. If the dollar accounts for 89.2%, the remaining currencies together account for 200 − 89.2 = 110.8%. The euro (28.9%), yen (16.8%), sterling (10.2%), renminbi (8.5%), Swiss franc (6.4%) and others share that 110.8%. Reading the 89.2% as 'out of 100%' and concluding that all other currencies share only 10.8% would be a basic error.",
+      "title": "Counting markets: why a hub currency wins"
+    }
+  ],
+  "updatedAt": "2026-11-12T09:14:13.292971Z"
+}

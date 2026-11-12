@@ -1,0 +1,1497 @@
+{
+  "bigPicture": "A leadership crisis at Nvidia dominated the night: its board met on whether to remove chief executive Jensen Huang, and the shares fell about 8.6% after hours, dragging Asian chipmakers lower even as European stocks hit new records. US envoys arrived in Moscow to meet President Putin, hours after Russian missiles and drones killed a woman in Kyiv and cut power in nine Ukrainian regions. Bets on a US rate rise pushed the dollar up, gold below $4,000 and the yen to the edge of 160, while oil eased toward $91 on hopes of diplomacy. In eastern Congo, MSF warned that the Ebola outbreak, now past 11,000 cases, is still out of control.",
+  "createdAt": "2026-11-12T09:01:08Z",
+  "glossary": [
+    {
+      "def": "A currency used as a go-between when exchanging two other currencies that trade little with each other directly.",
+      "example": "A bank changing złoty into Korean won usually goes złoty → dollar → won.",
+      "term": "Vehicle currency"
+    },
+    {
+      "def": "A foreign currency that central banks hold in large amounts as part of their official reserves, to pay debts, intervene in markets or calm crises.",
+      "example": "The dollar made up 56.7% of global official reserves at end-June 2026 (IMF).",
+      "term": "Reserve currency"
+    },
+    {
+      "def": "An agreement in which two central banks exchange currencies, so one can lend the other's currency to its banks during a shortage.",
+      "example": "The Fed has standing dollar swap lines with the ECB, Bank of Japan, Bank of England, Swiss National Bank and Bank of Canada.",
+      "term": "Central bank swap line"
+    },
+    {
+      "def": "When a government or central bank buys or sells currencies in the market to push its exchange rate up or down.",
+      "example": "Japan spent a record 15.4 trillion yen this summer buying yen to support it.",
+      "term": "Currency intervention"
+    },
+    {
+      "def": "Money that has value because a government declares it legal tender and people trust it, not because it can be exchanged for gold or another commodity.",
+      "example": "Since 1971 the dollar has been fiat money.",
+      "term": "Fiat money"
+    },
+    {
+      "def": "The group elected by shareholders to oversee a company's management; it can hire and fire the chief executive.",
+      "example": "Nvidia's 11-member board met to decide CEO Jensen Huang's future.",
+      "term": "Board of directors"
+    },
+    {
+      "def": "Buying and selling of shares after the main stock-exchange session closes, often when company news is released; prices can move sharply on thin trading.",
+      "example": "Nvidia fell 8.6% after hours on Wednesday.",
+      "term": "After-hours trading"
+    },
+    {
+      "def": "The extra return or higher price that markets build in to compensate for the chance of a bad event.",
+      "example": "Oil's 'geopolitical risk premium' shrank as hopes for Ukraine and Iran diplomacy rose.",
+      "term": "Risk premium"
+    },
+    {
+      "def": "Uranium in which the share of the fissile isotope uranium-235 has been increased; low levels fuel power reactors, very high levels can be used in weapons.",
+      "example": "Iran refuses to send its 60% enriched uranium abroad.",
+      "term": "Enriched uranium"
+    },
+    {
+      "def": "Finding and monitoring everyone who has been close to an infected person, so new cases are isolated early.",
+      "example": "Only 9% of Ebola patients MSF treated in Ituri were already known contacts.",
+      "term": "Contact tracing"
+    },
+    {
+      "def": "Protection of a whole population when enough people are immune that a disease cannot keep spreading, which also shields those who cannot be vaccinated.",
+      "example": "Measles returns when vaccination falls below the level needed for herd immunity.",
+      "term": "Herd immunity"
+    },
+    {
+      "def": "Hostile actions below the level of open war, such as cyberattacks, sabotage, disinformation or hoax threats, meant to disrupt and intimidate.",
+      "example": "European leaders in Dublin discussed hybrid threats such as attacks on infrastructure.",
+      "term": "Hybrid threats"
+    },
+    {
+      "def": "Someone forced to flee their home who stays within their own country's borders, unlike a refugee, who crosses a border.",
+      "example": "Families from Western Tigray have lived for years in a former school in Abi Adi.",
+      "term": "Internally displaced person (IDP)"
+    },
+    {
+      "def": "When a company turns a division into a separate company, often listing its shares, while usually keeping a stake.",
+      "example": "Alibaba plans to list its chip unit T-Head in Hong Kong.",
+      "term": "Spin-off"
+    }
+  ],
+  "label": "Thu 12 Nov · morning",
+  "lessonNumber": 16,
+  "markets": [
+    {
+      "change": 1.3,
+      "changeText": "+1.3%",
+      "group": "Stocks · Americas",
+      "key": true,
+      "name": "S&P 500",
+      "note": "Wednesday close. Tech led as CoreWeave's results eased worries about AI spending (AP, Saxo). Futures pointed about 0.4% lower on Thursday after Nvidia's after-hours fall.",
+      "region": "USA",
+      "value": "7,619",
+      "what": "An index of 500 large US companies, the main gauge of the US stock market."
+    },
+    {
+      "change": 1.6,
+      "changeText": "+1.6%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Nasdaq Composite",
+      "note": "Wednesday close, led by chip and AI stocks; CoreWeave jumped 24.7%. Nasdaq futures fell about 1% overnight on the Nvidia news (ABC News).",
+      "region": "USA",
+      "value": "25,466",
+      "what": "An index of all companies listed on the Nasdaq exchange, heavy in technology."
+    },
+    {
+      "change": 0.5,
+      "changeText": "+0.5%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Dow Jones Industrial Average",
+      "note": "Wednesday close (ABC News).",
+      "region": "USA",
+      "value": "52,486",
+      "what": "A price-weighted index of 30 large US companies."
+    },
+    {
+      "change": 1.2,
+      "changeText": "+1.2%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "DAX",
+      "note": "Wednesday close (Saxo). Reuters reported it up about 1% to a new high early on Thursday, helped by Siemens raising its outlook.",
+      "region": "Germany",
+      "value": "",
+      "what": "An index of 40 large German companies."
+    },
+    {
+      "change": 0.3,
+      "changeText": "+0.3%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "Stoxx 600",
+      "note": "Thursday 08:06 GMT, a record high, after a record close on Wednesday (+0.7%); strong earnings and Europe's lower exposure to AI stocks helped, Reuters said.",
+      "region": "Europe",
+      "value": "665.38",
+      "what": "An index of 600 companies from 17 European countries."
+    },
+    {
+      "change": 0.8,
+      "changeText": "+0.8%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "FTSE 100",
+      "note": "Wednesday close (Saxo, ABC News).",
+      "region": "UK",
+      "value": "",
+      "what": "An index of the 100 largest companies on the London Stock Exchange."
+    },
+    {
+      "change": 0.32,
+      "changeText": "+0.32%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "WIG20",
+      "note": "Thursday opening level, the first session after the Independence Day holiday (wnp.pl).",
+      "region": "Poland",
+      "value": "4,221.79",
+      "what": "An index of the 20 largest companies on the Warsaw Stock Exchange."
+    },
+    {
+      "change": -0.7,
+      "changeText": "−0.7%",
+      "group": "Stocks · Asia-Pacific",
+      "key": true,
+      "name": "Nikkei 225",
+      "note": "Thursday close; ended a three-day winning streak as Nvidia-linked chip stocks such as Advantest fell (News On Japan; AP).",
+      "region": "Japan",
+      "value": "≈60,819",
+      "what": "An index of 225 large Japanese companies."
+    },
+    {
+      "change": -0.61,
+      "changeText": "−0.61%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Kospi",
+      "note": "Thursday close; SK hynix fell 1.8% on the Nvidia news while Samsung rose 0.97% (Korea JoongAng Daily).",
+      "region": "South Korea",
+      "value": "5,342.73",
+      "what": "The main index of the Korea Exchange."
+    },
+    {
+      "change": -0.9,
+      "changeText": "−0.9% (midday)",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Hang Seng",
+      "note": "Midday Thursday; Alibaba fell about 5% after pushing ahead with a spin-off of its chip unit (Reuters via Business Recorder). AP reported −1.2% at an earlier point.",
+      "region": "Hong Kong",
+      "value": "",
+      "what": "The main index of the Hong Kong stock exchange."
+    },
+    {
+      "change": null,
+      "changeText": "mixed (sources differ)",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Shanghai Composite",
+      "note": "Reuters reported +0.2% at the lunch break as chip stocks rose; AP reported −0.6% at another point of the session.",
+      "region": "China",
+      "value": "",
+      "what": "An index of all shares listed in Shanghai."
+    },
+    {
+      "change": -0.1,
+      "changeText": "−0.1%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "S&P/ASX 200",
+      "note": "Thursday, nearly unchanged (AP).",
+      "region": "Australia",
+      "value": "9,146.80",
+      "what": "An index of the 200 largest Australian companies."
+    },
+    {
+      "change": -2.6,
+      "changeText": "−2.6%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Taiex",
+      "note": "Thursday; hit hardest as Taiwan's chipmakers supply Nvidia (AP).",
+      "region": "Taiwan",
+      "value": "",
+      "what": "The main index of the Taiwan Stock Exchange, dominated by TSMC."
+    },
+    {
+      "change": 0.2,
+      "changeText": "+0.2%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "BSE Sensex",
+      "note": "Thursday early trade; foreign buying and cheaper oil helped (PTI via ETV Bharat). Wednesday close: 81,879.40.",
+      "region": "India",
+      "value": "82,013.58",
+      "what": "An index of 30 large companies on the Bombay Stock Exchange."
+    },
+    {
+      "change": null,
+      "changeText": "steady",
+      "group": "Currencies",
+      "key": true,
+      "name": "EUR/PLN",
+      "note": "Thursday 07:00 Warsaw (Money.pl).",
+      "region": "Poland",
+      "value": "4.4109",
+      "what": "How many złoty one euro costs."
+    },
+    {
+      "change": null,
+      "changeText": "higher",
+      "group": "Currencies",
+      "key": true,
+      "name": "USD/PLN",
+      "note": "Thursday 07:00 Warsaw (Money.pl); the dollar has strengthened on US rate-rise bets.",
+      "region": "Poland",
+      "value": "3.9804",
+      "what": "How many złoty one US dollar costs."
+    },
+    {
+      "change": -0.1,
+      "changeText": "−0.1%",
+      "group": "Currencies",
+      "key": false,
+      "name": "EUR/USD",
+      "note": "Thursday morning, down from 1.1091 (AP); near its lowest in about 17 months, Saxo said.",
+      "region": "Global",
+      "value": "1.1080",
+      "what": "How many dollars one euro buys."
+    },
+    {
+      "change": null,
+      "changeText": "near 160",
+      "group": "Currencies",
+      "key": false,
+      "name": "USD/JPY",
+      "note": "Thursday; touched 159.94, the strongest dollar in over two months, before Japan's warning (Reuters, AP).",
+      "region": "Japan",
+      "value": "159.78",
+      "what": "How many yen one dollar buys."
+    },
+    {
+      "change": -1.58,
+      "changeText": "−1.6%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Brent crude oil",
+      "note": "Thursday 04:26 GMT (Reuters); diplomacy hopes and higher US stocks. HDFC Sky reported $91.7 (−1.2%) at another time.",
+      "region": "Global",
+      "value": "$91.29",
+      "what": "The global benchmark price of a barrel of crude oil."
+    },
+    {
+      "change": -1.43,
+      "changeText": "−1.4%",
+      "group": "Commodities",
+      "key": false,
+      "name": "WTI crude oil",
+      "note": "Thursday 04:26 GMT (Reuters).",
+      "region": "USA",
+      "value": "$85.29",
+      "what": "The US benchmark oil price."
+    },
+    {
+      "change": -0.4,
+      "changeText": "−0.4%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Gold",
+      "note": "Spot price, 05:16 GMT Thursday, after falling below $4,000 on Wednesday on rate-rise bets and a strong dollar (Investing.com).",
+      "region": "Global",
+      "value": "$3,973",
+      "what": "Price of one troy ounce of gold in dollars."
+    },
+    {
+      "change": 2.7,
+      "changeText": "+2.7%",
+      "group": "Commodities",
+      "key": false,
+      "name": "TTF gas (Netherlands)",
+      "note": "Wednesday early trading; Hormuz uncertainty and EU storage only about 72% full (Eurasia Business News).",
+      "region": "Europe",
+      "value": "≈€87/MWh",
+      "what": "Europe's benchmark wholesale gas price, per megawatt-hour."
+    },
+    {
+      "change": null,
+      "changeText": "steady",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 10-year Treasury yield",
+      "note": "Thursday Asian session, just below 5% (Saxo).",
+      "region": "USA",
+      "value": "4.99%",
+      "what": "The interest rate the US government pays to borrow for 10 years."
+    },
+    {
+      "change": null,
+      "changeText": "+3–4 bp",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 2-year Treasury yield",
+      "note": "Thursday Asian session, after jumping about 17–18bp on Tuesday's inflation data (Saxo).",
+      "region": "USA",
+      "value": "4.77%",
+      "what": "The 2-year US government borrowing rate, very sensitive to expected Fed moves."
+    },
+    {
+      "change": null,
+      "changeText": "unchanged",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US federal funds target range",
+      "note": "Next decision 8–9 December; markets price a rise (TheStreet, Kitco).",
+      "region": "USA",
+      "value": "3.75%–4.00%",
+      "what": "The Fed's key short-term interest rate range."
+    }
+  ],
+  "marketsAsOf": "US: Wednesday 11 Nov close. Europe: Wednesday close plus Thursday early trading where stated. Warsaw: Thursday opening. Asia-Pacific: Thursday 12 Nov (Japan and Korea closes; Hong Kong and China midday). Currencies, oil and gold: Thursday morning (times given in notes). TTF gas: Wednesday.",
+  "quiz": [
+    {
+      "answer": 1,
+      "explain": "Nvidia sits at the centre of the AI supply chain; Taiwan's market, dominated by chipmakers, was hit hardest as the Nvidia news spread through Asian chip stocks.",
+      "options": [
+        "Taiwan's central bank raised interest rates overnight",
+        "Taiwan's chipmakers supply Nvidia, so uncertainty over Nvidia's leadership raised doubts about the AI trade they depend on",
+        "Nvidia announced it would stop buying chips from Taiwan",
+        "The Taiwan dollar was devalued by the government"
+      ],
+      "q": "Why did Taiwan's Taiex fall about 2.6% on Thursday after reports that Nvidia's board might remove Jensen Huang?"
+    },
+    {
+      "answer": 2,
+      "explain": "158.78 ÷ 173.73 − 1 ≈ −8.6%. (Dividing the fall by the lower price, 14.95 ÷ 158.78, gives 9.4%, a common mistake.)",
+      "options": [
+        "About 9.4%",
+        "About 15.0%",
+        "About 8.6%",
+        "About 4.3%"
+      ],
+      "q": "Nvidia closed at $173.73 and then fell to $158.78 in after-hours trading. What percentage fall is that?"
+    },
+    {
+      "answer": 3,
+      "explain": "The Abu Dhabi talks agreed in principle on a large prisoner swap but not on Donbas or a ceasefire, so the envoys are taking those disputes to Putin and then briefing Zelensky.",
+      "options": [
+        "Because Abu Dhabi produced a full ceasefire that only needs signing",
+        "Because Ukraine refused to attend the Abu Dhabi talks",
+        "Because Russia asked to move the talks to Dublin",
+        "Because the talks produced only a prisoner-exchange deal, leaving the core disputes over territory and security guarantees for the leaders"
+      ],
+      "q": "Why are US envoys Witkoff and Kushner taking the talks to President Putin in person after the Abu Dhabi meeting?"
+    },
+    {
+      "answer": 0,
+      "explain": "Deputy Energy Minister Artem Nekrasov said strikes on energy infrastructure caused outages in nine regions; in Kyiv a woman was killed when a drone hit an apartment building.",
+      "options": [
+        "Power cuts in nine regions",
+        "A complete blackout of Kyiv for a week",
+        "The closure of all Ukrainian ports",
+        "No damage at all"
+      ],
+      "q": "What did Ukraine's deputy energy minister say the overnight Russian strikes on energy infrastructure caused?"
+    },
+    {
+      "answer": 0,
+      "explain": "Hot US inflation data pushed up bets on a Fed hike; higher yields and a stronger dollar weigh on gold, analysts at ANZ said.",
+      "options": [
+        "Higher expected US interest rates raise the cost of holding gold, which pays no interest, and the stronger dollar makes it dearer for other buyers",
+        "Central banks announced they would sell all their gold",
+        "The Strait of Hormuz fully reopened",
+        "Gold miners went on strike, raising supply"
+      ],
+      "q": "Which explanation best fits gold falling below $4,000 an ounce this week?"
+    },
+    {
+      "answer": 2,
+      "explain": "In its summer intervention Japan spent a record 15.4 trillion yen supporting its currency; with the dollar near 160 yen, the warning signals it could act again.",
+      "options": [
+        "Cut its interest rate to zero",
+        "Ban foreign investors from buying Japanese stocks",
+        "Sell dollars and buy yen to support the weakening yen",
+        "Adopt the US dollar as its currency"
+      ],
+      "q": "Japan's top currency diplomat said it is 'too early to forget' this summer's intervention. What is Japan hinting it could do again?"
+    },
+    {
+      "answer": 1,
+      "explain": "Analysts cited ceasefire hopes and a view that the Iran war is unlikely to escalate soon; API data showed higher US crude stocks. Hormuz disruption limits further falls.",
+      "options": [
+        "OPEC+ announced a large production cut",
+        "Hopes of diplomatic progress on Ukraine and Iran reduced the risk premium, and US industry data showed a 9-million-barrel stock build",
+        "The Strait of Hormuz was closed completely",
+        "The dollar weakened sharply"
+      ],
+      "q": "Why did Brent crude fall about 1.5% to around $91 early on Thursday, according to Reuters?"
+    },
+    {
+      "answer": 3,
+      "explain": "Rezaei said not a single particle of enriched material would leave Iran; Tehran rejected moving its 60% enriched stockpile abroad.",
+      "options": [
+        "Any further oil exports",
+        "Talks with Qatar",
+        "Building nuclear-powered ships",
+        "Sending Iran's enriched uranium out of the country, rejecting a US proposal to move it to a third country"
+      ],
+      "q": "What did Iran's security chief Mohsen Rezaei rule out?"
+    },
+    {
+      "answer": 0,
+      "explain": "MSF cited weak surveillance, unpaid staff and transmission in clinics lacking water and chlorine; there is no approved vaccine for the Bundibugyo species.",
+      "options": [
+        "Surveillance misses most cases: only 9% of patients MSF treated in Ituri were already known contacts, and many infections happen in health facilities",
+        "A vaccine for the Bundibugyo strain exists but people refuse it",
+        "The outbreak has been confined to one city",
+        "Donors have provided no money at all"
+      ],
+      "q": "According to MSF, what is one key reason Congo's Ebola outbreak remains out of control?"
+    },
+    {
+      "answer": 2,
+      "explain": "Services grew 0.9% while construction shrank 0.7%; the Bank of England said about a fifth of growth came from AI-related investment.",
+      "options": [
+        "Construction, which boomed",
+        "A collapse in imports",
+        "Services, led by computer programming that the ONS links to AI-related businesses",
+        "Higher oil production"
+      ],
+      "q": "What mainly drove the UK's 0.7% growth in the third quarter?"
+    },
+    {
+      "answer": 1,
+      "explain": "EUR/USD fell about 1.4%; PKO BP economists linked the złoty's weakness to global dollar strength and said much of it was already priced in.",
+      "options": [
+        "The złoty collapsed because of Polish politics",
+        "The move was driven mainly by broad dollar strength, as the euro also fell against the dollar",
+        "The NBP devalued the złoty",
+        "Polish inflation data surprised"
+      ],
+      "q": "Between Tuesday and Thursday the euro rose only about 0.5% against the złoty, but the dollar rose about 1.9%. What does this suggest?"
+    },
+    {
+      "answer": 3,
+      "explain": "Elimination is lost when transmission is continuous for at least 12 months; an Arizona–Utah outbreak that began in June 2025 likely meets that test.",
+      "options": [
+        "Whether any single measles case occurred in the past year",
+        "Whether vaccination rates fell below 50%",
+        "Whether measles deaths exceeded 100",
+        "Whether measles spread has continued uninterrupted for 12 months or more"
+      ],
+      "q": "What test will the PAHO commission apply to decide whether the US has lost its measles-elimination status?"
+    },
+    {
+      "answer": 0,
+      "explain": "AP reported the ministry's toll of six dead; the Israeli military said it struck militants operating inside the hospital, providing no evidence.",
+      "options": [
+        "Gaza's Health Ministry said six people including a doctor were killed; Israel said it targeted a senior Hamas militant but gave no evidence",
+        "The UN confirmed Israel's claim of a command centre",
+        "No one was killed because the hospital was empty",
+        "Hamas claimed responsibility for the strike"
+      ],
+      "q": "Which statement about the strike on Nasser Hospital in Gaza matches the reports?"
+    },
+    {
+      "answer": 2,
+      "explain": "Gardaí called it a 'generic communication', advised no evacuation, and the commissioner reportedly believes the senders are abroad and aim to undermine the Dublin summit.",
+      "options": [
+        "They ordered all schools in Ireland to close for a week",
+        "They arrested the senders in Dublin",
+        "They judged the threat not credible and said schools did not need to evacuate, while investigating the senders",
+        "They said the emails came from pupils"
+      ],
+      "q": "How did Irish police respond to the hoax bomb emails sent to schools?"
+    },
+    {
+      "answer": 3,
+      "explain": "The peace deal ended the 2020–2022 war but not the dispute over Western Tigray; renewed fighting since 22 September has deepened fears.",
+      "options": [
+        "Because the Pretoria agreement banned all returns",
+        "Because Tigray has no hospitals at all",
+        "Because Eritrea annexed Tigray",
+        "Because the 2022 Pretoria deal left territorial disputes, especially over Western Tigray, unresolved, and fighting resumed in September"
+      ],
+      "q": "Why can many displaced Tigrayans still not return home, according to Al Jazeera?"
+    },
+    {
+      "answer": 1,
+      "explain": "Stoxx 600 companies are on track for 25% profit growth this quarter (LSEG), and Siemens raised its targets on data-centre demand.",
+      "options": [
+        "European markets were closed",
+        "Strong earnings, led by energy firms, and Europe's smaller exposure to AI chip stocks, Reuters said",
+        "The ECB cut interest rates overnight",
+        "Nvidia is listed only in Europe"
+      ],
+      "q": "Why did European shares reach record highs even as Nasdaq futures fell on the Nvidia news?"
+    },
+    {
+      "answer": 1,
+      "explain": "SK hynix fell 1.8% on Nvidia leadership uncertainty while Samsung Electronics gained 0.97%, Korea JoongAng Daily reported.",
+      "options": [
+        "Samsung Electronics, which fell 5%",
+        "SK hynix, which fell 1.8%",
+        "Hyundai Motor, which rose 10%",
+        "None; Korean chip stocks all rose"
+      ],
+      "q": "Japan's Nikkei fell 0.7% while Korea's Kospi fell 0.6% even though Samsung rose. Which Kospi stock reflected the Nvidia worry?"
+    },
+    {
+      "answer": 0,
+      "explain": "(1.007)^4 − 1 ≈ 2.83%. Annualising compounds the quarterly rate; it does not simply repeat it.",
+      "options": [
+        "About 2.8%",
+        "About 0.7%",
+        "About 2.0%",
+        "About 7.0%"
+      ],
+      "q": "Review (Lesson 15): UK GDP grew 0.7% in one quarter. If that pace continued for four quarters, what annualised rate does compounding give?"
+    },
+    {
+      "answer": 2,
+      "explain": "Fixed future payments are discounted at a higher yield, so they are worth less today: bond prices fall when yields rise.",
+      "options": [
+        "They rose, because higher yields mean higher prices",
+        "They stayed the same, because coupons are fixed",
+        "They fell, because bond prices move opposite to yields",
+        "They doubled"
+      ],
+      "q": "Review (Lesson 8): Poland's 10-year bond yield rose from 6.12% to 6.19%. What happened to the prices of existing 10-year bonds?"
+    },
+    {
+      "answer": 3,
+      "explain": "In a market-capitalisation-weighted index, giants like Nvidia carry far more weight than small companies, so their moves shift the whole index.",
+      "options": [
+        "Because each of the 500 companies has an equal weight",
+        "Because the index only contains technology firms",
+        "Because the index is calculated from trading volume",
+        "Because the S&P 500 is weighted by market value, so very large companies have a big influence on the index"
+      ],
+      "q": "Review (Lesson 4): why can a fall in one company such as Nvidia move the S&P 500 noticeably?"
+    }
+  ],
+  "status": "partial",
+  "stories": [
+    {
+      "category": "Economy & markets",
+      "everyday": "Many pension funds and index funds, including those held by savers in Poland through global ETFs, own Nvidia because it is one of the biggest companies in world indices. A sharp fall in one giant company can therefore nudge down the value of ordinary retirement savings.",
+      "id": "nvidia-board-huang",
+      "importance": 5,
+      "markets": [
+        "Nvidia",
+        "Nasdaq 100 futures",
+        "Taiex (Taiwan)",
+        "SK hynix",
+        "TSMC",
+        "CoreWeave"
+      ],
+      "rank": 1,
+      "rankWhy": "Nvidia is one of the world's most valuable companies and the main supplier of AI chips, so a leadership crisis moves the whole AI trade, Asian chipmakers and global stock indices.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5019991"
+        },
+        {
+          "name": "Euronews (AP)",
+          "url": "https://www.euronews.com/2026/11/12/nvidia-shares-fall-on-reports-board-may-oust-ceo-jensen-huang"
+        },
+        {
+          "name": "Forbes",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/11/12/nvidia-shares-plunge-as-board-reportedly-prepares-to-oust-ceo-jensen-huang/"
+        },
+        {
+          "name": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/business/kospi-ends-twoday-rally-as-nvidia-leadership-uncertainty-rattles-tech-stocks/12970370"
+        }
+      ],
+      "terms": [
+        "Board of directors",
+        "After-hours trading",
+        "Market capitalisation"
+      ],
+      "title": "Nvidia's board meets on whether to oust CEO Jensen Huang; shares fall about 8.6% after hours and Asian chip stocks slide",
+      "what": "The Wall Street Journal reported late on Wednesday that Nvidia's board was preparing to remove co-founder and chief executive Jensen Huang, and Reuters, citing a person familiar with the matter, said the board met late Wednesday (US time) to decide his future. Huang has acknowledged an extramarital affair with a woman whom US intelligence officials reportedly suspect of spying for China; China denies the claims. The New York Times reported a second relationship with Kimberly Powell, Nvidia's vice-president of healthcare, which Reuters could not verify. Nvidia shares had closed 2.9% higher at $173.73 in regular trading but fell 8.6% to $158.78 after hours, and were down about 7–8% in early trading in Frankfurt on Thursday. Bloomberg reported the board was working with an outside firm on possible replacements; Huang has led the company since he co-founded it in 1993.",
+      "why": "Investors value Nvidia partly on Huang's role in setting its technology roadmap and closing deals with AI customers, so a sudden change at the top raises uncertainty about future earnings; there is no obvious successor, according to Reuters and Forbes. Because Nvidia is a huge weight in the S&P 500 and Nasdaq and buys from suppliers across Asia, the fall spread: Taiwan's Taiex dropped about 2.6% and SK hynix about 1.8%. Analysts quoted by ABC News (Pepperstone, Saxo) said the damage looked contained to Nvidia rather than the wider AI trade."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Power cuts in winter mean cold homes and disrupted water and heating for Ukrainian families. For Poland, the course of the war shapes defence spending, energy prices and the situation of the many Ukrainians living in Poland.",
+      "id": "envoys-moscow-kyiv-strikes",
+      "importance": 5,
+      "markets": [
+        "European defence stocks",
+        "Ukrainian government bonds",
+        "Oil",
+        "European gas"
+      ],
+      "rank": 2,
+      "rankWhy": "The US push to end Europe's largest war reaches President Putin in person, while overnight strikes on Kyiv and the power grid show the war continuing for millions of Ukrainians.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Meduza (citing TASS)",
+          "url": "https://meduza.io/en/news/2026/11/12/witkoff-and-kushner-arrive-in-moscow-for-talks-with-putin"
+        },
+        {
+          "name": "Cyprus Mail (Reuters)",
+          "url": "https://cyprus-mail.com/2026/11/12/russian-strikes-kill-woman-in-kyiv-cause-power-outages-across-ukraine"
+        },
+        {
+          "name": "UNN (Ukrainian Air Force data)",
+          "url": "https://unn.ua/en/news/russia-attacked-ukraine-with-ballistic-missiles-and-zircon-missiles-94-of-123-drones-were-neutralized"
+        },
+        {
+          "name": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russia-attacks-kyiv-with-ballistic-missiles-hours-after-peace-talks-end/"
+        }
+      ],
+      "terms": [
+        "Ballistic missile",
+        "Prisoner of war (POW)"
+      ],
+      "title": "US envoys Witkoff and Kushner land in Moscow to meet Putin, hours after Russian missiles and drones hit Kyiv and cut power in nine regions",
+      "what": "US envoys Steve Witkoff and Jared Kushner arrived in Moscow on Thursday morning and were met at Vnukovo airport by Kirill Dmitriev, Putin's special envoy for investment, according to Russian state media cited by Meduza. They are to meet President Vladimir Putin and then brief President Zelensky in Dublin, where European leaders meet on Thursday. Overnight, Russia attacked Ukraine with ballistic missiles and 123 drones; Ukraine's air force said 94 were shot down or suppressed and reported hits in 17 locations. In Kyiv a drone hit a nine-storey apartment building, killing a woman and injuring five people, officials said, and the deputy energy minister said strikes on energy infrastructure caused power cuts in nine regions.",
+      "why": "The Abu Dhabi talks on 10–11 November produced only a deal in principle on a large prisoner exchange, so the US is now taking the core disputes, territory in Donbas and security guarantees, directly to the leaders. Kushner said the US sees 'some openings and some opportunities'. Russia said its overnight strikes targeted military-industrial sites; Ukraine says Russia keeps hitting energy systems during the heating season."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "A stronger dollar makes oil, computers and other goods priced in dollars more expensive in złoty; on Thursday morning one dollar cost about 3.98 zł. People with savings in gold have lost value this week, while Poles travelling to Japan get more yen for their money.",
+      "id": "strong-dollar-gold-yen",
+      "importance": 4,
+      "markets": [
+        "Gold",
+        "USD/JPY",
+        "EUR/USD",
+        "USD/PLN",
+        "US Treasury yields"
+      ],
+      "rank": 3,
+      "rankWhy": "Expectations of a US rate rise push up the dollar, pull gold below $4,000 and drag the yen to the edge of 160, which affects import prices, debts and savings in almost every country.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Reuters via Investing.com (yen)",
+          "url": "https://www.investing.com/news/economy-news/japans-top-currency-diplomat-renews-volatility-warning-as-yen-nears-key-160-level-5020140"
+        },
+        {
+          "name": "Investing.com (gold)",
+          "url": "https://www.investing.com/news/commodities-news/gold-clings-below-4000-as-inflation-fears-fuel-bets-on-bigger-fed-hikes-5020139"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/news/article/2026-11-11/gold-falls-below-4000-dollar-surges-fed-hike-bets-rise-kitco-pm-report"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/fed/fed-waller-jumbo-interest-rate-hike-december-inflation"
+        },
+        {
+          "name": "Money.pl (USD/PLN)",
+          "url": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-12-11-2026-7350122464508384a.html"
+        }
+      ],
+      "terms": [
+        "Currency intervention",
+        "Basis point",
+        "Safe haven"
+      ],
+      "title": "Fed hike bets lift the dollar: gold drops below $4,000 and the yen nears 160 as Japan warns it may intervene again",
+      "what": "Gold fell below $4,000 an ounce in US trading on Wednesday and spot gold was at $3,973 (−0.4%) early on Thursday. The dollar rose to 159.94 yen, its strongest in more than two months, and Japan's top currency diplomat Atsushi Mimura warned it is 'too early to forget' the intervention of the summer, when Japan spent a record 15.4 trillion yen to support its currency. The euro fell to about $1.108, near its lowest in about 17 months. Fed futures implied about an 87% chance of a quarter-point US rate rise at the 8–9 December meeting and about 13% for a half-point move, according to Kitco.",
+      "why": "October's US consumer prices rose 0.4% in a month, more than expected, and Fed officials such as Christopher Waller have said a half-point rise should be considered. Higher expected US interest rates make dollar assets more attractive, so money flows into the dollar. Gold pays no interest, so it becomes less attractive when yields rise and also costs more for buyers using other currencies, analysts at ANZ said."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Cheaper crude usually reaches petrol and diesel prices in Poland after a few weeks, though the stronger dollar works the other way because oil is priced in dollars.",
+      "id": "oil-falls-iran-uranium",
+      "importance": 4,
+      "markets": [
+        "Brent crude",
+        "WTI crude",
+        "Airline stocks",
+        "Oil producers"
+      ],
+      "rank": 4,
+      "rankWhy": "Oil is the world's key energy price and the Iran war has kept it high; any shift in the risk of supply cuts through Hormuz changes fuel and transport costs everywhere.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Business Recorder (Reuters)",
+          "url": "https://www.brecorder.com/news/40448540/oil-falls-over-1-on-easing-geopolitical-fears-and-oversupply-worries"
+        },
+        {
+          "name": "HDFC Sky",
+          "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-november-12-2026-brent-falls-1-2percent-to-91-7-as-peace-hopes-weigh"
+        },
+        {
+          "name": "Al Jazeera live",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza"
+        },
+        {
+          "name": "10 Things Global News",
+          "url": "https://www.10things.news/p/10-things-global-news-12th-november-646"
+        }
+      ],
+      "terms": [
+        "Risk premium",
+        "Enriched uranium"
+      ],
+      "title": "Oil slips about 1.5% to near $91 as diplomacy on Ukraine and Iran eases supply fears, even as Tehran refuses to send its enriched uranium abroad",
+      "what": "Brent crude, the global benchmark, fell to $91.29 a barrel (−1.6%) and US WTI to $85.29 (−1.4%) at 04:26 GMT on Thursday, according to Reuters, reversing Wednesday's gains. Iran's security chief Mohsen Rezaei said not a single particle of enriched nuclear material would leave the country, rejecting a US proposal to move the stockpile of 60% enriched uranium to a third country. Industry data from the American Petroleum Institute showed US crude stocks rose by 9 million barrels in a week; official EIA figures are due on Thursday. Shipping through the Strait of Hormuz remains disrupted.",
+      "why": "Analysts quoted by Reuters said hopes of a Ukraine ceasefire and a view that the Iran war is unlikely to escalate before next week's US–China meeting reduced the 'risk premium', the extra price traders pay for fear of supply cuts. Higher US stocks and rising OPEC+ output in October also point to more supply. But because Hormuz is still disrupted, strategists said a big price collapse is unlikely for now."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "The risk for people in Europe is very low, but the outbreak shows how weak health systems and conflict let a disease grow, and why money pledged by donors must reach the front line.",
+      "id": "ebola-msf-six-months",
+      "importance": 4,
+      "markets": [],
+      "rank": 5,
+      "rankWhy": "The second-largest Ebola outbreak on record has passed 11,000 cases with no approved vaccine for this strain, threatening millions in eastern Congo and neighbouring countries.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "MSF press release",
+          "url": "https://prezly.msf.org.uk/msf-drc-ebola-persistent-gaps-between-resources-and-action-remain-six-months-on"
+        },
+        {
+          "name": "Reuters via Yahoo News",
+          "url": "https://www.yahoo.com/news/articles/congo-ebola-outbreak-still-control-050607707.html"
+        },
+        {
+          "name": "WHO",
+          "url": "https://www.who.int/emergencies/situations/ebola-outbreak---drc-2026"
+        }
+      ],
+      "terms": [
+        "Contact tracing",
+        "Epidemic surveillance"
+      ],
+      "title": "Six months on, Congo's Ebola outbreak is 'out of control', MSF says, with more than 11,000 cases and over 5,000 deaths",
+      "what": "Médecins Sans Frontières (MSF) said on Thursday that the Ebola outbreak declared in the Democratic Republic of the Congo on 15 May has passed 11,000 cases and 5,000 deaths, making it the second-largest on record after West Africa's 2014–2016 epidemic. MSF's international president Javid Abdelmoneim called the situation 'simply unacceptable', citing unpaid and untrained staff, ambulances without fuel and weak surveillance. In Ituri province only 9% of patients MSF treated were already known contacts of existing cases, and in Beni (North Kivu) almost three-quarters of patients were infected in health facilities. The outbreak is caused by the Bundibugyo species, for which there is no approved vaccine or treatment, according to the WHO.",
+      "why": "Ebola spreads through close contact with the body fluids of sick people, so it is stopped by finding every contact and isolating cases early. When surveillance misses most contacts and clinics lack water, chlorine and protective equipment, hospitals themselves become places of transmission, MSF said. Armed conflict in North Kivu and Ituri also blocks health workers; WHO chief Tedros said insecurity is among the biggest obstacles."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "For British households, stronger growth supports jobs, but it also makes further rate rises more likely, which raises mortgage costs. Many Poles live and work in the UK and feel these conditions directly.",
+      "id": "uk-gdp-q3",
+      "importance": 3,
+      "markets": [
+        "Pound sterling",
+        "FTSE 100",
+        "UK government bonds (gilts)"
+      ],
+      "rank": 6,
+      "rankWhy": "Faster growth in one of Europe's biggest economies matters for UK jobs, the pound and the Bank of England's rate decisions, with limited spill-over abroad.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Global Banking & Finance Review (Reuters)",
+          "url": "https://www.globalbankingandfinance.com/uk-economy-grows-0-7-q3-ons-data-shows/"
+        },
+        {
+          "name": "City AM",
+          "url": "https://www.cityam.com/uk-economy-grows-0-7-per-cent-in-third-quarter/"
+        },
+        {
+          "name": "ONS release page",
+          "url": "https://www.ons.gov.uk/releases/gdpfirstquarterlyestimateukjulytoseptember2026"
+        }
+      ],
+      "terms": [
+        "Quarter-on-quarter growth",
+        "GDP"
+      ],
+      "title": "UK economy grows 0.7% in the third quarter, the strongest since 2024 according to Bloomberg, lifted by AI-linked computer services",
+      "what": "Britain's GDP grew 0.7% in July–September compared with the previous three months, up from 0.5% in the second quarter, the Office for National Statistics said on Thursday; economists polled by Reuters had expected 0.7%. Services grew 0.9%, led by computer programming, while construction shrank 0.7%. The economy also grew 0.2% in September alone. ONS chief economist Grant Fitzner said growth came almost entirely from strong and widespread growth in services.",
+      "why": "The Bank of England said last week that roughly a fifth of recent growth came from AI-related investment, and it also raised interest rates. Spending held up despite higher energy prices linked to the Iran war, City AM reported. Some economists quoted by Reuters expect slower growth in the fourth quarter as higher energy and borrowing costs bite."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Many European pension and investment funds hold these companies; record highs raise the value of those savings, though records can reverse quickly.",
+      "id": "europe-record-siemens",
+      "importance": 3,
+      "markets": [
+        "Stoxx 600",
+        "DAX",
+        "Siemens",
+        "Merck KGaA"
+      ],
+      "rank": 7,
+      "rankWhy": "European shares are at record highs while US tech wobbles, and Siemens' results show how AI data centres are boosting Europe's industrial giants.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/economy-news/europes-stoxx-600-hits-record-high-on-strong-earnings-easing-mideast-tensions-5020644"
+        },
+        {
+          "name": "Investing.com (Siemens earnings call)",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-siemens-lifts-outlook-after-strong-q4-2026-growth-93CH-5020564"
+        },
+        {
+          "name": "Saxo Market Quick Take",
+          "url": "https://www.home.saxo/en-ch/content/articles/macro/market-quick-take---nvidia-stumble-weighs-on-sentiment---12-november-2026-12112026"
+        }
+      ],
+      "terms": [
+        "Guidance",
+        "Order backlog"
+      ],
+      "title": "European shares hit new records as Siemens raises its targets on booming data-centre orders",
+      "what": "The Stoxx 600 rose 0.3% to a record 665.38 points early on Thursday and Germany's DAX gained about 1% to a new high, Reuters reported. Siemens reported record fourth-quarter orders of €34.8 billion and a record quarterly industrial profit of €3.9 billion, and forecast comparable revenue growth of 9–11% for its new financial year; its data-centre orders more than doubled to over €8.5 billion in the year. Merck KGaA rose 1.6% after raising its 2026 profit guidance for a third time. Companies in the Stoxx 600 are on track for 25% profit growth this quarter, the strongest in four years, according to LSEG data cited by Reuters.",
+      "why": "Reuters said strong earnings, led by energy companies, and Europe's smaller exposure to AI chip stocks have helped European shares outperform US and Asian markets as investors question the AI trade. Siemens benefits from AI indirectly: data centres need power systems, cooling and automation, which it sells."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "A dollar near 4 zł makes fuel, electronics and holidays outside the euro area more expensive. Higher bond yields raise the state's borrowing costs and can push up the interest rates banks charge on new loans.",
+      "id": "zloty-weaker-yields",
+      "importance": 3,
+      "markets": [
+        "EUR/PLN",
+        "USD/PLN",
+        "Polish government bonds",
+        "WIG20"
+      ],
+      "rank": 8,
+      "rankWhy": "A weaker złoty and higher Polish bond yields affect import prices, government borrowing costs and, over time, the rates on loans for millions of Poles.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "PAP Biznes via wnp.pl",
+          "url": "https://www.wnp.pl/rynki/dzien-na-fx-fi-potencjal-do-dalszej-deprecjacji-zlotego-ograniczony,1119054.html"
+        },
+        {
+          "name": "Money.pl",
+          "url": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-12-11-2026-7350122206759360a.html"
+        },
+        {
+          "name": "wnp.pl (WIG20 open)",
+          "url": "https://www.wnp.pl/rynki/wig20-na-otwarciu-wyniosl-4221-79-pkt-0-32,1119052.html"
+        }
+      ],
+      "terms": [
+        "Bond yield",
+        "Emerging market"
+      ],
+      "title": "Złoty weakens as the dollar surges: the dollar nears 4 zł and Poland's 10-year bond yield rises to 6.19%",
+      "what": "As Warsaw markets reopened after the Independence Day holiday, the euro cost 4.4031 zł and the dollar 3.9712 zł at 09:14 on Thursday, up from 4.3829 and 3.8980 on Tuesday morning, according to PAP Biznes. Yields on Polish government bonds rose: the 10-year to 6.19% from 6.12%, and the 2-year to 4.85% from 4.76%. The finance ministry holds a bond switch auction on Thursday, where PKO BP expects it to sell more than 8 billion zł of bonds. The WIG20 index opened 0.32% higher at 4,221.79.",
+      "why": "The złoty fell mainly because the dollar strengthened worldwide on expectations of US rate rises, and because higher US yields pull money away from emerging markets. PKO BP economists said the złoty has already priced in most of the bad news, limiting further falls, and named a renewed jump in oil prices as the main risk."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Decisions shaped at gatherings like this influence European defence budgets and support for Ukraine, which affect taxes and security in Poland, whose prime minister Donald Tusk is due to attend.",
+      "id": "epc-dublin",
+      "importance": 3,
+      "markets": [],
+      "rank": 9,
+      "rankWhy": "Leaders of more than 40 European countries meet to coordinate on Ukraine and on Russian hybrid attacks, though the summit takes no binding decisions.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "ABC News (AP)",
+          "url": "https://abcnews.com/International/wireStory/european-leaders-meet-dublin-discuss-ukraines-security-138070889"
+        },
+        {
+          "name": "TVP Info (calendar)",
+          "url": "https://www.tvp.info/96433613/kalendarium-12112026-co-wydarzy-sie-w-czwartek-12-listopada-2026-roku-spotkanie-prezydentow-polski-i-slowacji-szczyt-europejskich-przywodcow-w-dublinie-i-wazne-wyroki-tsue"
+        },
+        {
+          "name": "10 Things Global News",
+          "url": "https://www.10things.news/p/10-things-global-news-12th-november-646"
+        }
+      ],
+      "terms": [
+        "Hybrid threats",
+        "European Political Community (EPC)"
+      ],
+      "title": "More than 40 European leaders meet in Dublin to discuss Ukraine's security and Russia's 'hybrid' attacks",
+      "what": "Leaders from more than 40 countries gather in Dublin on Thursday for a summit of the European Political Community (EPC), a forum of almost 50 European nations that excludes Russia and Belarus, AP reported. President Zelensky, Canada's Prime Minister Mark Carney, NATO Secretary-General Mark Rutte and UK Prime Minister Andy Burnham are among those attending. The agenda covers the Abu Dhabi talks, Ukraine's security and hybrid threats such as disruptive attacks on infrastructure. The EPC makes no binding decisions and will issue no formal declaration.",
+      "why": "Europe wants a say in any peace deal for Ukraine, and the US has said it wants European participation, which Moscow has resisted, according to 10 Things/AP reporting. The US envoys are due to brief Zelensky in Dublin after meeting Putin, so the summit is a place for Europeans to hear and shape the next steps."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "For Gaza's residents, every damaged hospital means fewer places to treat the wounded and sick during a winter of flooding and shortages.",
+      "id": "gaza-nasser-hospital",
+      "importance": 3,
+      "markets": [],
+      "rank": 10,
+      "rankWhy": "A strike on one of Gaza's last functioning hospitals shows how fragile the ceasefire is for a population that depends on a decimated health system.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "CBS News (AP)",
+          "url": "https://www.cbsnews.com/news/israel-strike-gaza-hospital-kills-several/"
+        },
+        {
+          "name": "Times of Israel live blog",
+          "url": "https://www.timesofisrael.com/liveblog-november-12-2026/"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/israel-kills-six-with-hit-on-gaza-hospital-it-says-is-hamas-hub"
+        }
+      ],
+      "terms": [
+        "Ceasefire",
+        "International humanitarian law"
+      ],
+      "title": "Israeli strike on Gaza's Nasser Hospital kills six, including a doctor; Israel says it targeted a senior Hamas militant",
+      "what": "An Israeli strike early on Thursday hit the surgery department of Nasser Hospital in Khan Younis, one of the few functioning hospitals left in Gaza, killing six people including a doctor and wounding at least a dozen, Gaza's Health Ministry said, according to AP. The Israeli military said it struck a senior Hamas militant and others operating inside the hospital, which it called a command centre, without providing evidence. Since the US-backed ceasefire took effect in October 2025, Israeli strikes and gunfire have killed 1,622 people, according to health authorities, and five Israeli soldiers have been killed.",
+      "why": "Israel accuses Hamas of using hospitals as cover, which Hamas denies; under the laws of war hospitals are protected, but can lose protection if used for military purposes, and any attack must still weigh harm to civilians. Strikes have continued despite the ceasefire as each side accuses the other of violations."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "For parents and pupils, these alerts mean lost lessons and anxiety.",
+      "id": "bomb-hoax-wave",
+      "importance": 3,
+      "markets": [],
+      "rank": 11,
+      "rankWhy": "A wave of hoax bomb emails disrupted thousands of schools in several countries, a form of hybrid pressure that costs time and money and frightens families.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "TheJournal.ie",
+          "url": "https://www.thejournal.ie/bomb-threats-schools-media-thejournal-7222128-Nov2026/"
+        },
+        {
+          "name": "10 Things Global News",
+          "url": "https://www.10things.news/p/10-things-global-news-12th-november-646"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/at-least-300-italian-schools-evacuated-after-email-bomb-alerts"
+        }
+      ],
+      "terms": [
+        "Hybrid threats",
+        "Hoax"
+      ],
+      "title": "Bomb-hoax emails spread from Italy to schools in Scotland, Northern Ireland and Ireland on the eve of the Dublin summit",
+      "what": "About 6,300 Italian state schools received threatening emails on Wednesday and at least 300 were evacuated as a precaution; Prime Minister Giorgia Meloni said checks found no concrete danger. More than 700 schools in Scotland and Northern Ireland received similar emails, and around 400 schools in Ireland's Munster region plus others in Dublin also got one. Irish police (gardaí) judged the threat not credible and said schools did not need to evacuate; Garda Commissioner Justin Kelly reportedly believes the senders are abroad and aim to undermine the EPC summit events. Media outlets including RTÉ, Reuters and the BBC also received threatening emails, according to TheJournal.ie.",
+      "why": "Hoax threats are cheap to send but force authorities to check every school, causing disruption and fear; Italy's education minister suggested a cyberattack meant to spread alarm. They follow airline and airport bomb hoaxes the week before, and European officials see a pattern of so-called hybrid attacks, though no one has been publicly identified as responsible."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "The numbers show how a war in Europe pulls in poor workers and migrants from far away.",
+      "id": "russia-foreign-war-deaths",
+      "importance": 3,
+      "markets": [],
+      "rank": 12,
+      "rankWhy": "Leaked official data give rare evidence of how Russia recruits foreigners from nearly 100 countries to fight in Ukraine, affecting families from Central Asia to Africa.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Meduza (citing Bloomberg)",
+          "url": "https://meduza.io/en/news/2026/11/12/at-least-11-000-foreign-born-fighters-have-died-fighting-for-russia-in-ukraine-leaked-government-data-shows-bloomberg-reports"
+        },
+        {
+          "name": "10 Things Global News",
+          "url": "https://www.10things.news/p/10-things-global-news-12th-november-646"
+        },
+        {
+          "name": "News24",
+          "url": "https://www.news24.com/business/economy/more-than-11-000-foreigners-recruited-by-russia-have-died-in-war-in-ukraine-20261112-0349"
+        }
+      ],
+      "terms": [
+        "Leak"
+      ],
+      "title": "Leaked Russian records show 11,335 foreign-born people died fighting for Russia in Ukraine, Bloomberg reports",
+      "what": "Confidential Russian death statistics obtained by hackers and reviewed by Bloomberg show 11,335 war-related deaths of people born abroad or holding foreign citizenship between February 2022 and August 2026, from nearly 100 countries. About 3,700 were Ukrainian citizens or born in Ukraine, many likely from occupied areas; about 80% of the rest were from other former Soviet republics. Deaths rose from 630 in 2022 to more than 5,500 in 2025, with records for Kenyan and Nigerian citizens rising since late 2025. Russia's statistics agency acknowledged recent cyberattacks but denied finding evidence of a leak.",
+      "why": "The figures suggest Russia increasingly relies on foreign-born recruits, with deaths among them rising almost ninefold between 2022 and 2025. Media such as Meduza caution that the data are incomplete, because death certificates may not show the true cause and missing soldiers are declared dead only after long delays."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Long displacement means children out of school and families dependent on aid; it can also push people to migrate further, including towards Europe.",
+      "id": "tigray-displaced",
+      "importance": 3,
+      "markets": [],
+      "rank": 13,
+      "rankWhy": "Renewed fighting in Ethiopia's Tigray threatens a region where a 2020–2022 war killed an estimated 500,000 people, and displaced families have no way home.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade"
+        }
+      ],
+      "terms": [
+        "Internally displaced person (IDP)",
+        "Peace agreement"
+      ],
+      "title": "Displaced families in Ethiopia's Tigray fear a new war as fighting since September dims hopes of going home",
+      "what": "Families who fled Western Tigray years ago still shelter in places such as a former school in Abi Adi, with shortages of food, clean water and medicines, Al Jazeera reported on Wednesday. Fighting escalated on 22 September: the Tigray People's Liberation Front (TPLF) seized Mekelle's airport, and federal forces retook the city on 4 October; the government has set up a six-month caretaker administration. Rights groups including Human Rights Watch told the UN Human Rights Council of drone strikes and shelling, including near displacement camps.",
+      "why": "The 2022 Pretoria peace agreement ended the war but left disputes over territory, especially Western Tigray, unresolved, according to Al Jazeera. Without a settlement of who controls the land, displaced Tigrayans cannot return, and each side blames the other for the new fighting."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "Measles can be dangerous, especially for babies and people with weak immune systems. The same pattern of falling vaccination has driven outbreaks in Europe, which is why doctors recommend keeping up to date with the MMR (measles, mumps, rubella) vaccine.",
+      "id": "us-measles-paho",
+      "importance": 3,
+      "markets": [],
+      "rank": 14,
+      "rankWhy": "Losing 'measles-free' status would mark a setback for US public health and a warning for other countries with falling vaccination rates.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/world/2026/1111/1598821-us-measles-status/"
+        },
+        {
+          "name": "Medical Daily",
+          "url": "https://www.medicaldaily.com/cdc-measles-response-elimination-status-paho-review-481113"
+        }
+      ],
+      "terms": [
+        "Herd immunity",
+        "Disease elimination"
+      ],
+      "title": "Experts weigh whether the US has lost its 'measles-free' status as 2026 cases pass 5,000",
+      "what": "A Pan American Health Organization (PAHO) commission is meeting on 10–13 November to review whether the United States has had uninterrupted measles spread for 12 months or more, which would end the 'elimination' status it has held since 2000. The US had 5,182 confirmed cases in 2026 as of 5 November, up from 2,289 in all of 2025, with about 96% linked to outbreaks, according to CDC data cited by Medical Daily. CDC director Erica Schwartz said the federal response would not change if the status is lost and expects a decision by early next week. Canada, Spain and the UK recently lost their elimination status after WHO reviews, RTÉ reported.",
+      "why": "Measles is one of the most contagious diseases, so outbreaks take hold when vaccination rates drop below the level needed for herd immunity. An outbreak on the Arizona–Utah border that began in June 2025 likely meets the 12-month test, according to Prof. Noel Brewer quoted by RTÉ."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "For ordinary people the effect is indirect: China's chip race shapes the price and availability of AI services and electronics worldwide.",
+      "id": "alibaba-thead",
+      "importance": 2,
+      "markets": [
+        "Alibaba",
+        "Hang Seng Tech"
+      ],
+      "rank": 15,
+      "rankWhy": "A planned listing of Alibaba's AI chip unit matters for China's push to build its own chips, but its market effect is limited to Hong Kong tech shares.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Caixin Global",
+          "url": "https://www.caixinglobal.com/2026-11-11/alibaba-files-to-spin-off-chip-unit-in-hong-kong-102503517.html"
+        },
+        {
+          "name": "Business Recorder (Reuters)",
+          "url": "https://www.brecorder.com/news/40448556/semiconductors-lift-china-stocks-hong-kong-falls-as-alibaba-weighs"
+        }
+      ],
+      "terms": [
+        "Spin-off"
+      ],
+      "title": "Alibaba shares fall about 5% as it pushes ahead with a Hong Kong listing of its AI-chip unit T-Head",
+      "what": "Alibaba said T-Head, its wholly owned chip subsidiary, confidentially filed in September to list on the Hong Kong stock exchange, Caixin reported. Analysts value T-Head at $25 billion to $86 billion, and IFR reported it aims to raise $2–3 billion in a 2027 share sale. Alibaba's Hong Kong shares fell about 5% by midday on Thursday, pulling the Hang Seng Tech index down 1.4%, Reuters reported.",
+      "why": "Spinning off a unit can let investors value it separately and help it raise money, but some analysts question how much T-Head depends on its parent for sales, Caixin said. The listing comes as US lawmakers push for tighter curbs on chip exports to China, Reuters reported, which raises the value of home-grown Chinese chips."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "How Venezuelan oil is sold affects world supply at a time when the Iran war has pushed up fuel prices, including in Poland.",
+      "id": "vitol-vance-venezuela",
+      "importance": 2,
+      "markets": [
+        "Vitol (private)",
+        "Trafigura (private)",
+        "Venezuelan crude"
+      ],
+      "rank": 16,
+      "rankWhy": "Questions about how a top oil trader won a lucrative Venezuela contract touch on government ethics and a big new source of crude, but have no immediate market effect.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Reuters via Yahoo Finance",
+          "url": "https://finance.yahoo.com/news/exclusive-vitol-traders-ties-jd-111121278.html"
+        },
+        {
+          "name": "10 Things Global News",
+          "url": "https://www.10things.news/p/10-things-global-news-12th-november-646"
+        }
+      ],
+      "terms": [
+        "Conflict of interest"
+      ],
+      "title": "Reuters: Vitol trader's ties to Vice-President Vance helped it land a prized Venezuela oil contract; all sides deny wrongdoing",
+      "what": "Energy Secretary Chris Wright called Vitol gasoline trader John Addison on 5 January, two days after the US operation that removed Venezuela's Nicolás Maduro, to ask whether Vitol wanted to market Venezuelan crude, a Reuters investigation found; the Energy Department confirmed the call. Vitol and Trafigura obtained licences by 9 January without competitive bidding. Addison had given $300,000 in 2022 to a political committee backing JD Vance's Senate campaign, and a US official said Vance recommended him to Wright. The Energy Department said Vance and Wright never discussed Venezuelan oil sales, and Addison and Vance's office denied a reported December meeting.",
+      "why": "Government contracts awarded without competition invite scrutiny over whether political connections played a role. Rep. Robert Garcia, the incoming chair of the House Oversight Committee, has already questioned how the licences were obtained."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "These rules are part of how Europe, including Poland, tries to deter attack without stumbling into a wider war.",
+      "id": "france-germany-missiles",
+      "importance": 2,
+      "markets": [
+        "European defence stocks"
+      ],
+      "rank": 17,
+      "rankWhy": "How Europe's two biggest military powers would use long-range missiles against Russia bears on nuclear risk across the continent, though talks are at an early stage.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Meduza (citing FT)",
+          "url": "https://meduza.io/amp/en/news/2026/11/11/france-presses-germany-to-clarify-how-it-would-use-long-range-missiles-in-war-with-russia-amid-fears-of-nuclear-escalation-ft-reports"
+        },
+        {
+          "name": "10 Things Global News",
+          "url": "https://www.10things.news/p/10-things-global-news-12th-november-646"
+        }
+      ],
+      "terms": [
+        "Military doctrine",
+        "Nuclear deterrence"
+      ],
+      "title": "France presses Germany to agree rules for using long-range missiles against Russia, fearing nuclear escalation, FT reports",
+      "what": "France wants Germany to clarify how it would use the long-range missiles it is acquiring, which could strike deep inside Russia, the Financial Times reported, as summarised by Meduza. Paris has opened talks to align Berlin's doctrine with France's nuclear strategy; one French source warned a misread signal could take Europe to the nuclear threshold without anyone realising. A senior German official said Berlin 'could not agree more' on the need for a common doctrine. Britain is also taking part, including in plans for missiles with ranges above 2,000 km, according to 10 Things.",
+      "why": "France is a nuclear power and fears Moscow would hold it responsible for strikes by its partners, especially as President Macron has offered to extend French nuclear deterrence to European allies. A shared doctrine is meant to make Europe's signals to Russia predictable."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "For parents everywhere, including in Poland, the case is a reminder that platforms' moderation can fail and that reporting tools and privacy settings matter.",
+      "id": "spain-tiktok-probe",
+      "importance": 2,
+      "markets": [
+        "ByteDance (private)"
+      ],
+      "rank": 18,
+      "rankWhy": "Child protection on a platform used by hundreds of millions is a major social issue, but Spain's probe is national and stops short of a ban.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Global Banking & Finance Review (Reuters)",
+          "url": "https://www.globalbankingandfinance.com/spanish-watchdog-opens-tiktok-probe-denies-government-demand/"
+        },
+        {
+          "name": "The Standard (Hong Kong)",
+          "url": "https://www.thestandard.com.hk/news/article/348252/Morning-Recap-November-12-2026"
+        }
+      ],
+      "terms": [
+        "Data protection authority",
+        "Proportionality"
+      ],
+      "title": "Spain's data watchdog opens a probe into child sexual abuse material on TikTok but refuses the government's request to block the app",
+      "what": "Spain's data protection agency (AEPD) opened an investigation on Wednesday into alleged child sexual abuse material spreading on TikTok, after the fact-checking outlet Maldita.es documented 1,183 explicit posts, Reuters reported. The government had asked the agency to suspend TikTok temporarily in Spain. The AEPD said it would instead take concrete, proportionate measures such as blocking specific links and content. TikTok did not immediately respond to Reuters.",
+      "why": "Under EU rules, Ireland's Data Protection Commission is TikTok's lead privacy regulator in the EU, which limits what a national watchdog like the AEPD can do on its own, Reuters noted. Blocking a whole app is a drastic step that regulators must justify as proportionate."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "The dispute shapes the long-term prospects for peace in a region whose conflicts affect energy prices and migration to Europe.",
+      "id": "e1-unsc-push",
+      "importance": 2,
+      "markets": [],
+      "rank": 19,
+      "rankWhy": "The E1 settlement plan could decide whether a contiguous Palestinian state remains possible, but the immediate step is diplomatic.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/denmark-european-countries-pushing-for-emergency-un-security-council-meeting-on-e1"
+        },
+        {
+          "name": "Times of Israel live blog",
+          "url": "https://www.timesofisrael.com/liveblog-november-12-2026/"
+        }
+      ],
+      "terms": [
+        "Settlement (West Bank)",
+        "UN Security Council"
+      ],
+      "title": "Denmark and other European countries seek an emergency UN Security Council meeting on Israel's E1 settlement tender",
+      "what": "Denmark, a Security Council member, is leading European countries in pushing for an emergency meeting on Israel's plan to build in the E1 area east of Jerusalem, the Times of Israel reported on Thursday; Israel is working with the US and Greece to block it. The current tender covers 1,234 housing units, with bids due to be opened on 19 November. Israel's UN ambassador Danny Danon called the push a 'moral disgrace'.",
+      "why": "E1 would link the Ma'ale Adumim settlement to Jerusalem and cut the territorial link between Ramallah, East Jerusalem and Bethlehem, which Palestinians and many Western governments say would rule out a contiguous Palestinian state."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Fuel protests are a reminder that energy prices hit transport workers first, then everyone through the price of goods; Poland's fuel prices are shaped by the same world oil market.",
+      "id": "chile-truckers-strike",
+      "importance": 2,
+      "markets": [
+        "Chilean peso",
+        "Chilean fruit exports"
+      ],
+      "rank": 20,
+      "rankWhy": "A truckers' strike over fuel prices disrupts Chile's main highway and ports, threatening farm exports, but the effect is mostly national.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Reuters via Yahoo News",
+          "url": "https://www.yahoo.com/news/articles/truckers-block-roads-chile-protesting-135603923.html"
+        },
+        {
+          "name": "Rio Times",
+          "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-november-12-2026/"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/chile-trucker-protest-over-fuel-prices-imperils-farm-exports"
+        }
+      ],
+      "terms": [
+        "Fuel subsidy"
+      ],
+      "title": "Chilean truckers keep up a strike and road blockades over fuel prices, rejecting government measures",
+      "what": "Truckers in Chile have blocked roads since Monday, demanding action on fuel prices, changes to the MEPCO fuel-price stabilisation mechanism and lower taxes, Reuters reported. The government said it would use fiscal savings to support MEPCO and send a bill to stop weekly fuel price rises of more than 20 pesos per litre, but the strikers rejected the measures. Traffic was disrupted on the main north–south highway and access to ports such as Iquique, though the two largest trucking associations did not join. Bloomberg reported the protest imperils farm exports.",
+      "why": "The Iran war has pushed up world oil prices, and fuel is a large part of truckers' costs, so they want the state to absorb more of the rise. Governments face a trade-off: subsidising fuel costs public money, while letting prices rise hurts transport-dependent workers."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "For Catholics, including in Poland, the visit shows how the Pope connects his personal history as a missionary with the Church's priorities.",
+      "id": "pope-leo-peru",
+      "importance": 2,
+      "markets": [],
+      "rank": 21,
+      "rankWhy": "The first visit of Pope Leo XIV to Peru, his long-time mission country, matters to millions of Catholics but has little wider effect.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Vatican News",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-arrives-in-peru-for-final-leg-of-apostolic-journey.html"
+        },
+        {
+          "name": "Rio Times",
+          "url": "https://www.riotimesonline.com/latin-american-pulse-for-thursday-november-12-2026/"
+        }
+      ],
+      "terms": [
+        "Apostolic journey"
+      ],
+      "title": "Pope Leo XIV returns to Peru, where he served for two decades, on the last leg of his South American tour",
+      "what": "Pope Leo XIV arrived at Callao air base near Lima on Wednesday and was welcomed by President Keiko Fujimori, Vatican News reported. The six-day visit is the final leg of a tour that also took him to Uruguay and Argentina. He spent many years as an Augustinian missionary in Peru and was Bishop of Chiclayo from 2015 to 2023. He is due to celebrate Mass in Chiclayo on Friday and visit Cusco and Pucallpa before leaving for Rome on 16 November.",
+      "why": "Papal visits combine religious and political meaning: they draw huge crowds, give the Church a platform on issues such as poverty and the Amazon, and bring publicity to the host government."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "More arms production in Poland could mean industrial jobs, while the large defence budget competes with other public spending.",
+      "id": "poland-us-defence-industry",
+      "importance": 2,
+      "markets": [
+        "PGZ (state-owned)",
+        "US defence companies"
+      ],
+      "rank": 22,
+      "rankWhy": "The deal aims to bring more US arms production and servicing to Poland, which matters for Polish jobs and security, while the bigger decision on a US base is still pending.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Notes from Poland",
+          "url": "https://notesfrompoland.com/2026/11/11/poland-and-us-sign-statement-of-intent-on-strengthening-defence-industry-cooperation/"
+        }
+      ],
+      "terms": [
+        "Technology transfer"
+      ],
+      "title": "Poland and the US sign a statement of intent to make and maintain more American military equipment in Poland",
+      "what": "Defence Minister Władysław Kosiniak-Kamysz and US Secretary of War Pete Hegseth signed a statement of intent in Washington on strengthening cooperation between their defence industries, including technology transfers, Notes from Poland reported on Wednesday. The meeting coincided with a forum of 70 Polish and 80 American firms. Kosiniak-Kamysz said he would push for jointly made Polish-US equipment to qualify for EU defence funding, as the EU's SAFE loan programme largely excludes US manufacturers. He said the Pentagon has given a 'green light' to a permanent US base in Poland, with a White House decision expected in early December.",
+      "why": "Poland buys a lot of US equipment, such as Abrams tanks, F-35 jets and Patriot systems, and wants more of the production and servicing done at home to create jobs and keep equipment running in a crisis."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Climate shocks abroad can raise food prices and migration pressures in Europe, including Poland.",
+      "id": "uk-climate-security-envoy",
+      "importance": 2,
+      "markets": [],
+      "rank": 23,
+      "rankWhy": "Treating climate change as a national-security risk could shape how governments plan defence and aid, though COP31's big decisions are still days away.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "10 Things Global News",
+          "url": "https://www.10things.news/p/10-things-global-news-12th-november-646"
+        },
+        {
+          "name": "Infrastructure Now",
+          "url": "https://www.infrastructure-now.co.uk/article/503480/the-climate-crisis-is-a-national-security-issue!-andy-burnham-addresses-international-summit-as-he-reaffirms-commitment-to-net-zero"
+        },
+        {
+          "name": "UN News",
+          "url": "https://news.un.org/en/story/2026/11/1168783"
+        }
+      ],
+      "terms": [
+        "Net zero",
+        "Electrification"
+      ],
+      "title": "At COP31, the UK appoints the world's first 'climate security' envoy, and Burnham calls climate change a national security issue",
+      "what": "Britain appointed Dame Madeleine Alessandri, who chairs the Joint Intelligence Committee, as its first special representative for climate security, according to 10 Things and France 24. Prime Minister Andy Burnham was due to announce the role at the COP31 summit in Antalya on Thursday, reaffirm net zero by 2050 and back a global target for electricity to make up 35% of energy use by 2035. Campaigners criticise the approval of the Jackdaw gas field. The conference runs until 20 November, with climate finance and a just transition among unresolved issues, UN News said.",
+      "why": "A committee report warned that the collapse of ecosystems abroad could affect UK security within five years, 10 Things reported. Framing climate as security can win support from voters and ministers who focus on defence."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Wage theft and hidden fees exist in many countries; in Poland, workers can turn to the National Labour Inspectorate (PIP) if they believe they have been underpaid.",
+      "id": "australia-wage-theft-banks",
+      "importance": 2,
+      "markets": [
+        "NAB",
+        "Commonwealth Bank of Australia"
+      ],
+      "rank": 24,
+      "rankWhy": "Repayments to tens of thousands of underpaid bank workers and a lawsuit over hidden fees matter for workers and customers in Australia, with little effect abroad.",
+      "region": "Asia-Pacific",
+      "sources": [
+        {
+          "name": "ABC News (Australia) live blog",
+          "url": "https://abc.net.au/news/2026-11-12/asx-markets-business-news-live-updates-thursday-12-november/107374826"
+        }
+      ],
+      "terms": [
+        "Enforceable undertaking"
+      ],
+      "title": "Australia's NAB agrees to repay staff A$127 million in underpaid wages, and the corporate regulator sues CBA over overcharging",
+      "what": "National Australia Bank (NAB) agreed an enforceable undertaking with the Fair Work Ombudsman to pay A$127 million in underpayments plus A$34 million in interest and A$8 million in superannuation to 65,999 workers, ABC News reported on Thursday. Separately, the Australian Securities and Investments Commission (ASIC) sued the Commonwealth Bank, alleging about 42,000 CommBiz business customers were overcharged roughly A$8.5 million in undisclosed fees between November 2020 and May 2025.",
+      "why": "Underpayments often arise when complex pay rules are applied wrongly by payroll systems; regulators use enforceable undertakings to secure repayment without a court case."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "The case shows how trade bans hit patients and prices first, and why medicines are often exempted.",
+      "id": "pakistan-india-trade",
+      "importance": 2,
+      "markets": [
+        "Pakistani rupee",
+        "Indian pharmaceutical exporters"
+      ],
+      "rank": 25,
+      "rankWhy": "Trade between two nuclear-armed rivals is small but a signal of whether tensions are easing; medicines are the main item.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/11/how-are-pakistans-imports-from-india-growing-again-despite-tensions"
+        }
+      ],
+      "terms": [
+        "Trade embargo"
+      ],
+      "title": "Pakistan's imports from India rise 69% despite an official trade ban, driven by medicines",
+      "what": "Pakistan's imports from India reached $61.7 million in July–September 2026, up 69% on a year earlier, according to State Bank of Pakistan data cited by Al Jazeera. Organic chemicals and pharmaceuticals made up 96.2% of imports from India in 2025–26, as medicines are exempt from a ban Pakistan imposed after the April 2025 Pahalgam attack. India was only about 0.3% of Pakistan's $64.5 billion total imports in 2025–26.",
+      "why": "Pakistan depends on Indian medicines and vaccines, and buying them elsewhere could add 40–50% to costs, a former trade official said, so humanitarian exemptions keep some trade going even when politics freezes the rest."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Free, safe reporting helps people everywhere get accurate health advice in emergencies.",
+      "id": "congo-journalists-ebola",
+      "importance": 2,
+      "markets": [],
+      "rank": 26,
+      "rankWhy": "Attacks on reporters covering Ebola undermine accurate public health information in an outbreak affecting millions.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "allAfrica",
+          "url": "https://allafrica.com/stories/202611120147.html"
+        }
+      ],
+      "terms": [
+        "Press freedom"
+      ],
+      "title": "Journalists covering Congo's Ebola outbreak face assaults and threats, press freedom group CPJ says",
+      "what": "The Committee to Protect Journalists said journalists reporting on the Ebola outbreak in the Democratic Republic of the Congo face assaults and threats, with some accused of spreading misinformation, allAfrica reported. In North Kivu, at least six people attacked a community radio editor, a journalist was assaulted by youths armed with machetes, and staff at Radio Terra FM were attacked.",
+      "why": "During outbreaks, rumours and distrust of health workers spread fast, and reporters can be blamed for bad news. Local radio can be a key source of health information in rural areas, so attacks on it can slow the response."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Repeated disasters drain local budgets and delay recovery for families who depend on single roads and bridges.",
+      "id": "aceh-floods",
+      "importance": 1,
+      "markets": [],
+      "rank": 27,
+      "rankWhy": "Floods and landslides in western Indonesia damaged rebuilt bridges but caused no reported casualties.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "The Jakarta Post",
+          "url": "https://thejakartapost.com/indonesia/2026/11/12/fresh-floods-and-landslides-hit-aceh-hamper-disaster-recovery"
+        }
+      ],
+      "terms": [
+        "Landslide"
+      ],
+      "title": "Fresh floods and landslides hit Indonesia's Aceh and Sumatra, destroying bridges rebuilt after last year's cyclone",
+      "what": "Floods and landslides affected 13 regencies and cities in Aceh, North Sumatra and West Sumatra over the past week, Home Minister Tito Karnavian said, according to The Jakarta Post. In Central Aceh, two temporary bridges built after Cyclone Senyar collapsed, cutting one village's only access route. No injuries or deaths were reported.",
+      "why": "Damage from last year's cyclone left slopes and rivers unstable, making communities more vulnerable to new heavy rain, the paper said."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Little direct effect on households.",
+      "id": "hk-ipos",
+      "importance": 1,
+      "markets": [
+        "Hong Kong IPO market"
+      ],
+      "rank": 28,
+      "rankWhy": "Two small tech listings add to Hong Kong's busy share-sale market without wider impact.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "Saxo Asia Market Quick Take",
+          "url": "https://www.home.saxo/en-hk/content/articles/macro/asia-market-quick-take--12-november-2026-12112026"
+        }
+      ],
+      "terms": [
+        "Initial public offering (IPO)"
+      ],
+      "title": "Two Chinese tech firms debut in Hong Kong, raising HK$1.78 billion",
+      "what": "Hosin Electronics and Amicro Technology began trading in Hong Kong on Thursday after raising a combined HK$1.78 billion, Saxo reported.",
+      "why": "Hong Kong has become a popular venue for Chinese technology companies to raise money through initial public offerings."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "Buying prescription medicines from abroad carries risks, such as counterfeit or unsuitable products.",
+      "id": "korea-drug-imports",
+      "importance": 1,
+      "markets": [
+        "Weight-loss drug makers"
+      ],
+      "rank": 29,
+      "rankWhy": "A rule change for personal medicine imports affects some South Korean patients but little beyond.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "The Standard (Hong Kong)",
+          "url": "https://www.thestandard.com.hk/news/article/348252/Morning-Recap-November-12-2026"
+        }
+      ],
+      "terms": [],
+      "title": "South Korea to let people import overseas prescription drugs, including weight-loss injections, for personal use",
+      "what": "Under a new policy, South Korea will allow personal imports of prescription medicines from abroad, including weight-loss injections, The Standard reported.",
+      "why": "Such rules aim to widen access and lower prices for patients, while regulators must guard against fake or unsafe products."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "The same airspace closure makes some flights from Poland to Asia longer and more expensive.",
+      "id": "carney-long-trip",
+      "importance": 1,
+      "markets": [],
+      "rank": 30,
+      "rankWhy": "An unusual travel route shows how Russian airspace closures shape diplomacy, with no wider effect.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "The Standard (Hong Kong)",
+          "url": "https://www.thestandard.com.hk/news/article/348252/Morning-Recap-November-12-2026"
+        },
+        {
+          "name": "ABC News (AP)",
+          "url": "https://abcnews.com/International/wireStory/european-leaders-meet-dublin-discuss-ukraines-security-138070889"
+        }
+      ],
+      "terms": [],
+      "title": "Canada's Carney flies about 36,000 km in 10 days to summits in Europe and Asia, avoiding Russian airspace",
+      "what": "Canadian Prime Minister Mark Carney will travel about 36,000 km over 10 days to European and Asian summits, crossing two oceans to avoid Russian airspace, The Standard reported. His stops include the European Political Community meeting in Dublin, AP said.",
+      "why": "Since the invasion of Ukraine, Western aircraft avoid Russian airspace, which lengthens many routes between Europe and Asia."
+    }
+  ],
+  "watch": [
+    "Thursday 12 November: US envoys Steve Witkoff and Jared Kushner meet President Putin in Moscow, then are expected to brief President Zelensky in Dublin.",
+    "Thursday 12 November: European Political Community summit in Dublin, with leaders from more than 40 countries; no binding decisions are expected.",
+    "Thursday 12 November: US weekly jobless claims at 14:30 Warsaw; Fed speakers Hammack, Barr, Goolsbee, Daly and Schmid during the afternoon and evening.",
+    "Thursday 12 November: results from Siemens, Allianz and Merck KGaA in Europe; Cisco and Applied Materials in the US.",
+    "Friday 13 November: US producer prices (PPI) for October at 14:30 Warsaw.",
+    "Tuesday 17 November: Nvidia's quarterly results.",
+    "18–19 November: APEC summit in Shenzhen, China, where President Trump expects to meet Xi Jinping and Vladimir Putin.",
+    "Developing: Nvidia board decision on Jensen Huang; Strait of Hormuz shipping; Congo's Ebola outbreak."
+  ],
+  "window": "Wed 11 Nov 20:00 → Thu 12 Nov 10:00 (Warsaw time)",
+  "id": "2026-11-12-1000",
+  "updatedAt": "2026-11-12T09:14:13.30678Z"
+}

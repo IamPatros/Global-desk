@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T20:16:41Z",
+  "updated": "2026-11-12T09:17:14Z",
   "lessons": [
     {
       "number": 1,
@@ -120,6 +120,14 @@
       "date": "11 Nov 2026",
       "createdAt": "2026-11-11T19:55:00Z",
       "updatedAt": "2026-11-11T19:13:06.215063Z"
+    },
+    {
+      "number": 16,
+      "title": "The US dollar's special role",
+      "level": "Core",
+      "date": "12 Nov 2026",
+      "createdAt": "2026-11-12T09:12:42Z",
+      "updatedAt": "2026-11-12T09:14:13.292971Z"
     }
   ]
 }
