@@ -1,0 +1,252 @@
+{
+  "checkQuestions": [
+    {
+      "a": "If gas plants are needed to meet demand in that hour, they are the marginal plants and set the clearing price under pay-as-clear pricing. The attack raises expected LNG scarcity and the TTF gas price, which raises gas plants' marginal cost and therefore the price paid to all generators, including wind and coal.",
+      "q": "Explain why an attack on a gas tanker near the Strait of Hormuz can raise electricity prices in Germany even though most German power that hour comes from wind and coal."
+    },
+    {
+      "a": "Oil is cheap to ship by tanker, so arbitrage keeps regional prices close. Gas must be liquefied, shipped and regasified or sent by pipeline, and US export capacity is limited, so a shortage in Europe cannot pull US prices up; the gap can persist until transport capacity expands.",
+      "q": "Why can US and European gas prices differ by a factor of nine while oil prices on both sides of the Atlantic stay close?"
+    },
+    {
+      "a": "Solar output is concentrated at sunny midday hours. As more is added, at those hours zero-marginal-cost supply can exceed demand, pushing the clearing price to zero or below if some generators prefer to keep running. Because many solar plants produce at the same time, they depress the price exactly when they sell, lowering their average captured price (cannibalisation).",
+      "q": "Using the merit-order logic, explain why adding more solar capacity can increase the number of negative-price hours and lower the average price solar farms earn."
+    },
+    {
+      "a": "Wind and solar have most of their costs upfront, financed by debt and equity, and very low running costs. Higher interest rates raise the annual payment needed to repay that capital, so their cost per MWh rises; a gas plant's cost is mostly fuel, which is less sensitive to rates.",
+      "q": "Why do higher interest rates make the green transition more expensive than a fossil-fuel-heavy system, other things equal?"
+    },
+    {
+      "a": "Low storage leaves less buffer against cold weather or supply losses, so traders bid up gas prices. Higher gas prices raise power prices when gas is marginal and raise heating costs, which feed into consumer price inflation. Central banks targeting inflation then face pressure to keep interest rates higher for longer, although they may look through a temporary energy shock if inflation expectations stay anchored.",
+      "q": "Trace, step by step, how low EU gas storage at the start of winter can feed into the ECB's or NBP's decisions."
+    }
+  ],
+  "createdAt": "2026-11-13T19:08:19Z",
+  "date": "13 Nov 2026",
+  "editionId": "2026-11-13-2000",
+  "intro": "Electricity and gas bills are among the prices people notice most, and in 2026 they have been pushed around by a war in the Gulf, by Europe's low gas storage and by the rapid growth of solar and wind. In this lesson you will learn the units energy is measured in, why gas is priced very differently in Europe and the US, and how Europe's power markets turn the cost of the most expensive plant into the price everyone is paid. You will then see how the EU's carbon price changes which plants run, why Poland's still coal-heavy system and its booming solar capacity produce both high and negative prices, and what the 'green transition' changes about the economics of energy. By the end you should be able to calculate a power plant's running cost from a gas price and a carbon price, and trace a headline about gas in the Strait of Hormuz to a Polish electricity bill.",
+  "lessonQuiz": [
+    {
+      "answer": 2,
+      "explain": "Maximum output = 2 GW × 8,760 h = 17,520 GWh = 17.52 TWh. 2.3 ÷ 17.52 ≈ 0.131, about 13%.",
+      "options": [
+        "About 26%",
+        "About 87%",
+        "About 13%",
+        "About 115%"
+      ],
+      "q": "A 2 GW solar farm in Poland produces 2.3 TWh in a year. What is its capacity factor? (One year = 8,760 hours.)"
+    },
+    {
+      "answer": 0,
+      "explain": "4.00 × 3.412 = $13.65 per MWh; ÷ 1.10 = €12.41 per MWh.",
+      "options": [
+        "€12.4",
+        "€3.6",
+        "€13.6",
+        "€15.0"
+      ],
+      "q": "Henry Hub gas costs $4.00 per MMBtu and one euro buys $1.10. Roughly what is that in euros per MWh? (1 MWh = 3.412 MMBtu)"
+    },
+    {
+      "answer": 3,
+      "explain": "Under pay-as-clear pricing every accepted generator gets the marginal plant's price, so the wind farm's revenue per MWh rises with gas.",
+      "options": [
+        "Nothing, because wind has no fuel cost",
+        "It falls, because wind becomes relatively cheaper",
+        "It rises only if the wind farm bid a higher price",
+        "It rises, because all accepted generators receive the clearing price set by gas"
+      ],
+      "q": "In an hour where gas plants are the marginal generators, the TTF gas price jumps 20%. What happens to the price received by a wind farm in that hour?"
+    },
+    {
+      "answer": 1,
+      "explain": "Fuel: 80 ÷ 0.5 = €160. CO₂: 0.2 ÷ 0.5 = 0.4 t × €100 = €40. Total €200/MWh.",
+      "options": [
+        "€100",
+        "€200",
+        "€120",
+        "€180"
+      ],
+      "q": "Hypothetical: gas costs €80/MWh thermal, a gas plant is 50% efficient, gas emits 0.2 t CO₂ per MWh thermal, and carbon costs €100/t. What is the plant's marginal cost per MWh of electricity?"
+    },
+    {
+      "answer": 0,
+      "explain": "Gas is regional; the US can export only what its terminals allow, so foreign scarcity does not transmit fully to Henry Hub.",
+      "options": [
+        "Limited LNG export capacity stops US prices from being pulled up to European and Asian levels",
+        "US gas is a different chemical product",
+        "The Fed controls US gas prices",
+        "US storage was empty"
+      ],
+      "q": "Why did European and Asian gas prices nearly double after the 2026 Iran escalation while Henry Hub barely moved?"
+    },
+    {
+      "answer": 2,
+      "explain": "Solar output peaks at midday; when supply exceeds demand, prices can go below zero if some producers prefer to keep running (restart costs, per-MWh support).",
+      "options": [
+        "Coal plants paid consumers to use electricity at night",
+        "The government set prices below zero by law",
+        "At sunny hours zero-marginal-cost supply exceeded demand, and some generators preferred to pay rather than stop",
+        "Imports from Germany were banned"
+      ],
+      "q": "Which explanation of Poland's nearly 400 negative-price hours in 2025 is correct?"
+    },
+    {
+      "answer": 3,
+      "explain": "Marginal cost compares fuel plus carbon; with very expensive gas, coal stays cheaper until the carbon price is much higher (around €260/t in the worked example).",
+      "options": [
+        "Coal plants are exempt from the ETS",
+        "The carbon cost per MWh is higher for gas",
+        "Gas cannot be used for electricity",
+        "Coal's lower fuel cost more than offsets its higher carbon cost at these prices"
+      ],
+      "q": "With gas at about €90/MWh and carbon at €90/t, why might a utility run coal rather than gas, despite coal emitting more?"
+    },
+    {
+      "answer": 1,
+      "explain": "Capital-intensive projects must repay larger financing costs; a gas plant's cost is dominated by fuel.",
+      "options": [
+        "A gas plant, because gas is priced in dollars",
+        "A solar farm, because most of its cost is upfront capital",
+        "Both equally, because interest rates affect all costs the same way",
+        "Neither; interest rates affect only consumers"
+      ],
+      "q": "Lessons 7–8 link: if long-term interest rates rise from 4% to 6%, which plant's cost per MWh rises most, other things equal?"
+    },
+    {
+      "answer": 2,
+      "explain": "With inelastic demand, quantity responds little to price, so balancing a small supply gap requires a big price move.",
+      "options": [
+        "Supply is perfectly elastic",
+        "Prices are fixed by OPEC",
+        "Short-run demand for heating is inelastic, so a large price change is needed to cut consumption",
+        "Demand rises when prices rise"
+      ],
+      "q": "Lesson 2 link: why does a small shortfall of gas in a cold week cause a large price rise?"
+    },
+    {
+      "answer": 0,
+      "explain": "The ETS is cap-and-trade: a falling cap on allowances, with a market price that firms must pay per tonne emitted.",
+      "options": [
+        "It caps total allowances and lets their price be set by trading, making emissions a marginal cost",
+        "It taxes each tonne of CO₂ at a fixed rate set yearly by parliament",
+        "It applies only to cars",
+        "It pays firms for every tonne they emit"
+      ],
+      "q": "Which statement about the EU Emissions Trading System is correct?"
+    },
+    {
+      "answer": 1,
+      "explain": "Before: 7 + 3 = 10 GW, so 2 GW of gas is needed → €210. After: 7 + 2 + 3 = 12 GW, so coal is marginal → €140.",
+      "options": [
+        "It stays at €210",
+        "It falls from €210 to €140",
+        "It falls from €140 to €0",
+        "It rises to €210"
+      ],
+      "q": "A country's demand is 12 GW. Offers: 7 GW renewables at €0, 3 GW coal at €140, 4 GW gas at €210. A new 2 GW battery discharges at €0 during that hour. How does the clearing price change?"
+    }
+  ],
+  "level": "Core",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "Electricity prices go up only when power companies raise their margins.",
+      "truth": "Wholesale prices are set hour by hour by the most expensive plant needed; when that is a gas plant and gas becomes dearer, the price rises for all generators, whatever their own costs."
+    },
+    {
+      "myth": "A country with 26 GW of solar panels gets 26 GW of electricity whenever it needs it.",
+      "truth": "GW is capacity, not output. Solar produces only when the sun shines, so its annual output is far below its rated power and it needs storage, imports or back-up plants at night and in winter."
+    },
+    {
+      "myth": "Gas costs about the same everywhere, like oil.",
+      "truth": "Gas is costly to transport, so prices are regional: on 13 Nov 2026 European TTF gas cost roughly nine times as much per MWh as US Henry Hub gas."
+    },
+    {
+      "myth": "A higher carbon price always means less coal is burned.",
+      "truth": "Fuel prices matter too. When gas is very expensive, coal can stay cheaper even after paying for carbon, so an energy shock can raise coal use despite the carbon price."
+    },
+    {
+      "myth": "Negative electricity prices mean electricity is free to households.",
+      "truth": "Negative prices occur in some wholesale hours. Most household tariffs do not turn negative: bills mostly reflect contracts, network charges, taxes and regulated tariffs. Only some dynamic tariffs pass negative hourly prices through, and the total bill stays positive."
+    }
+  ],
+  "number": 19,
+  "objectives": [
+    "Explain the difference between energy (MWh) and power (MW), and convert a US gas price in $/MMBtu into €/MWh.",
+    "Explain why gas is a regional commodity whose price differs between Europe (TTF), Asia (JKM) and the US (Henry Hub).",
+    "Calculate the market price in a merit-order example and explain why every producer receives the price set by the last plant needed.",
+    "Calculate a gas or coal plant's short-run marginal cost including the EU carbon price, and explain when generators switch between coal and gas.",
+    "Describe Poland's 2025 power mix and explain why more solar can produce both negative prices and the need for flexible back-up.",
+    "Trace how a gas-supply shock such as the 2026 Iran war reaches European electricity bills and inflation."
+  ],
+  "recap": "Lesson 18 showed how China's high saving, its property slump and its huge trade surplus send ripples through world prices, including through its dominance of rare-earth processing. Lesson 11 explained why oil prices swing so much: in the short run both supply and demand are inelastic, so small disruptions cause big price moves. This lesson applies the same supply-and-demand logic (Lesson 2) to gas and electricity, uses currency conversion (Lesson 5) to compare gas prices across continents, and links to interest rates (Lessons 7–8), because the cost of borrowing decides how cheap a solar farm or wind farm really is.",
+  "sections": [
+    {
+      "body": "Energy is the capacity to do work, and power is the rate at which energy is delivered; the link is simply energy = power × time. A power plant's size is given in megawatts (MW) or gigawatts (GW, 1 GW = 1,000 MW), while the electricity it produces is measured in megawatt-hours (MWh) or terawatt-hours (TWh, 1 TWh = 1 million MWh). For example, a 1 GW plant running flat out for one hour produces 1,000 MWh; running for a whole year (8,760 hours) it would produce 8.76 TWh, but no plant runs at full power all the time. The ratio of actual output to that theoretical maximum is the 'capacity factor': solar panels in central Europe produce far less than their rated power because the sun sets and clouds pass, which is why gigawatts of solar capacity and terawatt-hours of solar output must never be confused. Gas is traded in Europe in euros per MWh of its energy content (thermal energy), but in the US in dollars per million British thermal units (MMBtu); 1 MMBtu equals about 0.293 MWh, so 1 MWh is about 3.412 MMBtu. A household bill in Poland is measured in kilowatt-hours (kWh, 1 MWh = 1,000 kWh). Finally, distinguish thermal MWh (energy in the fuel) from electric MWh (electricity produced): a gas plant that is 55% efficient turns 1 MWh of gas into only 0.55 MWh of electricity, the rest being lost as heat, a point that matters for every cost calculation below.",
+      "heading": "1. Energy, power and the units on your bill"
+    },
+    {
+      "body": "Oil (Lesson 11) moves cheaply by tanker, so its price is broadly global. Gas is different: it is bulky, so it travels either through pipelines, which tie buyers to particular sellers, or as liquefied natural gas (LNG), cooled to about −162°C and shipped in special tankers, which requires expensive liquefaction and regasification plants. Because transport is costly and capacity is limited, gas prices can differ hugely between regions. Europe's benchmark is the Dutch TTF hub price, Asia's is JKM, and the US uses Henry Hub in Louisiana. On 13 November 2026 the TTF front-month contract traded at roughly €90.6–91.2 per MWh (Trading Economics), while Henry Hub futures were $3.26 per MMBtu (OilPriceAPI), which works out at only about €10 per MWh (Worked example 1): European gas cost roughly nine times as much. The European Commission notes that in 2025 TTF and JKM averaged about €35–45/MWh, with Henry Hub roughly 75% lower, and that after the escalation of the Iran conflict in 2026 TTF and JKM peaked at nearly double their pre-war levels while Henry Hub barely moved. The reason is that the US produces more gas than it uses and can export only as much as its LNG terminals allow, so a shortage abroad cannot quickly pull US prices up. Europe's dependence on imported LNG has grown: according to the Commission, LNG rose from 20% to 45% of EU gas imports between 2021 and 2025 while pipeline gas fell from 80% to 55%, so Europe now competes directly with Asian buyers for cargoes. Simplification: a regional price gap can persist only as long as transport bottlenecks exist; if enough export and import capacity were built, arbitrage (buying cheap in one place and selling dear in another) would narrow it towards the cost of shipping.",
+      "heading": "2. Gas: a regional commodity"
+    },
+    {
+      "body": "Gas demand in Europe is strongly seasonal because much of it heats homes in winter, while production and import capacity are roughly constant, so Europe injects gas into underground storage in summer and withdraws it in winter. Storage acts like a buffer stock: when it is full, a cold snap or a lost cargo can be met from stocks, so prices stay calmer; when it is low, the same shock must be met by bidding cargoes away from other buyers, which drives prices up. This is Lesson 2's logic with inelastic demand: in a cold week households cannot quickly use less heat, so a small shortfall in supply needs a large price rise to bring demand back into line. In mid-November 2026, EU storage was below 72% full against a five-year average near 89% for the time of year (Trading Economics), with outages in Norway and colder forecasts adding pressure. Futures prices reflect these expectations: if traders expect a tight winter, contracts for January delivery trade above today's price, encouraging anyone with gas to store it. Limits: storage only shifts gas through time; it cannot create supply, and once withdrawals start the market watches the daily rate at which stocks fall relative to the weeks of winter remaining.",
+      "heading": "3. Storage, seasons and why low stocks raise prices"
+    },
+    {
+      "body": "Much electricity in Europe is bought in advance through forward and bilateral contracts, but the reference wholesale price is set in a day-ahead auction for each hour (or shorter period). Generators offer power at prices close to their short-run marginal cost, the extra cost of producing one more MWh, which is mainly fuel and carbon allowances. The auction stacks offers from cheapest to most expensive; this ranking is called the merit order. Wind, solar and hydro have almost no fuel cost, so they come first, followed by nuclear, then coal and gas plants, with the most expensive peaking plants last. The market clears where the stack meets demand, and under 'marginal' or 'pay-as-clear' pricing every accepted generator receives the price of the last, most expensive unit needed. Why pay everyone the same? Because if bidders were paid what they offered, they would simply bid what they expected the clearing price to be, so pay-as-bid tends to produce similar prices while making the auction less transparent; uniform pricing also sends a clear signal about the value of an extra MWh at that hour. The consequence is that when gas plants are needed, gas sets the price even if most power comes from cheaper sources. The European Commission estimates that fossil fuels set the EU wholesale price in about half of all hours in 2025, down from roughly 70% in 2020, and that gas sets the price in about 15% of hours in Spain and Portugal, about 40% in Germany and the Netherlands and close to 90% in Italy (citing Ember estimates for early 2026, to mid-March). Cheap generators earn the difference between the price and their own cost (an 'inframarginal rent'), which pays back their large upfront investment. Limits: real markets add network constraints, balancing markets, long-term contracts and regulated household tariffs, so a retail bill reflects the wholesale price only partly and with a delay.",
+      "heading": "4. How electricity prices are set: the merit order"
+    },
+    {
+      "body": "The EU Emissions Trading System (ETS) is a 'cap and trade' system: the EU sets a cap on total emissions from power plants and heavy industry (and also aviation within Europe and, since 2024, maritime shipping), issues that number of allowances (each permitting one tonne of CO₂), and lets firms trade them; the cap falls over time. Because a plant must surrender one allowance per tonne it emits, the allowance price becomes part of its marginal cost, so dirtier plants are pushed up the merit order. December EU allowance futures first closed above €90 per tonne in early November 2026, the highest since January, and returned above €90 on 12–13 November (GMK Center, citing ICE). Burning gas releases about 56.1 tonnes of CO₂ per terajoule of energy, about 0.202 t per MWh of gas, while bituminous (hard) coal releases about 94.6 t per terajoule, about 0.341 t per MWh, and lignite about 101 t per terajoule, according to the IPCC default factors used in EU emissions reporting. These factors are per unit of net calorific value (energy excluding the heat in water vapour), whereas TTF gas is quoted per MWh of gross calorific value, about 10% higher, so per traded MWh of gas the factor is closer to 0.18 t; the calculations below ignore this difference for simplicity. Coal plants are also usually less efficient than modern gas plants, so per MWh of electricity coal emits more than twice as much CO₂, and a higher carbon price favours gas. But fuel prices matter too: when gas becomes very expensive, as in 2026, coal can become cheaper to run even after paying for carbon; Worked example 3 shows that with gas at about €90/MWh the carbon price would need to be far above today's level to reverse this. This is why market reports noted a shift to more carbon-intensive generation this autumn, which in turn raises demand for allowances and their price.",
+      "heading": "5. The carbon price: making pollution a cost"
+    },
+    {
+      "body": "Poland still relies on coal more than almost any EU country: in 2025 hard coal and lignite together produced 52.7% of its electricity (57.6 TWh and 33.5 TWh), according to Forum Energii, compared with an EU-wide coal share of 9.2% (Ember). Change has been fast, though: renewables produced 31.4% of Poland's power in 2025, onshore wind 23.8 TWh, and in June 2025 renewables generated more than coal for the first time in a month (45.6% against 42.3%). Solar capacity reached about 25.9 GW by the end of 2025 after 4.7 GW was added in that year alone, while gas generation rose to 24.4 TWh. Because solar output peaks at midday in summer when demand may be lower, Poland had nearly 400 hours of negative day-ahead prices in 2025, twice as many as in 2024, and about 1.4 TWh of renewable output was curtailed (switched off), mostly for grid-balancing reasons (Forum Energii). Negative prices happen when some generators would rather pay to keep producing than stop, for example because restarting is costly or because they receive support per MWh produced. For the EU as a whole, Ember reports that wind and solar (30%) produced more electricity than fossil fuels (29%) for the first time in 2025, with all renewables at about 48%; the European Commission puts renewables at about 45%, so estimates differ slightly with definitions and data vintages. Coal's high share is one reason Polish wholesale power prices are sensitive to the carbon price, and the Commission notes that prices above €150/MWh occurred 10–20% of the time in parts of Eastern Europe in 2025, against under 5% in Western Europe.",
+      "heading": "6. Poland's power system: coal, a solar boom and negative prices"
+    },
+    {
+      "body": "Wind and solar turn the cost structure of electricity upside down: almost all of their cost is paid upfront to build them, and the marginal cost of running them is close to zero. That makes their true cost very sensitive to interest rates (Lessons 7–8): a solar farm financed at 8% must earn far more each year to repay its loans than one financed at 4%, so rising bond yields, like the US 10-year yield above 5% this week, raise the cost of the transition. Because many wind and solar plants produce at the same time, they push the price down exactly when they generate, which lowers the average price they capture, an effect often called 'cannibalisation'; this is why negative-price hours grow as solar expands. The system therefore needs flexibility to cover hours with little wind or sun: batteries and pumped storage shift energy over hours, interconnectors move it between countries, demand can respond to prices, and gas plants can ramp up quickly, which is why the Commission still calls gas a key source of flexibility. To give investors predictable income despite volatile prices, governments use contracts for difference (the state guarantees a fixed price, paying the gap when the market is lower and taking it back when higher) and companies sign long-term power purchase agreements (PPAs). Economists broadly agree that a carbon price is a cost-effective way to cut emissions because it lets firms find the cheapest cuts, but they disagree about how high it should be, how fast to phase out fossil fuels, and how much to protect households from higher bills; these are political choices as much as economic ones. Simplification: 'levelised cost' comparisons, which spread lifetime costs over lifetime output, ignore when the electricity is produced and what back-up is needed, so cheap-looking technologies can be less valuable to the system than the headline cost suggests.",
+      "heading": "7. The economics of the green transition"
+    },
+    {
+      "body": "Energy security means having reliable supplies at affordable prices, and it links directly to geopolitics, the topic of Lesson 20. The chain from a shock to a household runs like this: a supply threat (attacks near the Strait of Hormuz, through which much Gulf LNG and oil passes) → higher TTF gas prices → higher marginal cost of gas plants → higher wholesale electricity prices in hours when gas is marginal → higher costs for industry and, after a delay set by contracts and regulation, higher household bills → higher measured inflation (Lesson 6) → pressure on central banks to keep rates higher (Lesson 7). Europe also chose to cut its dependence on Russia: a full EU ban on Russian LNG under existing long-term contracts takes effect on 1 January 2027, although the EU still paid an estimated €8.7 billion for Russian Arctic LNG in January–October 2026 (Urgewald, from Kpler data). Diversifying suppliers, building renewables, storage and interconnectors, and holding strategic stocks all reduce vulnerability, but each has a cost, so security and affordability are traded off against each other. The International Energy Agency's November report shows the other side: high prices cut demand and draw out new supply, so the oil market is turning to surplus, which illustrates that energy shocks contain the seeds of their own reversal, though not on any guaranteed timetable. In Poland, governments have also used price caps and regulated tariffs for households, which soften the shock for consumers but shift its cost to the state budget (Lesson 14) or to energy companies, and the Monetary Policy Council watches these administered prices when setting rates.",
+      "heading": "8. Energy security: from Hormuz to your bill"
+    }
+  ],
+  "takeaways": [
+    "Energy (MWh) = power (MW) × time; capacity in GW is not output in TWh, and 1 MWh ≈ 3.412 MMBtu.",
+    "Gas is regional: on 13 Nov 2026 TTF ≈ €90.6/MWh versus Henry Hub $3.26/MMBtu ≈ €10/MWh, because LNG transport capacity is limited.",
+    "Power markets clear on the merit order and pay every generator the marginal plant's price; fossil fuels set the EU price in about half of hours in 2025 (European Commission).",
+    "Marginal cost = fuel price ÷ efficiency + carbon price × emissions ÷ efficiency; with gas near €90/MWh, coal stays cheaper unless carbon is far above today's ~€90/t.",
+    "Poland generated 52.7% of its electricity from coal in 2025 but 31.4% from renewables, with nearly 400 negative-price hours as solar reached ~25.9 GW (Forum Energii).",
+    "The green transition swaps fuel costs for upfront capital costs, making it sensitive to interest rates and dependent on flexibility: storage, interconnectors, demand response and gas."
+  ],
+  "title": "Energy: gas, power and the green transition",
+  "todayExample": "Several stories in this edition show the lesson's chain at work. Iran and the US clashed again around Bahrain, while TTF gas was around €90–91 per MWh with EU storage below 72%, conditions that keep gas plants expensive and make them the price-setters in many hours. The IEA said the oil market is returning to surplus as Gulf exports recover, a reminder that high prices cut demand and attract supply. And the EU still paid an estimated €8.7 billion for Russian Arctic LNG in ten months before its ban on 1 January 2027, showing the trade-off between security and supply.",
+  "workedExamples": [
+    {
+      "problem": "On 13 November 2026 Henry Hub gas futures were $3.26 per MMBtu (OilPriceAPI) and the ECB reference rate was 1.1052 dollars per euro (strefainwestorow.pl). Dutch TTF gas traded at about €90.6 per MWh (Trading Economics). Convert the US price into euros per MWh and compare. Use 1 MWh = 3.412 MMBtu.",
+      "solution": "Step 1: dollars per MWh = 3.26 × 3.412 = $11.12 per MWh (3.26 × 3.412 = 11.123). Step 2: convert to euros. One euro buys 1.1052 dollars, so divide by 1.1052: 11.123 ÷ 1.1052 = €10.06 per MWh. Step 3: compare: 90.6 ÷ 10.06 ≈ 9.0. European gas cost about nine times as much as US gas on the same day. Interpretation: because gas is expensive to move across oceans and LNG export capacity is limited, a shortage in Europe and Asia does not pull US prices up to the same level. The gap is a key reason European industry pays more for energy than US competitors, and why Europe imports US LNG: the difference must cover liquefaction, shipping and regasification costs.",
+      "title": "Comparing gas prices across the Atlantic"
+    },
+    {
+      "problem": "Hypothetical numbers: in one hour a country has 6 GW of wind and solar offered at €0/MWh, 5 GW of coal plants with marginal cost €150/MWh, 4 GW of gas plants at €200/MWh and 1 GW of oil peakers at €300/MWh. (a) What is the market price if demand is 13 GW? (b) What do generators receive in total that hour, what does it cost to produce, and what is the inframarginal rent? (c) What happens to the price if demand falls to 10 GW?",
+      "solution": "(a) Stack the offers: wind and solar 6 GW (cumulative 6), coal 5 GW (cumulative 11), gas 4 GW (cumulative 15). Demand of 13 GW needs all 11 GW of zero-cost and coal power plus 2 GW of gas, so gas is marginal and the price is €200/MWh. (b) In one hour 13 GW delivers 13,000 MWh. Total payments = 13,000 × €200 = €2,600,000. Production cost = coal 5,000 MWh × €150 = €750,000 plus gas 2,000 MWh × €200 = €400,000, so €1,150,000 (wind and solar cost €0 at the margin). Inframarginal rent = €2,600,000 − €1,150,000 = €1,450,000, of which wind and solar earn 6,000 × €200 = €1,200,000 and coal earns 5,000 × (€200 − €150) = €250,000. (c) With demand at 10 GW, wind/solar 6 GW plus 4 GW of coal is enough, so coal is marginal and the price falls to €150/MWh, 25% lower, even though only the last block changed. Interpretation: the price depends on which technology is marginal, not on the average cost of all plants; that is why gas prices drive power prices in many hours.",
+      "title": "Finding the price in a merit order (hypothetical numbers)"
+    },
+    {
+      "problem": "Use today's figures: TTF gas about €90.6/MWh (thermal), EU carbon allowances about €90/tonne (GMK Center). Emission factors: gas 0.202 t CO₂ per MWh thermal, bituminous coal 0.341 t per MWh thermal (IPCC defaults: 56.1 and 94.6 t/TJ). Hypothetical plant data: a gas plant 55% efficient; a coal plant 40% efficient burning coal that costs €15 per MWh thermal. (a) Compute each plant's marginal cost per MWh of electricity. (b) At what carbon price would the two costs be equal?",
+      "solution": "(a) Gas: fuel = 90.6 ÷ 0.55 = €164.73. Emissions = 0.202 ÷ 0.55 = 0.3673 t per MWh of electricity; carbon cost = 0.3673 × 90 = €33.05. Total ≈ €197.8/MWh. Coal: fuel = 15 ÷ 0.40 = €37.50. Emissions = 0.341 ÷ 0.40 = 0.8525 t per MWh; carbon cost = 0.8525 × 90 = €76.73. Total ≈ €114.2/MWh. Coal is about €83.6/MWh cheaper to run, even though it emits 0.8525 ÷ 0.3673 ≈ 2.3 times as much CO₂ per MWh. (b) Set costs equal: 37.50 + 0.8525P = 164.73 + 0.3673P → (0.8525 − 0.3673)P = 164.73 − 37.50 → 0.4852P = 127.23 → P ≈ €262 per tonne. Simplification: we apply the net-calorific emission factors directly to the TTF price, which is quoted on a gross-calorific basis; matching the bases would trim gas's carbon cost by roughly a tenth but would not change the conclusion. Interpretation: with gas this expensive, the carbon price would have to be nearly three times today's level before gas becomes cheaper than coal. That is why an energy shock that raises gas prices can increase coal burning and emissions, and pushes up demand for allowances. With 2025-style gas at €40/MWh (the Commission's range was €35–45), gas fuel would cost 40 ÷ 0.55 = €72.73 and the switching price would fall to (72.73 − 37.50) ÷ 0.4852 ≈ €73/t, below today's carbon price, so gas would be cheaper.",
+      "title": "Should a utility run gas or coal? Adding the carbon price"
+    },
+    {
+      "problem": "Forum Energii reports that in 2025 hard coal produced 57.6 TWh and lignite 33.5 TWh, together 52.7% of Poland's electricity generation; onshore wind produced 23.8 TWh, gas 24.4 TWh, and renewables were 31.4% of generation. (a) Estimate total generation. (b) Check the wind share and compute the gas share. (c) Renewables other than onshore wind and solar (20.3 TWh) produced roughly how much?",
+      "solution": "(a) Coal = 57.6 + 33.5 = 91.1 TWh = 52.7% of the total, so total ≈ 91.1 ÷ 0.527 = 172.9 TWh. (b) Wind share = 23.8 ÷ 172.9 = 13.8%, matching the 13.8% Forum Energii reports, which confirms the estimate. Gas share = 24.4 ÷ 172.9 = 14.1%. (c) Renewables = 0.314 × 172.9 = 54.3 TWh. Subtract wind 23.8 and solar 20.3: 54.3 − 23.8 − 20.3 = 10.2 TWh from other renewables such as biomass, biogas and hydro (Poland had no offshore wind output in 2025). Caution: Forum Energii describes solar's 20.3 TWh as 11.8% of annual demand rather than of generation (demand and generation differ by net imports), and rounding in the published shares means these are estimates. Interpretation: coal still supplies over half of Polish power, so carbon and coal prices matter a lot for Polish electricity costs, while wind and solar together already supply about a quarter.",
+      "title": "Reading Poland's 2025 power mix"
+    }
+  ],
+  "updatedAt": "2026-11-13T19:14:37.432382Z"
+}
