@@ -1,0 +1,252 @@
+{
+  "checkQuestions": [
+    {
+      "a": "If households consume only about 40% of output, the remaining 60% must be absorbed by investment, government or foreigners. China has done both: very high investment, and when that exceeded what could be used at home, a large trade surplus. Equivalently, high saving minus investment equals net exports.",
+      "q": "Explain, using GDP = C + I + G + NX, why a country with a household-consumption share of about 40% of GDP is likely to run a trade surplus or very high investment."
+    },
+    {
+      "a": "Falling prices reduce buyers' and developers' willingness to build, so property investment and new construction fall (−20.6% and −24.9% in Jan–Sep 2026). Less construction means less demand for copper wiring and pipes; as China is a major buyer, world copper prices tend to weaken, other things equal, which lowers revenue for a producer like KGHM.",
+      "q": "Trace how a fall in Chinese house prices can affect a copper miner in Poland."
+    },
+    {
+      "a": "Its inputs (energy, metals, chemicals) are getting more expensive quickly, but it sells into a consumer market where prices are barely rising because demand is weak. It can either raise prices and lose sales or absorb the cost and accept lower profit margins.",
+      "q": "China's PPI rose 5.7% in October 2026 while its CPI rose 0.7%. Why might a Chinese manufacturer of household appliances be worried?"
+    },
+    {
+      "a": "Lower rates make mortgages cheaper, but if households expect house prices to keep falling, or fear for their jobs, they may still not borrow. Banks with thin margins may also be reluctant to lend more. And cutting rates while US yields rise widens the interest gap, which can weaken the yuan.",
+      "q": "Why would cutting China's loan prime rate not necessarily revive housing demand?"
+    },
+    {
+      "a": "Ore can be mined in many countries, but turning it into separated oxides and magnets requires specialised plants that take years to build. With about 91% of refining and 94% of magnet production (IEA), buyers have no quick alternative, so export licences can disrupt their supply chains.",
+      "q": "Why does dominance in refining rather than mining give China its leverage in rare earths?"
+    }
+  ],
+  "createdAt": "2026-11-13T09:15:00Z",
+  "date": "13 Nov 2026",
+  "editionId": "2026-11-13-1000",
+  "intro": "China produces a huge share of the world's goods, buys a huge share of its raw materials and runs the largest trade surplus ever recorded, so what happens inside China shows up in prices, jobs and politics everywhere, including in Poland. In this lesson you will learn how big China's economy is and how it grows, why Chinese households spend a smaller share of income than people in most countries, and how a long property slump changed the picture. You will then read China's latest price and trade data, explain how its huge surplus links to its high savings, and see why rare earths give Beijing a powerful lever. By the end you should be able to trace a headline about Chinese data to its effects on European factories, Polish shops and global markets.",
+  "lessonQuiz": [
+    {
+      "answer": 1,
+      "explain": "A growth rate is a percentage of the base; a large base means a large absolute increase. Real growth already removes inflation.",
+      "options": [
+        "Because the rate is lower than in the 2000s, China now adds less to world output each year than small economies growing at 7%",
+        "Because the base is very large, 4.5% growth can add more output in absolute terms than faster growth in a much smaller economy",
+        "A 4.5% real growth rate means Chinese prices rose 4.5%",
+        "Real growth includes inflation, so actual output grew less than 4.5%"
+      ],
+      "q": "China's real GDP grew 4.5% in Q3 2026. Which statement is correct?"
+    },
+    {
+      "answer": 3,
+      "explain": "NX = 100 − 40 − 35 − 15 = 10. Lower investment with unchanged output means more goods must be sold abroad, doubling the surplus.",
+      "options": [
+        "5",
+        "0",
+        "−5",
+        "10"
+      ],
+      "q": "Hypothetical: GDP = 100, C = 40, G = 15, I = 40. Investment falls to 35 and output stays at 100 with C and G unchanged. What are net exports now?"
+    },
+    {
+      "answer": 2,
+      "explain": "The NBS attributed over 80% of the monthly PPI rise to energy and coal; falling food prices and weak demand held CPI down.",
+      "options": [
+        "Strong consumer demand is pulling up shop prices faster than factory prices",
+        "A weaker dollar made Chinese imports cheaper",
+        "Higher international energy prices pushed up factory-gate prices, while weak household demand kept consumer prices low",
+        "The PBOC cut interest rates sharply, causing factory prices to jump"
+      ],
+      "q": "In October 2026 China's PPI rose 5.7% y/y and CPI 0.7%. Which explanation fits the NBS data best?"
+    },
+    {
+      "answer": 0,
+      "explain": "1,040 − 105.3 = 934.7. The other options add instead of subtract, ignore October, or miscalculate the subtraction.",
+      "options": [
+        "$934.7 billion",
+        "$1,145.3 billion",
+        "$945.3 billion",
+        "$1,040 billion"
+      ],
+      "q": "China's goods surplus was $1.04 trillion in Jan–Oct 2026, including $105.3 billion in October. What was the Jan–Sep surplus?"
+    },
+    {
+      "answer": 3,
+      "explain": "NX = S − I. Lower saving with unchanged investment reduces S − I, and so net exports. The other options raise or do not reduce the surplus.",
+      "options": [
+        "Households save a larger share of their income",
+        "Exports of chips rise because of the AI boom",
+        "Investment falls while saving stays the same",
+        "Households save less and consume more, with investment unchanged"
+      ],
+      "q": "According to the savings–investment identity, which change would most directly SHRINK China's trade surplus?"
+    },
+    {
+      "answer": 1,
+      "explain": "Most Chinese household wealth is in property, so falling prices make families feel poorer, and they tend to save more.",
+      "options": [
+        "Because falling prices raise their mortgage interest rate automatically",
+        "Because of the wealth effect: people who feel poorer save more and spend less",
+        "Because the government taxes flats more when prices fall",
+        "Because falling prices increase the value of their deposits in yuan"
+      ],
+      "q": "Why can a fall in Chinese house prices reduce household spending even for families who do not plan to sell their flat?"
+    },
+    {
+      "answer": 2,
+      "explain": "The chokepoint is processing: about 60% of mining but about 91% of refining and 94% of magnets.",
+      "options": [
+        "China holds nearly all the world's rare-earth deposits",
+        "Rare earths are among the scarcest elements in the crust",
+        "China controls about 91% of separation and refining and 94% of sintered magnet production",
+        "Rare earths can only be used in Chinese-made products"
+      ],
+      "q": "What gives China its leverage over rare earths, according to the IEA?"
+    },
+    {
+      "answer": 3,
+      "explain": "57.9 ÷ 3.1 ≈ 18.7, consistent with the roughly 18:1 ratio in the report. 54.8 is the deficit in billions, not a ratio.",
+      "options": [
+        "About 5.3",
+        "About 54.8",
+        "About 1.9",
+        "About 18.7"
+      ],
+      "q": "Poland imported €57.9 billion from China in 2025 and exported €3.1 billion. Roughly how many euros of imports per euro of exports is that?"
+    },
+    {
+      "answer": 1,
+      "explain": "A wider gap between US and Chinese rates makes dollar assets relatively more attractive, encouraging money to flow out of yuan.",
+      "options": [
+        "The yuan strengthens because lower rates attract foreign capital",
+        "The interest gap with the US widens, adding pressure on the yuan to weaken",
+        "US yields fall automatically",
+        "Chinese consumer prices fall immediately"
+      ],
+      "q": "Linking to Lesson 16: the PBOC is weighing a rate cut while the US 10-year yield is above 5%. What is the most likely side effect of a cut?"
+    },
+    {
+      "answer": 0,
+      "explain": "Tariffs are a tax paid at the border and usually raise prices for importers and consumers, even if they protect some producers.",
+      "options": [
+        "Broad tariffs on Chinese imports, which raise prices for buyers",
+        "Investing in European rare-earth refining",
+        "Supporting domestic household demand in China through diplomacy",
+        "Publishing better trade statistics"
+      ],
+      "q": "Linking to Lesson 13: the EU has a large goods deficit with China (about $410 billion in 2025, per AP). Which policy response would economists generally expect to cost EU consumers the most in the short run?"
+    },
+    {
+      "answer": 2,
+      "explain": "Lardy reports about 40% in 2024, up 5 points from the 2010 low, versus 68% in the US and a 60% OECD average.",
+      "options": [
+        "It has fallen continuously since 2010 to about 30% of GDP",
+        "It is higher than in the US because China is more populous",
+        "It was about 40% of GDP in 2024, up from 35% in 2010, still well below the 68% of the US",
+        "It is about the OECD average of 60%"
+      ],
+      "q": "Which statement about China's household consumption is supported by PIIE (Lardy, 2025)?"
+    }
+  ],
+  "level": "Core",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "A country with a big trade surplus is 'winning' and the countries buying from it are 'losing'.",
+      "truth": "Trade surpluses mainly reflect saving and investment: a surplus country saves more than it invests at home and lends the difference abroad. Buyers get goods; surplus countries accumulate claims on foreigners. Surpluses can still hurt specific industries in importing countries, which is a real political issue, but trade is not a scoreboard."
+    },
+    {
+      "myth": "China grows only by exporting.",
+      "truth": "Exports matter, but by our calculation the goods surplus was about 6% of GDP in January–September 2026; most Chinese output is bought at home, by households, government and firms investing. The weak spot is household consumption, about 40% of GDP versus 68% in the US (PIIE)."
+    },
+    {
+      "myth": "Falling or very low prices in China mean Chinese consumers are doing well.",
+      "truth": "Very low consumer-price inflation (0.7% in October 2026) mostly signals weak demand, together with falling food prices such as eggs, vegetables and fruit. When prices are expected to fall, people delay purchases and firms cut investment and wages, which can make the slowdown worse (Lesson 6)."
+    },
+    {
+      "myth": "Rare earths are scarce, which is why China controls them.",
+      "truth": "Rare-earth elements are not especially rare in the crust; the chokepoint is separation, refining and magnet-making, where the IEA puts China's share at about 91% and 94%. Other countries could mine them, but building refineries takes years."
+    },
+    {
+      "myth": "Growth of 4.5% is weak, so China no longer matters much for the world.",
+      "truth": "A percentage is a share of the base. China's economy is so large that 4.5% growth adds more output in absolute terms than much faster growth in smaller economies, and its demand still moves commodity prices and global trade."
+    }
+  ],
+  "number": 18,
+  "objectives": [
+    "Explain how China's GDP is measured and why a 4.5% growth rate in a very large economy adds more output in absolute terms than faster growth in a small one.",
+    "Explain China's growth model — high savings, high investment, a relatively low household-consumption share (about 40% of GDP in 2024 versus 68% in the US, per PIIE) — and why it tends to produce trade surpluses.",
+    "Trace how the property slump (property investment down 20.6% in January–September 2026, NBS) spreads to household wealth, local-government finances and demand for materials.",
+    "Read the gap between China's producer prices (+5.7% y/y in October 2026) and consumer prices (+0.7%) and explain what it says about energy costs and weak consumer demand.",
+    "Use the savings–investment identity to explain why a country that saves more than it invests runs a trade surplus, and calculate simple trade-balance figures.",
+    "Explain why China's dominance in rare-earth refining (about 91% of global output, IEA) works as a strategic chokepoint, and trace the channels from China to Poland."
+  ],
+  "recap": "Lesson 17 showed that emerging markets grow faster through catch-up (convergence) but are vulnerable to swings in global capital flows driven by US interest rates and the dollar. China is technically an emerging market too, but it is so large that it is a 'push' factor for the rest of the world, not just a receiver of shocks. This lesson also builds on Lesson 9 (GDP and how it is measured), Lesson 6 (inflation) and Lesson 13 (trade, tariffs and supply chains), and uses Lesson 7's idea of a central bank's policy rate.",
+  "sections": [
+    {
+      "body": "From Lesson 9, GDP is the value of all final goods and services produced in a period. China's National Bureau of Statistics (NBS) reported GDP of about 107.11 trillion yuan in January–September 2026, roughly $15.94 trillion at the exchange rate it used, with real (inflation-adjusted) growth of 4.6% on a year earlier; third-quarter growth was 4.5% after 4.3% in the second quarter (NBS via Xinhua, 19 Oct 2026). The IMF's October 2026 World Economic Outlook projects 4.5% growth for 2026 and 4.0% for 2027, both 0.1 percentage point lower than in July, citing property-sector strains and weak domestic demand (Caixin, 13 Oct 2026). Growth rates must always be read against size: 4.5% of a very large economy adds more output in absolute terms than 7% of a small one, because a percentage is a share of the base. That is why China still contributes a large part of world growth even though its growth rate is lower than in earlier decades. Two measuring rods give different pictures: at market exchange rates (nominal dollars) the US economy is larger, while purchasing-power parity (PPP) adjusts for the fact that many goods and services are cheaper in China, which makes China's economy look considerably larger relative to the US; neither measure is 'right', they answer different questions. A limitation: many economists question how closely China's official growth figures track reality, because they are unusually smooth; independent indicators such as electricity use and trade data are often used as cross-checks.",
+      "heading": "1. How big is China, and how fast is it growing?"
+    },
+    {
+      "body": "Every economy's output is either consumed by households (C), invested in buildings and machines (I), used by government (G) or sold abroad net of imports (exports minus imports, NX), so GDP = C + I + G + NX. In China household consumption was about 40% of GDP in 2024, up from a low of 35% in 2010, compared with 68% in the United States and a 60% OECD average, according to economist Nicholas Lardy of the Peterson Institute (PIIE, December 2025). The mirror image is very high saving: Chinese households saved about 35% of their disposable income in 2023, down from 42% in 2010 (PIIE). Common explanations include a historically thin social safety net (people save for illness and old age), demographics, and policies that channel savings cheaply into state banks, which lend for factories and infrastructure; economists disagree about their weight, and Lardy himself argues the safety-net explanation is now out of date, crediting the rise in consumption since 2010 mainly to a shrinking labour force lifting wages' share of income, plus more social spending. High investment built roads, ports and factories at astonishing speed, but when investment grows faster than domestic demand the result is capacity that cannot all be used at home. Firms then look abroad, which is why debates about Chinese 'overcapacity' go together with debates about its trade surplus. Economists disagree about how big the overcapacity problem is: Chinese officials argue their firms are simply more competitive, while many Western economists argue subsidies and weak household demand play a large role.",
+      "heading": "2. The growth model: save, invest, export"
+    },
+    {
+      "body": "For two decades housing was the engine of Chinese growth: developers borrowed heavily, local governments financed themselves by selling land to developers, and families put most of their wealth into flats. When the government introduced its 'three red lines' in August 2020, limiting borrowing by over-indebted developers, sales fell, several large developers defaulted, and prices began to fall, which made buyers wait for cheaper prices and deepened the fall. The slump has continued: property investment fell 20.6% year on year in January–September 2026 to 5.34 trillion yuan, floor area sold fell 13.2% and new construction fell 24.9% (NBS, via IndexBox). The mechanism spreads in at least three directions. First, a 'wealth effect': households who feel poorer because their flat is worth less spend less and save more. Second, local governments lose land-sale income and cut spending or borrow through off-budget vehicles. Third, less construction means lower demand for steel, cement, copper and iron ore, which hits commodity exporters from Australia to Chile and, through copper prices, companies such as KGHM. Other investment did not make up for it: total fixed-asset investment fell 7.2% in January–September 2026, with manufacturing (−2.1%) and infrastructure (−4.2%) also down (NBS). GDP still grew 4.6% because consumption kept rising and exports boomed, which is why the trade surplus (Section 5) matters so much to China's growth right now.",
+      "heading": "3. The property slump"
+    },
+    {
+      "body": "From Lesson 6, the consumer price index (CPI) measures prices households pay; the producer price index (PPI) measures 'factory-gate' prices that producers receive for goods such as coal, steel and chemicals. In October 2026 China's CPI was only 0.7% higher than a year earlier, while the PPI jumped 5.7%, the fastest in more than four years; industrial input prices rose 7.9% (NBS via CGTN, 9 Nov 2026). The NBS said higher international energy prices lifted oil and gas extraction and coal mining, and that six energy-related and petrochemical industries together accounted for over 80% of the monthly PPI rise, while falling prices of eggs, vegetables and fruit held the CPI down. The gap tells a story: costs at the start of the supply chain are rising fast because of the energy shock (the Iran war has pushed oil from about $72 to around $96 a barrel), but weak household demand means shops cannot pass much of it on to consumers. Firms in the middle, which buy expensive inputs and sell into a weak consumer market, see their profit margins squeezed. For years before this, China had the opposite problem: falling factory-gate prices meant it exported deflation, making goods cheaper abroad. A caution: PPI and CPI cover different baskets, so the two numbers cannot simply be subtracted to measure margins; the gap is a signal, not a precise calculation.",
+      "heading": "4. Reading China's prices: CPI versus PPI"
+    },
+    {
+      "body": "China's goods trade surplus reached $1.04 trillion in January–October 2026, after a record $1.2 trillion in 2025; in October alone exports rose 35.2% and imports 41.6% from a year earlier, with semiconductor exports up 137.1% in value, according to Chinese customs data reported by AP. Rearranging GDP = C + I + G + NX gives an identity (true by definition): national saving minus investment equals the current-account balance, roughly net exports. So a country whose people and government save more than the country invests at home must lend the difference abroad, and that shows up as a trade surplus. This is why many economists, such as Alicia García-Herrero quoted by AP, link China's surplus to high savings, weak domestic demand and overcapacity. The identity does not say which side causes which: a surplus can also rise because foreigners want more of a country's goods, as global demand for Chinese chips and electronics for AI does now. The surplus has political consequences: the EU recorded a goods deficit of roughly $410 billion with China in 2025 (AP), fuelling calls for tariffs and 'trade defence' measures (Lesson 13).",
+      "heading": "5. The trade surplus and the savings–investment identity"
+    },
+    {
+      "body": "The People's Bank of China (PBOC) guides lending through several tools; its main policy rate is the 7-day reverse repo rate, and the rate best known to the public is the loan prime rate (LPR), a reference rate compiled from banks' quotes each month under PBOC guidance. On 20 October 2026 the one-year LPR stayed at 3.00% and the five-year-and-above LPR, the reference for most mortgages, at 3.50% (Bastille Post), unchanged for a 17th month (Lapaas Voice). From Lesson 7, cutting rates makes borrowing cheaper and supports demand, but in China there are limits: banks' interest margins are already thin, households hit by falling house prices may not want to borrow even at lower rates (sometimes called 'pushing on a string'), and cutting rates while US yields rise above 5% would widen the gap that pushes money out of the yuan (Lesson 16) — a pressure that China's capital controls and managed exchange rate dampen but do not remove. Fiscal policy — government spending and tax cuts — can boost demand more directly, for example through consumer subsidies or pensions, but local governments are already heavily indebted. Many economists argue the long-term fix is rebalancing toward household consumption, by strengthening social insurance so families need to save less; Lardy (PIIE) notes social-insurance spending rose from 3.6% of GDP in 2010 to 7.7% in 2023 but argues it should rise further.",
+      "heading": "6. Policy levers: interest rates, budgets and their limits"
+    },
+    {
+      "body": "Rare earths are a group of 17 metals used in powerful permanent magnets for electric motors, wind turbines, phones, missiles and fighter jets. Despite the name, they are not especially rare in the Earth's crust; the bottleneck is separating and refining them, which is technically difficult, polluting and expensive. According to the International Energy Agency, China accounted for about 60% of mining of magnet rare earths in 2024, about 91% of separation and refining, and 94% of sintered permanent-magnet production. This concentration lets Beijing use export licences as a lever: in April 2025 it imposed licensing on seven medium and heavy rare earths, and in October 2025 it announced wider controls, including on foreign-made products containing Chinese-sourced rare earths (IEA), but it suspended those in November 2025 under a trade arrangement with the US; a notice on 9 November 2026 extended the suspension to 10 January 2027, while the April 2025 licensing of seven medium and heavy rare earths remains in force (Skillings Mining Review). Building alternative refineries takes years, so buyers cannot quickly switch suppliers, which is exactly what makes a chokepoint (Lesson 20 will look at chokepoints such as the Strait of Hormuz). Today's news shows the lever in use: China imposed trade restrictions on Japan after its prime minister's remarks on Taiwan, which reportedly cut rare-earth supplies to Japanese firms.",
+      "heading": "7. Chokepoints: rare earths and supply chains"
+    },
+    {
+      "body": "Trade is the most direct channel: in 2025 Poland imported about €57.9 billion of goods from China and exported only about €3.1 billion, a deficit of about €54.8 billion; Chinese goods made up 15.5% of Polish imports, according to a report by the Asian Forum presented in the Sejm and reported by PAP and Bankier. Cheap Chinese goods help keep Polish inflation lower and give consumers and firms cheaper electronics, machinery parts and solar panels, but they also compete with Polish and European manufacturers, for example in cars, steel and furniture. A second channel is indirect: Germany is Poland's largest export market, and German carmakers and machine builders both sell to China and compete with Chinese firms, so Chinese demand and competition affect orders for Polish suppliers. A third channel is commodities: Chinese construction demand helps set world copper and steel prices, which matter for KGHM and Polish industry, while Chinese oil demand affects the price Poles pay at the pump. Finally, there is geopolitics: China's ties with Russia, its export controls and US–China rivalry shape EU trade and security policy, which Poland helps decide. The overall effect on any one country is mixed, which is why the EU has since 2019 described China at once as a partner for cooperation, an economic competitor and a 'systemic rival'.",
+      "heading": "8. China and Poland: the channels"
+    }
+  ],
+  "takeaways": [
+    "China's GDP was about 107 trillion yuan (≈$15.9 trillion) in January–September 2026, growing 4.6% in real terms; the IMF expects 4.5% in 2026 and 4.0% in 2027.",
+    "China's model relies on high saving and investment; household consumption is about 40% of GDP (2024) versus 68% in the US (PIIE).",
+    "The property slump (investment −20.6% in Jan–Sep 2026) hits household wealth, local-government finances and demand for metals worldwide.",
+    "In October 2026 PPI rose 5.7% but CPI only 0.7%: an energy-cost shock meeting weak consumer demand, which squeezes firms' margins.",
+    "By the savings–investment identity, saving more than you invest means a trade surplus; China's surplus was $1.04 trillion in Jan–Oct 2026 after $1.2 trillion in 2025.",
+    "China dominates rare-earth refining (≈91%) and magnets (94%, IEA), a strategic chokepoint (its wider October 2025 controls are suspended until 10 January 2027); for Poland, China supplied 15.5% of imports in 2025 with a deficit of about €54.8 billion."
+  ],
+  "title": "China's economy and why it matters to everyone",
+  "todayExample": "Today's edition shows China's influence in three ways. Japan's Prime Minister Takaichi is preparing her first trip to China amid strained ties, after China imposed trade restrictions that reportedly cut rare-earth supplies to Japanese firms — the chokepoint from Section 7 in action. Oil jumped 3.3% to $95.82 on attacks on Saudi oil sites, the kind of energy shock that is driving China's producer prices up while consumer prices stay low (Section 4). And Asian chip stocks swung after Nvidia's CEO resigned, a reminder that China's surging semiconductor exports and the AI supply chain tie Asian markets together.",
+  "workedExamples": [
+    {
+      "problem": "China's customs data (AP, 10 Nov 2026) show a goods trade surplus of $1.04 trillion for January–October 2026, of which $105.3 billion came in October. The NBS reported GDP of about $15.94 trillion for January–September 2026. Estimate the January–September surplus as a share of January–September GDP.",
+      "solution": "Step 1: January–September surplus = January–October surplus − October surplus = $1,040 bn − $105.3 bn = $934.7 bn. Step 2: Share of GDP = 934.7 ÷ 15,940 = 0.0586, or about 5.9%. Interpretation: net goods exports are equivalent to roughly 6% of China's output over those nine months, which is very large for a big economy, but it also shows that about 94% of output is matched by domestic demand. Caution: this mixes customs data in dollars with GDP converted at the NBS's exchange rate, and it ignores services trade and income flows, so it is an approximation of the current-account surplus, not the official figure.",
+      "title": "How big is the trade surplus compared with GDP?"
+    },
+    {
+      "problem": "China's 2025 goods surplus was a record $1.2 trillion and the January–October 2026 surplus was $1.04 trillion (AP). What average monthly surplus would China need in November and December to exceed the 2025 record, and how does that compare with October's $105.3 billion?",
+      "solution": "Step 1: Amount still needed = $1,200 bn − $1,040 bn = $160 bn. Step 2: Over two months, that is $160 bn ÷ 2 = $80 bn per month. Step 3: Compare: October's surplus was $105.3 bn, which is $25.3 bn more than the $80 bn monthly average needed. Interpretation: if November and December are anywhere near October's level, 2026 will set a new record, which is why AP described China as 'on track' to exceed it. Note that the rounded figures ($1.2 trn and $1.04 trn) make the answer approximate.",
+      "title": "Can 2026 beat the 2025 record surplus?"
+    },
+    {
+      "problem": "In October 2026 China's producer prices rose 5.7% year on year, industrial input prices rose 7.9% and consumer prices rose 0.7% (NBS via CGTN). (a) Calculate the gap between PPI and CPI inflation in percentage points. (b) Calculate the gap between input-price inflation and PPI inflation. (c) Explain what these gaps suggest.",
+      "solution": "(a) 5.7% − 0.7% = 5.0 percentage points. (b) 7.9% − 5.7% = 2.2 percentage points. (c) Prices are rising fastest at the start of the chain (raw materials and energy, +7.9%), more slowly for factory output (+5.7%) and hardly at all in shops (+0.7%). The NBS attributed most of the PPI rise to higher international energy prices. The pattern suggests firms are absorbing much of the cost increase rather than passing it to consumers, because household demand is weak; that squeezes margins in manufacturing and retail. Caution: the indices cover different goods with different weights, so the gaps are signals rather than exact measures of margins.",
+      "title": "Reading the gap between China's PPI and CPI"
+    },
+    {
+      "problem": "Hypothetical numbers: an economy has GDP of 100, household consumption C = 40, government consumption G = 15 and investment I = 40. (a) What are net exports? (b) What is national saving (S = GDP − C − G)? (c) Show that S − I = NX. (d) If investment falls to 35 because of a property slump and C and G do not change, what must happen?",
+      "solution": "(a) GDP = C + I + G + NX, so NX = 100 − 40 − 40 − 15 = 5. (b) S = 100 − 40 − 15 = 45. (c) S − I = 45 − 40 = 5 = NX. (d) With I = 35, one of two things must happen. Either output stays at 100 and net exports rise to 100 − 40 − 35 − 15 = 10 (the economy sells the unused output abroad, doubling the surplus), or output falls (for example to 95, with NX still 5), meaning a recession at home. In reality a mix happens, and governments try to avoid both by raising C or G. This is the mechanism behind fears that China's property slump pushes more goods onto world markets.",
+      "title": "The savings–investment identity (hypothetical numbers)"
+    }
+  ],
+  "updatedAt": "2026-11-13T09:16:18.508615Z"
+}

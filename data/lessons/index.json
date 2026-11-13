@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T19:16:56Z",
+  "updated": "2026-11-13T09:17:05Z",
   "lessons": [
     {
       "number": 1,
@@ -136,6 +136,14 @@
       "date": "12 Nov 2026",
       "createdAt": "2026-11-12T20:30:00Z",
       "updatedAt": "2026-11-12T19:14:22.568948Z"
+    },
+    {
+      "number": 18,
+      "title": "China's economy and why it matters to everyone",
+      "level": "Core",
+      "date": "13 Nov 2026",
+      "createdAt": "2026-11-13T09:15:00Z",
+      "updatedAt": "2026-11-13T09:16:18.508615Z"
     }
   ]
 }
