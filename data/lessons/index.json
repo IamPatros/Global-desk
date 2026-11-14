@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T19:16:50Z",
+  "updated": "2026-11-14T09:17:07Z",
   "lessons": [
     {
       "number": 1,
@@ -152,6 +152,14 @@
       "date": "13 Nov 2026",
       "createdAt": "2026-11-13T19:08:19Z",
       "updatedAt": "2026-11-13T19:14:37.432382Z"
+    },
+    {
+      "number": 20,
+      "title": "Geopolitics: wars, sanctions and chokepoints",
+      "level": "Core",
+      "date": "14 Nov 2026",
+      "createdAt": "2026-11-14T09:08:59Z",
+      "updatedAt": "2026-11-14T09:15:22.857296Z"
     }
   ]
 }

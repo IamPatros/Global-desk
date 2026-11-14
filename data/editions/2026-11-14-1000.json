@@ -1,0 +1,3025 @@
+{
+  "bigPicture": "The White House said Donald Trump, Xi Jinping and Vladimir Putin plan an unprecedented three-way meeting in Shenzhen on Thursday to discuss nuclear arms and the Iran war, while Poland joined Britain, France, Germany and Italy in Europe's team for the next Ukraine talks. Wall Street ended a strong week on a weak note as tech shares and Bitcoin fell and the 10-year US yield held near 5.15% on bets of a December Fed rate rise. In the US, a communications failure grounded all departing flights for nearly five hours, and the country lost its measles-free status after 26 years. Iran's Revolutionary Guards claimed two tankers hit mines in the Strait of Hormuz, without independent confirmation. Beyond the headlines, Congo's Ebola response is being held back by armed attacks, a baby died of cold in Gaza's tent camps, and Nigeria's diphtheria epidemic reached a boarding school. Russian strikes on Ukraine's power grid left almost 50,000 households in the Odesa region without electricity.",
+  "createdAt": "2026-11-14T09:05:57Z",
+  "glossary": [
+    {
+      "def": "The last treaty limiting US and Russian deployed strategic nuclear warheads; it expired in February 2026.",
+      "example": "Trump wants a replacement that also covers China.",
+      "term": "New START"
+    },
+    {
+      "def": "Agreements between states that limit, count or verify nuclear weapons to reduce the risk of war and costly arms races.",
+      "example": "The planned Shenzhen meeting is meant to start talks on it.",
+      "term": "Nuclear arms control"
+    },
+    {
+      "def": "The extra price buyers pay, or return investors demand, because of the chance that something bad happens.",
+      "example": "Iranian threats in Hormuz add a risk premium to oil.",
+      "term": "Risk premium"
+    },
+    {
+      "def": "A narrow sea passage or canal through which a large share of trade must pass, so disruption there has outsized effects.",
+      "example": "The Strait of Hormuz carried about 20% of world oil supply in 2025 (EIA).",
+      "term": "Chokepoint"
+    },
+    {
+      "def": "An air-traffic order that keeps planes on the ground at their departure airports until it is lifted.",
+      "example": "The FAA ordered a nationwide ground stop on Friday.",
+      "term": "Ground stop"
+    },
+    {
+      "def": "A WHO/PAHO designation that a country has had no continuous local spread of measles for at least 12 months.",
+      "example": "The US held it from 2000 until this week.",
+      "term": "Measles elimination status"
+    },
+    {
+      "def": "Protection of a whole community when enough people are immune that a disease cannot spread easily, shielding those who are not.",
+      "example": "For measles about 95% vaccination is needed.",
+      "term": "Herd immunity"
+    },
+    {
+      "def": "Finding and monitoring everyone who has been near an infected person so new cases are caught early.",
+      "example": "Armed attacks make contact tracing for Ebola dangerous in Congo.",
+      "term": "Contact tracing"
+    },
+    {
+      "def": "A sanction that lets Western firms ship or insure Russian oil only if it is sold at or below a set price.",
+      "example": "The EU cap was set at $44.10 a barrel in early 2026.",
+      "term": "Oil price cap"
+    },
+    {
+      "def": "Ageing tankers with unclear ownership and non-Western insurance used to move sanctioned oil.",
+      "example": "The EU has sanctioned 673 such vessels.",
+      "term": "Shadow fleet"
+    },
+    {
+      "def": "A set of sanctions adopted together, in the EU by unanimous decision of member states.",
+      "example": "EU leaders say a 22nd package against Russia is coming.",
+      "term": "Sanctions package"
+    },
+    {
+      "def": "A measure of the US dollar's value against six major currencies, led by the euro.",
+      "example": "It rose 0.7% this week to about 103.4.",
+      "term": "Dollar index"
+    },
+    {
+      "def": "One hundredth of a percentage point (0.01 pt); used for interest-rate changes.",
+      "example": "The US 2-year yield rose about 35 basis points this week.",
+      "term": "Basis point"
+    },
+    {
+      "def": "Favouring higher interest rates to fight inflation (the opposite is 'dovish').",
+      "example": "Hawkish Fed comments strengthened the dollar.",
+      "term": "Hawkish"
+    },
+    {
+      "def": "Fake audio, images or video made with AI to imitate a real person.",
+      "example": "A Polish court ruled against an advert using a cloned voice.",
+      "term": "Deepfake"
+    }
+  ],
+  "label": "Sat 14 Nov · morning",
+  "lessonNumber": 20,
+  "markets": [
+    {
+      "change": -0.4,
+      "changeText": "−0.4%",
+      "group": "Stocks · Americas",
+      "key": true,
+      "name": "S&P 500",
+      "note": "Fell as tech shares slid on rate-hike bets and Nvidia's leadership turmoil, but gained about 2.5% over the week (Xinhua, Yahoo Finance).",
+      "region": "United States",
+      "value": "7,561.67",
+      "what": "An index of 500 large US companies, the main gauge of the US stock market."
+    },
+    {
+      "change": -0.91,
+      "changeText": "−0.9%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Nasdaq Composite",
+      "note": "Tech-heavy index hit by chip stocks such as AMD and Nvidia; still up about 2.3% on the week (Eurasia Business News).",
+      "region": "United States",
+      "value": "25,136.27",
+      "what": "An index of over 3,000 Nasdaq-listed shares, dominated by technology companies."
+    },
+    {
+      "change": 0.1,
+      "changeText": "+0.1%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Dow Jones",
+      "note": "Edged up as consumer staples and energy shares offset tech (Xinhua).",
+      "region": "United States",
+      "value": "52,347.55",
+      "what": "An index of 30 large US companies, weighted by share price."
+    },
+    {
+      "change": -0.08,
+      "changeText": "−0.1%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "DAX",
+      "note": "Little changed on Friday as chip stocks such as Infineon fell (The Rio Times market board; Business Recorder).",
+      "region": "Germany",
+      "value": "26,750",
+      "what": "An index of the 40 biggest companies on the Frankfurt stock exchange."
+    },
+    {
+      "change": 0.02,
+      "changeText": "flat",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "Stoxx 600",
+      "note": "Closed flat but gained over 2% on the week, led by banks; tech fell 1.3% on Friday (Business Recorder/Reuters).",
+      "region": "Europe",
+      "value": "664.14",
+      "what": "An index of 600 large and mid-sized companies across 17 European countries."
+    },
+    {
+      "change": 0.36,
+      "changeText": "+0.4%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "FTSE 100",
+      "note": "Rose on Friday (The Rio Times market board).",
+      "region": "United Kingdom",
+      "value": "10,903",
+      "what": "An index of the 100 biggest companies on the London Stock Exchange."
+    },
+    {
+      "change": 0.44,
+      "changeText": "+0.4%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "WIG20",
+      "note": "Rose on Friday, with PKO BP and Allegro among the most traded (PAP Biznes, FXMAG).",
+      "region": "Poland",
+      "value": "4,298.46",
+      "what": "An index of the 20 biggest companies on the Warsaw Stock Exchange."
+    },
+    {
+      "change": 0.53,
+      "changeText": "+0.5%",
+      "group": "Stocks · Asia-Pacific",
+      "key": true,
+      "name": "Nikkei 225",
+      "note": "Rose on Friday (The Rio Times market board); Asian markets are shut at the weekend.",
+      "region": "Japan",
+      "value": "61,142",
+      "what": "An index of 225 large companies on the Tokyo Stock Exchange."
+    },
+    {
+      "change": -0.98,
+      "changeText": "−1.0%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Kospi",
+      "note": "Topped 5,500 intraday then fell as a rebound in chip stocks faded (MLQ.ai headline; The Rio Times board).",
+      "region": "South Korea",
+      "value": "5,291",
+      "what": "The main index of the Korea Exchange, heavy in chipmakers Samsung and SK Hynix."
+    },
+    {
+      "change": -2.79,
+      "changeText": "−2.8%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Hang Seng",
+      "note": "Fell on Friday amid the Nvidia leadership fallout (The Rio Times board; investingLive headline).",
+      "region": "Hong Kong",
+      "value": "23,638",
+      "what": "The main index of the Hong Kong stock exchange, with many large Chinese companies."
+    },
+    {
+      "change": -0.44,
+      "changeText": "−0.4%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Nifty 50",
+      "note": "Slipped on Friday (The Rio Times board).",
+      "region": "India",
+      "value": "25,144",
+      "what": "An index of 50 large companies on India's National Stock Exchange."
+    },
+    {
+      "change": 0.12,
+      "changeText": "+0.1%",
+      "group": "Currencies",
+      "key": true,
+      "name": "EUR/PLN",
+      "note": "NBP average rate on Fri 13 Nov (table 221/A), up from 4.4018 on Thursday; the złoty was slightly weaker.",
+      "region": "Poland",
+      "value": "4.4070",
+      "what": "How many złoty one euro costs."
+    },
+    {
+      "change": 0.44,
+      "changeText": "+0.4%",
+      "group": "Currencies",
+      "key": true,
+      "name": "USD/PLN",
+      "note": "NBP average rate on Fri 13 Nov, up from 3.9676; the dollar is firm on bets of a Fed rate rise.",
+      "region": "Poland",
+      "value": "3.9852",
+      "what": "How many złoty one US dollar costs."
+    },
+    {
+      "change": -0.28,
+      "changeText": "−0.3%",
+      "group": "Currencies",
+      "key": false,
+      "name": "EUR/USD",
+      "note": "Euro eased against a firmer dollar (The Rio Times board, Friday evening).",
+      "region": "Global",
+      "value": "1.1028",
+      "what": "How many dollars one euro buys."
+    },
+    {
+      "change": null,
+      "changeText": "+0.7% on week",
+      "group": "Currencies",
+      "key": false,
+      "name": "US dollar index",
+      "note": "Best week since early October as traders priced a more aggressive Fed (Stocktwits).",
+      "region": "Global",
+      "value": "103.41",
+      "what": "A measure of the dollar against six major currencies."
+    },
+    {
+      "change": 0.02,
+      "changeText": "+0.0%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Brent crude",
+      "note": "Settled almost unchanged; down about 2.5% on the week on signs of a supply surplus (FinanceFeeds citing Reuters).",
+      "region": "Global",
+      "value": "95.84",
+      "what": "The main global benchmark price for a barrel of crude oil, in dollars."
+    },
+    {
+      "change": -0.2,
+      "changeText": "−0.2%",
+      "group": "Commodities",
+      "key": false,
+      "name": "WTI crude",
+      "note": "Second weekly loss as US crude and fuel stocks rose (FinanceFeeds citing Reuters).",
+      "region": "United States",
+      "value": "88.56",
+      "what": "The US benchmark price for a barrel of crude oil, in dollars."
+    },
+    {
+      "change": 0.18,
+      "changeText": "+0.2%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Gold",
+      "note": "Steadied on Friday but fell about 4.6% over seven days as higher yields make non-interest-paying gold less attractive (Eurasia Business News).",
+      "region": "Global",
+      "value": "3,883.40",
+      "what": "Price of one troy ounce (31.1 g) of gold in dollars."
+    },
+    {
+      "change": null,
+      "changeText": "sources differ",
+      "group": "Commodities",
+      "key": false,
+      "name": "TTF gas (Europe)",
+      "note": "Reports put Dutch TTF between about €89 and €96 per megawatt-hour on Friday, with differing timestamps (Eurasia Business News).",
+      "region": "Europe",
+      "value": "",
+      "what": "The main European wholesale natural-gas price, in euros per megawatt-hour."
+    },
+    {
+      "change": null,
+      "changeText": "+0.05 pt",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 10-year Treasury yield",
+      "note": "Closed near its highest since October as markets price a December Fed hike (Yahoo Finance).",
+      "region": "United States",
+      "value": "5.15%",
+      "what": "The interest rate the US government pays to borrow for 10 years; a benchmark for loans worldwide."
+    },
+    {
+      "change": null,
+      "changeText": "+0.35 pt on week",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 2-year Treasury yield",
+      "note": "Sensitive to Fed expectations (Stocktwits).",
+      "region": "United States",
+      "value": "4.86%",
+      "what": "The interest rate on 2-year US government debt, closely tied to expected Fed policy."
+    }
+  ],
+  "marketsAsOf": "US stocks, bonds, oil and gold: Fri 13 Nov close · Europe, Warsaw and Asia-Pacific: Fri 13 Nov close (Asian and European markets are shut at the weekend) · EUR/PLN and USD/PLN: NBP average rates of Fri 13 Nov · EUR/USD: Fri 13 Nov evening",
+  "quiz": [
+    {
+      "answer": 1,
+      "explain": "AP reported New START expired in February; Trump rejected a one-year extension and wants a 'new, improved' deal including China, whose arsenal (600+ warheads) is far smaller.",
+      "options": [
+        "China has the world's largest nuclear arsenal",
+        "The New START treaty capping US and Russian warheads expired in February, and Trump wants a new deal that includes China",
+        "China asked for the meeting to be about Ukraine",
+        "Russia has refused to meet Trump"
+      ],
+      "q": "Why does the White House want China to join a nuclear arms deal with the US and Russia, according to AP?"
+    },
+    {
+      "answer": 2,
+      "explain": "The official said no agreement is expected and called it the beginning of a conversation; Ukraine is not expected to be on the agenda.",
+      "options": [
+        "A signed three-way nuclear treaty",
+        "A ceasefire agreement for Ukraine",
+        "No agreement; the 'beginning' of a conversation on disarmament",
+        "A new trade deal on chips"
+      ],
+      "q": "What did a senior US official expect from the Trump–Xi–Putin meeting in Shenzhen?"
+    },
+    {
+      "answer": 0,
+      "explain": "Rate-hike bets lifted yields toward 5.15%; tech fell 1.7% as Nvidia slipped below $4 trillion after its CEO's exit, while staples and energy rose.",
+      "options": [
+        "Higher expected US interest rates make future profits worth less today, hitting richly valued tech shares, while Nvidia's leadership turmoil weighed on chips",
+        "Oil prices collapsed",
+        "The Fed cut rates unexpectedly",
+        "The FAA ground stop closed the stock exchange"
+      ],
+      "q": "Why did tech shares fall most on Wall Street on Friday while the Dow edged up?"
+    },
+    {
+      "answer": 1,
+      "explain": "The IRGC said both used an unauthorised route with tracking off; there was no independent confirmation or casualty report.",
+      "options": [
+        "As Iranian ships attacked by the US",
+        "As 'violating' tankers using an 'unauthorised' route with tracking switched off",
+        "As ships escorted by the US Navy",
+        "As tankers carrying Iranian oil to China"
+      ],
+      "q": "How did Iran's Revolutionary Guards describe the two tankers they said hit mines in Hormuz?"
+    },
+    {
+      "answer": 3,
+      "explain": "Reuters linked the weekly fall to a growing surplus and higher OPEC+ output. The IRGC mine claim came out on Friday night, after Brent had settled, so its effect can only show when trading resumes.",
+      "options": [
+        "The Strait of Hormuz has reopened fully with no risk",
+        "Oil is no longer traded in dollars",
+        "Traders reacted strongly to the mine claim published that night",
+        "Signs of a growing supply surplus and higher OPEC+ output weighed on prices, leaving Brent down about 2.5% on the week"
+      ],
+      "q": "Brent settled almost unchanged on Friday at $95.84. Which explanation matches this edition?"
+    },
+    {
+      "answer": 2,
+      "explain": "Duffy called it a 'communication issue'; Mullin said there was no indication of an attack; the FBI checked whether a software update was involved.",
+      "options": [
+        "A confirmed cyberattack",
+        "A snowstorm",
+        "A communications failure affecting all Air Route Traffic Control Centers, with no indication of an attack",
+        "A strike by air-traffic controllers"
+      ],
+      "q": "What caused the US nationwide ground stop on Friday, according to officials?"
+    },
+    {
+      "answer": 1,
+      "explain": "Elimination means no continuous local transmission for 12 months; the committee chair blamed low vaccination coverage. About 95% coverage is needed.",
+      "options": [
+        "Because measles was imported from Canada once",
+        "Because the same virus kept spreading continuously for more than 12 months amid low vaccination coverage",
+        "Because the CDC stopped reporting cases",
+        "Because PAHO changed the definition of measles"
+      ],
+      "q": "Why has the US lost its measles elimination status?"
+    },
+    {
+      "answer": 2,
+      "explain": "Costa announced the E5 format; the Kremlin said a decision depends on Europe's 'readiness to contribute'.",
+      "options": [
+        "Europe will boycott them",
+        "Only the European Commission will attend",
+        "Europe will be represented by the E5 (UK, France, Germany, Italy, Poland) plus EU institutions",
+        "Russia will choose Europe's representatives"
+      ],
+      "q": "What did EU leaders decide in Dublin about the next Ukraine talks?"
+    },
+    {
+      "answer": 0,
+      "explain": "House of Saud reported the pipeline has about 7 mb/d capacity and carried about 4 mb/d to Yanbu; damage would strand more Saudi oil.",
+      "options": [
+        "It is the main Saudi export route bypassing the restricted Strait of Hormuz, carrying about 4 million barrels a day",
+        "It supplies gas to Poland directly",
+        "It is the only pipeline in the Middle East",
+        "Saudi Arabia does not export oil by sea"
+      ],
+      "q": "Why does a Houthi attack on Saudi Arabia's East-West pipeline matter for oil markets?"
+    },
+    {
+      "answer": 3,
+      "explain": "Microsoft apologised and blamed a network capacity upgrade; Japan's government email and New Zealand's visa processing were hit.",
+      "options": [
+        "A cyberattack by a foreign state",
+        "An AI agent deleting servers",
+        "A power cut in one data centre",
+        "A network capacity upgrade, not a cyberattack"
+      ],
+      "q": "What did Microsoft say caused its global outage?"
+    },
+    {
+      "answer": 1,
+      "explain": "UN coordinator Julien Harneis said ADF fighters killed more people than Ebola recently; one attack killed 66 civilians including three health workers.",
+      "options": [
+        "Because the vaccine stopped working",
+        "Because armed groups' attacks make contact tracing dangerous and have recently killed more people than Ebola in some areas",
+        "Because cases are falling everywhere",
+        "Because WHO has left the country"
+      ],
+      "q": "Why is the UN worried about the Ebola response in eastern Congo?"
+    },
+    {
+      "answer": 3,
+      "explain": "OCHA figures cited by The National put 65% of the population in tents; the WHO warned of rising infections; a 9-month-old died of hypothermia.",
+      "options": [
+        "Most people live in permanent housing",
+        "There is no rain in Gaza in winter",
+        "All aid restrictions were lifted this week",
+        "About 1.4 million people live in tents or temporary shelters and respiratory infections are 33,000 cases higher than a year ago"
+      ],
+      "q": "According to WHO and UN figures in this edition, what makes Gaza's winter especially dangerous?"
+    },
+    {
+      "answer": 1,
+      "explain": "Judges cited limits on gathering evidence; the prosecutor's office has appealed; the Taliban probe continues.",
+      "options": [
+        "It opens a new probe into US troops",
+        "It closes the original probe that could cover US troops and ISKP, while the probe into Taliban crimes since 2021 continues",
+        "It ends all ICC work in Afghanistan",
+        "It makes the US a member of the ICC"
+      ],
+      "q": "What does the ICC ruling on Afghanistan change?"
+    },
+    {
+      "answer": 0,
+      "explain": "About two-thirds of confirmed patients were unvaccinated; Kano's disease-control chief said vaccine supplies are inadequate.",
+      "options": [
+        "Gaps in vaccination coverage and delays in seeking care",
+        "Contaminated oil spills",
+        "A new strain resistant to all treatment",
+        "Imported cases from Europe"
+      ],
+      "q": "What is the main cause of Nigeria's diphtheria epidemic, according to health authorities?"
+    },
+    {
+      "answer": 2,
+      "explain": "Rzeczpospolita reported the court relied on personal rights; it awarded about 47,280 zł; the ruling is not final.",
+      "options": [
+        "Copyright on sound recordings",
+        "Consumer credit law",
+        "Protection of personal rights (dobra osobiste)",
+        "EU competition law"
+      ],
+      "q": "On what legal basis did a Warsaw court rule against an advert using an AI-cloned voice of a Polish lektor?"
+    },
+    {
+      "answer": 3,
+      "explain": "Stocktwits linked the move to hawkish Fed comments and a fully priced December hike; the 2-year yield rose about 0.35 points on the week.",
+      "options": [
+        "Because the Fed cut rates",
+        "Because oil fell to $50",
+        "Because the euro joined the dollar index",
+        "Because markets priced a more aggressive Fed after hot inflation data, raising US yields"
+      ],
+      "q": "Why did the US dollar have its best week since early October?"
+    },
+    {
+      "answer": 0,
+      "explain": "NBP table 221/A: EUR 4.4070 (from 4.4018) and USD 3.9852 (from 3.9676), a slightly weaker złoty.",
+      "options": [
+        "EUR/PLN was 4.4070 and USD/PLN 3.9852, both slightly higher than on Thursday",
+        "USD/PLN fell below 3.90",
+        "The złoty was removed from NBP tables",
+        "EUR/PLN rose to 4.60"
+      ],
+      "q": "Which Polish market figure fits Friday's NBP data in this edition?"
+    },
+    {
+      "answer": 2,
+      "explain": "Maximum output = 1 GW × 8,760 h = 8.76 TWh; 4.38 ÷ 8.76 = 0.5, a 50% capacity factor.",
+      "options": [
+        "About 25%",
+        "About 75%",
+        "About 50%",
+        "About 100%"
+      ],
+      "q": "Review (Lesson 19): A 1 GW power plant produces 4.38 TWh in a year (8,760 hours). What is its capacity factor?"
+    },
+    {
+      "answer": 3,
+      "explain": "Lesson 18 cited consumption about 40% of GDP (2024, PIIE) versus 68% in the US; reliance on investment and exports spreads China's cycles abroad.",
+      "options": [
+        "It means China imports nothing",
+        "It means China has no savings",
+        "It guarantees China will grow 10% a year",
+        "Household consumption is about 40% of GDP, so growth leans on investment and exports, which affects global demand for metals and competition for manufacturers"
+      ],
+      "q": "Review (Lesson 18): Why does China's low household consumption share matter for the rest of the world?"
+    },
+    {
+      "answer": 1,
+      "explain": "Lesson 17: the label decides which index funds track Polish shares; Poland is developed for FTSE Russell but still emerging for MSCI.",
+      "options": [
+        "It decides Poland's interest rates",
+        "It determines which index funds must hold Polish shares, affecting money flows into Warsaw-listed stocks",
+        "It changes Poland's GDP",
+        "It decides whether Poland can use the euro"
+      ],
+      "q": "Review (Lesson 17): Why does it matter whether index provider MSCI classifies Poland as 'emerging' or 'developed'?"
+    }
+  ],
+  "status": "complete",
+  "stocks": {
+    "asOf": "US: Fri 13 Nov close · Warsaw, Frankfurt, Amsterdam, Zurich, London, Seoul, Taipei: Fri 13 Nov close · Saudi Arabia: Thu 12 Nov close (Tadawul trades Sunday–Thursday and reopens Sun 15 Nov)",
+    "companies": [
+      {
+        "change": -0.97,
+        "changeText": "−1.0%",
+        "country": "PL",
+        "currency": "PLN",
+        "exchange": "Warsaw Stock Exchange (GPW)",
+        "headline": "Orlen ended Friday 1% lower after Norway's top court ruled two of its North Sea field approvals unlawful; on Saturday it raised its wholesale diesel price.",
+        "inNews": false,
+        "market": "Poland",
+        "moved": "Orlen fell 0.97% to 131.06 zł on Fri 13 Nov, closing at the day's low after trading as high as 134.70 zł (Stockwatch). Parkiet reported that Norway's Supreme Court ruled the approvals for the Yggdrasil, Tyrving and Breidablikk fields unlawful; Orlen, which holds 12% of Yggdrasil and 11.9% of Tyrving, said operator Aker BP will continue work and keep the Yggdrasil schedule. Energy minister Miłosz Motyka said Orlen Lietuva is making extraordinary losses, not profits, in reply to Lithuania's windfall-tax plan (TVN24). On Saturday morning Orlen raised its wholesale diesel price by 113 zł per cubic metre to 6,776 zł (Super Biznes).",
+        "name": "Orlen",
+        "period": "Fri 13 Nov close",
+        "price": "131.06",
+        "sector": "Oil, gas & energy",
+        "sources": [
+          {
+            "name": "Stockwatch.pl (price)",
+            "url": "https://www.stockwatch.pl/gpw/pknorlen,notowania,wskazniki.aspx"
+          },
+          {
+            "name": "Parkiet (Norway ruling)",
+            "url": "https://www.parkiet.com/surowce-i-paliwa/art45485951-przelomowy-wyrok-w-norwegii-waza-sie-losy-zloz-na-ktorych-wydobywa-orlen"
+          },
+          {
+            "name": "TVN24 Biznes (Lithuania tax)",
+            "url": "https://tvn24.pl/biznes/ze-swiata/litwa-planuje-wprowadzic-windfall-tax-milosz-motyka-komentuje-plany-litewskiego-rzadu-st9336649"
+          },
+          {
+            "name": "Super Biznes (wholesale fuel prices 14 Nov)",
+            "url": "https://superbiz.se.pl/wiadomosci/hurtowe-ceny-paliw-14112026-gwaltowne-podwyzki-diesla-na-weekend-aa-RETy-1tMq-ac4u.html"
+          }
+        ],
+        "ticker": "PKN",
+        "timeline": [
+          {
+            "date": "14 Nov 2026",
+            "event": "Raises wholesale diesel price by 113 zł/m³ to 6,776 zł/m³; petrol 95 unchanged (Super Biznes)"
+          },
+          {
+            "date": "13 Nov 2026",
+            "event": "Norway's Supreme Court rules approvals for Yggdrasil, Tyrving and Breidablikk unlawful; Orlen says work continues (Parkiet/PAP). Shares down 1% to 131.06 zł"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Shares up 3.4% to 132.34 zł; Lithuania's coalition agrees to prepare a windfall tax hitting mainly Orlen Lietuva"
+          },
+          {
+            "date": "10 Nov 2026",
+            "event": "Terminates one of its LNG supply contracts with QatarEnergy (company filing)"
+          },
+          {
+            "date": "6 Nov 2026",
+            "event": "Q3 results: net profit 5.58 bn zł, 25% below the PAP consensus per Noble Securities, largely due to a 40.2% tax rate"
+          }
+        ],
+        "upcoming": [],
+        "watchFor": [
+          "Norway's follow-up: the state's lawyer said authorities must reconsider the approvals but the permits do not lapse, while Greenpeace Norway says they are no longer valid (Parkiet)",
+          "Lithuania's windfall tax, still a draft: preliminary estimates put 2027 revenue at up to 70 mln euro, and the foreign minister wants the impact on investment and ties with Poland assessed first (TVN24)",
+          "A decision, expected in the coming weeks per TVN24, on whether to fund completion of the Bottom of the Barrel unit at the Mažeikiai refinery",
+          "Wholesale fuel prices, with diesel raised sharply going into the weekend (Super Biznes)"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": 1.7,
+        "changeText": "+1.7%",
+        "country": "PL",
+        "currency": "PLN",
+        "exchange": "Warsaw Stock Exchange (GPW)",
+        "headline": "PKO rose 1.7% on Friday to close at its high for the day; October core inflation data from the NBP is due on Monday.",
+        "inNews": false,
+        "market": "Poland",
+        "moved": "PKO gained 1.70% to 119.90 zł on Fri 13 Nov, closing at the session high after opening at 117.60 zł (Stockwatch), while Pekao, mBank and Erste Bank Polska each slipped 0.5–0.8% (inwestycje.pl). Reports on the session gave no company-specific reason. We found no company filing or news from Friday evening to Saturday morning. ING and mBank estimate October core inflation fell to 2.9%, and ING said the NBP may delay rate rises until early 2027 (PAP via Portal Spożywczy); rates matter for banks because they drive lending margins.",
+        "name": "PKO Bank Polski",
+        "period": "Fri 13 Nov close",
+        "price": "119.90",
+        "sector": "Banking",
+        "sources": [
+          {
+            "name": "Stockwatch.pl (price)",
+            "url": "https://www.stockwatch.pl/gpw/pkobp,notowania,wskazniki.aspx"
+          },
+          {
+            "name": "inwestycje.pl (13 Nov WIG20 close)",
+            "url": "https://inwestycje.pl/gielda/wig20-podzielony-na-pol-allegro-zyskuje-ponad-4-dino-i-pepco-rosna-a-kghm-liderem-spadkow/"
+          },
+          {
+            "name": "PAP via Portal Spożywczy (core inflation)",
+            "url": "https://www.portalspozywczy.pl/technologie/wiadomosci/analitycy-inflacja-bazowa-w-pazdzierniku-ponizej-3-proc,295243.html"
+          },
+          {
+            "name": "Bank Millennium weekly (data calendar)",
+            "url": "https://www.bankmillennium.pl/documents/d/guest/weekly261109"
+          }
+        ],
+        "ticker": "PKO",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares up 1.7% to 119.90 zł; GUS confirms October CPI at 3.5% and flash Q3 GDP at +3.5% y/y"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Shares up 0.8% to 117.90 zł"
+          },
+          {
+            "date": "5 Nov 2026",
+            "event": "Q3 net profit 2.93 bn zł (vs 2.84 bn a year earlier); nine-month net interest margin 4.43%, down 0.44 pp"
+          },
+          {
+            "date": "4 Nov 2026",
+            "event": "Central bank rate-setters (RPP) hold a decision meeting (3–4 Nov)"
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "16 Nov 2026",
+            "event": "NBP publishes October core inflation (14:00)"
+          },
+          {
+            "date": "1 Dec 2026",
+            "event": "RPP interest-rate meeting begins (1–2 Dec)"
+          }
+        ],
+        "watchFor": [
+          "October core inflation from the NBP on 16 Nov; ING and mBank estimate 2.9%, which ING said would be the first reading below 3% since March (PAP)",
+          "The RPP's 1–2 Dec meeting; ING said the NBP may put off rate rises until early 2027 (PAP)",
+          "Pekao economists expect inflation to rise above the NBP's tolerance band next year (PAP)"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": -2.92,
+        "changeText": "−2.9%",
+        "country": "PL",
+        "currency": "PLN",
+        "exchange": "Warsaw Stock Exchange (GPW)",
+        "headline": "KGHM was the WIG20's biggest loser on Friday, down 2.9%, as copper headed for a fifth weekly fall; Q3 results are due on Wednesday.",
+        "inNews": false,
+        "market": "Poland",
+        "moved": "KGHM fell 2.92% to 276.00 zł on Fri 13 Nov, closing at the day's low and the worst performer in the WIG20 (Stockwatch, inwestycje.pl). ADM Investor Services reported LME copper down 0.3% at $13,543 a tonne on Friday, on course for a fifth straight weekly decline of about 1.7%, and cited doubts over AI investment. Seeking Alpha called it copper's longest losing stretch in nearly two years. We found no company filing or news from Friday evening to Saturday morning.",
+        "name": "KGHM Polska Miedź",
+        "period": "Fri 13 Nov close",
+        "price": "276.00",
+        "sector": "Mining (copper, silver)",
+        "sources": [
+          {
+            "name": "Stockwatch.pl (price)",
+            "url": "https://www.stockwatch.pl/gpw/kghm,notowania,wskazniki.aspx"
+          },
+          {
+            "name": "inwestycje.pl (13 Nov WIG20 close)",
+            "url": "https://inwestycje.pl/gielda/wig20-podzielony-na-pol-allegro-zyskuje-ponad-4-dino-i-pepco-rosna-a-kghm-liderem-spadkow/"
+          },
+          {
+            "name": "ADM Investor Services (copper)",
+            "url": "https://www.admis.com/ai-uncertainty-hurts-copper-sentiment/"
+          },
+          {
+            "name": "KGHM investor calendar",
+            "url": "https://kghm.com/en/investors/investor-handbook/investor-calendar"
+          }
+        ],
+        "ticker": "KGH",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares down 2.9% to 276.00 zł; copper heads for a fifth straight weekly fall (ADM Investor Services)"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Shares down 1.3% to 284.30 zł as copper falls (XYZ)"
+          },
+          {
+            "date": "11 Nov 2026",
+            "event": "LME three-month copper at $13,805/t after a 0.9% rebound (Copper.com.au)"
+          },
+          {
+            "date": "10 Nov 2026",
+            "event": "Copper falls about 1.6% after hotter US inflation data (Copper.com.au)"
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "18 Nov 2026",
+            "event": "Q3 2026 consolidated report (company investor calendar)"
+          }
+        ],
+        "watchFor": [
+          "Q3 results on 18 Nov",
+          "Copper prices; ADM cited Goldman Sachs as saying the slide reflects positioning rather than weaker physical demand",
+          "Physical tightness in China: Shanghai exchange copper stocks fell 18.3% to their lowest since December 2023 and the Yangshan import premium hit a record (ADM)",
+          "Doubts over AI investment, which ADM said are weighing on copper sentiment"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": 0.51,
+        "changeText": "+0.5%",
+        "country": "PL",
+        "currency": "PLN",
+        "exchange": "Warsaw Stock Exchange (GPW)",
+        "headline": "PZU added 0.5% on Friday after S&P affirmed its A- rating; Q3 results are due on 19 Nov and a vote on absorbing LINK4 on 24 Nov.",
+        "inNews": false,
+        "market": "Poland",
+        "moved": "PZU rose 0.51% to 75.60 zł on Fri 13 Nov, closing at the session high (Stockwatch). We found no report naming a trigger and no company filing from Friday evening to Saturday morning. On Thursday S&P affirmed PZU's A- rating with a positive outlook and said an upgrade is possible within 12 months (Parkiet).",
+        "name": "PZU",
+        "period": "Fri 13 Nov close",
+        "price": "75.60",
+        "sector": "Insurance",
+        "sources": [
+          {
+            "name": "Stockwatch.pl (price)",
+            "url": "https://www.stockwatch.pl/gpw/pzu,notowania,wskazniki.aspx"
+          },
+          {
+            "name": "PZU investor calendar",
+            "url": "https://www.pzu.pl/relacje-inwestorskie/akcje-i-obligacje/kalendarz-inwestora"
+          },
+          {
+            "name": "Parkiet (S&P rating)",
+            "url": "https://www.parkiet.com/ubezpieczenia/art45482051-s-p-potwierdza-rating-pzu-na-poziomie-a-z-perspektywa-pozytywna"
+          },
+          {
+            "name": "Gazeta Ubezpieczeniowa (EGM)",
+            "url": "https://gu.com.pl/akcjonariusze-pzu-sa-zdecyduja-o-polaczeniu-z-link4/"
+          }
+        ],
+        "ticker": "PZU",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares up 0.5% to 75.60 zł"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Shares up 0.8% to 75.22 zł; S&P affirms A- rating, positive outlook (after the session)"
+          },
+          {
+            "date": "9 Nov 2026",
+            "event": "Second shareholder notice on the planned PZU–LINK4 merger"
+          },
+          {
+            "date": "6 Nov 2026",
+            "event": "S&P cuts Poland's outlook to negative and its local-currency rating to A- (Gazeta Ubezpieczeniowa)"
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "19 Nov 2026",
+            "event": "Q3 2026 report and management meeting with analysts (company investor calendar)"
+          },
+          {
+            "date": "24 Nov 2026",
+            "event": "Extraordinary shareholder meeting to vote on absorbing LINK4 (Gazeta Ubezpieczeniowa)"
+          }
+        ],
+        "watchFor": [
+          "Q3 results on 19 Nov",
+          "S&P's upgrade conditions: adapting to Solvency II changes from January 2027, high insurance profitability and a stable bank contribution (Parkiet)",
+          "The 24 Nov vote on the LINK4 merger, which PZU plans to complete legally in Q1 2027 (Gazeta Ubezpieczeniowa)"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": 0.07,
+        "changeText": "+0.1%",
+        "country": "PL",
+        "currency": "PLN",
+        "exchange": "Warsaw Stock Exchange (GPW)",
+        "headline": "The Cyberpunk and Witcher maker was flat on Friday; Q3 results are due on 24 Nov.",
+        "inNews": false,
+        "market": "Poland",
+        "moved": "CD Projekt edged up 0.07% to 278.40 zł on Fri 13 Nov, trading between 274.30 and 278.60 zł (Stockwatch, inwestycje.pl). We found no company filing or news from Friday evening to Saturday morning. No report we read named a trigger for Friday's move.",
+        "name": "CD Projekt",
+        "period": "Fri 13 Nov close",
+        "price": "278.40",
+        "sector": "Video games",
+        "sources": [
+          {
+            "name": "Stockwatch.pl (price)",
+            "url": "https://www.stockwatch.pl/gpw/cdprojekt,notowania,wskazniki.aspx"
+          },
+          {
+            "name": "inwestycje.pl (13 Nov WIG20 close)",
+            "url": "https://inwestycje.pl/gielda/wig20-podzielony-na-pol-allegro-zyskuje-ponad-4-dino-i-pepco-rosna-a-kghm-liderem-spadkow/"
+          },
+          {
+            "name": "CD Projekt investor calendar",
+            "url": "https://www.cdprojekt.com/en/investors/events/consolidated-quarterly-report-for-q3-2026/"
+          }
+        ],
+        "ticker": "CDR",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares flat at 278.40 zł"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Shares up 1.4% to 278.20 zł"
+          },
+          {
+            "date": "26 Oct 2026",
+            "event": "Cyberpunk 2077 tops 187,000 concurrent Steam players after Edgerunners 2 (Strefa Inwestorów)"
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "24 Nov 2026",
+            "event": "Q3 2026 consolidated quarterly report (company investor calendar)"
+          }
+        ],
+        "watchFor": [
+          "Q3 results on 24 Nov",
+          "The effect of the Netflix premiere on game sales, which BNP Paribas analysts examined in a November note (Stockwatch)"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": -0.14,
+        "changeText": "−0.1%",
+        "country": "PL",
+        "currency": "PLN",
+        "exchange": "Warsaw Stock Exchange (GPW)",
+        "headline": "The Reserved and Sinsay owner dipped 0.1% on Friday; its full Q3 report is due on 3 Dec.",
+        "inNews": false,
+        "market": "Poland",
+        "moved": "LPP slipped 0.14% to 28,700 zł on Fri 13 Nov, trading between 28,580 and 28,980 zł (Stockwatch). We found no company filing or news from Friday evening to Saturday morning. Stockwatch noted the shares have risen 21.9% since mid-September even though September clothing sales fell, and argued that investors are rewarding firms whose profits grow faster than revenue.",
+        "name": "LPP",
+        "period": "Fri 13 Nov close",
+        "price": "28700.00",
+        "sector": "Clothing retail (Reserved, Sinsay)",
+        "sources": [
+          {
+            "name": "Stockwatch.pl (price)",
+            "url": "https://www.stockwatch.pl/gpw/lpp,notowania,wskazniki.aspx"
+          },
+          {
+            "name": "inwestycje.pl (13 Nov WIG20 close)",
+            "url": "https://inwestycje.pl/gielda/wig20-podzielony-na-pol-allegro-zyskuje-ponad-4-dino-i-pepco-rosna-a-kghm-liderem-spadkow/"
+          },
+          {
+            "name": "Strefa Inwestorów (WIG20 report calendar)",
+            "url": "https://strefainwestorow.pl/dane/raporty/lista-publikacji-raportow-okresowych/wig20"
+          }
+        ],
+        "ticker": "LPP",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares down 0.1% to 28,700 zł"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Shares up 1.0% to 28,740 zł"
+          },
+          {
+            "date": "5 Nov 2026",
+            "event": "Preliminary Q3: revenue up about 21%, adjusted operating profit up about 30%; shares up 5.6% to 28,080 zł (Parkiet)"
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "3 Dec 2026",
+            "event": "Q3 2026 report (Strefa Inwestorów calendar)"
+          }
+        ],
+        "watchFor": [
+          "Full Q3 report on 3 Dec",
+          "Whether profit growth keeps outpacing sales, which Stockwatch said investors are rewarding",
+          "Clothing demand, after September sales in the sector fell (Stockwatch)"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": 4.09,
+        "changeText": "+4.1%",
+        "country": "PL",
+        "currency": "PLN",
+        "exchange": "Warsaw Stock Exchange (GPW)",
+        "headline": "Allegro led the WIG20 for a second day on Friday, up 4.1% after its Q3 beat; shareholders vote on 18 Nov on raising the buyback price cap to 65 zł.",
+        "inNews": false,
+        "market": "Poland",
+        "moved": "Allegro rose 4.09% to 66.62 zł on Fri 13 Nov, the WIG20's best performer, on about 4.7 mln shares (Stockwatch, inwestycje.pl). FXMAG said investors were still pricing in Thursday's results, raised guidance and the CEO's comments on faster profitability abroad. Q3 adjusted EBITDA of 1.13 bn zł beat the PAP Biznes consensus by about 4.9% (Strefa Inwestorów). We found no company filing or news from Friday evening to Saturday morning.",
+        "name": "Allegro",
+        "period": "Fri 13 Nov close",
+        "price": "66.62",
+        "sector": "E-commerce",
+        "sources": [
+          {
+            "name": "Stockwatch.pl (price)",
+            "url": "https://www.stockwatch.pl/gpw/allegro,notowania,wskazniki.aspx"
+          },
+          {
+            "name": "FXMAG (13 Nov session)",
+            "url": "https://www.fxmag.pl/gielda/indeks-wig20-bije-rekordy-a-te-dwie-spolki-leca-na-leb-na-szyje-co-sie-dzialo-na-gpw-w-piatek-13-tego"
+          },
+          {
+            "name": "Strefa Inwestorów (Q3 results)",
+            "url": "https://strefainwestorow.pl/wiadomosci/20261112/allegro-pokazalo-w-iii-kw-wyniki-powyzej-konsensusu-podnioslo-caloroczne-0"
+          },
+          {
+            "name": "Stockwatch.pl (buyback vote)",
+            "url": "https://www.stockwatch.pl/wiadomosci/allegro-buy-back-maksymalna-cena-65-zl-walne-zgromadzenie-2026,akcje,382048"
+          }
+        ],
+        "ticker": "ALE",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares up 4.1% to 66.62 zł, top of the WIG20 again"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Q3 beats forecasts; 2026 guidance raised; new InPost deal; shares up 5.1% to 64.00 zł"
+          },
+          {
+            "date": "10 Nov 2026",
+            "event": "Shares close at 60.90 zł (Biznesradar reference price)"
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "18 Nov 2026",
+            "event": "Shareholder meeting votes on raising the buyback's maximum price from 50 zł to 65 zł per share (Stockwatch)"
+          }
+        ],
+        "watchFor": [
+          "The 18 Nov vote on the buyback price cap; the shares closed Friday above the proposed 65 zł limit (Stockwatch)",
+          "Q4 trading: group GMV growth is tracking about 17% and Polish GMV growth sped up to about 16% (Strefa Inwestorów)",
+          "Raised 2026 guidance: adjusted EBITDA of 4.2–4.3 bn zł, helped by a new InPost deal worth an estimated 270–280 mln zł (Strefa Inwestorów)",
+          "International business: the adjusted EBITDA loss narrowed to 103 mln zł; management targets breakeven outside Poland in 2029 (Strefa Inwestorów)"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": 2.51,
+        "changeText": "+2.5%",
+        "country": "PL",
+        "currency": "PLN",
+        "exchange": "Warsaw Stock Exchange (GPW)",
+        "headline": "Dino rose 2.5% on Friday to close at its high for the day, alongside other Polish retailers; no company news.",
+        "inNews": false,
+        "market": "Poland",
+        "moved": "Dino gained 2.51% to 38.77 zł on Fri 13 Nov, closing at the session high on about 3.2 mln shares (Stockwatch). Inwestycje.pl said Allegro, Dino and Pepco led the WIG20's gainers but gave no reason. We found no company filing or news from Friday evening to Saturday morning. Dino's Q3 like-for-like sales rose only 0.1% as food prices fell, even though revenue grew 10.8% (Stockwatch).",
+        "name": "Dino Polska",
+        "period": "Fri 13 Nov close",
+        "price": "38.77",
+        "sector": "Grocery retail",
+        "sources": [
+          {
+            "name": "Stockwatch.pl (price)",
+            "url": "https://www.stockwatch.pl/gpw/dinopl,notowania,wskazniki.aspx"
+          },
+          {
+            "name": "inwestycje.pl (13 Nov WIG20 close)",
+            "url": "https://inwestycje.pl/gielda/wig20-podzielony-na-pol-allegro-zyskuje-ponad-4-dino-i-pepco-rosna-a-kghm-liderem-spadkow/"
+          }
+        ],
+        "ticker": "DNP",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares up 2.5% to 38.77 zł, the day's high"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Shares flat at 37.82 zł"
+          },
+          {
+            "date": "5 Nov 2026",
+            "event": "Q3 results: revenue 9.71 bn zł, net profit about 483 mln zł, EBITDA margin 8.1%; like-for-like sales +0.1%"
+          }
+        ],
+        "upcoming": [],
+        "watchFor": [
+          "Food price deflation, which Stockwatch said weighed on Dino's Q3 like-for-like sales",
+          "Price competition: Biedronka's owner cited strong competition and basket deflation near 7%, which a DM BOŚ analyst called slightly negative for Dino (Stockwatch)"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": -3.22,
+        "changeText": "−3.2%",
+        "country": "PL",
+        "currency": "PLN",
+        "exchange": "Warsaw Stock Exchange (GPW)",
+        "headline": "Restaurant operator AmRest fell 3.2% on Friday after an unexpected Q3 net loss, near 12-year lows per FXMAG.",
+        "inNews": false,
+        "market": "Poland",
+        "moved": "AmRest fell 3.22% to 9.33 zł on Fri 13 Nov (Stockwatch). It reported a Q3 net loss of 2 mln euro, while the consensus had expected a 12.2 mln euro profit; revenue rose 1.2% to 668.4 mln euro but EBITDA fell about 5% to 105.6 mln euro (XYZ, FXMAG). The company blamed 8.1 mln euro of one-off financing costs and currency swings (Stockwatch). We found no company filing or news from Friday evening to Saturday morning.",
+        "name": "AmRest",
+        "period": "Fri 13 Nov close",
+        "price": "9.33",
+        "sector": "Restaurants (KFC, Pizza Hut, Starbucks franchises)",
+        "sources": [
+          {
+            "name": "Stockwatch.pl (price)",
+            "url": "https://www.stockwatch.pl/gpw/amrest,notowania,wskazniki.aspx"
+          },
+          {
+            "name": "Stockwatch.pl (Q3 results)",
+            "url": "https://www.stockwatch.pl/wiadomosci/amrest-wyniki-iii-kwartal-2026-strata-netto-ebitda,akcje,385072"
+          },
+          {
+            "name": "XYZ (13 Nov session)",
+            "url": "https://xyz.pl/gpw-rosnie-w-sile-dzien-na-gpw-13-listopada-2026-r/"
+          },
+          {
+            "name": "FXMAG (13 Nov session)",
+            "url": "https://www.fxmag.pl/gielda/indeks-wig20-bije-rekordy-a-te-dwie-spolki-leca-na-leb-na-szyje-co-sie-dzialo-na-gpw-w-piatek-13-tego"
+          }
+        ],
+        "ticker": "EAT",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares down 3.2% to 9.33 zł after results; publishes investor presentation (company filing)"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Q3 2026 report: net loss 2 mln euro, revenue 668.4 mln euro (Stockwatch)"
+          }
+        ],
+        "upcoming": [],
+        "watchFor": [
+          "Like-for-like sales: the index rose to 99.2 in Q3 from 98.0 in Q2 (Stockwatch)",
+          "Taco Bell's Polish launch, with three outlets planned by year-end starting in Warsaw (Stockwatch)",
+          "Currency swings, which the company said offset its operating improvement in Q3"
+        ],
+        "watchlist": false
+      },
+      {
+        "change": -2.01,
+        "changeText": "−2.0%",
+        "country": "US",
+        "currency": "USD",
+        "exchange": "Nasdaq",
+        "headline": "Nvidia closed 2% lower, below $4 trillion in market value, as HSBC downgraded it after Jensen Huang's resignation.",
+        "inNews": true,
+        "market": "United States",
+        "moved": "Nvidia closed at $162.85 on Fri 13 Nov, down 2.01%, after reversing an early gain (Yahoo Finance, The Wall Street Republic); Yahoo Finance said its market value ended below $4 trillion and the stock lost about 12% over the week. HSBC analyst Frank Lee cut the stock to Hold from Buy and lowered his target to $170 from $365, saying uncertainty will last until a permanent successor is named (Moneycontrol via TradingView). CFO Colette Kress is interim CEO while the board searches for Huang's successor.",
+        "name": "Nvidia",
+        "period": "Fri 13 Nov close",
+        "price": "162.85",
+        "sector": "Semiconductors",
+        "sources": [
+          {
+            "name": "Yahoo Finance live blog (13 Nov close)",
+            "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+          },
+          {
+            "name": "Moneycontrol via TradingView (HSBC downgrade)",
+            "url": "https://www.tradingview.com/news/moneycontrol:1b10b55b3094b:0-nvidia-slides-4-as-jensen-huang-turmoil-deepens-hsbc-downgrades-stock-to-hold-slashes-target-by-53/"
+          },
+          {
+            "name": "The Wall Street Republic (13 Nov closes)",
+            "url": "https://thewallstreetrepublic.substack.com/p/nvidia-slides-below-4-trillion-again"
+          },
+          {
+            "name": "Yahoo Finance Nvidia live updates",
+            "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-following-jensen-huangs-resignation-as-ceo-allegations-of-a-third-affair-emerge-195535310.html"
+          }
+        ],
+        "ticker": "NVDA",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "HSBC cuts to Hold, target $170 from $365; Senate Banking chair asks Huang and Lutnick to testify (Fortune); shares close −2.01% at $162.85, below $4tn market value (Yahoo Finance)."
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Huang resigns; Kress interim CEO, Harvey C. Jones board chair. Shares fall as much as 14% early (AP), close −4.3% at $166.19; Mast says Huang will testify to Congress (TechCrunch)."
+          },
+          {
+            "date": "11 Nov 2026",
+            "event": "WSJ reports board preparing to oust Huang; board meets in the evening (Reuters). Stock had closed +2.9%."
+          },
+          {
+            "date": "10 Nov 2026",
+            "event": "Shares fell about 5.5% (TradingKey); Baird downgraded to Neutral, Morgan Stanley dropped it as a Top Pick (TheStreet)."
+          },
+          {
+            "date": "9 Nov 2026",
+            "event": "Shares fell 4.27% to $178.67; shareholder class action filed in San Jose federal court (24/7 Wall St)."
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "17 Nov 2026",
+            "event": "Q3 fiscal 2027 results after the US close; call at 2:00 p.m. PT (Yahoo Finance, company release)"
+          },
+          {
+            "date": "18 Nov 2026",
+            "event": "Anthropic IPO expected to price (range $70–78), first trade on Nasdaq under ANT on 19 Nov, per CNBC-reported timing (FinanceFeeds); Nvidia is buying about $10bn of shares in a private placement"
+          },
+          {
+            "date": "3 Dec 2026",
+            "event": "Huang asked to appear before the Senate Banking Committee; Lutnick on 10 Dec per the committee (Fortune)"
+          }
+        ],
+        "watchFor": [
+          "Q3 results on 17 Nov, the first under interim CEO Colette Kress; The Wall Street Republic said analysts expect adjusted EPS of $2.47",
+          "Progress on a permanent CEO, which HSBC said is key to resolving uncertainty (Moneycontrol via TradingView)",
+          "Huang's congressional testimony, promised before Thanksgiving per Rep. Brian Mast (Yahoo Finance live updates)",
+          "Pricing of Anthropic's IPO, in which Nvidia is a roughly $10bn buyer (FinanceFeeds)"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": 0.39,
+        "changeText": "+0.4%",
+        "country": "US",
+        "currency": "USD",
+        "exchange": "Nasdaq",
+        "headline": "Apple edged higher as investors treated it as a refuge from the AI chip sell-off.",
+        "inNews": true,
+        "market": "United States",
+        "moved": "Apple closed at $356.27 on Fri 13 Nov, up 0.39%, as investors sought shelter from the AI sell-off, according to The Wall Street Republic. Bernstein analyst Mark Newman, who rates Apple Outperform with a $380 target, called it a safe haven because its capital spending is only about 2% of revenue and most AI runs on-device (BigGo Finance). Its Siri AI-powered HomeView display and new Apple TV 4K went on sale the same day (MacRumors).",
+        "name": "Apple",
+        "period": "Fri 13 Nov close",
+        "price": "356.27",
+        "sector": "Consumer technology",
+        "sources": [
+          {
+            "name": "The Wall Street Republic (13 Nov closes)",
+            "url": "https://thewallstreetrepublic.substack.com/p/nvidia-slides-below-4-trillion-again"
+          },
+          {
+            "name": "BigGo Finance (Bernstein on Apple)",
+            "url": "https://finance.biggo.com/news/5ae8bd86-71bf-4158-8cc0-2193662af3cc"
+          },
+          {
+            "name": "MacRumors (13 Nov launches)",
+            "url": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/"
+          }
+        ],
+        "ticker": "AAPL",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "HomeView and Apple TV 4K go on sale (MacRumors); shares close +0.39% at $356.27 (The Wall Street Republic)."
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Bernstein calls Apple a tech safe haven, Outperform, $380 target (BigGo Finance); intraday record of $359.37, close −0.1% at $354.88."
+          },
+          {
+            "date": "11 Nov 2026",
+            "event": "Record close and intraday high (MacDailyNews)."
+          },
+          {
+            "date": "2 Nov 2026",
+            "event": "Fiscal Q4 revenue up 12% to $114.5bn, EPS $2.10 (company release)."
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "16 Nov 2026",
+            "event": "Payment of $0.27 quarterly dividend (company release)"
+          }
+        ],
+        "watchFor": [
+          "Whether investors keep favouring Apple's low capital spending during AI volatility, as Bernstein argued (BigGo Finance)",
+          "Whether Siri AI devices spur an upgrade cycle (GuruFocus via Yahoo Finance)",
+          "Valuation: Bernstein noted a record forward P/E of about 37 times fiscal 2027 earnings (BigGo Finance)"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": 0.17,
+        "changeText": "+0.2%",
+        "country": "US",
+        "currency": "USD",
+        "exchange": "Nasdaq",
+        "headline": "Microsoft ended slightly higher after apologising for a global outage it blamed on a network capacity upgrade.",
+        "inNews": true,
+        "market": "United States",
+        "moved": "Microsoft closed at $523.88 on Fri 13 Nov, up 0.17%, recovering from a premarket drop of up to 3% (The Wall Street Republic, StockTitan). On Friday the company apologised for the outage that hit Outlook, Teams and Copilot from Thursday, saying it was triggered during an earlier network capacity upgrade and was not related to cybersecurity or AI (Fox 5 New York). Microsoft said service was being restored gradually and it would publish a full post-incident report.",
+        "name": "Microsoft",
+        "period": "Fri 13 Nov close",
+        "price": "523.88",
+        "sector": "Software & cloud",
+        "sources": [
+          {
+            "name": "The Wall Street Republic (13 Nov closes)",
+            "url": "https://thewallstreetrepublic.substack.com/p/nvidia-slides-below-4-trillion-again"
+          },
+          {
+            "name": "Fox 5 New York (Microsoft apology)",
+            "url": "https://www.fox5ny.com/news/microsoft-apologizes-widespread-outage-what-went-wrong-deeply-sorry"
+          },
+          {
+            "name": "StockTitan (13 Nov market wrap)",
+            "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-13-2026"
+          },
+          {
+            "name": "Inven Global (Ignite dates)",
+            "url": "https://www.invenglobal.com/articles/28496/microsoft-ignite-2026-kicks-off-in-san-francisco-on-november-17"
+          }
+        ],
+        "ticker": "MSFT",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Microsoft apologises, blames a network capacity upgrade; shares close +0.17% at $523.88 after a premarket drop (Fox 5 NY, The Wall Street Republic)."
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Outlook/Teams outage begins around noon ET and runs into Friday (WKYT, Reuters via Investing.com); shares +0.4%."
+          },
+          {
+            "date": "11 Nov 2026",
+            "event": "Shares fell about 2.3% (Tokenpost) as Anthropic's IPO filing listed Microsoft as a $1bn buyer (GuruFocus)."
+          },
+          {
+            "date": "10 Nov 2026",
+            "event": "Fell 2.2% to $533.16 after Anthropic launched new workplace tools (TradingKey)."
+          },
+          {
+            "date": "4 Nov 2026",
+            "event": "Record close of $555.80 (Tokenpost)."
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "17–20 Nov 2026",
+            "event": "Microsoft Ignite conference, San Francisco (Inven Global, Solv Systems)"
+          },
+          {
+            "date": "19 Nov 2026",
+            "event": "Record date for $0.98 quarterly dividend (company release)"
+          },
+          {
+            "date": "8 Dec 2026",
+            "event": "Annual shareholders meeting, virtual (company release)"
+          },
+          {
+            "date": "10 Dec 2026",
+            "event": "Dividend payment date (company release)"
+          }
+        ],
+        "watchFor": [
+          "Microsoft's promised post-incident report on the outage (Fox 5 New York)",
+          "Enterprise AI announcements at Ignite, 17–20 Nov (Inven Global)",
+          "Anthropic's IPO, in which Microsoft is a roughly $1bn buyer (FinanceFeeds)"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": -0.98,
+        "changeText": "−1.0%",
+        "country": "US",
+        "currency": "USD",
+        "exchange": "Nasdaq",
+        "headline": "Alphabet gave up early gains to close about 1% lower as the Nasdaq fell.",
+        "inNews": false,
+        "market": "United States",
+        "moved": "Alphabet Class A shares closed at $295.77 on Fri 13 Nov, down 0.98%, and slipped a further 0.58% after hours (Yahoo Finance quote page, The Wall Street Republic). They had risen about 1% early as Google opened preorders for Gemini-powered glasses (GuruFocus via Yahoo Finance). No company-specific reason was reported for the close; the Nasdaq fell 0.91% (Yahoo Finance).",
+        "name": "Alphabet",
+        "period": "Fri 13 Nov close",
+        "price": "295.77",
+        "sector": "Internet & AI",
+        "sources": [
+          {
+            "name": "Yahoo Finance (GOOGL quote, 13 Nov close)",
+            "url": "https://finance.yahoo.com/quote/GOOGL/"
+          },
+          {
+            "name": "The Wall Street Republic (13 Nov closes)",
+            "url": "https://thewallstreetrepublic.substack.com/p/nvidia-slides-below-4-trillion-again"
+          },
+          {
+            "name": "GuruFocus via Yahoo Finance (Alphabet, 13 Nov)",
+            "url": "https://ca.finance.yahoo.com/news/alphabet-stocks-rise-1-19-180103825.html"
+          },
+          {
+            "name": "FinanceFeeds (Anthropic IPO)",
+            "url": "https://financefeeds.com/anthropic-ipo-date-price-range-70-78-trading-19-november/"
+          }
+        ],
+        "ticker": "GOOGL",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Preorders open for Gemini AI glasses from $395 (GuruFocus); shares close −0.98% at $295.77 (Yahoo Finance)."
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Gemini 4 Hydrogen launched; shares +1.8% to $298.70 as Nvidia's CEO exit spotlights Google's TPUs (Motley Fool, GuruFocus)."
+          },
+          {
+            "date": "11 Nov 2026",
+            "event": "Anthropic filing shows Google's ~$10bn IPO purchase; Alphabet announced Hong Kong and Singapore dollar bond sales (MarketScreener)."
+          },
+          {
+            "date": "10 Nov 2026",
+            "event": "Anthropic set its IPO price range at $70–78 a share (UPI)."
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "18 Nov 2026",
+            "event": "Anthropic IPO expected to price (range $70–78), first trade on Nasdaq under ANT on 19 Nov, per CNBC-reported timing (FinanceFeeds); Google is buying about $10bn of shares"
+          },
+          {
+            "date": "1 Dec 2026",
+            "event": "Lead-plaintiff deadline in the Alphabet securities class action (Pomerantz release)"
+          },
+          {
+            "date": "10 Dec 2026",
+            "event": "Gemini AI glasses begin shipping (GuruFocus via Yahoo Finance)"
+          }
+        ],
+        "watchFor": [
+          "Anthropic's IPO pricing and the value of Google's roughly $10bn purchase (FinanceFeeds)",
+          "Nvidia's results on 17 Nov as a read on AI chip demand, including for Google's TPUs",
+          "Google's push to rely less on Broadcom chips, which Redburn called a key test (Investing.com)"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": -0.29,
+        "changeText": "−0.3%",
+        "country": "US",
+        "currency": "USD",
+        "exchange": "Nasdaq",
+        "headline": "Amazon slipped 0.3% with the Nasdaq; Goldman Sachs added it to its Conviction List.",
+        "inNews": false,
+        "market": "United States",
+        "moved": "Amazon closed at $266.66 on Fri 13 Nov, down 0.29%, per The Wall Street Republic, which gave no specific reason. 24/7 Wall St reported that Goldman Sachs added Amazon to its Conviction List, with analyst Eric Sheridan setting a $375 target. The small dip came as the Nasdaq fell 0.91% on a chip sell-off (Yahoo Finance).",
+        "name": "Amazon",
+        "period": "Fri 13 Nov close",
+        "price": "266.66",
+        "sector": "E-commerce & cloud",
+        "sources": [
+          {
+            "name": "The Wall Street Republic (13 Nov closes)",
+            "url": "https://thewallstreetrepublic.substack.com/p/nvidia-slides-below-4-trillion-again"
+          },
+          {
+            "name": "24/7 Wall St (Goldman Conviction List)",
+            "url": "https://247wallst.com/investing/2026/11/13/amazon-joins-goldman-sachs-conviction-list-alongside-4-other-stock-picks/"
+          },
+          {
+            "name": "Yahoo Finance live blog (13 Nov close)",
+            "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+          }
+        ],
+        "ticker": "AMZN",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Goldman Sachs adds Amazon to its Conviction List (24/7 Wall St); shares close −0.29% at $266.66 (The Wall Street Republic)."
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Shares +0.5% to $267.44 (Motley Fool)."
+          },
+          {
+            "date": "11 Nov 2026",
+            "event": "Fell 1.74% to $266.17; media linked it to Anthropic's amended IPO filing on AWS note conversion (Gotrade)."
+          },
+          {
+            "date": "10 Nov 2026",
+            "event": "Anthropic set its IPO range at $70–78 a share (UPI)."
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "18 Nov 2026",
+            "event": "Anthropic IPO expected to price (range $70–78), first trade on Nasdaq under ANT on 19 Nov, per CNBC-reported timing (FinanceFeeds)"
+          }
+        ],
+        "watchFor": [
+          "Anthropic's IPO pricing and the value of Amazon's stake (Gotrade, FinanceFeeds)",
+          "Heavy AI spending: about $220bn of 2026 capital expenditure expected (Gotrade)",
+          "Nvidia's results on 17 Nov as a read on AI infrastructure demand"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": -1.82,
+        "changeText": "−1.8%",
+        "country": "US",
+        "currency": "USD",
+        "exchange": "Nasdaq",
+        "headline": "Tesla fell about 2% as Texas's incoming attorney general vowed scrutiny of any SpaceX merger.",
+        "inNews": true,
+        "market": "United States",
+        "moved": "Tesla closed at $390.22 on Fri 13 Nov, down 1.82%, per The Wall Street Republic. Bloomberg reported that Texas Attorney General-elect Nathan Johnson said a SpaceX–Tesla merger would warrant tremendous scrutiny, while talks were said to be progressing toward a possible announcement in December (Motley Fool, 24/7 Wall St). SpaceX also launched a Starship test flight on Friday evening, with a tower catch attempt set for Saturday (Motley Fool).",
+        "name": "Tesla",
+        "period": "Fri 13 Nov close",
+        "price": "390.22",
+        "sector": "Electric vehicles",
+        "sources": [
+          {
+            "name": "The Wall Street Republic (13 Nov closes)",
+            "url": "https://thewallstreetrepublic.substack.com/p/nvidia-slides-below-4-trillion-again"
+          },
+          {
+            "name": "Motley Fool (SpaceX and Tesla, 13 Nov)",
+            "url": "https://www.fool.com/investing/2026/11/13/spacexs-big-day-a-historic-starship-launch-a-tesla-merger-under-scrutiny-and-a-74-billion-ai-bet/"
+          },
+          {
+            "name": "24/7 Wall St (merger timing)",
+            "url": "https://247wallst.com/investing/2026/11/13/tesla-and-spacex-could-announce-a-merger-as-soon-as-december/"
+          },
+          {
+            "name": "VoteTesla (annual meeting)",
+            "url": "https://www.votetesla.com/annual-meeting-details/"
+          }
+        ],
+        "ticker": "TSLA",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Texas AG-elect vows scrutiny of a SpaceX–Tesla merger (Bloomberg via Motley Fool); shares close −1.82% at $390.22 (The Wall Street Republic)."
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Bloomberg: SpaceX–Tesla merger talks progress; shares +1.7% (Reuters via Investing.com)."
+          },
+          {
+            "date": "11 Nov 2026",
+            "event": "Shares up 2.9%; Musk says Cybertruck production runs to late summer 2027 (Gotrade)."
+          },
+          {
+            "date": "10 Nov 2026",
+            "event": "Finland's Traficom lets Tesla offer its assisted-driving system (Gotrade)."
+          },
+          {
+            "date": "20 Oct 2026",
+            "event": "Musk confirms both boards formed special committees to explore a merger (Electrek)."
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "3 Dec 2026",
+            "event": "Annual shareholder meeting, 3:00 p.m. CT, Austin and online (Tesla's VoteTesla site)"
+          }
+        ],
+        "watchFor": [
+          "Whether a SpaceX–Tesla deal is announced, reported as possible in December (24/7 Wall St, Motley Fool)",
+          "State regulatory scrutiny of any merger, flagged by Texas's AG-elect (Bloomberg via Motley Fool)",
+          "Outcome of SpaceX's Starship flight and its AI data-centre plans, which Motley Fool linked to the merger story"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": -8.75,
+        "changeText": "−8.8%",
+        "country": "US",
+        "currency": "USD",
+        "exchange": "Nasdaq",
+        "headline": "AMD sank 8.75% as early gains reversed into a sector-wide AI chip sell-off.",
+        "inNews": true,
+        "market": "United States",
+        "moved": "AMD closed at $534.06 on Fri 13 Nov, down 8.75%, on volume about 98% above its three-month average, after trading as high as $571.14 early (Motley Fool). The Motley Fool tied the reversal to a sector-wide AI chip sell-off and uncertainty over Nvidia after Jensen Huang's exit. StockTitan said AMD and Broadcom fell more than Nvidia after strong gains earlier in the week from money rotating out of Nvidia.",
+        "name": "AMD",
+        "period": "Fri 13 Nov close",
+        "price": "534.06",
+        "sector": "Semiconductors",
+        "sources": [
+          {
+            "name": "Motley Fool (AMD close, 13 Nov)",
+            "url": "https://www.fool.com/coverage/stock-market-today/2026/11/13/stock-market-today-nov-13-amd-sinks-8-75-on-sector-ai-chip-sell-off-after-early-gains-reverse/"
+          },
+          {
+            "name": "StockTitan (13 Nov market wrap)",
+            "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-13-2026"
+          },
+          {
+            "name": "The Wall Street Republic (13 Nov closes)",
+            "url": "https://thewallstreetrepublic.substack.com/p/nvidia-slides-below-4-trillion-again"
+          }
+        ],
+        "ticker": "AMD",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares close −8.75% at $534.06 in a sector-wide chip sell-off (Motley Fool, StockTitan)."
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "William Blair upgrades to Outperform; shares +5.9% to $585.30 (WSR, Motley Fool)."
+          },
+          {
+            "date": "11 Nov 2026",
+            "event": "Shares jump 7.3% to $552.90 after CoreWeave results (Motley Fool)."
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "18 Nov 2026",
+            "event": "Anthropic IPO expected to price (range $70–78), first trade on Nasdaq under ANT on 19 Nov, per CNBC-reported timing (FinanceFeeds); AMD is buying about $2.5bn of shares"
+          }
+        ],
+        "watchFor": [
+          "Nvidia's results on 17 Nov as a read on AI chip demand",
+          "Whether rotation into Nvidia's rivals continues after this week's swings (StockTitan)",
+          "Anthropic's IPO, in which AMD is a roughly $2.5bn buyer (FinanceFeeds)"
+        ],
+        "watchlist": false
+      },
+      {
+        "change": -4.76,
+        "changeText": "−4.8%",
+        "country": "US",
+        "currency": "USD",
+        "exchange": "Nasdaq",
+        "headline": "Broadcom fell 4.8% after Rothschild & Co Redburn downgraded it to Neutral.",
+        "inNews": true,
+        "market": "United States",
+        "moved": "Broadcom closed at $347.01 on Fri 13 Nov, down 4.76% (The Wall Street Republic, StockTitan). Rothschild & Co Redburn analyst Mike Harrison cut it to Neutral and lowered his target to $398 from $595, citing risks around AI customers Anthropic and OpenAI, which rely heavily on credit markets, and Google's push to diversify away from Broadcom chips (Investing.com). StockTitan said chip rivals also gave back gains made earlier in the week.",
+        "name": "Broadcom",
+        "period": "Fri 13 Nov close",
+        "price": "347.01",
+        "sector": "Semiconductors",
+        "sources": [
+          {
+            "name": "Investing.com (Redburn downgrade)",
+            "url": "https://www.investing.com/news/stock-market-news/redburn-lowers-broadcom-to-neutral-on-limited-rerating-potential-5025162"
+          },
+          {
+            "name": "The Wall Street Republic (13 Nov closes)",
+            "url": "https://thewallstreetrepublic.substack.com/p/nvidia-slides-below-4-trillion-again"
+          },
+          {
+            "name": "StockTitan (13 Nov market wrap)",
+            "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-13-2026"
+          }
+        ],
+        "ticker": "AVGO",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Redburn cuts to Neutral, target $398 from $595 (Investing.com); shares close −4.76% at $347.01 (The Wall Street Republic)."
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Shares +5.5% to $364.36 as traders rotate from Nvidia to rivals (24/7 Wall St)."
+          },
+          {
+            "date": "10 Nov 2026",
+            "event": "Anthropic sets IPO range at $70–78; Broadcom among buyers of about $1bn of shares (Yahoo Finance)."
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "18 Nov 2026",
+            "event": "Anthropic IPO expected to price (range $70–78), first trade on Nasdaq under ANT on 19 Nov, per CNBC-reported timing (FinanceFeeds); Broadcom is buying about $1bn of shares"
+          },
+          {
+            "date": "9 Dec 2026",
+            "event": "Q4 and fiscal 2026 results after the US close; call at 5:00 p.m. ET (company release)"
+          }
+        ],
+        "watchFor": [
+          "Financing of AI lab customers' buildouts behind Broadcom's $230bn fiscal 2028 AI revenue guidance (Redburn via Investing.com)",
+          "Google's efforts to diversify away from Broadcom chips (Redburn via Investing.com)",
+          "Nvidia's results on 17 Nov and Broadcom's own Q4 results on 9 Dec"
+        ],
+        "watchlist": false
+      },
+      {
+        "change": -2.44,
+        "changeText": "−2.4%",
+        "country": "US",
+        "currency": "USD",
+        "exchange": "Nasdaq",
+        "headline": "Strategy fell 2.4% as bitcoin dropped below $70,000, under its average purchase cost.",
+        "inNews": true,
+        "market": "United States",
+        "moved": "Strategy closed at $111.62 on Fri 13 Nov, down 2.44%, as bitcoin fell below $70,000 while the dollar strengthened (The Wall Street Republic). FinanceFeeds said bitcoin, at about $69,228 on Friday, was below Strategy's average cost of $75,456 a coin, leaving a paper loss of about $5.3bn on its 850,364 bitcoins. Strategy will be removed from MSCI indexes after the 30 Nov close (FinanceFeeds).",
+        "name": "Strategy",
+        "period": "Fri 13 Nov close",
+        "price": "111.62",
+        "sector": "Bitcoin treasury & software",
+        "sources": [
+          {
+            "name": "The Wall Street Republic (13 Nov closes)",
+            "url": "https://thewallstreetrepublic.substack.com/p/nvidia-slides-below-4-trillion-again"
+          },
+          {
+            "name": "FinanceFeeds (MSTR, 13 Nov)",
+            "url": "https://financefeeds.com/mstr-stock-bitcoin-below-strategy-cost-jpmorgan/"
+          }
+        ],
+        "ticker": "MSTR",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Bitcoin falls below $70,000 for the first time since August (FinanceFeeds); shares close −2.44% at $111.62 (The Wall Street Republic)."
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Shares −6.5% to $114.41 on MSCI removal and a crypto sell-off (FinanceFeeds)."
+          },
+          {
+            "date": "11 Nov 2026",
+            "event": "MSCI confirms removal from its indexes effective at the 30 Nov close (24/7 Wall St)."
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "30 Nov 2026",
+            "event": "Removal from MSCI USA, World and ACWI indexes takes effect after the close (FinanceFeeds)"
+          }
+        ],
+        "watchFor": [
+          "Index-fund selling before the 30 Nov MSCI removal (FinanceFeeds)",
+          "Bitcoin's price relative to Strategy's $75,456 average cost (FinanceFeeds)",
+          "Whether other index providers follow MSCI (GuruFocus via Yahoo Finance)"
+        ],
+        "watchlist": false
+      },
+      {
+        "change": null,
+        "changeText": "",
+        "country": "US",
+        "currency": "USD",
+        "exchange": "Nasdaq",
+        "headline": "United led airline stocks lower after the FAA ordered a rare nationwide ground stop just before the close.",
+        "inNews": true,
+        "market": "United States",
+        "moved": "Stocktwits reported United down about 1.7% at Friday's close, the biggest fall among US airlines, with American about 1% lower and Delta and Southwest down less than 1%; an exact closing price could not be verified. The FAA halted departing US flights shortly before the close after what Transportation Secretary Sean Duffy called a communication issue affecting all air route traffic control centres (Stocktwits). Yahoo Finance said the FAA lifted the stop at 8:15 p.m. ET, with delays expected into the weekend, and Duffy blamed overloaded switches and routers.",
+        "name": "United Airlines",
+        "period": "Fri 13 Nov close (price not verified)",
+        "price": "",
+        "sector": "Airlines",
+        "sources": [
+          {
+            "name": "Stocktwits (airline closes)",
+            "url": "https://stocktwits.com/news-articles/markets/equity/faa-grounds-all-incoming-flights-nationwide-in-extraordinary-advisory-airline-stocks-end-lower/cNbR0ApR9QT"
+          },
+          {
+            "name": "Yahoo Finance (ground stop lifted)",
+            "url": "https://finance.yahoo.com/markets/article/faa-lifts-ground-stop-flights-airline-stocks-fall-015910724.html"
+          },
+          {
+            "name": "Trefis (UAL, 13 Nov)",
+            "url": "https://www.trefis.com/stock/ual/articles/624908/why-is-united-airlines-stock-falling/2026-11-13"
+          }
+        ],
+        "ticker": "UAL",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "FAA orders a nationwide ground stop around 3:15 p.m. ET, lifted at 8:15 p.m. ET; United about −1.7% at the close (Stocktwits, Yahoo Finance)."
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Shares fell 6.0% as rebounding oil prices hit airline stocks (Trefis)."
+          }
+        ],
+        "upcoming": [],
+        "watchFor": [
+          "Weekend delays and cancellations after the ground stop (Yahoo Finance)",
+          "Findings of the FAA's investigation into the outage, which Duffy tied to ageing infrastructure (Yahoo Finance)",
+          "Oil prices, which Trefis said drove Thursday's airline sell-off"
+        ],
+        "watchlist": false
+      },
+      {
+        "change": 0.43,
+        "changeText": "+0.4%",
+        "country": "TW",
+        "currency": "TWD",
+        "exchange": "Taiwan Stock Exchange",
+        "headline": "The world's biggest contract chipmaker ended the week slightly higher as Nvidia's results approach.",
+        "inNews": false,
+        "market": "Asia & Europe",
+        "moved": "TSMC rose NT$10 (+0.43%) to NT$2,350 on Friday, ETtoday reported, as the Taiex gained 1.35% to 43,675 after giving back much of an early surge of over 1,000 points. ETtoday said late selling of 4,061 lots trimmed TSMC's gain at the close. There was no company-specific news over the weekend; attention turns to Nvidia, a major customer, which reports on 17 Nov under interim CEO Colette Kress.",
+        "name": "TSMC (Taiwan Semiconductor Manufacturing)",
+        "period": "Fri 13 Nov close",
+        "price": "2350",
+        "sector": "Semiconductors",
+        "sources": [
+          {
+            "name": "ETtoday",
+            "url": "https://finance.ettoday.net/news/3271594"
+          },
+          {
+            "name": "TSMC",
+            "url": "https://pr.tsmc.com/english/news/3352"
+          },
+          {
+            "name": "Stock Titan (Nvidia 8-K)",
+            "url": "https://www.stocktitan.net/sec-filings/NVDA/8-k-nvidia-corp-reports-material-event-7ee30e4de444.html"
+          },
+          {
+            "name": "Dow Jones via finanznachrichten.de",
+            "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70127954-xetra-schluss-leichtes-minus-infineon-aktie-unter-druck-015.htm"
+          }
+        ],
+        "ticker": "2330.TW",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares up 0.43% to NT$2,350 as the Taiex rises 1.35%"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Nvidia says Jensen Huang has resigned; CFO Colette Kress named interim CEO"
+          },
+          {
+            "date": "11 Nov 2026",
+            "event": "Shares jump 4.81% to NT$2,395 after a record NT$9 quarterly dividend"
+          },
+          {
+            "date": "10 Nov 2026",
+            "event": "Board approves NT$9 dividend and up to US$500m each for Anthropic and OpenAI shares"
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "17 Nov 2026",
+            "event": "Nvidia Q3 FY2027 results, date unchanged after CEO exit"
+          },
+          {
+            "date": "11 Mar 2027",
+            "event": "Ex-dividend date for the NT$9 Q3 dividend"
+          },
+          {
+            "date": "17 Mar 2027",
+            "event": "Record date for the Q3 dividend"
+          },
+          {
+            "date": "8 Apr 2027",
+            "event": "Q3 dividend payment"
+          }
+        ],
+        "watchFor": [
+          "Nvidia's quarterly results on 17 Nov, its first under interim CEO Colette Kress (Nvidia 8-K)",
+          "An expected Anthropic IPO next week, cited by traders (Dow Jones); TSMC's board approved buying up to US$500m of shares at the IPO price",
+          "Rising US bond yields and expectations of a December Fed rate hike, cited as market backdrop (Dow Jones, Fisco)"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": -2.76,
+        "changeText": "−2.8%",
+        "country": "NL",
+        "currency": "EUR",
+        "exchange": "Euronext Amsterdam",
+        "headline": "The chip-machine maker fell almost 3% on Friday as Nvidia's leadership turmoil weighed on chip stocks.",
+        "inNews": false,
+        "market": "Asia & Europe",
+        "moved": "ASML closed at €1,338.80, down 2.76% from €1,376.80, MarketScreener data show, while the AEX ended slightly higher at 1,140.96 (ANP). ANP said uncertainty at Nvidia after Jensen Huang's resignation hit chip stocks, with ASM International and Besi down more than 4%. A Saturday ad-hoc-news report said talks with unions over delayed reorganisation dates remain stalled; ASML says the change affects about 30 employees.",
+        "name": "ASML Holding",
+        "period": "Fri 13 Nov close",
+        "price": "1338.80",
+        "sector": "Semiconductor equipment",
+        "sources": [
+          {
+            "name": "MarketScreener",
+            "url": "https://www.marketscreener.com/quote/stock/ASML-HOLDING-N-V-12002973/"
+          },
+          {
+            "name": "ANP via ZeelandNet",
+            "url": "https://www.zeelandnet.nl/nieuws/chipbedrijven-zakken-op-damrak-na-onrust-rond-nvidia"
+          },
+          {
+            "name": "ad-hoc-news (union talks)",
+            "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/asml-s-next-battle-is-internal-stalled-transfer-talks-test-the-reorganisation-behind-the-chip-boom/70508985"
+          },
+          {
+            "name": "ad-hoc-news (EUV demand)",
+            "url": "https://ad-hoc-news.de/boerse/news/unternehmensnachrichten/asml-aktie-samsung-und-sk-hynix-ringen-um-euv-anlagen/70508840"
+          }
+        ],
+        "ticker": "ASML",
+        "timeline": [
+          {
+            "date": "14 Nov 2026",
+            "event": "Report: union talks on reorganisation timing still deadlocked"
+          },
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares fall 2.76% to €1,338.80 as chip stocks slide again"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Shares fall about 1.9% as Nvidia CEO Huang resigns"
+          },
+          {
+            "date": "11 Nov 2026",
+            "event": "Shares rise 3.1% to €1,403.80 in Amsterdam"
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "17 Nov 2026",
+            "event": "Nvidia Q3 FY2027 results, date unchanged after CEO exit"
+          },
+          {
+            "date": "27 Jan 2027",
+            "event": "Q4 2026 results (per MarketScreener calendar)"
+          }
+        ],
+        "watchFor": [
+          "Nvidia's results on 17 Nov and US scrutiny of whether export limits were sidestepped in sales to China (ANP)",
+          "Media reports that Samsung and SK Hynix are competing for EUV machines, with capacity possibly short of 2027–28 demand (ad-hoc-news)",
+          "The union dispute: proposed start dates of 7 Dec 2026 and 8 Mar 2027 for reorganised units (ad-hoc-news)"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": 1.5,
+        "changeText": "+1.5%",
+        "country": "SA",
+        "currency": "SAR",
+        "exchange": "Tadawul (Saudi Exchange)",
+        "headline": "Houthis claim a new drone strike on an East-West pipeline pumping station; Saudi authorities have not commented.",
+        "inNews": true,
+        "market": "Asia & Europe",
+        "moved": "Late on Friday, Yemen's Houthis said two drones hit Pumping Station No. 3 on the East-West oil pipeline east of Riyadh and another targeted Riyadh's airport, Xinhua reported; Saudi authorities had not commented and the claims could not be verified. Aramco last traded on Thursday, rising 1.5% to SAR 26.40 (Asharq Al-Awsat), so Sunday is the first session after the claim. Brent settled almost flat at $95.84 on Friday, a second weekly fall of about 2.5%, as surplus concerns outweighed Gulf risks (Nation Thailand).",
+        "name": "Saudi Aramco",
+        "period": "Thu 12 Nov close (market reopens Sun 15 Nov)",
+        "price": "26.40",
+        "sector": "Oil & gas",
+        "sources": [
+          {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/20261114/7568db72a3ff4507846e0a4bb239b7e7/c.html"
+          },
+          {
+            "name": "Asharq Al-Awsat",
+            "url": "https://english.aawsat.com/business/5340489-saudi-stocks-rise-02-supported-aramco-gains"
+          },
+          {
+            "name": "Nation Thailand",
+            "url": "https://www.nationthailand.com/news/world/40073488"
+          },
+          {
+            "name": "Aramco",
+            "url": "https://www.aramco.com/en/investors/shareholder-information/dividends-schedule"
+          }
+        ],
+        "ticker": "2222.SR",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Houthis claim drone strike on East-West pipeline Pumping Station No. 3 (unconfirmed)"
+          },
+          {
+            "date": "13 Nov 2026",
+            "event": "Brent settles at $95.84, down about 2.5% on the week"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Shares up 1.5% to SAR 26.40"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Houthis claim attacks on Pumping Station No. 7, Yanbu and an Aramco building (unconfirmed)"
+          },
+          {
+            "date": "9 Nov 2026",
+            "event": "Energy ministry says pipeline strike caused a limited fire; operations unaffected"
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "16 Nov 2026",
+            "event": "Dividend eligibility date (SAR 0.3393 per share)"
+          },
+          {
+            "date": "25 Nov 2026",
+            "event": "Q3 dividend payment"
+          }
+        ],
+        "watchFor": [
+          "Whether Saudi authorities confirm or deny damage from the 13 Nov claim (no comment so far, per Xinhua)",
+          "Pipeline operations: after the 9 Nov strike the energy ministry said flows were not disrupted (Maritime Executive)",
+          "An IEA report pointing to a growing oil surplus, which weighed on prices (Nation Thailand)"
+        ],
+        "watchlist": true
+      },
+      {
+        "change": -3.03,
+        "changeText": "−3.0%",
+        "country": "KR",
+        "currency": "KRW",
+        "exchange": "Korea Exchange",
+        "headline": "Nvidia's key memory-chip supplier fell 3% on Friday on heavy foreign selling after an early rally faded.",
+        "inNews": false,
+        "market": "Asia & Europe",
+        "moved": "SK hynix closed down 38,000 won (−3.03%) at 1,216,000 won after rising as much as 5.02% early, Sankyung Today reported; foreigners net sold about 471.4 billion won of the stock. The Kospi fell 0.98% to 5,290.53 as investors weighed how Jensen Huang's exit from Nvidia could affect the AI ecosystem (Korea JoongAng Daily). Sankyung Today said its role as an HBM supplier to Nvidia made it more exposed.",
+        "name": "SK hynix",
+        "period": "Fri 13 Nov close",
+        "price": "1216000",
+        "sector": "Semiconductors (memory)",
+        "sources": [
+          {
+            "name": "Sankyung Today",
+            "url": "https://www.sankyungtoday.com/news/articleView.html?idxno=64243"
+          },
+          {
+            "name": "Korea JoongAng Daily",
+            "url": "https://www.koreajoongangdaily.com/business/kospi-drops-nearly-1-erasing-earlier-gains-following-nvidia-jitters/12972128"
+          },
+          {
+            "name": "ad-hoc-news (EUV demand)",
+            "url": "https://ad-hoc-news.de/boerse/news/unternehmensnachrichten/asml-aktie-samsung-und-sk-hynix-ringen-um-euv-anlagen/70508840"
+          }
+        ],
+        "ticker": "000660.KS",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares fall 3.03% to 1,216,000 won on heavy foreign selling"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Shares fall 1.8% to 1,254,000 won; Nvidia confirms Huang's exit"
+          },
+          {
+            "date": "11 Nov 2026",
+            "event": "Kospi gains 2.6%, a second day of rally"
+          },
+          {
+            "date": "10 Nov 2026",
+            "event": "Kospi jumps 4.39%"
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "17 Nov 2026",
+            "event": "Nvidia Q3 FY2027 results (major HBM customer)"
+          }
+        ],
+        "watchFor": [
+          "Rising AI uncertainty, which Daishin Securities' Lee Kyoung-min said weighed on the market",
+          "Foreign investor flows, net sellers of about 550 billion won on Friday (Korea JoongAng Daily)",
+          "Media reports that it is competing with Samsung for ASML's EUV machines (ad-hoc-news)",
+          "Nvidia's quarterly results on 17 Nov"
+        ],
+        "watchlist": false
+      },
+      {
+        "change": -0.96,
+        "changeText": "−1.0%",
+        "country": "KR",
+        "currency": "KRW",
+        "exchange": "Korea Exchange",
+        "headline": "A Korean report puts Samsung's possible purchase of US cooling firm Modine at up to $8bn, which would be its biggest deal.",
+        "inNews": true,
+        "market": "Asia & Europe",
+        "moved": "Seoul Economic Daily reported on Saturday that Samsung is in talks to buy Modine Manufacturing for $7.5bn–8bn, which could top its $8bn purchase of Harman in 2017; Bloomberg first reported the talks on Thursday and Samsung declined to comment (TNW). On Friday Samsung shares rose as much as 3.85% before closing down 0.96% at 206,000 won, Sankyung Today reported, though foreigners were net buyers of 11.4 billion won.",
+        "name": "Samsung Electronics",
+        "period": "Fri 13 Nov close",
+        "price": "206000",
+        "sector": "Semiconductors & electronics",
+        "sources": [
+          {
+            "name": "Seoul Economic Daily",
+            "url": "https://en.sedaily.com/economy/2026/11/14/samsung-pursues-record-8-billion-buyout-of-us-cooling-maker"
+          },
+          {
+            "name": "TNW",
+            "url": "https://thenextweb.com/news/samsung-modine-talks-data-centre-cooling"
+          },
+          {
+            "name": "Sankyung Today",
+            "url": "https://www.sankyungtoday.com/news/articleView.html?idxno=64243"
+          }
+        ],
+        "ticker": "005930.KS",
+        "timeline": [
+          {
+            "date": "14 Nov 2026",
+            "event": "Seoul Economic Daily puts possible Modine deal at $7.5bn–8bn"
+          },
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares fall 0.96% to 206,000 won after rising as much as 3.85%"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Bloomberg reports talks to buy Modine; Modine jumps about 28% after hours"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Breaks ground on Onyang HBM packaging plant"
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "17 Nov 2026",
+            "event": "Nvidia Q3 FY2027 results (Samsung is a supplier)"
+          }
+        ],
+        "watchFor": [
+          "Whether the Modine talks produce a deal; Bloomberg's sources said it could come within weeks or collapse (TNW)",
+          "Modine's data-centre revenue, up 95% to $439.7m last quarter (Seoul Economic Daily)",
+          "Nvidia's quarterly results on 17 Nov"
+        ],
+        "watchlist": false
+      },
+      {
+        "change": -4.29,
+        "changeText": "−4.3%",
+        "country": "DE",
+        "currency": "EUR",
+        "exchange": "Xetra (Frankfurt)",
+        "headline": "Germany's biggest chipmaker was the weakest stock in the DAX on Friday as chip shares sold off.",
+        "inNews": false,
+        "market": "Asia & Europe",
+        "moved": "Infineon closed at €49.875, down 4.29%, the weakest DAX stock, Dow Jones reported; traders pointed to sharp falls on the Nasdaq and next week's AI tests, Nvidia's results and an expected Anthropic IPO. Reuters said chip stocks fell after Nvidia CEO Jensen Huang's abrupt resignation, with Aixtron also down more than 4% (Business Recorder). The DAX slipped 0.1% to 26,750.",
+        "name": "Infineon Technologies",
+        "period": "Fri 13 Nov close",
+        "price": "49.875",
+        "sector": "Semiconductors",
+        "sources": [
+          {
+            "name": "Dow Jones via finanznachrichten.de",
+            "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70127954-xetra-schluss-leichtes-minus-infineon-aktie-unter-druck-015.htm"
+          },
+          {
+            "name": "Reuters via Business Recorder",
+            "url": "https://www.brecorder.com/news/40448833/european-shares-end-best-week-since-june-on-strong-earnings"
+          },
+          {
+            "name": "aktiencheck",
+            "url": "https://aktiencheck.de/artikel/infineon-aktienanalyse-rekordquartal-20-milliarden-ausblick-ki-boom-und-die"
+          }
+        ],
+        "ticker": "IFX.DE",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares fall 4.29% to €49.875, bottom of the DAX"
+          },
+          {
+            "date": "12 Nov 2026",
+            "event": "Nvidia CEO Jensen Huang resigns"
+          },
+          {
+            "date": "10 Nov 2026",
+            "event": "Record Q4 revenue of €4.7bn; about €20bn revenue forecast for FY2027"
+          }
+        ],
+        "upcoming": [
+          {
+            "date": "17 Nov 2026",
+            "event": "Nvidia Q3 FY2027 results"
+          },
+          {
+            "date": "3 Feb 2027",
+            "event": "Q1 FY2027 results (per aktiencheck)"
+          }
+        ],
+        "watchFor": [
+          "Sentiment in US chip stocks, which traders blamed for Friday's fall (Dow Jones)",
+          "Its forecast of just under €4bn revenue from data-centre power supplies in 2027 (aktiencheck)",
+          "Jefferies' Janardan Menon called the outlook conservative; several banks cut targets on lower sector valuations (aktiencheck)"
+        ],
+        "watchlist": false
+      },
+      {
+        "change": -3.8,
+        "changeText": "−3.8%",
+        "country": "CH",
+        "currency": "CHF",
+        "exchange": "SIX Swiss Exchange",
+        "headline": "The Cartier owner fell nearly 4% on Friday as jewellery growth slowed, despite higher profits.",
+        "inNews": false,
+        "market": "Asia & Europe",
+        "moved": "Richemont fell 3.8% to CHF 169.45, finanzen.ch data show, after second-quarter sales growth slowed to 13% at constant currency from 20%, with jewellery growth easing to 14% from 24% (Dow Jones). Half-year sales rose 16% to €12.3bn and profit 39%, finanznachrichten.de reported. CEO Nicolas Bos said demand in China remains weak, finanzen.ch reported; the SMI fell 0.3%.",
+        "name": "Richemont",
+        "period": "Fri 13 Nov close",
+        "price": "169.45",
+        "sector": "Luxury goods",
+        "sources": [
+          {
+            "name": "Dow Jones via finanznachrichten.de",
+            "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70127851-aktien-schweiz-schliessen-schwaecher-richemont-nach-zahlen-unter-druck-015.htm"
+          },
+          {
+            "name": "finanzen.ch",
+            "url": "https://www.finanzen.ch/nachrichten/aktien/richemont-mit-glanzendem-halbjahr-boerse-trotzdem-enttauscht-1036761451"
+          },
+          {
+            "name": "finanznachrichten.de",
+            "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70130151-richemont-aktie-4-sind-die-zeiten-von-luxusaktien-endgueltig-vorbei-486.htm"
+          }
+        ],
+        "ticker": "CFR.SW",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares fall 3.8% as jewellery growth slows to 14% in Q2 from 24%"
+          },
+          {
+            "date": "13 Nov 2026",
+            "event": "Half-year results: sales up 16% to €12.3bn, net profit up 39%"
+          }
+        ],
+        "upcoming": [],
+        "watchFor": [
+          "Demand in China, where management expects a recovery but cannot say when (finanzen.ch)",
+          "The company's expectation of a volatile economic and geopolitical environment (finanzen.ch)",
+          "Weakness in the Middle East, cited alongside China (finanznachrichten.de)"
+        ],
+        "watchlist": false
+      },
+      {
+        "change": null,
+        "changeText": "",
+        "country": "GB",
+        "currency": "GBP",
+        "exchange": "London Stock Exchange",
+        "headline": "The money-transfer firm was Europe's top gainer on Friday after raising its revenue outlook.",
+        "inNews": false,
+        "market": "Asia & Europe",
+        "moved": "Wise rose 7.7%, the top gainer on the STOXX 600, after a 23% rise in first-half net revenue, Reuters reported via Business Recorder; we could not verify its closing price in pence. Net revenue reached $1.45bn, active customers rose 21% to 16.2 million, and Wise now expects full-year revenue growth in the upper half of its 15–20% range (Yahoo Finance UK). Investing.com noted rising operating costs as a concern.",
+        "name": "Wise",
+        "period": "Fri 13 Nov close (price not verified)",
+        "price": "",
+        "sector": "Financial technology (payments)",
+        "sources": [
+          {
+            "name": "Reuters via Business Recorder",
+            "url": "https://www.brecorder.com/news/40448833/european-shares-end-best-week-since-june-on-strong-earnings"
+          },
+          {
+            "name": "Yahoo Finance UK",
+            "url": "https://uk.finance.yahoo.com/news/wise-lifts-revenue-outlook-first-074000686.html"
+          },
+          {
+            "name": "Investing.com",
+            "url": "https://www.investing.com/news/stock-market-news/why-is-wise-stock-rallying-today-93CH-5024592"
+          },
+          {
+            "name": "AOL (PA)",
+            "url": "https://www.aol.co.uk/articles/ftse-100-holds-firm-despite-171419000.html"
+          }
+        ],
+        "ticker": "WISE.L",
+        "timeline": [
+          {
+            "date": "13 Nov 2026",
+            "event": "Shares rise about 7.7%, top STOXX 600 gainer"
+          },
+          {
+            "date": "13 Nov 2026",
+            "event": "H1 FY27 results: net revenue up 23% to $1.45bn; outlook raised"
+          }
+        ],
+        "upcoming": [],
+        "watchFor": [
+          "Its target of a pre-tax margin around the top of its 20–25% range this year (Yahoo Finance UK)",
+          "A share buyback expected to exceed $500m, almost half completed (Yahoo Finance UK)",
+          "Sharply rising technology, servicing and marketing costs (Yahoo Finance UK)"
+        ],
+        "watchlist": false
+      }
+    ],
+    "overview": "US chip stocks ended a volatile week lower on Friday: Nvidia closed about 2% down at $162.85, below $4 trillion in market value, after its CEO's resignation and an HSBC downgrade, while AMD fell about 8.75% and Broadcom about 4.8%. Microsoft edged up as it apologised for its global outage, blaming a network capacity upgrade. In Warsaw, PKO BP and Allegro led gains in a WIG20 that rose 0.4%, while KGHM slipped ahead of its results on 18 November; Saudi Aramco faces fresh, unconfirmed Houthi claims against its East-West pipeline before trading resumes on Sunday."
+  },
+  "stories": [
+    {
+      "category": "Politics & conflict",
+      "everyday": "No immediate change in daily life, but talks between these three leaders can move oil prices (through the Iran war), the dollar and defence spending. For Poland, any hint that Ukraine's future is discussed over Kyiv's head matters for security on the eastern border.",
+      "id": "trilateral-shenzhen",
+      "importance": 5,
+      "markets": [
+        "Oil (Iran war risk)",
+        "Defence stocks",
+        "US dollar"
+      ],
+      "rank": 1,
+      "rankWhy": "A first-ever meeting of the leaders of the three biggest nuclear powers could shape arms control, the Iran war and the Ukraine diplomacy that affect billions of people and global markets.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "AP via The Manila Times",
+          "url": "https://www.manilatimes.net/2026/11/14/world/asia-oceania/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-white-house-says/2469943"
+        },
+        {
+          "name": "Anadolu morning briefing (via US Muslims)",
+          "url": "https://www.usmuslims.com/morning-briefing-nov-14-2026-381639h.htm"
+        },
+        {
+          "name": "Gulf News",
+          "url": "https://gulfnews.com/world/mena/middle-east-war-us-signals-restraint-as-iran-warns-of-retaliation-1.500746947"
+        }
+      ],
+      "terms": [
+        "New START",
+        "Nuclear arms control",
+        "APEC"
+      ],
+      "title": "Trump, Xi and Putin plan an unprecedented three-way meeting in Shenzhen on Thursday, with nuclear arms and Iran on the agenda",
+      "what": "The White House said on Friday that US President Donald Trump, China's Xi Jinping and Russia's Vladimir Putin plan to meet on Thursday 19 November on the sidelines of the APEC summit in Shenzhen, China. AP described it as the first gathering of the heads of the world's three biggest nuclear powers. A senior US official said Trump wants to discuss the US war with Iran and a three-way deal on nuclear arsenals, called the meeting the 'beginning of hopefully a conversation' on disarmament and said no agreement is expected. Ukraine is not expected to be on the agenda, the official said, describing it as 'a whole other track'. Before Shenzhen, Trump leaves on Monday for Manila for a Quad meeting and a US–ASEAN summit, and meets Xi on Thursday, according to Anadolu.",
+      "why": "The New START treaty, the last cap on US and Russian nuclear warheads, expired in February, AP noted; Trump rejected a Russian offer of a one-year extension and wants a new deal that includes China. AP put China's arsenal at more than 600 warheads against over 5,000 each for the US and Russia, which is why Beijing has shown little interest in joining limits. Analysts quoted by AP expect symbolism rather than breakthroughs: Xi can showcase China's clout and the Kremlin can present Russia as a peer of Washington and Beijing. Ukraine's President Volodymyr Zelenskyy worries his country could be discussed without Kyiv, AP reported."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Higher US yields tend to strengthen the dollar: the NBP's dollar rate rose to about 3.99 zł on Friday. Many Polish retirement and investment funds hold US tech shares, so swings in Nvidia and the Nasdaq reach ordinary savers.",
+      "id": "wall-street-week",
+      "importance": 4,
+      "markets": [
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones",
+        "Nvidia",
+        "AMD",
+        "US Treasuries",
+        "Bitcoin"
+      ],
+      "rank": 2,
+      "rankWhy": "Rising US borrowing costs and a tech sell-off affect global stock prices, pension savings and currencies, including the złoty.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Xinhua",
+          "url": "https://english.news.cn/northamerica/20261114/48afa9adbc4a440d9a21dabc97d755cf/c.html"
+        },
+        {
+          "name": "Yahoo Finance live",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+        },
+        {
+          "name": "Eurasia Business News",
+          "url": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/"
+        },
+        {
+          "name": "Investing.com via Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/fed-rate-hike-odds-december-035134676.html"
+        }
+      ],
+      "terms": [
+        "Treasury yield",
+        "Market capitalisation",
+        "Price target"
+      ],
+      "title": "Nasdaq slips 0.9% on Friday as Nvidia falls below $4 trillion; the 10-year Treasury yield ends near 5.15% and Bitcoin drops under $70,000",
+      "what": "On Friday 13 November the S&P 500 fell 0.4% to 7,561.67, the Nasdaq Composite lost 0.91% to 25,136.27 and the Dow Jones rose 0.1% to 52,347.55, according to Xinhua and Yahoo Finance. All three still gained over the week: roughly 2.5% for the S&P 500, 2.3% for the Nasdaq and 2.1% for the Dow. Technology was the weakest sector (−1.7%) while consumer staples (+1.4%) and energy (+1.0%) led. Nvidia closed about 2% lower and its stock-market value fell back below $4 trillion, down roughly 12% on the week after CEO Jensen Huang's resignation; AMD closed about 8.75% lower. The 10-year Treasury yield (the interest rate the US government pays to borrow for 10 years) closed at about 5.15%, and Bitcoin fell below $70,000 for the first time in nearly three months.",
+      "why": "Investors expect the Federal Reserve to raise interest rates in December: CME FedWatch data cited by Investing.com showed markets no longer pricing a hold after hotter-than-expected October consumer prices, and Friday's producer-price data put annual wholesale inflation at 6.5%. Higher yields make future company profits worth less today, which hits richly valued tech shares hardest. Yahoo Finance reported that HSBC downgraded Nvidia to Hold and cut its price target to $170 from $365, saying investor confidence had been 'shaken'. A Bitget analyst quoted by Yahoo Finance linked Bitcoin's fall to risk aversion, outflows from spot Bitcoin funds and the unwinding of leveraged bets."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Brent settled near $95.84 on Friday, before the claim was published, so any reaction will show when trading resumes; further incidents could push up diesel and petrol prices in Europe, including at Polish filling stations.",
+      "id": "hormuz-mines",
+      "importance": 4,
+      "markets": [
+        "Brent crude",
+        "WTI crude",
+        "Tanker shipping",
+        "Marine insurers"
+      ],
+      "rank": 3,
+      "rankWhy": "Any new attack on tankers in the Strait of Hormuz threatens a route that carried about a fifth of the world's traded oil and gas before the war, and with it fuel prices worldwide.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "AFP via ProtoThema",
+          "url": "https://en.protothema.gr/2026/11/14/two-oil-tankers-engulfed-in-flames-in-strait-of-hormuz-after-hitting-mines-irans-revolutionary-guards-say/"
+        },
+        {
+          "name": "IANS via Siasat",
+          "url": "https://www.siasat.com/iran-claims-two-tankers-hit-naval-mines-in-strait-of-hormuz-3577002/"
+        },
+        {
+          "name": "Gulf News",
+          "url": "https://gulfnews.com/world/mena/middle-east-war-us-signals-restraint-as-iran-warns-of-retaliation-1.500746947"
+        },
+        {
+          "name": "The Nation (wires)",
+          "url": "https://www.nation.com.pk/14-Nov-2026/us-military-confirms-iranian-attack-bahrain-says-shot-two-irgc-drones"
+        }
+      ],
+      "terms": [
+        "IRGC",
+        "Strait of Hormuz",
+        "Risk premium"
+      ],
+      "title": "Iran's Revolutionary Guards say two 'violating' tankers caught fire after hitting mines in the Strait of Hormuz; there is no independent confirmation",
+      "what": "Iran's Islamic Revolutionary Guard Corps (IRGC) navy said in a statement posted on Friday night, local time, that two oil tankers, one of them a supertanker, exploded and caught fire after hitting naval mines while using an 'unauthorised' route through the Strait of Hormuz with their tracking systems switched off, AFP and IANS reported. It warned shipowners that vessels not coordinating with Iran's traffic-control centre would meet the same fate. The ships were not named, and there was no independent confirmation, no casualty report and no comment from the shipowners. Iran's army made a similar claim on Thursday, and the US says it has cleared mines from much of the strait. This came a day after US Central Command said it shot down two Iranian drones heading for Bahrain and denied Iran's claim to have destroyed a US radar there.",
+      "why": "Since the US–Israeli strikes on Iran on 28 February, Iran has tried to control which ships pass through the strait, and the US has blockaded Iranian ports, according to AFP. Claims like this are a way of deterring tanker traffic even without proof, which keeps a risk premium in oil prices. At the same time, Gulf News reported that US Secretary of State Marco Rubio said further military action against Iran was unnecessary because economic pressure was weakening Tehran, while Iran told the UN that any renewed attack would bring retaliation."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Travellers from Europe, including Poland, to the US faced knock-on delays, and Latin American airlines such as Avianca and Copa warned customers. Airline shares fell late in Friday's session.",
+      "id": "faa-ground-stop",
+      "importance": 4,
+      "markets": [
+        "US airline stocks"
+      ],
+      "rank": 4,
+      "rankWhy": "A nationwide halt of US departures disrupted travel for hundreds of thousands of passengers and exposed weaknesses in critical infrastructure in the world's biggest aviation market.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "AeroTime",
+          "url": "https://www.aerotime.aero/articles/faa-nationwide-ground-stop-atc-communications-november-2026"
+        },
+        {
+          "name": "Fox Weather",
+          "url": "https://www.foxweather.com/weather-news/nationwide-ground-stop-ordered-faa"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue"
+        },
+        {
+          "name": "TVN24",
+          "url": "https://tvn24.pl/polska/szesc-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-14-listopada-2026-roku-st9338640"
+        },
+        {
+          "name": "The Rio Times",
+          "url": "https://www.riotimesonline.com/latin-american-pulse-for-saturday-november-14-2026/"
+        }
+      ],
+      "terms": [
+        "Ground stop",
+        "Air traffic control"
+      ],
+      "title": "US halts all departing flights for more than four hours after a communications failure at air-traffic control centres; more than 10,000 flights delayed",
+      "what": "The US Federal Aviation Administration (FAA) ordered a nationwide ground stop shortly before 4 p.m. New York time on Friday (about 22:00 in Warsaw) after what Transportation Secretary Sean Duffy called a 'communication issue' affecting all of the country's Air Route Traffic Control Centers, which guide planes between airports. Departures were held while about 3,000 planes already in the air were allowed to land. The stop was lifted after more than four hours, The Rio Times reported (TVN24 put it at nearly five). By 5:45 p.m. New York time more than 10,300 flights had been delayed and more than 1,300 cancelled, Fox Weather reported. It was the first nationwide US ground stop since January 2023.",
+      "why": "Homeland Security Secretary Markwayne Mullin said there was no indication of an attack and that a telecommunications outage was to blame. Duffy blamed old technology and overloaded routers, and the FBI was checking whether a software update caused the outage, The Rio Times reported. Al Jazeera noted that the US air-traffic control system has suffered repeated equipment failures and staff shortages; Congress approved $12.5 billion for an overhaul last year, and on Friday the FAA and White House asked for another $30.1 billion."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "Measles can travel with any passenger. In Poland, too, doctors have warned that refusals of childhood vaccines weaken herd immunity; checking that children have both MMR doses is the main protection.",
+      "id": "us-measles-status",
+      "importance": 4,
+      "markets": [],
+      "rank": 5,
+      "rankWhy": "Losing measles elimination status after 26 years signals that a dangerous, vaccine-preventable disease is spreading continuously in a country of 340 million people, with risks for neighbours and travellers.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Reuters via Yahoo News",
+          "url": "https://www.yahoo.com/news/us/articles/us-loses-measles-free-status-005522649.html"
+        },
+        {
+          "name": "Anadolu via A News",
+          "url": "https://www.anews.com.tr/world/2026/11/14/regional-health-agency-revokes-us-measles-elimination-status-as-cases-surge-report"
+        }
+      ],
+      "terms": [
+        "Measles elimination status",
+        "Herd immunity",
+        "PAHO"
+      ],
+      "title": "The US loses its measles-free status after 26 years as cases pass 5,000 this year",
+      "what": "The Pan American Health Organization (PAHO), the World Health Organization's office for the Americas, has revoked the United States' measles elimination status, The Wall Street Journal reported on Friday, citing people familiar with the matter; PAHO did not immediately respond to Reuters. 'Elimination' means no continuous local spread of the same virus strain for at least 12 months. The US had held the status since 2000. As of Thursday the CDC counted 5,182 confirmed cases in 2026 across 45 states, New York City and Washington DC, Reuters reported (Anadolu cited about 5,400), already more than double 2025's 2,289. About 7,500 people have been infected and 13 have died since 2025, according to Reuters.",
+      "why": "Measles is so contagious that about 95% of people need to be vaccinated to stop outbreaks; two doses of the vaccine protect about 97% of people, Reuters noted. Noel Brewer, who chairs the independent committee that presented the US findings to PAHO, said the outbreaks were 'all due to low measles vaccination coverage'. Reuters linked the surge to falling immunisation rates and rising vaccine hesitancy under Health Secretary Robert F. Kennedy Jr., who has questioned the vaccine's safety without scientific evidence."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "For Poland, a place at the table means a direct voice on ceasefire terms and security guarantees next door. A larger EU financing role for Ukraine could also mean bigger contributions from national budgets.",
+      "id": "e5-ukraine-team",
+      "importance": 4,
+      "markets": [
+        "Defence stocks",
+        "Polish assets (złoty, WIG20)"
+      ],
+      "rank": 6,
+      "rankWhy": "Europe gaining a seat in US–Russia–Ukraine talks, with Poland in the team, could shape the terms of any ceasefire on the EU's eastern border.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "RTÉ",
+          "url": "https://www.rte.ie/news/ireland/2026/1113/1599056-eu-leaders-dublin/"
+        },
+        {
+          "name": "TVN24",
+          "url": "https://tvn24.pl/polska/szesc-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-14-listopada-2026-roku-st9338640"
+        }
+      ],
+      "terms": [
+        "E5",
+        "Sanctions package"
+      ],
+      "title": "Poland joins Britain, France, Germany and Italy in the European team for the next Ukraine talks; the Kremlin has not confirmed it will accept them",
+      "what": "EU leaders meeting in Dublin agreed that Europe will be represented at the next round of US–Ukraine–Russia talks by the 'E5' (Britain, France, Germany, Italy and Poland) together with the EU institutions, European Council President António Costa announced on Friday. Prime Minister Donald Tusk said Poland would play a key role in this format, TVN24 reported. US envoys Steve Witkoff and Jared Kushner, who met Vladimir Putin in Moscow on 12 November, said Putin had agreed to European participation, and a European delegation is expected at the next round in Abu Dhabi next week, RTÉ reported. Kremlin spokesman Dmitry Peskov said a decision would depend on Europe showing genuine readiness to contribute. Leaders also said the EU will soon propose a 22nd package of sanctions on Russia.",
+      "why": "Russian, Ukrainian and US officials met in Abu Dhabi this week for the first time in nine months, but Russia excluded Europeans from the negotiations, RTÉ reported. Europe wants a say because any settlement affects its own security and its money: Ukraine faces an estimated €70 billion financing gap in 2027, which the European Commission is due to propose how to close, and leaders will discuss it on 26–27 November. Costa said only Ukraine has the legitimacy to decide on its territory."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Power cuts in Ukraine affect families, hospitals and businesses through the winter, and can add to pressure on people to leave; Poland hosts many Ukrainian refugees.",
+      "id": "ukraine-energy-strikes",
+      "importance": 3,
+      "markets": [
+        "Ukrainian bonds",
+        "European power prices"
+      ],
+      "rank": 7,
+      "rankWhy": "Repeated Russian strikes on Ukraine's power grid leave hundreds of thousands facing blackouts as winter begins.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "UNN",
+          "url": "https://unn.ua/en/news/russian-attacks-on-the-energy-infrastructure-continue-where-power-outages-are-occurring-on-november-14"
+        },
+        {
+          "name": "Glavnoe",
+          "url": "https://glavnoe.in.ua/en/news-en/russia-strikes-energy-infrastructure-in-odesa-region-again-leaving-nearly-50000-households-without-power"
+        },
+        {
+          "name": "Euromaidan Press",
+          "url": "https://euromaidanpress.com/2026/11/13/ukraines-grid-operator-kept-all-day-blackouts-in-parts-of-the-country-after-russias-latest-strikes-on-the-grid/"
+        }
+      ],
+      "terms": [
+        "Stabilisation outages"
+      ],
+      "title": "Russian strikes on Ukraine's energy grid leave almost 50,000 households in the Odesa region without power; outages spread to Sumy and Kyiv region",
+      "what": "A Russian attack hit a DTEK energy facility in the north of the Odesa region on 14 November, leaving almost 50,000 households without electricity, the region's military administration head Oleg Kiper confirmed, UNN reported. Emergency outages also hit part of the Sumy region and the Bucha, Fastiv and Obukhiv districts near Kyiv, while Kyiv city was under scheduled 'stabilisation' outages ordered by the grid operator.",
+      "why": "Russia has repeatedly targeted power substations and generation this autumn, Kyiv Post and Euromaidan Press reported, and damaged equipment takes time to repair, so grid operators ration power through scheduled outages. The attacks continue even as US envoys push for new talks, showing that diplomacy has not yet reduced the fighting."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "If the pipeline were seriously damaged, more Saudi oil would be stuck, which would push up fuel prices worldwide, including in Poland.",
+      "id": "houthi-saudi",
+      "importance": 3,
+      "markets": [
+        "Brent crude",
+        "Saudi Aramco"
+      ],
+      "rank": 8,
+      "rankWhy": "Attacks on Saudi Arabia's East-West pipeline target the main export route that bypasses Hormuz, so even unconfirmed strikes matter for oil supply.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "House of Saud",
+          "url": "https://houseofsaud.com/houthis-claim-kkia-pipeline-nov14/"
+        },
+        {
+          "name": "The New Arab",
+          "url": "https://www.newarab.com/news/yemens-houthis-say-targeted-saudi-east-west-pipeline-yanbu"
+        },
+        {
+          "name": "Havana Times / Democracy Now!",
+          "url": "https://havanatimes.org/news/international-news-briefs-for-friday-november-13-2026/"
+        }
+      ],
+      "terms": [
+        "East-West pipeline",
+        "Houthis"
+      ],
+      "title": "Yemen's Houthis claim new drone strikes on Riyadh's airport and a pumping station on Saudi Arabia's East-West oil pipeline",
+      "what": "On Friday Houthi spokesman Yahya Sarea said one drone targeted King Khalid International Airport in Riyadh and two drones hit Pumping Station No. 3 on the East-West pipeline, east of Riyadh, according to House of Saud, a Saudi-focused news site. Saudi authorities and Aramco had not commented by Saturday morning and no damage was confirmed. Earlier in the week the Houthis claimed attacks on Pumping Station No. 7 and the Yanbu oil terminal; the Saudi-led coalition said it intercepted several missiles and drones, and on Monday Saudi Arabia said an attack on the pipeline caused a fire without affecting operations, The New Arab reported.",
+      "why": "With the Strait of Hormuz restricted, the East-West pipeline to the Red Sea port of Yanbu has become Saudi Arabia's main alternative export route, carrying about 4 million barrels a day of its roughly 7 million capacity, House of Saud reported. The Houthis, an Iran-aligned group, have regularly targeted Saudi Arabia since fighting resumed in July, The New Arab said, so hitting the pipeline is a way to raise pressure on the world's biggest oil exporter."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Many Polish offices, schools and public bodies use Microsoft 365, so an outage can stop email and online meetings; keeping a backup way to contact colleagues helps.",
+      "id": "microsoft-outage-cause",
+      "importance": 3,
+      "markets": [
+        "Microsoft"
+      ],
+      "rank": 9,
+      "rankWhy": "The outage showed how much governments, hospitals and firms in dozens of countries depend on one cloud provider.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Anadolu",
+          "url": "https://www.aa.com.tr/en/asia-pacific/-global-microsoft-outage-disrupts-government-services-businesses-across-asia-pacific/4124096"
+        },
+        {
+          "name": "TheJournal.ie",
+          "url": "https://www.thejournal.ie/outlook-microsoft-outage-global-7224578-Nov2026/"
+        },
+        {
+          "name": "Anadolu morning briefing (via US Muslims)",
+          "url": "https://www.usmuslims.com/morning-briefing-nov-14-2026-381639h.htm"
+        }
+      ],
+      "terms": [
+        "Cloud computing",
+        "Concentration risk"
+      ],
+      "title": "Microsoft blames a network capacity upgrade for its global outage; Japan's government lost email and New Zealand paused visa processing",
+      "what": "Microsoft apologised for the outage of Outlook, Teams and Copilot that began late on Thursday, saying it stemmed from a network capacity upgrade and was not caused by a cyberattack or AI, Anadolu reported; services were recovering by Friday. Downdetector recorded disruption in 74 countries and territories, Anadolu said. In Japan, government email went down and officials switched to phone calls and chats, Digital Minister Toshiharu Furukawa said, while New Zealand's immigration service suspended all visa processing. Australian police, the ASIO intelligence agency and some courts were also affected.",
+      "why": "Earlier, Microsoft said elevated loads on its infrastructure caused connectivity problems and that servers brought back online could fail again once traffic returned, so it throttled traffic while restoring capacity, TheJournal.ie and Anadolu reported. Because millions of organisations run on the same cloud services, a fault in one company's network becomes a problem for whole governments, a risk known as concentration risk."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "The risk to Europe is very low, but outbreaks that run for months raise the chance of spread to neighbouring countries and strain global health funding.",
+      "id": "ebola-drc-armed-groups",
+      "importance": 3,
+      "markets": [],
+      "rank": 10,
+      "rankWhy": "Congo's largest-ever Ebola outbreak, with more than 11,000 cases, is being prolonged by armed attacks that endanger health workers and millions of people.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "UN News",
+          "url": "https://news.un.org/en/story/2026/11/1168797"
+        }
+      ],
+      "terms": [
+        "Contact tracing",
+        "Ebola (Bundibugyo virus)"
+      ],
+      "title": "UN says armed groups are now killing more people than Ebola in parts of eastern Congo, holding back the response to the country's largest outbreak",
+      "what": "The Ebola outbreak in the Democratic Republic of Congo, declared in May and caused by the Bundibugyo virus, has passed 11,000 confirmed cases and 5,000 deaths, with about 400–500 new infections a week, UN News reported on Friday. Transmission has fallen sharply in former hotspots in Ituri province, but cases are appearing in remote rural areas. UN Ebola coordinator Julien Harneis said fighters of the Allied Democratic Forces (ADF) had recently killed more people than Ebola; one attack in Cantine-Aloya, North Kivu, killed 66 civilians including three health workers.",
+      "why": "Stopping Ebola depends on contact tracing (finding and checking everyone an infected person met), which is very dangerous where armed groups operate, the UN said. Attacks on treatment centres and burial teams also make communities fearful, and WHO chief Tedros said some people see Ebola as a smaller threat than the violence they face. The World Food Programme said nearly 29 million people in Congo face acute food insecurity, which weakens resistance to disease."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Humanitarian appeals for Gaza, including by Polish charities, focus on tents, blankets and heating fuel this winter.",
+      "id": "gaza-winter",
+      "importance": 3,
+      "markets": [],
+      "rank": 11,
+      "rankWhy": "About 1.4 million people living in tents face winter floods and cold, with rising infections, while aid deliveries remain restricted.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "The National",
+          "url": "https://www.thenationalnews.com/news/mena/2026/11/13/gaza-baby-dies-from-exposure-to-cold-as-who-warns-of-rising-infection-rates/"
+        },
+        {
+          "name": "Anadolu",
+          "url": "https://aa.com.tr/en/world/9-month-old-baby-dies-from-severe-cold-in-gaza-1st-cold-related-death-this-winter-health-ministry/4124060"
+        },
+        {
+          "name": "Havana Times / Democracy Now!",
+          "url": "https://havanatimes.org/news/international-news-briefs-for-friday-november-13-2026/"
+        }
+      ],
+      "terms": [
+        "Hypothermia",
+        "Humanitarian access"
+      ],
+      "title": "A nine-month-old baby dies of hypothermia in Gaza, the first cold-related death of the winter, as the WHO warns of rising infections",
+      "what": "Gaza's Health Ministry said on Friday that nine-month-old Kinan Ahmed Arqiq died of severe hypothermia, the first recorded cold-related death this winter, The National and Anadolu reported. About 1.4 million people, 65% of the population, live in tents or temporary shelters, according to UN OCHA figures cited by The National, and the WHO said nearly one million displaced people live in flood-exposed areas. WHO representative Reinhilde Van De Weerdt said acute respiratory infections were 33,000 cases higher than a year earlier. UN aid chief Tom Fletcher said 150,000 tents were stuck in warehouses at Gaza's borders, Democracy Now! reported.",
+      "why": "Dozens of countries led by Britain, Qatar and Jordan have urged Israel to lift restrictions on shelter items, fuel and other supplies; the British ambassador said these restrictions prevent aid groups from working at the needed scale. Israel's aid agency COGAT said it had stepped up sanitation work with international organisations before the rains, The National reported. Cold, crowding and flooded camps spread respiratory and water-borne disease, which is why the WHO expects infections to rise further."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Poland is an ICC member and helps fund it; the court's ability to investigate powerful countries shapes how much weight its rulings carry, including in cases about the war in Ukraine.",
+      "id": "icc-afghanistan",
+      "importance": 3,
+      "markets": [],
+      "rank": 12,
+      "rankWhy": "The ruling ends the only international court inquiry that could have examined alleged crimes by US forces in Afghanistan, a landmark for international justice and US–ICC relations.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan"
+        },
+        {
+          "name": "Anadolu morning briefing (via US Muslims)",
+          "url": "https://www.usmuslims.com/morning-briefing-nov-14-2026-381639h.htm"
+        }
+      ],
+      "terms": [
+        "International Criminal Court (ICC)",
+        "Jurisdiction"
+      ],
+      "title": "ICC judges close the part of the Afghanistan investigation that could have covered US troops; the prosecutor's office has appealed",
+      "what": "Judges at the International Criminal Court (ICC) in The Hague ordered the closure of the original Afghanistan investigation, which included alleged crimes by US troops and intelligence operatives as well as by the Islamic State's Khorasan branch, Al Jazeera and Anadolu reported; the decision was made on Thursday and published on Friday. A separate probe into crimes by the Taliban since August 2021 continues; the court issued four arrest warrants for Taliban leaders last year. The prosecutor's office said it has already appealed.",
+      "why": "The judges cited 'significant limitations' on the prosecution's ability to investigate and gather evidence, Al Jazeera reported. The US is not an ICC member, does not recognise its jurisdiction and has sanctioned 13 current and former court staff; US Secretary of State Marco Rubio said President Trump will never allow the court to prosecute Americans. Investigating citizens of a non-member state whose government refuses to cooperate is very hard in practice."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Southeast Asia is a growing source of goods sold in Poland, from electronics to clothing, so its energy costs and stability affect supply chains and prices.",
+      "id": "asean-summit",
+      "importance": 3,
+      "markets": [
+        "Southeast Asian currencies",
+        "Oil importers"
+      ],
+      "rank": 13,
+      "rankWhy": "Leaders of ASEAN's 11 Southeast Asian members meet with the US, China and others as high oil prices squeeze their economies.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "The Jakarta Post",
+          "url": "http://www.thejakartapost.com/world/2026/11/14/asean-unity-faces-test-as-energy-crisis-regional-conflicts-loom-over-summit"
+        },
+        {
+          "name": "Philstar",
+          "url": "https://www.philstar.com/headlines/2026/11/14/2569914/live-updates-49th-asean-summit-and-related-summits"
+        }
+      ],
+      "terms": [
+        "ASEAN",
+        "Code of conduct"
+      ],
+      "title": "ASEAN meets in Manila under pressure from the Middle East energy shock, Myanmar's war and South China Sea tensions",
+      "what": "The Philippines hosts the 49th ASEAN summit and related meetings, with foreign ministers meeting from Saturday and the leaders' summit running from 15 November to the 17th (Jakarta Post) or 18th (Philstar); sources differ on the final day. On 16–17 November ASEAN leaders meet counterparts from Australia, China, India, Japan, New Zealand, South Korea, Russia and the United States, and the Philippines hands the chair to Singapore on 17 November. Topics include the economic fallout of the Middle East conflict, Myanmar's civil war and a long-delayed code of conduct for the South China Sea, which negotiators describe as about 70% complete.",
+      "why": "Southeast Asian countries import much of their fuel, so higher oil prices since the Iran war have raised costs for households and firms and added to inflation, the Jakarta Post reported; a shared oil stockpile is under study. President Ferdinand Marcos Jr. said ASEAN 'needs to act as one'. The Myanmar conflict has killed about 100,000 people and displaced more than 3.5 million, according to UN estimates cited by the paper."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "The same lesson as with measles in the US: when vaccination coverage falls, old diseases return. Poland's childhood vaccine schedule includes diphtheria.",
+      "id": "nigeria-diphtheria",
+      "importance": 3,
+      "markets": [],
+      "rank": 14,
+      "rankWhy": "Nigeria's diphtheria epidemic has passed 28,000 cases and 1,100 deaths, mostly among children, and now hits a boarding school of over 2,000 pupils.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "The Gazette Nigeria",
+          "url": "https://gazettengr.com/kano-confirms-12-diphtheria-cases-at-boarding-school/"
+        },
+        {
+          "name": "Anadolu via A News",
+          "url": "https://www.anews.com.tr/life/2026/11/14/new-diphtheria-outbreak-hits-nigerian-boarding-school-as-cases-exceed-28000-nationwide"
+        }
+      ],
+      "terms": [
+        "Diphtheria",
+        "Vaccination coverage"
+      ],
+      "title": "Diphtheria reaches a Kano boarding school as Nigeria's outbreak passes 28,000 cases and 1,126 deaths",
+      "what": "The Kano State Centre for Disease Control confirmed 12 diphtheria cases at First Lady College, Mariri, a boarding school with more than 2,000 students, after testing 313 suspected cases, The Gazette Nigeria reported on Friday. Nationally the outbreak had reached 28,151 cases and 1,126 deaths as of 7 November, according to Nigeria's NCDC figures cited by the IFRC and Anadolu, across 26 states and the capital territory; Kano alone has about 43% of cases. About two-thirds of confirmed patients were unvaccinated.",
+      "why": "Diphtheria is a bacterial infection that can block the airway; it is preventable with routine childhood vaccines, so outbreaks follow gaps in vaccination, health authorities said. Kano's disease-control chief Muhammad Abbas said the school needs mass vaccination but vaccine supplies are inadequate. Crowded boarding schools let the bacteria spread quickly between children aged 5–14, the group most affected."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Sudan's war is one of the world's biggest displacement crises, and its refugees affect aid budgets and migration routes towards Europe.",
+      "id": "sudan-kordofan",
+      "importance": 3,
+      "markets": [
+        "Gum arabic supply"
+      ],
+      "rank": 15,
+      "rankWhy": "Control of road links between Kordofan and Darfur shapes the course of a war that has displaced millions of Sudanese.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Radio Tamazuj",
+          "url": "https://radiotamazuj.org/en/news/article/sudanese-army-allies-announce-recapture-of-key-west-kordofan-town"
+        },
+        {
+          "name": "Sudan Tribune",
+          "url": "https://sudantribune.com/article/321179"
+        }
+      ],
+      "terms": [
+        "Rapid Support Forces (RSF)"
+      ],
+      "title": "Sudan's army and allied forces say they recaptured the town of Al-Khuway in West Kordofan, a route towards RSF-held Darfur",
+      "what": "Sudan's army and the Joint Force, an alliance of former Darfur rebel groups fighting alongside it, said on Friday they had recaptured Al-Khuway in West Kordofan, as well as nearby Sarif Ankoush and other villages, from the paramilitary Rapid Support Forces (RSF), Radio Tamazuj reported. A Joint Force spokesman claimed the RSF lost a commander and dozens of combat vehicles; these claims could not be independently verified and the RSF could not be reached. The RSF had taken the town in May 2025.",
+      "why": "Al-Khuway lies on roads linking North and West Kordofan with Darfur, so holding it helps move troops and supplies and could support army advances into RSF-held Darfur, Radio Tamazuj reported. The war between the army and the RSF began in April 2023 and has killed tens of thousands and displaced millions, according to humanitarian agencies."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "A firmer dollar makes dollar-priced goods such as fuel and electronics more expensive in złoty; the NBP dollar rate was close to 4 zł on Friday.",
+      "id": "dollar-gold-week",
+      "importance": 2,
+      "markets": [
+        "US dollar",
+        "Gold",
+        "US Treasuries"
+      ],
+      "rank": 16,
+      "rankWhy": "A stronger dollar and weaker gold reflect the global repricing towards higher US interest rates, which affects currencies and savers worldwide.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Stocktwits",
+          "url": "https://stocktwits.com/news-articles/markets/equity/what-shaped-us-treasury-yields-and-the-dollar-in-week-ended-november-13/cNb2sojR9Qd"
+        },
+        {
+          "name": "Eurasia Business News",
+          "url": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/"
+        },
+        {
+          "name": "The Rio Times",
+          "url": "https://www.riotimesonline.com/global-economy-briefing-november-13-2026/"
+        }
+      ],
+      "terms": [
+        "Dollar index",
+        "Basis point",
+        "Hawkish"
+      ],
+      "title": "The dollar posts its best week since early October while gold falls about 4.6% in a week as markets price a Fed hike",
+      "what": "The US dollar index, which measures the dollar against six major currencies, ended the week at about 103.41, up 0.7% and its best week since early October, Stocktwits reported. US two-year Treasury yields rose about 35 basis points (0.35 percentage points) over the week to 4.86%. Spot gold steadied on Friday at about $3,883 an ounce, but was down about 4.6% over seven days and about 14% over six months, according to market data cited by Eurasia Business News.",
+      "why": "Fed officials including Governor Christopher Waller turned more hawkish (favouring higher rates) after a third straight month of hotter-than-expected consumer prices, and markets fully priced a December rate rise, Stocktwits reported. Higher US rates attract money into dollar assets; gold pays no interest, so it becomes relatively less attractive when yields rise, as The Rio Times noted."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "River and sea cruises are popular with older travellers, including Poles; the investigation may lead to new rules for ships passing docked vessels.",
+      "id": "new-orleans-collision",
+      "importance": 2,
+      "markets": [],
+      "rank": 17,
+      "rankWhy": "A collision on the Mississippi River hurt dozens of passengers and raised questions about safety on one of the world's busiest inland waterways.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Fox News",
+          "url": "https://www.foxnews.com/us/tanker-slams-docked-new-orleans-river-cruiser-carrying-129-passengers-sparking-rescue"
+        },
+        {
+          "name": "TVN24",
+          "url": "https://tvn24.pl/polska/szesc-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-14-listopada-2026-roku-st9338640"
+        }
+      ],
+      "terms": [
+        "NTSB"
+      ],
+      "title": "A tanker that lost steering hits a docked river cruise ship in New Orleans; 32 passengers hospitalised and all aboard accounted for",
+      "what": "The tanker Atlantic Asphalt struck American Cruise Lines' river cruiser American Heritage, docked on the Mississippi River in New Orleans, at about 12:30 p.m. local time on Friday, according to the Port of New Orleans cited by Fox News. The cruiser took on water and capsized as people evacuated; 32 passengers were taken to hospital, none in critical condition, and officials said everyone aboard was accounted for. Port officials first reported about 129 passengers plus crew; Mayor Helena Moreno later estimated 180–190 people were aboard.",
+      "why": "Officials said the tanker lost control; Coast Guard Captain Melanie Burnham said investigators were looking at an apparent loss of steering, but the cause is not yet known. The National Transportation Safety Board sent a team, expected on Saturday morning."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Anyone's voice can be copied from recordings online; the ruling suggests Polish courts treat a voice as part of a person's protected identity.",
+      "id": "poland-ai-voice",
+      "importance": 2,
+      "markets": [],
+      "rank": 18,
+      "rankWhy": "A first-instance ruling that an AI-cloned voice violates personal rights could become a reference point for how Polish law treats deepfakes.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Rzeczpospolita",
+          "url": "https://www.rp.pl/dobra-osobiste/art45484781-lektor-wygral-proces-o-reklame-z-glosem-sklonowanym-przez-ai"
+        },
+        {
+          "name": "TVN24",
+          "url": "https://tvn24.pl/biznes/prawo/jaroslaw-lukomski-firma-uzyla-glosu-wygenerowanego-przez-ai-zapadl-wazny-wyrok-st9338031"
+        }
+      ],
+      "terms": [
+        "Deepfake",
+        "Personal rights (dobra osobiste)"
+      ],
+      "title": "Warsaw court rules that an advert with an AI-cloned voice of a well-known lektor violated his personal rights",
+      "what": "The Warsaw District Court ordered the company JFC Polska to remove online advertisements for home sewage treatment plants that used an AI-generated voice resembling that of voice-over artist (lektor) Jarosław Łukomski, to publish an apology and to pay him about 47,280 zł in compensation and damages, Rzeczpospolita and TVN24 reported. Łukomski said he never recorded the ad, consented or was paid. The ruling is not final; the company, which denies deliberately violating his rights, had not said whether it will appeal.",
+      "why": "The court based its decision on the protection of personal rights (dobra osobiste) in Polish civil law, focusing on content a listener could take as genuine, Rzeczpospolita reported. Cheap voice-cloning tools make such cases easier to create, and Łukomski said he hopes the case leads to changes in Polish law."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Political stability in Nigeria, a major oil producer and Africa's most populous nation, affects migration, energy markets and investment.",
+      "id": "nigeria-tinubu-convoy",
+      "importance": 2,
+      "markets": [],
+      "rank": 19,
+      "rankWhy": "Rising political violence before Nigeria's 2027 elections matters for Africa's most populous country, though this incident is disputed.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "Legit.ng",
+          "url": "https://www.legit.ng/politics/1741290-tinubus-convoy-presidency-reacts-alleged-attack-friday-prayers-abuja/"
+        },
+        {
+          "name": "Naija News",
+          "url": "https://www.naijanews.com/2026/11/14/top-nigerian-newspaper-headlines-for-14th-november-2026/"
+        },
+        {
+          "name": "ICIR",
+          "url": "https://www.icirnigeria.org/nigerians-chant-we-reject-you-throw-stones-at-tinubus-convoy-in-abuja/"
+        }
+      ],
+      "terms": [
+        "Political violence"
+      ],
+      "title": "Videos appear to show stones thrown at President Tinubu's convoy in Abuja; his aide calls them misleading",
+      "what": "Footage shared by opposition politician Dino Melaye appeared to show young men throwing stones at a convoy said to be President Bola Tinubu's after Friday prayers at a mosque in Abuja, with voices chanting a Hausa phrase meaning 'we don't want you', Legit.ng reported. Presidential aide O'tega Ogra called the videos misleading, blamed opposition actors and released a video showing supporters greeting Tinubu. In a statement on Friday, Tinubu ordered security agencies to crack down on political thuggery and violence ahead of the 2027 elections, Naija News reported.",
+      "why": "Nigeria votes in early 2027 (the electoral commission has set governorship polls for 6 February 2027, according to a court case reported by Naija News), and campaigning has been marked by clashes between rival supporters. Neither side's footage has been independently verified."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Travellers to Paris should expect closed metro stations and road disruption on Saturday.",
+      "id": "paris-protests",
+      "importance": 2,
+      "markets": [],
+      "rank": 20,
+      "rankWhy": "Tens of thousands are expected to march in Paris over living costs, policing and children's rights, six months before France's presidential election.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Sortiraparis",
+          "url": "https://sortiraparis.com/en/news/in-paris/articles/358040-november-14-demonstrations-in-paris-who-is-marching-where-and-when-le-point"
+        }
+      ],
+      "terms": [
+        "Yellow Vests (gilets jaunes)"
+      ],
+      "title": "Paris braces for marches on cost of living, a police weapons bill and children's rights; another march calls for an AI treaty",
+      "what": "Several groups plan to march in Paris on Saturday 14 November, Sortiraparis reported: a 'Yellow Vests' coordination protesting the rising cost of living, a children's-rights movement, and opponents of a bill that would presume police officers use their weapons lawfully, joined by unions including the CGT, FSU and FO, on a route from Place de la République to Place de la Nation. A separate march organised by Pause IA and Stop The AI Race calls for an international treaty on artificial intelligence. A police intelligence memo expected 30,000–60,000 people, and 21 metro stations were to be closed.",
+      "why": "The children's-rights movement explicitly links its march to the presidential election six months away, Sortiraparis reported; with the campaign approaching, groups are trying to push their causes onto the agenda."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "A reminder that weather services increasingly warn about impacts (flooded roads, power cuts), not just rainfall totals.",
+      "id": "south-africa-storms",
+      "importance": 2,
+      "markets": [],
+      "rank": 21,
+      "rankWhy": "Severe storm warnings cover several South African provinces, including the Gauteng economic hub, with risks of floods and power cuts.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "The Citizen",
+          "url": "https://citizen.co.za/news/south-africa/weather/weather-forecast-14-november-2026"
+        }
+      ],
+      "terms": [
+        "Impact-based warning"
+      ],
+      "title": "South Africa issues an orange level 5 warning for severe thunderstorms and flooding in parts of three provinces",
+      "what": "The South African Weather Service issued an orange level 5 impact-based warning for severe thunderstorms on Saturday, covering the far eastern Free State, western KwaZulu-Natal and the Mpumalanga Highveld, with risks of flooded roads and settlements and disruption to power and communications, The Citizen reported. Lower-level yellow warnings cover Gauteng, parts of North West, Limpopo and Mpumalanga, while extremely high fire danger is expected in the Northern Cape and parts of the Western Cape.",
+      "why": "Impact-based warnings rate both how likely a hazard is and how much damage it could do; level 5 on the orange tier signals significant expected impacts."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "As a NATO member, Türkiye's new commitments in the Middle East could affect how the alliance works, which matters to Poland's security.",
+      "id": "turkey-mecca-pact",
+      "importance": 2,
+      "markets": [
+        "Turkish defence industry"
+      ],
+      "rank": 22,
+      "rankWhy": "A joint defence pact linking Türkiye, Saudi Arabia and Pakistan, a nuclear power, reshapes security ties in a region at war.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Anadolu morning briefing (via US Muslims)",
+          "url": "https://www.usmuslims.com/morning-briefing-nov-14-2026-381639h.htm"
+        }
+      ],
+      "terms": [
+        "Mutual defence pact"
+      ],
+      "title": "Türkiye's law ratifying a joint defence agreement with Saudi Arabia and Pakistan takes effect; it also signs a defence pact with Qatar",
+      "what": "The law ratifying the 'Mecca Agreement for Joint Defense' with Pakistan and Saudi Arabia took effect on its publication in Türkiye's Official Gazette, after parliament approved it 279–119 on 5 November, Anadolu reported. Separately, Türkiye and Qatar signed five agreements in Istanbul, including a mutual defence pact signed by President Recep Tayyip Erdoğan and Emir Sheikh Tamim bin Hamad Al Thani.",
+      "why": "A mutual defence pact commits each member to treat an attack on one as an attack on all. The pacts come as Gulf states face Iranian and Houthi attacks during the Iran war, Anadolu's coverage noted; Pakistan, one of the parties to the Mecca agreement, possesses nuclear weapons."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Little direct effect in Europe, but such cases test cooperation between Lebanon, Syria and Iraq.",
+      "id": "lebanon-iraq-mp",
+      "importance": 2,
+      "markets": [],
+      "rank": 23,
+      "rankWhy": "The killing of a prominent Iraqi critic of Iranian influence in Beirut touches sensitive regional rivalries.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects"
+        }
+      ],
+      "terms": [
+        "Extradition"
+      ],
+      "title": "Lebanon asks Syria to hand over two suspects in the killing of former Iraqi MP Ahmed al-Alwani in Beirut",
+      "what": "Lebanese authorities asked Syria to extradite two Syrian nationals suspected of killing former Iraqi lawmaker Ahmed al-Alwani, whose body was found on Tuesday in a Beirut apartment, Al Jazeera reported on Friday. A judicial source said preliminary findings indicate he was strangled; a Lebanese national has been arrested, and early inquiries reportedly point to a financial motive. Al-Alwani, a Sunni politician from Ramadi and a critic of Iranian influence in Iraq, had been released in 2025 after more than a decade in prison.",
+      "why": "Investigators have not established who was behind the killing; Iraq's president called for a swift investigation."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Drivers should allow extra time on Sunday morning; it is also a reminder to switch to winter tyres.",
+      "id": "poland-weather-frost",
+      "importance": 1,
+      "markets": [],
+      "rank": 24,
+      "rankWhy": "A cold night with freezing fog and slippery roads affects drivers across Poland.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Dziennik.pl (IMGW forecast)",
+          "url": "https://pogoda.dziennik.pl/aktualnosci/artykuly/11344316,zacznie-sie-od-przelotnego-deszczu-ze-sniegiem-a-noca-chwyci-mroz-imgw-podal-najnowsza-prognoze-na-sobote-14-listopada.html"
+        }
+      ],
+      "terms": [],
+      "title": "IMGW forecasts sleet in places and the first widespread night frost, with freezing fog and slippery roads",
+      "what": "Poland's weather service IMGW forecast a cloudy Saturday with brief rain and, locally, sleet and snow pellets, with highs of 5–7°C (6°C in Warsaw), Dziennik.pl reported. Overnight into Sunday, temperatures were forecast to fall to about 0°C in most of the country and locally to −1 or −2°C, with dense freezing fog and hoarfrost making roads slippery.",
+      "why": "A low-pressure system over the central Baltic is bringing colder air, and clearing skies at night let heat escape, IMGW said."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Shows how police use of force is checked by prosecutors.",
+      "id": "krakow-police-complaint",
+      "importance": 1,
+      "markets": [],
+      "rank": 25,
+      "rankWhy": "A legal check on police use of firearms matters mostly to those involved.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "TVN24",
+          "url": "https://tvn24.pl/polska/szesc-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-14-listopada-2026-roku-st9338640"
+        }
+      ],
+      "terms": [],
+      "title": "Complaint filed over police use of a weapon to stop the Kraków attacker; prosecutors see no misconduct",
+      "what": "A complaint was filed with prosecutors asking them to examine whether police lawfully used a weapon against the attacker in the recent Kraków attack, TVN24 reported. Prosecutor Eryk Stasielak said it would be processed but no investigation was opened because prosecutors found no police misconduct, and Małopolska Voivode Krzysztof Klęczar praised the officers.",
+      "why": "In Poland, any use of firearms by police can be reviewed by prosecutors, and citizens may file complaints that must be formally examined."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Polish sports bodies face similar choices if Russian teams return to competitions.",
+      "id": "czech-hockey-russia",
+      "importance": 1,
+      "markets": [],
+      "rank": 26,
+      "rankWhy": "A sports-policy decision with symbolic weight but little wider effect.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Anadolu morning briefing (via US Muslims)",
+          "url": "https://www.usmuslims.com/morning-briefing-nov-14-2026-381639h.htm"
+        }
+      ],
+      "terms": [
+        "Court of Arbitration for Sport (CAS)"
+      ],
+      "title": "Czech government will not ban national teams from playing Russia; hockey federation says it will refuse anyway",
+      "what": "Czech Sports Minister Boris Šťastný said the government will not legislate to stop Czech national teams from playing Russia, citing the autonomy of sports federations, Anadolu reported. The Czech Ice Hockey Federation had said its teams would not face Russia after a Court of Arbitration for Sport ruling allowed Russian teams back into international championships; several other European hockey associations made similar decisions.",
+      "why": "Governments generally leave decisions on fixtures to independent sports bodies, which are bound by international federation rules."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Of interest to Catholics worldwide, including in Poland.",
+      "id": "pope-leo-peru",
+      "importance": 1,
+      "markets": [],
+      "rank": 27,
+      "rankWhy": "A papal visit draws large crowds but has limited measurable effect beyond Peru.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "The Rio Times",
+          "url": "https://www.riotimesonline.com/latin-american-pulse-for-saturday-november-14-2026/"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-morning"
+        }
+      ],
+      "terms": [],
+      "title": "Pope Leo XIV returns to Chiclayo, where he once served, during his visit to Peru",
+      "what": "Pope Leo XIV returned to the northern Peruvian city of Chiclayo during a visit to Peru that runs until 16 November, The Rio Times reported, after leading a youth prayer vigil at Lima's National Stadium, Euronews reported.",
+      "why": "The Rio Times described the Chiclayo stop as a return, underlining the pope's personal ties to the city."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Football fans in Poland follow the Premier League closely.",
+      "id": "pochettino-man-utd",
+      "importance": 1,
+      "markets": [
+        "Manchester United shares"
+      ],
+      "rank": 28,
+      "rankWhy": "A high-profile football appointment with little impact beyond sport.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Naija News",
+          "url": "https://www.naijanews.com/2026/11/14/top-nigerian-newspaper-headlines-for-14th-november-2026/"
+        }
+      ],
+      "terms": [],
+      "title": "Manchester United appoint Mauricio Pochettino as head coach, leaving the US national team job",
+      "what": "Manchester United appointed Mauricio Pochettino as head coach on 13 November, a day after Michael Carrick's departure, on a two-and-a-half-year contract, Naija News reported, adding that the club reportedly paid a £7.5 million release clause. Pochettino left his role with the United States national team.",
+      "why": "Clubs that change coaches mid-season hope to turn results around quickly."
+    }
+  ],
+  "watch": [
+    "Sun 15 Nov → Tue 17/Wed 18 Nov: 49th ASEAN summit in Manila (sources differ on the last day); ASEAN leaders meet the US, China, Russia and others on 16–17 Nov (Philstar, Jakarta Post).",
+    "Mon 16 Nov, 14:00 Warsaw: NBP publishes October core inflation for Poland.",
+    "Mon 16 Nov: Trump leaves for his Asia trip (Manila, then Shenzhen) (Anadolu, Reuters via BusinessDay).",
+    "Next week: next round of US–Ukraine–Russia talks in Abu Dhabi, with a European delegation if Moscow accepts (RTÉ).",
+    "Tue 17 Nov, about 22:20 Warsaw: Nvidia quarterly results; conference call at 23:00 Warsaw (2 p.m. PT), its first under interim CEO Colette Kress (Nvidia).",
+    "Wed 18 Nov, 20:00 Warsaw: minutes of the Fed's October meeting (scheduled, FinanceCalendar); KGHM third-quarter results the same day.",
+    "Thu 19 Nov: Trump–Xi–Putin meeting in Shenzhen on the APEC sidelines (White House via AP); Anthropic's shares are due to start trading on Nasdaq (The Next Web).",
+    "Developing: Iranian claims of tankers hitting mines in Hormuz; Houthi claims against Saudi oil facilities; recovery of US flights after Friday's ground stop."
+  ],
+  "window": "Fri 13 Nov 20:00 → Sat 14 Nov 10:00 (Warsaw time)",
+  "id": "2026-11-14-1000",
+  "updatedAt": "2026-11-14T09:15:33.266262Z"
+}

@@ -1,0 +1,263 @@
+{
+  "checkQuestions": [
+    {
+      "a": "Claims raise the perceived risk of using the strait. Shipowners and insurers respond to risk, not just to actual attacks: insurance premiums rise and some owners avoid the route, which raises delivery costs and can reduce flows. If traders believe the probability of disruption has risen, the expected price and the risk premium rise. Because the claim came out on Friday night after Brent had settled, any reaction can only appear when trading resumes; it may be small if traders see it as unconfirmed or already priced in.",
+      "q": "Iran's Revolutionary Guards say tankers hit mines in Hormuz, but nothing is confirmed. Explain why such a claim could matter for oil supply even if no ship was damaged, and why its price effect may only show when markets reopen."
+    },
+    {
+      "a": "A full ban enforced worldwide would have removed millions of barrels from supply; with inelastic demand that would have pushed world prices sharply higher, hurting the sanctioning countries and helping Russia earn more per barrel elsewhere. A cap keeps oil flowing, stabilising world supply, while using control over Western shipping and insurance to cut Russia's revenue per barrel.",
+      "q": "Why did the G7 and EU choose a price cap rather than a full ban on buying Russian oil by third countries?"
+    },
+    {
+      "a": "Higher oil prices raise fuel, transport and production costs, pushing up consumer price inflation. If inflation rises above target and looks persistent, the central bank may raise its policy rate. Higher policy rates raise the money-market reference rates to which variable-rate loans are linked, so instalments rise after the next reset. The chain can be weakened if the central bank judges the shock temporary and looks through it.",
+      "q": "Trace how a rise in oil prices caused by a war could lead to a higher instalment on a variable-rate loan in a country far from the war."
+    },
+    {
+      "a": "Bypasses have limited capacity and are often already partly used, so spare capacity is much smaller than normal chokepoint flows (for example about 3 mb/d spare on the Saudi pipeline versus 20.9 mb/d through Hormuz). They also become targets themselves, as Houthi claims against the East-West pipeline show, and they can only serve producers connected to them.",
+      "q": "Explain why a bypass pipeline can reduce, but rarely remove, the market effect of a chokepoint closure."
+    },
+    {
+      "a": "First, prices reflect expectations: once the risk was known and priced, only new surprises moved prices, and the worst fears did not fully materialise. Second, supply adapted: exports resumed with escorts, other producers raised output (OPEC+ data showed higher October output) and the IEA saw the market returning to surplus, which reduced the shortage and the risk premium.",
+      "q": "Oil twice gave back much of a war spike while the war continued. Give two economic reasons."
+    }
+  ],
+  "createdAt": "2026-11-14T09:08:59Z",
+  "date": "14 Nov 2026",
+  "editionId": "2026-11-14-1000",
+  "intro": "Wars, blockades and sanctions often move prices more than any economic data release, but the mechanism is not magic: they change expected supply, costs and risk. In this lesson you will learn how a threat to a narrow sea lane becomes a higher petrol price, why some sanctions bite and others leak, and why markets sometimes shrug off frightening headlines. By the end you will be able to trace a geopolitical event from a strait in the Gulf to an invoice in Poland, and to calculate simple shares, risk premiums and price-cap levels yourself.",
+  "lessonQuiz": [
+    {
+      "answer": 1,
+      "explain": "Expected price = 0.2 × 120 + 0.8 × 85 = 24 + 68 = $92, i.e. $7 above $85. Prices include probabilities, not only events that have already happened.",
+      "options": [
+        "$35",
+        "$7",
+        "$20",
+        "$0, because the blockade has not happened yet"
+      ],
+      "q": "Traders see a 20% chance that a blockade pushes oil to $120 and an 80% chance it stays at $85 (hypothetical). Roughly what risk premium over $85 is implied by the expected price?"
+    },
+    {
+      "answer": 3,
+      "explain": "20.9 ÷ 104.4 ≈ 20% of supply; 20.9 ÷ 79.8 ≈ 26% of seaborne oil. Malacca carried more (23.2 mb/d).",
+      "options": [
+        "Hormuz carried about 26% of world supply and 20% of seaborne trade",
+        "Hormuz carried about 76% of seaborne trade",
+        "Hormuz carried more oil than the Strait of Malacca",
+        "Hormuz carried about 20% of world supply and 26% of seaborne trade"
+      ],
+      "q": "According to EIA data for 1H 2025, about 20.9 mb/d passed through Hormuz out of 104.4 mb/d of world supply and 79.8 mb/d of seaborne trade. Which statement is correct?"
+    },
+    {
+      "answer": 2,
+      "explain": "Demand must fall 1.5%; with elasticity −0.1 the price must rise 1.5% ÷ 0.1 = 15%. Inelastic demand turns small supply losses into large price moves.",
+      "options": [
+        "About 1.5%",
+        "About 0.15%",
+        "About 15%",
+        "About 150%"
+      ],
+      "q": "A disruption removes 1.5 mb/d from world supply of 100 mb/d, and the short-run demand elasticity is −0.1 (hypothetical). By roughly how much must the price rise to balance the market?"
+    },
+    {
+      "answer": 0,
+      "explain": "The cap uses control over Western services as leverage; oil still flows, so world supply is kept, but Russia's price per barrel is pushed down where those services are used.",
+      "options": [
+        "It allows Western shipping and insurance only for Russian oil sold at or below the cap, so oil keeps flowing at a lower price to Russia",
+        "It sets a legal maximum price for all crude worldwide",
+        "It bans all purchases of Russian oil by any country",
+        "It forces Russia to sell oil only to the EU"
+      ],
+      "q": "Why can the EU's price cap cut Russia's revenue without removing Russian oil from the world market?"
+    },
+    {
+      "answer": 0,
+      "explain": "0.85 × 70 = $59.50. The formula keeps the cap a fixed percentage below the market average.",
+      "options": [
+        "$59.50",
+        "$80.50",
+        "$55.00",
+        "$63.00"
+      ],
+      "q": "The EU's dynamic cap is set 15% below the average Urals price. If Urals averaged $70 (hypothetical), what would the cap be?"
+    },
+    {
+      "answer": 3,
+      "explain": "The cap binds only where Western services are used; a shadow fleet avoids them, which is why the EU sanctions the vessels themselves (673 after the 21st package).",
+      "options": [
+        "A rise in OPEC+ output",
+        "A fall in the US dollar",
+        "Higher euro-area interest rates",
+        "Tankers with non-Western insurance and opaque ownership carrying Russian oil (a 'shadow fleet')"
+      ],
+      "q": "Which development most directly weakens the price cap?"
+    },
+    {
+      "answer": 1,
+      "explain": "95.84 − 72.40 = $23.44; 23.44 ÷ 72.40 ≈ 0.324, about 32.4%. The percentage uses the starting price as the base.",
+      "options": [
+        "$23.44, about 24.5%",
+        "$23.44, about 32.4%",
+        "$22.16, about 30.6%",
+        "$95.84, about 132%"
+      ],
+      "q": "Brent settled at $72.40 the day before the 2026 war and at $95.84 on 13 November. What was the rise in dollars and in percent?"
+    },
+    {
+      "answer": 2,
+      "explain": "Only the spare 7 − 4 = 3 mb/d can be added, so 20.9 − 3 = 17.9 mb/d would be stranded in this simplified case.",
+      "options": [
+        "13.9 mb/d",
+        "3 mb/d",
+        "17.9 mb/d",
+        "20.9 mb/d"
+      ],
+      "q": "Saudi Arabia's East-West pipeline has about 7 mb/d capacity and carries about 4 mb/d. If Hormuz (20.9 mb/d) closed and this were the only bypass, how much oil would be stranded (hypothetical)?"
+    },
+    {
+      "answer": 1,
+      "explain": "Supply shocks push prices up and output down. Tightening curbs inflation but deepens the slowdown; easing supports growth but risks entrenching inflation.",
+      "options": [
+        "Because higher energy prices lower inflation and raise growth at the same time",
+        "Because a supply shock raises inflation while slowing growth, so higher rates fight one problem but worsen the other",
+        "Because central banks set oil prices directly",
+        "Because interest rates have no effect on inflation"
+      ],
+      "q": "A war pushes energy prices up sharply. Why does this create a dilemma for a central bank (Lesson 7)?"
+    },
+    {
+      "answer": 3,
+      "explain": "Gold pays no interest; when yields rise (the US 10-year near 5.15%), holding gold costs more in forgone interest, which can outweigh demand for safety.",
+      "options": [
+        "Gold never reacts to fear",
+        "Central banks banned gold trading",
+        "Oil and gold always move in opposite directions",
+        "Rising interest rates increased the opportunity cost of holding non-interest-paying gold, outweighing safe-haven demand"
+      ],
+      "q": "In late 2026 wars continued, yet gold fell about 14% over six months. Which explanation fits Lesson 12 best?"
+    },
+    {
+      "answer": 0,
+      "explain": "Oil is traded in dollars; if USD/PLN rises (it was about 3.99 on Friday), each barrel costs more in złoty, which feeds into pump prices.",
+      "options": [
+        "Because oil is priced in dollars, so more złoty are needed to buy the same barrel",
+        "Because Poland pays for oil in euros only",
+        "Because a strong dollar raises world oil supply",
+        "Because US rates set Polish fuel taxes"
+      ],
+      "q": "Why do higher US interest rates and a stronger dollar tend to make oil more expensive for a Polish driver, even if the dollar price of oil is unchanged (Lesson 16)?"
+    },
+    {
+      "answer": 2,
+      "explain": "Mainstream research finds real costs for targets but limited success in changing core policies; coalition size and enforcement matter.",
+      "options": [
+        "Economists agree sanctions always change a target's policy within a year",
+        "Economists agree sanctions never have any effect",
+        "Sanctions usually raise costs and slow the target, but their effectiveness is debated and depends on how many countries join and how well they are enforced",
+        "Sanctions only affect the countries imposing them"
+      ],
+      "q": "Which statement best describes the evidence on sanctions?"
+    }
+  ],
+  "level": "Core",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "If a strait carries 20% of the world's oil, closing it raises oil prices by about 20%.",
+      "truth": "Because short-run demand is very inelastic, the price must rise by much more than the share of supply lost to ration the remaining oil; in 2026 Brent rose about 74% from its pre-war level to the April peak."
+    },
+    {
+      "myth": "Sanctions stop trade with the target country.",
+      "truth": "Most sanctions raise costs and redirect trade rather than stop it; Russian oil still flows, but through a shadow fleet and new buyers, which is why the EU keeps sanctioning more ships and firms."
+    },
+    {
+      "myth": "The oil price cap is a maximum price set on the world oil market.",
+      "truth": "It only limits the price at which Western firms may provide services such as shipping and insurance for Russian crude; world prices are set by supply and demand, and oil moved without Western services is not directly bound."
+    },
+    {
+      "myth": "A bigger human tragedy always means a bigger market reaction.",
+      "truth": "Markets react to surprises in supply, costs and risk to the things they price; some devastating wars barely move markets, while a threat to a key shipping lane can move them a lot."
+    },
+    {
+      "myth": "In a crisis, gold always rises.",
+      "truth": "Gold competes with interest-paying assets; when interest rates and the dollar rise, as in late 2026, gold can fall even while wars continue."
+    }
+  ],
+  "number": 20,
+  "objectives": [
+    "Explain how a geopolitical threat creates a 'risk premium' in a commodity price using expected values.",
+    "Calculate the share of world oil supply that passes through a chokepoint from EIA data and explain why bypass routes rarely fill the gap.",
+    "Explain the main sanctions tools (asset freezes, export controls, financial-messaging bans, price caps, secondary sanctions) and the leverage each relies on.",
+    "Calculate a dynamic oil price cap set a fixed percentage below a market average.",
+    "Trace a supply shock through inflation, central-bank decisions, currencies and household budgets, including in Poland.",
+    "Identify why sanctions and blockades leak and why markets often 'fade' geopolitical shocks."
+  ],
+  "recap": "Lesson 19 showed that gas is a regional market because moving it requires pipelines or scarce LNG ships, and that power prices are set by the marginal (most expensive) plant needed. Lesson 11 explained why oil demand reacts very little to price in the short run, and Lesson 12 showed why investors flee to safe havens in times of fear. Today we put these together: geopolitics matters for markets mainly because it threatens the physical routes and the legal permissions that energy and goods need to move.",
+  "sections": [
+    {
+      "body": "Geopolitics is the way geography, military power and state rivalry shape relations between countries. For markets it matters through three channels. First, physical supply: a war or blockade can stop oil, grain or chips from reaching buyers (Lesson 2: a leftward shift of the supply curve raises the price). Second, cost: even when goods still flow, insurers charge more, ships take longer routes and firms pay to comply with rules, which raises the cost of each unit delivered. Third, risk: traders price not only what has happened but what might happen. If there is a 10% chance that a disruption pushes oil to $130 and a 90% chance it stays at $90 (hypothetical numbers), the expected price is 0.1 × 130 + 0.9 × 90 = $94, so a rational buyer will already pay about $4 more than the 'no-war' price; that extra is called a geopolitical risk premium. Because the premium depends on probabilities, it can rise or fall on words alone, which is why a statement by Iran's Revolutionary Guards or a White House announcement can move prices before a single barrel is lost. The simplification here is that real traders do not agree on the probabilities and some are risk-averse, so actual premiums can be larger or smaller than a neat expected-value calculation suggests.",
+      "heading": "1. Why geopolitics moves prices: supply, cost and risk"
+    },
+    {
+      "body": "A chokepoint is a narrow passage, such as a strait or canal, through which a large share of trade must pass. The US Energy Information Administration (EIA, data updated 3 March 2026) estimates that in the first half of 2025 the Strait of Malacca carried 23.2 million barrels a day (mb/d) of oil, the Strait of Hormuz 20.9 mb/d, the Suez Canal and SUMED pipeline 4.9 mb/d, the Danish Straits 4.9 mb/d, Bab el-Mandeb 4.2 mb/d and the Turkish Straits 3.7 mb/d. World oil supply was 104.4 mb/d, of which 79.8 mb/d, about 76%, moved by sea. Dividing 20.9 by 104.4 shows that roughly a fifth of all the oil the world uses passed through Hormuz, and about a quarter of seaborne oil (20.9 ÷ 79.8 ≈ 26%). The danger of a chokepoint is not just its volume but the lack of alternatives: Malacca carries even more oil, but ships can divert through other Indonesian straits at extra cost, whereas the Gulf producers have few ways out other than Hormuz. Notice also that the Danish Straits matter for the Baltic, including Polish and Russian ports, so chokepoints are not only a faraway problem.",
+      "heading": "2. Chokepoints: when geography concentrates risk"
+    },
+    {
+      "body": "The war that began on 28 February 2026 with US–Israeli strikes on Iran turned this textbook risk into reality: Iran tried to control which ships could pass the strait and the US imposed a naval blockade on Iranian ports, according to AFP and other wire reports. Brent crude settled at $72.40 a barrel on 27 February, the day before the strikes (Rigzone), touched $126 on 30 April, a rise of about 74%, then fell back to pre-war levels by early July ($70.82 on 2 July, Al Jazeera). It then climbed again for four months to about $118 on 31 October, its highest since April, as traders braced for escalation after the US midterms (Dawn); on Friday 13 November it settled at $95.84, still about 32% above the pre-war level. Why so violent? Lesson 11 showed that short-run oil demand is very inelastic: people still need to drive to work and planes still fly, so a small cut in supply forces a large price rise before enough buyers give up. Bypass routes help only partly: Saudi Arabia's East-West pipeline to the Red Sea port of Yanbu has a design capacity of about 7 mb/d and was carrying about 4 mb/d, House of Saud reported, which leaves at most about 3 mb/d of spare room in the pipe against Hormuz's normal 20.9 mb/d; in practice the loading capacity of the Yanbu export terminals is a further limit, so usable spare capacity is likely smaller still. And bypasses become targets themselves: Yemen's Houthis have claimed attacks on that very pipeline this month. The swings since then show the other side of the story: as Gulf exports recovered under US escort and output rose elsewhere, the International Energy Agency said the market was returning to surplus, and the risk premium shrank from its October high.",
+      "heading": "3. Hormuz in 2026: a live case study"
+    },
+    {
+      "body": "Sanctions are restrictions a government or group of governments places on trade or finance with a country, company or person to change behaviour or weaken capabilities without fighting. The main tools are: asset freezes (money held in your banks is blocked), export controls (bans on selling certain goods or technologies, such as advanced chips or metal powders), import bans, financial-messaging bans (cutting banks off from systems such as SWIFT that send payment instructions), travel bans and 'secondary sanctions', which punish third-country firms that deal with the target. Sanctions work through leverage: they are strongest where the sanctioning side controls something the target cannot easily replace, such as the US dollar payment system (Lesson 16), Western insurance and shipping services, or specialised machinery. The EU has adopted 21 packages against Russia; the 21st, adopted on 23 July 2026, put more than 100 Russian banks under transaction bans, added 41 vessels to the 632 already sanctioned and made 218 new listings, according to the European Commission, and EU leaders said this week a 22nd package will soon be proposed. A key limit: sanctions impose costs on the sender too, and they need unanimity among EU member states, which makes every package a negotiation.",
+      "heading": "4. Sanctions: what they are and where their power comes from"
+    },
+    {
+      "body": "A full embargo on Russian oil would have removed millions of barrels from the market and could have sent prices soaring for everyone, including the countries imposing it. The G7 and EU therefore chose a cleverer design in 2022: Russian crude may still be sold to third countries, but Western firms may only provide services such as shipping and insurance if it is sold at or below a capped price. The idea is to keep the oil flowing (so world supply and prices are stable) while cutting Russia's revenue per barrel. In 2025 the EU introduced a dynamic mechanism that resets the cap every six months to 15% below the average market price of Russia's Urals crude; this set the cap at $44.10 a barrel in early 2026 (European Commission). Calculation: if Urals averaged $60, the cap would be 0.85 × 60 = $51. When the Iran war pushed oil prices up, the formula threatened to raise the cap sharply, so in July 2026 the EU suspended the automatic adjustment for a year, until July 2027. The price cap is a good example of how the design of a sanction matters as much as its strength, and also of its weakness: it only binds where Western services are used.",
+      "heading": "5. The oil price cap: sanctioning a price instead of a volume"
+    },
+    {
+      "body": "No sanction is airtight, because every restriction creates a profit opportunity for someone willing to work around it. Russia built a 'shadow fleet' of older tankers with opaque ownership and non-Western insurance, so its oil could move without the services the price cap controls; the EU's response has been to sanction the ships themselves, reaching 673 vessels after the 21st package. Trade can also be routed through third countries, and goods can be relabelled. Economists disagree about how effective sanctions are: supporters point to higher costs, lost technology and reduced revenue for the target, while sceptics note that targets often adapt and that sanctions rarely change a government's core policies on their own. A balanced reading is that sanctions usually raise costs and slow a country down rather than stop it, and their effect depends on how many countries join and how well they are enforced. The same logic applies to blockades and attacks at sea: Iran's claims this week that 'unauthorised' tankers hit mines are partly a message to shipowners, since raising perceived risk can deter traffic even without many actual attacks.",
+      "heading": "6. Why sanctions and blockades leak"
+    },
+    {
+      "body": "A supply shock travels through the economy in a predictable chain. Oil and gas prices rise, which raises fuel, transport and electricity costs (Lesson 19), which pushes up consumer prices (Lesson 6): Eurostat's flash estimate put euro-area inflation at 4.0% in October 2026, with energy prices up 20.8% on a year earlier. Central banks then face a dilemma (Lesson 7): a supply shock both raises inflation and slows growth, so raising rates fights the first but worsens the second. In the US, persistent inflation has led markets to price a December Federal Reserve rate rise, pushing the 10-year Treasury yield to about 5.15%, and a stronger dollar (Lesson 16) makes dollar-priced oil even dearer in złoty. Safe havens react too, though not always as expected: gold (Lesson 12) has fallen about 14% over six months because rising bond yields and a stronger dollar have outweighed fear. Finally, wars must be paid for, usually by government borrowing (Lessons 8 and 14): the EU agreed a €90 billion loan for Ukraine and Ukraine still faces an estimated €70 billion gap for 2027, RTÉ reported, which means more bond issuance in Europe.",
+      "heading": "7. From a strait to a household: the transmission chain"
+    },
+    {
+      "body": "If geopolitics were all-powerful, markets would collapse with every crisis, yet US stock indices hit records during this war and oil twice gave back much of its spike. Three reasons explain this. First, markets price expectations, so once a risk is known and priced, only new surprises move prices; a fresh incident that matches what traders already feared may barely register: on Friday 13 November, a day after the US shot down Iranian drones heading for Bahrain, Brent settled almost unchanged as traders focused on signs of a supply surplus. Second, supply adapts: producers elsewhere pump more, ships re-route, and strategic stocks are released, which over months weakens the original shock. Third, the shock's size matters more than its noise: a war in a country that produces little of anything the world needs may be a human tragedy with little market effect. This is a crucial lesson for reading news: the importance of an event for markets and its importance for people are related but not the same, which is exactly why this app ranks social impact alongside market impact.",
+      "heading": "8. Limits: why markets often shrug"
+    }
+  ],
+  "takeaways": [
+    "Geopolitics moves markets through three channels: physical supply, costs (insurance, longer routes, compliance) and risk; the risk premium is roughly the probability-weighted extra price traders pay.",
+    "Chokepoints concentrate risk: in 1H 2025 Hormuz carried 20.9 mb/d, about 20% of world oil supply and 26% of seaborne oil (EIA); bypasses such as Saudi Arabia's 7 mb/d East-West pipeline cannot replace it.",
+    "Because short-run oil demand is inelastic, small supply losses cause large price swings: Brent went from $72.40 before the war to $126 in two months of 2026, fell back, spiked again to about $118 in October and was $95.84 on 13 November.",
+    "Sanctions work through leverage over things the target cannot easily replace (dollar payments, insurance, technology); they raise costs and leak through shadow fleets and third countries, so the EU keeps adding packages (21 so far; 673 vessels listed).",
+    "The EU's oil price cap limits Western services, not world prices; its dynamic formula (15% below Urals average) set it at $44.10 in early 2026, and automatic adjustment is suspended until July 2027.",
+    "Supply shocks feed inflation and put central banks in a dilemma; markets react to surprises, not to headlines they have already priced."
+  ],
+  "title": "Geopolitics: wars, sanctions and chokepoints",
+  "todayExample": "This edition shows several channels at once. Brent settled almost unchanged at $95.84 on Friday, with Reuters pointing to signs of a supply surplus; only afterwards, on Friday night Iran time, did the Revolutionary Guards claim two tankers hit mines in the Strait of Hormuz, so the market's reaction to that unconfirmed claim will only show when trading resumes. Yemen's Houthis claimed drone strikes on a pumping station of Saudi Arabia's East-West pipeline, the main route that bypasses Hormuz. In Europe, Poland joined the 'E5' team for Ukraine talks and EU leaders said a 22nd sanctions package against Russia will soon be proposed. And the planned Trump–Xi–Putin meeting in Shenzhen shows how decisions by a few powers can shift the risks that markets price.",
+  "workedExamples": [
+    {
+      "problem": "Using EIA data (updated 3 March 2026): in the first half of 2025, 20.9 mb/d of oil passed through the Strait of Hormuz, world oil supply was 104.4 mb/d and seaborne oil trade was 79.8 mb/d. What share of world supply and of seaborne trade passed through Hormuz, and what share of world oil moved by sea?",
+      "solution": "Share of world supply = 20.9 ÷ 104.4 = 0.2002 ≈ 20.0%. Share of seaborne trade = 20.9 ÷ 79.8 = 0.2619 ≈ 26.2%. Seaborne share of world supply = 79.8 ÷ 104.4 = 0.7644 ≈ 76.4%. Interpretation: about one barrel in five that the world uses, and about one in four carried by ship, passed through a strait only a few dozen kilometres wide, which is why any threat there moves global prices.",
+      "title": "How much of the world's oil goes through Hormuz?"
+    },
+    {
+      "problem": "House of Saud reported that Saudi Arabia's East-West pipeline has a design capacity of about 7 mb/d and was carrying about 4 mb/d. Suppose (hypothetically) that Hormuz were fully closed and this spare capacity were the only bypass. How much oil would still be missing, as a share of world supply (104.4 mb/d)?",
+      "solution": "Spare capacity = 7 − 4 = 3 mb/d. Missing oil = 20.9 − 3 = 17.9 mb/d. Share of world supply = 17.9 ÷ 104.4 = 0.1715 ≈ 17.1%. Interpretation: even with the pipeline running flat out, roughly a sixth of world supply would be lost in this simplified scenario. In reality the UAE also has a bypass pipeline and countries hold emergency stocks, so the true gap would be smaller; on the other hand, the Yanbu export terminals may not be able to load the full extra 3 mb/d, which would make the gap larger. Either way, the calculation shows why bypasses cannot fully replace a major chokepoint.",
+      "title": "Can a bypass pipeline replace Hormuz?"
+    },
+    {
+      "problem": "Suppose (hypothetical numbers) a disruption removes 2 mb/d from world supply of 104.4 mb/d, and the short-run price elasticity of oil demand is −0.1 (a 1% price rise cuts demand by 0.1%). Using the elasticity formula from Lesson 2, roughly how much must the price rise to cut demand by the missing amount?",
+      "solution": "Supply loss as a share = 2 ÷ 104.4 = 0.0192 ≈ 1.92%. Demand must fall by 1.92%. With elasticity −0.1: required price change = 1.92% ÷ 0.1 = 19.2%. Interpretation: losing less than 2% of supply could raise the price by about a fifth. Limits: this linear approximation works only for small changes; for big losses (like the 17% in the previous example) the formula would give absurd numbers, and in reality stock releases, extra production and demand destruction would kick in.",
+      "title": "Turning a small supply loss into a big price move"
+    },
+    {
+      "problem": "(a) The EU's dynamic cap is set 15% below the average Urals price. If Urals averages $60 (hypothetical), what is the cap? What average price is consistent with the actual cap of $44.10 set in early 2026 (European Commission)? (b) Brent settled at $72.40 on 27 February 2026, the day before the war (Rigzone), touched $126 on 30 April, reached about $118 on 31 October (Dawn) and settled at $95.84 on 13 November 2026 (Reuters via FinanceFeeds). Calculate the rise from pre-war to the April peak, the rise from pre-war to now, and the fall from the October high to now.",
+      "solution": "(a) Cap = 0.85 × 60 = $51.00. Average consistent with $44.10: 44.10 ÷ 0.85 = $51.88. (In practice the EU averages Urals over a rolling period, so the cap lags market moves.) (b) Pre-war to April peak: (126 − 72.40) ÷ 72.40 = 0.740 ≈ +74.0%. Pre-war to now: (95.84 − 72.40) ÷ 72.40 = 0.324 ≈ +32.4%, i.e. $23.44 a barrel higher. October high to now: (95.84 − 118) ÷ 118 = −0.188 ≈ −18.8%, i.e. $22.16 lower. Interpretation: oil has spiked twice during the war and fallen back each time, but it still costs roughly a third more than before the war.",
+      "title": "Calculating a dynamic price cap and the war premium in Brent"
+    }
+  ],
+  "updatedAt": "2026-11-14T09:15:22.857296Z"
+}
