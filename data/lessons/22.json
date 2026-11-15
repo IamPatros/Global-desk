@@ -1,0 +1,263 @@
+{
+  "checkQuestions": [
+    {
+      "a": "Granting the loan adds a loan to the bank's assets and a new deposit to its liabilities; no other deposit falls, so total deposits and broad money rise. If the borrower spends the money, the deposit moves to another account but still exists. Repayment debits the borrower's deposit and reduces the loan by the same amount, so both disappear and broad money falls.",
+      "q": "Explain, step by step, why total deposits in Poland rise when a bank grants a consumer loan, and why they fall when the loan is repaid."
+    },
+    {
+      "a": "Each payment to another bank is settled by moving reserves from Bank A to the receiving bank, so Bank A's reserves fall. To keep enough for payments and any reserve requirement, it must borrow reserves from other banks or the central bank at an interest rate close to the policy rate, or attract deposits from other banks' customers by offering higher deposit rates. Both raise its funding cost, which is one reason a bank cannot expand lending much faster than its competitors.",
+      "q": "Bank A lends heavily and its customers pay people who bank elsewhere. Trace what happens to Bank A's reserves and how it can respond."
+    },
+    {
+      "a": "A higher reference rate raises banks' cost of reserves and interbank funding (and benchmarks such as POLSTR and WIBOR), so banks raise loan rates. Higher loan rates reduce households' and firms' demand for credit and make some borrowers less creditworthy, so fewer new loans are made, while repayments continue. Since new loans create deposits and repayments destroy them, slower lending means slower growth of deposits and broad money.",
+      "q": "Why does a rise in the NBP reference rate tend to slow money growth? Give the cause→effect chain."
+    },
+    {
+      "a": "With assets of 12.5 times equity, losses of 8% of assets destroy all equity, and even smaller losses push capital ratios below required levels, forcing the bank to cut lending, stop dividends or raise new equity. Capital rules require minimum CET1 relative to risk-weighted assets, plus buffers, so that owners have more to lose before depositors are hurt and so riskier loans require more capital.",
+      "q": "Using leverage, explain why a loss equal to only a few percent of a bank's assets can threaten its survival, and how capital rules address this."
+    },
+    {
+      "a": "A run happens when depositors fear others will withdraw first and leave nothing. If deposits up to €100,000 are guaranteed (as by Poland's BFG) and repaid within days, most depositors have no reason to rush, so the self-fulfilling panic is less likely. The side-effect is moral hazard: insured depositors have less reason to monitor or punish risky banks, which is one reason supervisors and capital rules are still needed.",
+      "q": "Why do deposit guarantees reduce the risk of bank runs, and what side-effect do economists worry about?"
+    }
+  ],
+  "createdAt": "2026-11-15T19:07:09Z",
+  "date": "15 Nov 2026",
+  "editionId": "2026-11-15-2000",
+  "intro": "Most of the money you use is not banknotes printed by the central bank: it is numbers in bank accounts, and most of those numbers were created when a bank made a loan. In this lesson you will learn to read a bank's balance sheet, follow a loan step by step through 'T-accounts', and see why lending creates deposits rather than simply passing savers' money on. You will then study what limits this process (profitability, borrowers' demand, capital rules, liquidity and the central bank's interest rate) and why banks are fragile. By the end you will be able to calculate a capital ratio, a net interest margin and a bank's leverage, and explain Poland's money supply figures.",
+  "lessonQuiz": [
+    {
+      "answer": 2,
+      "explain": "The loan (asset) and the deposit (liability) are created together; no other deposit falls, so broad money rises by exactly the new deposit.",
+      "options": [
+        "Nothing, because the bank only moved another saver's money",
+        "It falls by 200,000 zł, because the bank's cash fell",
+        "It rises by 200,000 zł, because a new deposit was created",
+        "It rises by 200,000 zł times the money multiplier"
+      ],
+      "q": "A bank grants a 200,000 zł car loan and credits it to the borrower's current account. What happens to broad money at that moment?"
+    },
+    {
+      "answer": 0,
+      "explain": "Repayment cancels a liability (deposit) against an asset (loan) of the same size; money is destroyed, not stored.",
+      "options": [
+        "Her deposit and the loan both fall by 10,000 zł, so broad money falls",
+        "The 10,000 zł is stored in the bank's vault and broad money is unchanged",
+        "Broad money rises because the bank now has more cash to lend",
+        "The NBP's reserves rise by 10,000 zł"
+      ],
+      "q": "Ola repays the final 10,000 zł of her loan from her current account. What happens?"
+    },
+    {
+      "answer": 3,
+      "explain": "Payments between banks are settled in reserves; deposits just move from one bank to another, so the total stays the same.",
+      "options": [
+        "Total deposits in the system fall by 1 bn zł",
+        "Bank B must reduce its lending",
+        "Bank A gains 1 bn zł of reserves",
+        "Bank A loses 1 bn zł of reserves to Bank B, while total deposits are unchanged"
+      ],
+      "q": "Bank A's customers pay 1 bn zł to customers of Bank B. Which statement is correct?"
+    },
+    {
+      "answer": 1,
+      "explain": "CET1 falls to 6 − 1.2 = 4.8 bn zł; 4.8 ÷ 80 = 6.0%, down from 7.5%, i.e. 1.5 percentage points lower.",
+      "options": [
+        "7.50%",
+        "6.00%",
+        "5.25%",
+        "4.80%"
+      ],
+      "q": "Hypothetical: a bank has CET1 of 6 bn zł and risk-weighted assets of 80 bn zł. After a 1.2 bn zł loss (RWA unchanged), what is its CET1 ratio?"
+    },
+    {
+      "answer": 1,
+      "explain": "6.0% lies in the band above 5.75% and up to 6.375%, where 60% of earnings must be retained; full freedom starts above 7.0%.",
+      "options": [
+        "0%",
+        "60%",
+        "100%",
+        "40%"
+      ],
+      "q": "Using the Basel conservation-buffer table (no countercyclical buffer), a bank with a CET1 ratio of 6.0% must retain what share of its earnings?"
+    },
+    {
+      "answer": 3,
+      "explain": "The Fed cut reserve requirements to 0% on 26 March 2020; the binding constraints are price, demand, capital and liquidity.",
+      "options": [
+        "Because US banks are not allowed to hold reserves",
+        "Because US banks must hold 100% reserves",
+        "Because the multiplier only works for cash, not deposits",
+        "Because the Fed's reserve requirement is 0% and it supplies reserves at its policy rate, so reserves follow lending"
+      ],
+      "q": "Why is the 'money multiplier' (lending = fixed multiple of reserves) a poor description of lending in the US today?"
+    },
+    {
+      "answer": 0,
+      "explain": "Interest income 12 bn zł minus interest cost 3.6 bn zł = 8.4 bn zł; 8.4 ÷ 200 = 4.2%.",
+      "options": [
+        "4.2%",
+        "4.0%",
+        "6.0%",
+        "3.6%"
+      ],
+      "q": "Hypothetical: a bank earns 6% on 200 bn zł of loans and pays 2% on 180 bn zł of deposits. What is its net interest margin on loans?"
+    },
+    {
+      "answer": 2,
+      "explain": "Equity ÷ assets = 9.6 ÷ 120 = 8%; leverage is 12.5, so an 8% fall in asset values eliminates the equity.",
+      "options": [
+        "12.5%",
+        "9.6%",
+        "8%",
+        "1.25%"
+      ],
+      "q": "A bank has assets of 120 bn zł and equity of 9.6 bn zł. Roughly what loss, as a share of assets, would wipe out its equity?"
+    },
+    {
+      "answer": 2,
+      "explain": "Higher policy rates pass through to benchmarks and loan rates, reducing new borrowing; since loans create deposits, money growth slows.",
+      "options": [
+        "Banks must lend more to cover the higher rate, so money growth speeds up",
+        "Only cash in circulation changes, deposits are unaffected",
+        "Funding costs and loan rates rise, credit demand falls, fewer new loans are made, and deposit growth slows",
+        "Reserve requirements automatically rise, mechanically cutting loans"
+      ],
+      "q": "Connecting to Lesson 7: the RPP raises the reference rate. Which chain is most accurate?"
+    },
+    {
+      "answer": 1,
+      "explain": "Runs are self-fulfilling panics; a credible guarantee, with repayment within 7 working days, removes the motive to run for most depositors.",
+      "options": [
+        "It forbids depositors from withdrawing in a crisis",
+        "Insured depositors know they will be repaid, so they have no reason to rush to withdraw first",
+        "It makes banks hold 100% reserves",
+        "It guarantees that banks never make losses"
+      ],
+      "q": "Why does deposit insurance (e.g. Poland's BFG, up to €100,000) reduce the risk of bank runs?"
+    },
+    {
+      "answer": 0,
+      "explain": "When a bank buys an asset from a non-bank, it pays by creating a deposit, just as with a loan; bank asset purchases create money.",
+      "options": [
+        "Broad money rises by 10 m zł, because the bank credits the fund's deposit",
+        "Broad money is unchanged, because a bond is also money",
+        "Broad money falls, because the bank paid with reserves",
+        "Broad money falls by 10 m zł because the government has more debt"
+      ],
+      "q": "Connecting to Lesson 8 (bonds): a commercial bank buys a 10 m zł government bond from a pension fund that banks with it. What happens to broad money?"
+    },
+    {
+      "answer": 2,
+      "explain": "500.8 ÷ 2,973.1 ≈ 16.8% is cash, so roughly 83% is bank liabilities; cash itself grew 13.2% in the year.",
+      "options": [
+        "Most Polish money is NBP banknotes",
+        "Cash grew more slowly than 5% a year",
+        "About 83% of M3 is deposits and similar bank liabilities",
+        "M3 cannot grow unless the NBP prints more cash"
+      ],
+      "q": "Poland's M3 was 2,973.1 bn zł in September 2026 and cash 500.8 bn zł (NBP). Which conclusion is correct?"
+    }
+  ],
+  "level": "Applied",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "Banks lend out the money that savers deposit, so they must collect deposits before they can lend.",
+      "truth": "When a bank lends, it creates a new deposit for the borrower at the same moment; the Bank of England's 2014 Quarterly Bulletin describes most money as created this way. Banks then need reserves to settle payments, which they can borrow at a price close to the policy rate."
+    },
+    {
+      "myth": "Most money is printed by the central bank.",
+      "truth": "In Poland, cash was about 16.8% of M3 at the end of September 2026 (500.8 bn zł of 2,973.1 bn zł, NBP data); the rest is mainly bank deposits created by lending and asset purchases."
+    },
+    {
+      "myth": "The reserve requirement fixes how much banks can lend through a 'money multiplier'.",
+      "truth": "Central banks supply reserves on demand at their policy rate, so reserves follow lending. The Fed's reserve requirement has been 0% since 26 March 2020, and the binding limits on lending are profitability, demand, capital and liquidity."
+    },
+    {
+      "myth": "If banks can create money, they can lend without limit.",
+      "truth": "Each loan must earn more than its funding cost and expected losses; borrowers must want it; and capital rules (Basel minimum CET1 4.5% of risk-weighted assets plus a 2.5% buffer) cap how much risk a given amount of equity can support."
+    },
+    {
+      "myth": "When you repay a loan, the money goes into the bank's vault to be lent again.",
+      "truth": "Repaying a loan cancels both the loan and an equal amount of deposits, so money is destroyed; new money appears mainly when someone takes a new loan or the banking system (including the central bank) buys assets."
+    }
+  ],
+  "number": 22,
+  "objectives": [
+    "Explain, with T-accounts, why a new bank loan creates a new deposit and so increases broad money.",
+    "Distinguish bank reserves (central-bank money held by banks) from deposits (money held by households and firms), and explain why the 'money multiplier' story is misleading.",
+    "Calculate a bank's CET1 capital ratio, leverage and net interest margin, and trace how a loss changes them.",
+    "Identify the forces that limit bank lending, including profitability (set largely by the policy rate), capital rules and borrowers' demand.",
+    "Explain why banks are fragile (maturity transformation, leverage) and how deposit guarantees such as Poland's BFG limit bank runs.",
+    "Interpret Poland's money supply data (M3, cash in circulation, household deposits) using real NBP figures."
+  ],
+  "recap": "Lesson 21 showed that markets move on the gap between what happens and what was expected, and that bonds and currencies often react more than stock indices. Lesson 7 explained that the NBP's Monetary Policy Council sets the reference rate (3.75% after 4 November 2026) and steers overnight rates with a corridor of deposit and lombard rates. Today we open the 'black box' between the central bank and the economy: commercial banks, which turn the policy rate into loans, deposits and the money people actually spend.",
+  "sections": [
+    {
+      "body": "A balance sheet lists assets (what a bank owns or is owed) on one side and liabilities plus equity (how those assets are financed) on the other, and the two sides must always be equal. A typical commercial bank's main assets are loans to households and firms, government bonds and other securities, and reserves: money held in its own account at the central bank. Its main liabilities are customer deposits, plus borrowing from other banks and bonds it has issued. Equity (capital) is the owners' stake: assets minus liabilities. A key point for this lesson: your deposit is not a box of cash kept for you; it is a promise by the bank to pay you on demand, recorded as the bank's liability. Hypothetical numbers: a bank with 100 bn zł of assets, 92 bn zł of deposits and 8 bn zł of equity is funded 92% by other people's money. Because equity is small relative to assets, banks are highly 'leveraged' (assets ÷ equity = 12.5 here), which magnifies both profits and losses for the owners. Simplification: real balance sheets also contain derivatives, provisions for bad loans and many other items, but loans, deposits, reserves and equity are enough to understand money creation.",
+      "heading": "1. A bank's balance sheet: what it owns and what it owes"
+    },
+    {
+      "body": "When a bank approves a loan, it does not take banknotes out of a vault; it credits the borrower's account with a new deposit. In accounting terms, two entries appear at once: the loan is a new asset (the borrower owes the bank), and the deposit is a new liability (the bank owes the borrower). Nobody else's deposit went down, so the total amount of deposits in the economy, and therefore broad money, has risen. The Bank of England described this in its 2014 Quarterly Bulletin article 'Money creation in the modern economy' (McLeay, Radia and Thomas, 14 March 2014), stating that the majority of money in the modern economy is created by commercial banks making loans. The reverse also holds: when a borrower repays a loan from their account, the deposit and the loan both shrink, and money is destroyed. So the stock of money depends on the flow of new lending compared with repayments. This is why a credit boom usually comes with fast money growth, and a period of debt repayment with slow money growth. Limit: a bank can only do this profitably if someone wants to borrow and is creditworthy, and if it can handle what happens after the money is spent (sections 3 and 4).",
+      "heading": "2. Loans create deposits: the mechanism step by step"
+    },
+    {
+      "body": "Two kinds of money must be kept apart. Deposits are money for the public; reserves are money that only banks (and some other institutions) can hold, in accounts at the central bank, and they are used to settle payments between banks. When a borrower at Bank A pays a seller who banks at Bank B, Bank A loses a deposit and also loses the same amount of reserves to Bank B. So a bank that lends aggressively tends to lose reserves to other banks, and must borrow them in the interbank market or from the central bank. The central bank does not ration the quantity of reserves in normal times: it sets their price, the policy rate, and supplies or absorbs reserves to keep the overnight rate close to that target (Lesson 7). Many central banks also set a reserve requirement: in Poland the basic ratio was 3.5% throughout 2024, and required reserves were remunerated at the reference rate, according to the NBP's annual report on banking-sector liquidity; at the end of 2024 required reserves totalled about 77.8 bn zł. In the United States the Federal Reserve cut reserve requirement ratios to 0% effective 26 March 2020, and they remain at zero according to the Fed. This is why the textbook 'money multiplier' (banks lending out a fixed multiple of reserves) is misleading as a description of how lending is decided today: reserves follow lending, not the other way round. Poland is an example: the banking system has had surplus reserves, which the NBP absorbs by issuing short-term NBP bills, averaging about 320.6 bn zł in 2024 (NBP).",
+      "heading": "3. Reserves, payments and the central bank"
+    },
+    {
+      "body": "If banks can create deposits by lending, why don't they lend without limit? First, profitability: a loan is worth making only if the expected interest exceeds the bank's funding cost plus expected losses and costs, and the funding cost is anchored by the central bank's rate, so a higher policy rate makes credit more expensive and reduces demand for it. Second, borrowers: households and firms must want to borrow; in a downturn, even cheap credit may find few takers. Third, credit risk: lending to people who cannot repay produces losses that eat into the bank's equity. Fourth, capital rules: under the Basel III framework, banks must hold Common Equity Tier 1 (CET1) capital of at least 4.5% of risk-weighted assets (RWA), Tier 1 capital of 6% and total capital of 8%, plus a capital conservation buffer of 2.5% of RWA in CET1, and national authorities can add a countercyclical buffer of 0–2.5% when credit grows too fast (Basel Committee). Risk-weighted assets give riskier loans a higher weight, so they need more capital. Fifth, liquidity: banks must hold enough liquid assets to meet withdrawals and payments. Finally, the central bank can also influence money directly, for example through large asset purchases (quantitative easing), as the Bank of England's 2014 article notes.",
+      "heading": "4. What actually limits money creation"
+    },
+    {
+      "body": "A bank's core income is the difference between what it earns on loans and securities and what it pays on deposits and other funding, called net interest income; divided by interest-earning assets it gives the net interest margin (NIM). Hypothetical numbers: 100 bn zł of loans at 7.0% earn 7.0 bn zł a year; 92 bn zł of deposits at 2.5% cost 2.3 bn zł; net interest income is 4.7 bn zł, a NIM of 4.7%. From this the bank must pay staff, IT, taxes and losses on bad loans. Many loans have variable rates tied to a benchmark, so changes in central-bank rates pass through quickly. In Poland, mortgages have long been linked to WIBOR, and banks are moving new loans to POLSTR, an overnight rate based on actual overnight deposits that banks take from other financial institutions, published by GPW Benchmark; PKO Bank Polski began offering POLSTR mortgages on 3 September 2026, and the most common WIBOR tenors are to be published until the end of 2036 (Fundacja oHipotece). Because deposit rates often rise more slowly than loan rates when policy rates go up, bank profits tend to benefit from higher rates at first, but very high rates can also raise defaults. Exceptions: banks with many fixed-rate loans (as in the US) can suffer when rates rise, because their funding costs rise while their loan income does not.",
+      "heading": "5. How banks earn money: the interest margin"
+    },
+    {
+      "body": "Banks finance long-term, hard-to-sell assets (a 25-year mortgage) with short-term liabilities that customers can withdraw at once (current accounts). This 'maturity transformation' is useful, because it lets savers keep easy access to money while the economy gets long-term finance, but it creates a risk: if many depositors try to withdraw at the same time, even a solvent bank may not be able to sell its loans quickly enough. Fear can become self-fulfilling, because each depositor rationally withdraws if they think others will, which is a bank run. Leverage adds a second weakness: with assets 12.5 times equity, a loss of 8% of assets wipes out all the equity. Societies have built three main defences. Capital rules make owners bear losses first. Central banks act as lender of last resort, lending reserves against good collateral to banks facing a run. And deposit guarantee schemes promise to repay small depositors: in Poland the Bank Guarantee Fund (BFG) covers deposits up to the equivalent of €100,000 per depositor per institution, with repayment due within 7 working days (BFG). Because insured depositors have little reason to run, guarantees make runs much less likely, though they can also weaken depositors' incentive to watch banks' risk-taking (moral hazard).",
+      "heading": "6. Why banks are fragile: maturity transformation and runs"
+    },
+    {
+      "body": "Economists measure money in layers. Narrow money (M1) is cash plus overnight deposits; broad money (M3) adds deposits with maturity up to two years and some other short-term instruments. According to NBP data reported by Magazyn MANAGER+, at the end of September 2026 M3 was 2,973.1 bn zł, up 12.5% from a year earlier (PAP Biznes also reported 12.5% year on year), and currency in circulation outside banks was 500.8 bn zł, up 13.2%. That means cash was only about 16.8% of M3; the other roughly 83% consisted of deposits and similar bank liabilities, consistent with section 2. Household deposits in M3 were 1,545.7 bn zł and non-financial companies' deposits 629.4 bn zł. Money growth of 12.5% a year is far faster than the economy's real growth, which raises a question economists debate: does fast money growth signal future inflation, or does it reflect people holding more savings in banks? The link between money and inflation is real over long periods but loose in the short run, so central banks today focus mainly on interest rates and inflation forecasts rather than on money targets.",
+      "heading": "7. Poland's money in numbers"
+    },
+    {
+      "body": "The view that 'loans create deposits' is now the mainstream description of how modern banking works, but economists still debate how strongly the central bank controls the total. Some stress that money is 'endogenous', meaning it is created in response to demand for loans at the price set by the central bank; others stress that regulation, the policy rate and asset purchases still shape the quantity powerfully. Not all lending creates money: when a non-bank lender (such as an investment fund) lends, it passes on existing deposits rather than creating new ones, which is why 'shadow banking' is analysed differently. Money can also be created when banks buy assets such as government bonds, by crediting the seller's account, and destroyed when they sell assets to the public. In an open economy like Poland, foreign-currency flows also change domestic money when they are converted into złoty. Finally, the ability to create money is what makes credit booms possible, which Lesson 24 on sentiment and bubbles will build on, and the mortgage mechanics in Lesson 23 rest directly on what you learned here.",
+      "heading": "8. Limits of this picture and where experts disagree"
+    }
+  ],
+  "takeaways": [
+    "A new bank loan creates a new deposit at the same moment; repayment destroys money. Most money is bank deposits: in Poland cash was about 16.8% of M3 (500.8 of 2,973.1 bn zł) in September 2026.",
+    "Reserves are central-bank money used to settle payments between banks; central banks set their price (the policy rate) rather than rationing their quantity, so the 'money multiplier' is a poor guide (the Fed's reserve requirement is 0% since March 2020; Poland's was 3.5% in 2024).",
+    "Lending is limited by profitability, borrowers' demand, credit risk, liquidity and capital rules: Basel minimum CET1 4.5%, Tier 1 6%, total 8% of risk-weighted assets, plus a 2.5% conservation buffer.",
+    "Banks earn the net interest margin; with leverage of about 12.5, a 1.6% return on assets becomes a 20% return on equity, and a loss of 8% of assets wipes equity out.",
+    "Banks are fragile because of maturity transformation and leverage; capital, lenders of last resort and deposit guarantees (BFG: up to €100,000 per depositor per bank, repaid within 7 working days) are the defences.",
+    "Higher policy rates slow lending and therefore money growth; Polish loans are moving from WIBOR to POLSTR, which reflects overnight deposit transactions and follows NBP policy closely."
+  ],
+  "title": "Banks, credit and how money is created",
+  "todayExample": "This edition's stocks desk shows the link between interest rates and bank profits. PKO Bank Polski rose 1.7% to 119.90 zł on Friday 13 November, and it reported net profit of 2.93 bn zł in the third quarter, with return on equity at 19.1% at the end of September. The desk notes that ING and mBank estimate October core inflation fell to 2.9%, that the NBP publishes the figure on Monday 16 November at 14:00; the next RPP meeting is on 1–2 December. As this lesson explains, banks' net interest income depends on the gap between loan and deposit rates, so investors watch every hint about the path of the reference rate.",
+  "workedExamples": [
+    {
+      "problem": "Bank A grants a 500,000 zł mortgage to Ola, who uses it to pay a seller whose account is at Bank B. Show the changes in both banks' balance sheets, say what happens to total deposits, and calculate the extra required reserves at Bank B using the 3.5% basic reserve ratio the NBP reports for 2024. Hypothetical numbers apart from the ratio.",
+      "solution": "Step 1, the loan: Bank A assets: loan to Ola +500,000 zł. Bank A liabilities: Ola's deposit +500,000 zł. Total deposits in the economy rise by 500,000 zł: new money has been created. Step 2, the payment: Ola's deposit at Bank A falls by 500,000 zł and the seller's deposit at Bank B rises by 500,000 zł. To settle, Bank A transfers 500,000 zł of reserves to Bank B. Bank A now holds: loan +500,000, reserves −500,000 (assets balance). Bank B holds: reserves +500,000, deposits +500,000. Total deposits are still 500,000 zł higher than before the loan. Step 3, required reserves (simplified: in practice the requirement is calculated on an average deposit base over a maintenance period, and some funds carry a 0% ratio): 3.5% × 500,000 = 0.035 × 500,000 = 17,500 zł must be held by Bank B against the new deposit; it received 500,000 zł of reserves, so it has 482,500 zł of reserves above the requirement. Interpretation: the reserves did not need to exist before the loan; Bank A had to obtain them to settle the payment (from the interbank market or the NBP), at a price close to the policy rate. Because the NBP paid the reference rate on required reserves in 2024, the requirement worked less like a tax and more like a parking rule.",
+      "title": "Following a mortgage through T-accounts (hypothetical numbers)"
+    },
+    {
+      "problem": "A bank has risk-weighted assets (RWA) of 50 bn zł and CET1 capital of 4.2 bn zł. It then writes off 1.0 bn zł of bad loans (assume RWA stays at 50 bn zł). (a) Calculate the CET1 ratio before and after. (b) Using the Basel capital conservation buffer table (no countercyclical buffer), what share of its earnings must it retain? (c) By how much would it have to cut RWA to get back to 7.0%?",
+      "solution": "(a) Before: 4.2 ÷ 50 = 0.084 = 8.4%. After: CET1 = 4.2 − 1.0 = 3.2 bn zł; 3.2 ÷ 50 = 0.064 = 6.4%. The ratio fell by 8.4 − 6.4 = 2.0 percentage points, a relative fall of 2.0 ÷ 8.4 ≈ 23.8%. (b) The minimum CET1 is 4.5% and the conservation buffer adds 2.5%, so full freedom to pay dividends starts above 7.0%. In the Basel table, a CET1 ratio above 6.375% and up to 7.0% means the bank must retain 40% of earnings; 6.4% is in that band. (c) To reach 7.0% with CET1 of 3.2 bn zł, RWA must be at most 3.2 ÷ 0.07 = 45.714 bn zł, so RWA must fall by 50 − 45.714 = 4.286 bn zł (about 8.6%). Alternatively, it could raise 0.07 × 50 − 3.2 = 3.5 − 3.2 = 0.3 bn zł of new equity. Interpretation: a 1 bn zł loss forces either new capital, less lending or lower dividends, which is how bank losses can turn into a credit squeeze for the whole economy.",
+      "title": "Capital ratio after a loss (hypothetical numbers, real Basel rules)"
+    },
+    {
+      "problem": "NBP data reported by Magazyn MANAGER+ show M3 of 2,973.1 bn zł at the end of September 2026, up 12.5% year on year, and currency in circulation of 500.8 bn zł, up 58.4 bn zł in a year. (a) What share of M3 was cash? (b) What was M3 a year earlier, and by how much did it grow in złoty? (c) Check the reported 13.2% growth of cash.",
+      "solution": "(a) 500.8 ÷ 2,973.1 = 0.1684, so cash was about 16.8% of M3; deposits and other bank liabilities were about 100 − 16.8 = 83.2%. (b) If M3 grew 12.5%, last year's level = 2,973.1 ÷ 1.125 = 2,642.8 bn zł, so the increase was 2,973.1 − 2,642.8 ≈ 330.3 bn zł (approximate, because the reported 12.5% is rounded). (c) Cash a year earlier = 500.8 − 58.4 = 442.4 bn zł; growth = 58.4 ÷ 442.4 = 0.1320 = 13.2%, matching the report. Interpretation: most of the money Poles hold is bank deposits, which are created and destroyed mainly through lending and banks' purchases of assets; the NBP's notes and coins are a minority.",
+      "title": "Reading Poland's money supply (real NBP data, September 2026)"
+    },
+    {
+      "problem": "A bank has 100 bn zł of loans earning 7.0%, funded by 92 bn zł of deposits costing 2.5% and 8 bn zł of equity. Its operating costs, taxes and loan-loss provisions total 3.1 bn zł a year. (a) Calculate net interest income and the net interest margin. (b) Calculate profit and return on equity (ROE). (c) What loss, as a share of loans, would wipe out the equity?",
+      "solution": "(a) Interest income = 0.07 × 100 = 7.0 bn zł. Interest cost = 0.025 × 92 = 2.3 bn zł. Net interest income = 7.0 − 2.3 = 4.7 bn zł; NIM = 4.7 ÷ 100 = 4.7%. (b) Profit = 4.7 − 3.1 = 1.6 bn zł; ROE = 1.6 ÷ 8 = 0.20 = 20%. Leverage = 100 ÷ 8 = 12.5, which is why a 1.6% return on assets (1.6 ÷ 100) becomes a 20% return for the owners (1.6% × 12.5 = 20%). (c) Equity of 8 bn zł is 8% of loans, so losses of 8% of the loan book would wipe it out. Interpretation: leverage turns modest margins into high returns on equity in good years, and modest loan losses into insolvency in bad years. For comparison, PKO Bank Polski's return on equity was 19.1% at the end of September (stocks desk, this edition).",
+      "title": "Margin, leverage and return on equity (hypothetical numbers)"
+    }
+  ],
+  "updatedAt": "2026-11-15T19:12:44.803094Z"
+}
