@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-14T09:17:07Z",
+  "updated": "2026-11-15T09:17:11Z",
   "editions": [
+    {
+      "id": "2026-11-15-1000",
+      "createdAt": "2026-11-15T09:00:28Z",
+      "label": "Sun 15 Nov · morning",
+      "status": "complete",
+      "updatedAt": "2026-11-15T09:16:02.832547Z"
+    },
+    {
+      "id": "2026-11-14-2000",
+      "createdAt": "2026-11-14T18:57:00Z",
+      "label": "Sat 14 Nov · evening",
+      "status": "partial",
+      "updatedAt": "2026-11-14T19:04:13.981443Z"
+    },
     {
       "id": "2026-11-14-1000",
       "createdAt": "2026-11-14T09:05:57Z",

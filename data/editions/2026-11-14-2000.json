@@ -1,0 +1,799 @@
+{
+  "bigPicture": "Iran said three more oil tankers hit its naval mines and caught fire in the Strait of Hormuz, and the UN said at least 25 seafarers have died there since the war began in February, keeping pressure on oil and shipping costs ahead of Monday's market open. Ukraine's president said US negotiators had for the first time asked whether Kyiv would give up Donbas in exchange for NATO membership, an idea he rejected without a full package of guarantees. In the US, thousands more flights were cancelled on Saturday as officials blamed a router failure during contractor work on the air-traffic network. Across Europe, more than 100,000 people marched in France over living costs and police powers, and tens of thousands in Portugal over housing, while bitcoin slid to about $65,000 as bets on a US rate rise weighed on risky assets. Stock markets were closed for the weekend, so the market figures are Friday's closing levels.",
+  "createdAt": "2026-11-14T18:57:00Z",
+  "glossary": [],
+  "label": "Sat 14 Nov · evening",
+  "lessonNumber": null,
+  "markets": [
+    {
+      "change": -0.4,
+      "changeText": "−0.4%",
+      "group": "Stocks · Americas",
+      "key": true,
+      "name": "S&P 500",
+      "note": "Fell as tech shares slid on rate-hike bets and Nvidia's leadership turmoil, but gained about 2.5% over the week (Xinhua, Yahoo Finance).",
+      "region": "United States",
+      "value": "7,561.67",
+      "what": "An index of 500 large US companies, the main gauge of the US stock market."
+    },
+    {
+      "change": -0.91,
+      "changeText": "−0.9%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Nasdaq Composite",
+      "note": "Tech-heavy index hit by chip stocks such as AMD and Nvidia; still up about 2.3% on the week (Eurasia Business News).",
+      "region": "United States",
+      "value": "25,136.27",
+      "what": "An index of over 3,000 Nasdaq-listed shares, dominated by technology companies."
+    },
+    {
+      "change": 0.1,
+      "changeText": "+0.1%",
+      "group": "Stocks · Americas",
+      "key": false,
+      "name": "Dow Jones",
+      "note": "Edged up as consumer staples and energy shares offset tech (Xinhua).",
+      "region": "United States",
+      "value": "52,347.55",
+      "what": "An index of 30 large US companies, weighted by share price."
+    },
+    {
+      "change": -0.08,
+      "changeText": "−0.1%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "DAX",
+      "note": "Little changed on Friday as chip stocks such as Infineon fell (The Rio Times market board; Business Recorder).",
+      "region": "Germany",
+      "value": "26,750",
+      "what": "An index of the 40 biggest companies on the Frankfurt stock exchange."
+    },
+    {
+      "change": 0.02,
+      "changeText": "flat",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "Stoxx 600",
+      "note": "Closed flat but gained over 2% on the week, led by banks; tech fell 1.3% on Friday (Business Recorder/Reuters).",
+      "region": "Europe",
+      "value": "664.14",
+      "what": "An index of 600 large and mid-sized companies across 17 European countries."
+    },
+    {
+      "change": 0.36,
+      "changeText": "+0.4%",
+      "group": "Stocks · Europe",
+      "key": false,
+      "name": "FTSE 100",
+      "note": "Rose on Friday (The Rio Times market board).",
+      "region": "United Kingdom",
+      "value": "10,903",
+      "what": "An index of the 100 biggest companies on the London Stock Exchange."
+    },
+    {
+      "change": 0.44,
+      "changeText": "+0.4%",
+      "group": "Stocks · Europe",
+      "key": true,
+      "name": "WIG20",
+      "note": "Rose on Friday, with PKO BP and Allegro among the most traded (PAP Biznes, FXMAG).",
+      "region": "Poland",
+      "value": "4,298.46",
+      "what": "An index of the 20 biggest companies on the Warsaw Stock Exchange."
+    },
+    {
+      "change": 0.53,
+      "changeText": "+0.5%",
+      "group": "Stocks · Asia-Pacific",
+      "key": true,
+      "name": "Nikkei 225",
+      "note": "Rose on Friday (The Rio Times market board); Asian markets are shut at the weekend.",
+      "region": "Japan",
+      "value": "61,142",
+      "what": "An index of 225 large companies on the Tokyo Stock Exchange."
+    },
+    {
+      "change": -0.98,
+      "changeText": "−1.0%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Kospi",
+      "note": "Topped 5,500 intraday then fell as a rebound in chip stocks faded (MLQ.ai headline; The Rio Times board).",
+      "region": "South Korea",
+      "value": "5,291",
+      "what": "The main index of the Korea Exchange, heavy in chipmakers Samsung and SK Hynix."
+    },
+    {
+      "change": -2.79,
+      "changeText": "−2.8%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Hang Seng",
+      "note": "Fell on Friday amid the Nvidia leadership fallout (The Rio Times board; investingLive headline).",
+      "region": "Hong Kong",
+      "value": "23,638",
+      "what": "The main index of the Hong Kong stock exchange, with many large Chinese companies."
+    },
+    {
+      "change": -0.44,
+      "changeText": "−0.4%",
+      "group": "Stocks · Asia-Pacific",
+      "key": false,
+      "name": "Nifty 50",
+      "note": "Slipped on Friday (The Rio Times board).",
+      "region": "India",
+      "value": "25,144",
+      "what": "An index of 50 large companies on India's National Stock Exchange."
+    },
+    {
+      "change": 0.12,
+      "changeText": "+0.1%",
+      "group": "Currencies",
+      "key": true,
+      "name": "EUR/PLN",
+      "note": "NBP average rate on Fri 13 Nov (table 221/A), up from 4.4018 on Thursday; the złoty was slightly weaker.",
+      "region": "Poland",
+      "value": "4.4070",
+      "what": "How many złoty one euro costs."
+    },
+    {
+      "change": 0.44,
+      "changeText": "+0.4%",
+      "group": "Currencies",
+      "key": true,
+      "name": "USD/PLN",
+      "note": "NBP average rate on Fri 13 Nov, up from 3.9676; the dollar is firm on bets of a Fed rate rise.",
+      "region": "Poland",
+      "value": "3.9852",
+      "what": "How many złoty one US dollar costs."
+    },
+    {
+      "change": -0.28,
+      "changeText": "−0.3%",
+      "group": "Currencies",
+      "key": false,
+      "name": "EUR/USD",
+      "note": "Euro eased against a firmer dollar (The Rio Times board, Friday evening).",
+      "region": "Global",
+      "value": "1.1028",
+      "what": "How many dollars one euro buys."
+    },
+    {
+      "change": null,
+      "changeText": "+0.7% on week",
+      "group": "Currencies",
+      "key": false,
+      "name": "US dollar index",
+      "note": "Best week since early October as traders priced a more aggressive Fed (Stocktwits).",
+      "region": "Global",
+      "value": "103.41",
+      "what": "A measure of the dollar against six major currencies."
+    },
+    {
+      "change": 0.02,
+      "changeText": "+0.0%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Brent crude",
+      "note": "Settled almost unchanged on Friday; down about 2.5% on the week on signs of a supply surplus (EnergyNow, FinanceFeeds citing Reuters). Iran's new mine claims came after markets closed.",
+      "region": "Global",
+      "value": "95.84",
+      "what": "The main global benchmark price for a barrel of crude oil, in dollars."
+    },
+    {
+      "change": -0.2,
+      "changeText": "−0.2%",
+      "group": "Commodities",
+      "key": false,
+      "name": "WTI crude",
+      "note": "Second weekly loss as US crude and fuel stocks rose (FinanceFeeds citing Reuters).",
+      "region": "United States",
+      "value": "88.56",
+      "what": "The US benchmark price for a barrel of crude oil, in dollars."
+    },
+    {
+      "change": 0.18,
+      "changeText": "+0.2%",
+      "group": "Commodities",
+      "key": true,
+      "name": "Gold",
+      "note": "Steadied on Friday but fell about 4.6% over seven days as higher yields make non-interest-paying gold less attractive (Eurasia Business News).",
+      "region": "Global",
+      "value": "3,883.40",
+      "what": "Price of one troy ounce (31.1 g) of gold in dollars."
+    },
+    {
+      "change": null,
+      "changeText": "sources differ",
+      "group": "Commodities",
+      "key": false,
+      "name": "TTF gas (Europe)",
+      "note": "Reports put Dutch TTF between about €89 and €96 per megawatt-hour on Friday, with differing timestamps (Eurasia Business News).",
+      "region": "Europe",
+      "value": "",
+      "what": "The main European wholesale natural-gas price, in euros per megawatt-hour."
+    },
+    {
+      "change": null,
+      "changeText": "+0.05 pt",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 10-year Treasury yield",
+      "note": "Closed near its highest since October as markets price a December Fed hike (Yahoo Finance).",
+      "region": "United States",
+      "value": "5.15%",
+      "what": "The interest rate the US government pays to borrow for 10 years; a benchmark for loans worldwide."
+    },
+    {
+      "change": null,
+      "changeText": "+0.35 pt on week",
+      "group": "Interest rates",
+      "key": false,
+      "name": "US 2-year Treasury yield",
+      "note": "Sensitive to Fed expectations (Stocktwits).",
+      "region": "United States",
+      "value": "4.86%",
+      "what": "The interest rate on 2-year US government debt, closely tied to expected Fed policy."
+    }
+  ],
+  "marketsAsOf": "US stocks, bonds, oil and gold: Fri 13 Nov close · Europe, Warsaw and Asia-Pacific: Fri 13 Nov close (Asian and European markets are shut at the weekend) · EUR/PLN and USD/PLN: NBP average rates of Fri 13 Nov · EUR/USD: Fri 13 Nov evening · markets are closed on Saturday, so these are the latest levels",
+  "quiz": [],
+  "status": "partial",
+  "stories": [
+    {
+      "category": "Politics & conflict",
+      "everyday": "Brent crude settled at $95.84 a barrel on Friday, against about $72 in late February before the war, so petrol, diesel and heating costs in Europe, including Poland, stay high. Fertiliser shortages can later show up in food prices.",
+      "id": "hormuz-three-tankers-mines",
+      "importance": 5,
+      "markets": [
+        "Brent crude",
+        "WTI crude",
+        "Tanker and shipping companies",
+        "Marine insurers",
+        "Saudi Aramco"
+      ],
+      "rank": 1,
+      "rankWhy": "About a fifth of the world's oil normally passes Hormuz; new mine strikes keep shipping, insurance and fuel costs high for importers worldwide, including Europe.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "AP via News4Jax",
+          "url": "https://www.news4jax.com/news/2026/11/14/israeli-drone-strike-kills-2-palestinians-in-gaza-and-other-mideast-news/"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february"
+        },
+        {
+          "name": "Reuters via gCaptain",
+          "url": "https://gcaptain.com/oil-tanker-on-fire-after-hitting-mine-in-hormuz/"
+        },
+        {
+          "name": "The New Arab",
+          "url": "https://newarab.com/news/three-oil-tankers-hit-mines-hormuz-attacks-n-yemen"
+        },
+        {
+          "name": "CBS News live updates",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/"
+        }
+      ],
+      "terms": [
+        "Chokepoint",
+        "Naval mine",
+        "War-risk insurance",
+        "Blockade"
+      ],
+      "title": "Iran says three oil tankers hit mines and caught fire in the Strait of Hormuz, as the UN says 25 seafarers have been killed there since February",
+      "what": "Iranian state TV said on Saturday that three oil tankers struck Iranian naval mines around the Strait of Hormuz and caught fire: two inside the strait and a third east of it, citing the Revolutionary Guards and the regular navy. Iran said the ships had switched off their radar and positioning systems and were using routes it has not authorised; it gave no names, flags or casualty figures, and Reuters said it could not verify the reports. At the UN Security Council on Friday, UN assistant secretary-general Khaled Khiari said at least 25 seafarers have been killed in and around the strait since the US-Israeli war on Iran began in February. The International Maritime Organization (IMO, the UN shipping agency) counted 136 security incidents involving ships in the region from 1 March to 11 November, with October the worst month, and the UK's maritime security agency UKMTO says traffic through Hormuz is about 65% below pre-war levels.",
+      "why": "Iran says ships need its permission to cross the strait and that it will keep it closed until the US ends its naval blockade of Iranian ports, lifts sanctions and releases frozen funds, Al Jazeera reported; the US military says the main routes are cleared of mines and open. Each attack raises war-risk insurance premiums and makes shipowners reluctant to sail, which keeps oil and fuel costs high. The UN official said the disruption is pushing up energy, transport and insurance costs, feeding inflation and limiting fertiliser shipments, which threatens food security."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "For Poland, which has just joined Europe's team for the next round of talks, the shape of a settlement decides how much it spends on defence and how secure its eastern border is. Ukraine's air force said Russia launched 96 drones from Friday evening, and Russian authorities said a Ukrainian drone killed a couple and their two-year-old daughter in Russia's Belgorod region, showing the war goes on during the talks.",
+      "id": "zelensky-nato-donbas",
+      "importance": 4,
+      "markets": [
+        "Polish and European defence stocks",
+        "Ukrainian bonds",
+        "Złoty"
+      ],
+      "rank": 2,
+      "rankWhy": "Any trade of territory for NATO membership would reshape European security and the terms of ending Europe's largest war, which directly affects Poland.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/90115"
+        },
+        {
+          "name": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558"
+        },
+        {
+          "name": "Al Jazeera/Reuters",
+          "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option"
+        }
+      ],
+      "terms": [
+        "Article 5",
+        "Security guarantee",
+        "Referendum"
+      ],
+      "title": "Zelensky says US negotiators asked, for the first time, whether Ukraine would leave Donbas in exchange for NATO membership",
+      "what": "Ukrainian President Volodymyr Zelensky told journalists on Friday that, during the latest round of talks, US negotiators asked for the first time whether Ukraine would pull its troops out of Donbas (the Donetsk and Luhansk regions, which Russia partly occupies) in return for joining NATO. He said there is no concrete offer yet, that Ukraine will not withdraw, and that he would only put such a deal to a national referendum if it came with firm security guarantees, funding for the army and money for reconstruction, without recognising occupied land as Russian. US-brokered Ukraine–Russia talks in Abu Dhabi ended on Wednesday without a breakthrough, apart from an agreed prisoner exchange of more than 1,000 people whose final numbers are still being discussed, ABC News reported. No official White House or Kremlin response to his account was reported.",
+      "why": "Russia demands that Ukraine leave the parts of Donbas it still controls and opposes Ukrainian NATO membership, which President Putin has long called a red line, so the idea links the two hardest issues in the talks. NATO membership would bring the alliance's Article 5 mutual-defence promise, which Kyiv sees as the only lasting guarantee; Zelensky said Article 5-style guarantees are the minimum. Any membership decision needs agreement of all NATO members, so the idea is far from a deal."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Travellers whose flights are cancelled can get a refund under US rules if they choose not to fly. Poles flying to or via the US this weekend may face knock-on delays and missed connections.",
+      "id": "us-flights-l3harris",
+      "importance": 4,
+      "markets": [
+        "L3Harris",
+        "American Airlines",
+        "Delta",
+        "United",
+        "Southwest"
+      ],
+      "rank": 3,
+      "rankWhy": "Thousands more cancellations hit millions of US travellers and airlines, and the cause exposes ageing air-traffic infrastructure in the world's largest aviation market.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/"
+        },
+        {
+          "name": "Yahoo News live",
+          "url": "https://www.yahoo.com/news/us/live/faa-ground-stop-latest-updates-duffy-blames-contractor-l3harris-thousands-more-flights-canceled-saturday-no-sign-of-cyberattack-161329174.html"
+        },
+        {
+          "name": "TVN24",
+          "url": "https://tvn24.pl/polska/szesc-rzeczy-ktore-warto-dzis-wiedziec-najwazniejsze-informacje-14-listopada-2026-roku-st9338640"
+        }
+      ],
+      "terms": [
+        "Ground stop",
+        "Legacy system",
+        "Contractor"
+      ],
+      "title": "US cancels thousands more flights on Saturday as Transportation Secretary Duffy blames a router fault during contractor L3Harris's network work",
+      "what": "More than 3,800 US flights were cancelled and about 2,000 delayed on Saturday, according to FlightAware data cited by CBS News, a day after the Federal Aviation Administration (FAA) halted all departures nationwide from 3:36 p.m. to about 8:20 p.m. US Eastern time on Friday. FAA Administrator Bryan Bedford said he expected 4,000 to 5,000 cancellations out of about 41,000 scheduled flights on Saturday and schedules back to normal by the close of business on Sunday. Transportation Secretary Sean Duffy said the outage began while contractor L3Harris was switching lines from copper to fibre at a remote FAA site, when a router 'started flooding other routers'; he said it is not yet determined whether the fault was the equipment or contractor error. Officials said there is no evidence of a cyberattack; CBS sources said the problem was isolated to Cisco routers made between 2001 and 2006.",
+      "why": "The network that carries air-traffic communications has been run by L3Harris since 2002, and a 2023 FAA-commissioned review called it obsolete, Yahoo News reported. When controllers cannot reliably exchange data, safety rules require stopping departures, and because planes and crews end up in the wrong places, cancellations continue for days. The administration has asked Congress for more money to modernise air-traffic control, and some politicians have called for an investigation or Duffy's resignation."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Repeated strikes can disrupt transport and schools in France, including for Polish travellers and workers there.",
+      "id": "france-protests-nov14",
+      "importance": 3,
+      "markets": [
+        "French government bonds",
+        "CAC 40"
+      ],
+      "rank": 4,
+      "rankWhy": "Weekly mass protests in the euro area's second-largest economy keep pressure on the government over living costs and police powers.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "TRT World",
+          "url": "https://www.trtworld.com/article/c4caaf5aaf52"
+        },
+        {
+          "name": "France 24 live",
+          "url": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests"
+        }
+      ],
+      "terms": [
+        "Minimum wage",
+        "Purchasing power"
+      ],
+      "title": "More than 100,000 march across France over living costs and a bill giving police more legal protection, says the Interior Ministry",
+      "what": "France's Interior Ministry said about 106,000 people joined Saturday's protests nationwide, including 24,000 in Paris, the lowest weekend estimate in recent weeks; student unions put turnout at 200,000, including almost 100,000 in the capital, TRT World reported. Marchers protested against rising living costs and inequality, a bill that would give police officers who use their weapons more legal protection, and for better learning conditions and children's rights. Unions reject the government's promise to raise the minimum wage by 0.6%, calling it 'crumbs', and have called new strikes for Tuesday.",
+      "why": "Prices have risen faster than many wages, so a small minimum-wage rise does not restore lost buying power, which unions say fuels the anger. Supporters of the police bill, including Marine Le Pen's far-right party, say officers should be presumed to act in self-defence; critics say it would make police harder to hold to account. Turnout figures from police and organisers usually differ widely because each side counts differently."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Poland faces similar pressures in big cities; the price-to-income ratio is a simple way to see how many years of pay a home costs. The protests were inspired by similar marches in neighbouring Spain last month.",
+      "id": "portugal-housing-protests",
+      "importance": 3,
+      "markets": [
+        "Portuguese property market",
+        "Short-term rental platforms"
+      ],
+      "rank": 5,
+      "rankWhy": "Housing costs are among the most pressing issues for young Europeans; Portugal saw the EU's fastest rise in house prices relative to incomes.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "AP via ClickOrlando",
+          "url": "https://www.clickorlando.com/news/world/2026/11/14/tens-of-thousands-march-in-portuguese-cities-against-surging-home-prices/"
+        },
+        {
+          "name": "AP via WRAL",
+          "url": "https://www.wral.com/news/ap/9605c-tens-of-thousands-march-in-portuguese-cities-against-surging-home-prices/"
+        }
+      ],
+      "terms": [
+        "House price-to-income ratio",
+        "Short-term rental"
+      ],
+      "title": "Tens of thousands march in more than 30 Portuguese cities and towns against soaring home prices and rents",
+      "what": "Tens of thousands of people marched on Saturday in more than 30 cities and towns in Portugal, including Lisbon and Porto, in what AP called the largest protest yet over housing costs. Protesters demanded caps on rent increases, stronger protection against eviction and more affordable housing; riot police with dogs dispersed some protests. Eurostat data published the week before show Portugal had the EU's largest rise in the house price-to-income ratio from 2015 to 2025, at 61%, ahead of the Netherlands at 34%. The national statistics office INE reported house prices up almost 20% between the first quarters of 2025 and 2026, and the government says rents are up 68% since 2020.",
+      "why": "Activists blame demand from foreign buyers and investment funds, remote workers and retirees attracted by the climate, and the conversion of city-centre flats into short-term tourist rentals, which reduces supply for residents. When demand rises faster than new homes are built, prices and rents climb faster than wages. The government has cut taxes on new construction, restricted short-term rentals and pledged 145,000 new homes, while admitting the effects will not be immediate."
+    },
+    {
+      "category": "Economy & markets",
+      "everyday": "Crypto has no deposit guarantee, so losses fall fully on holders; the same rate pressure also affects mortgage costs and savings rates in other countries over time.",
+      "id": "bitcoin-65000",
+      "importance": 3,
+      "markets": [
+        "Bitcoin",
+        "Crypto funds (IBIT)",
+        "Crypto miners"
+      ],
+      "rank": 6,
+      "rankWhy": "A 13–14% weekly fall hits millions of crypto holders and crypto funds and shows how rising interest rates squeeze riskier assets.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Bitcoin Magazine",
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-13-percent-65600"
+        },
+        {
+          "name": "The Rio Times market board",
+          "url": "https://www.riotimesonline.com/latin-american-pulse-for-saturday-november-14-2026/"
+        }
+      ],
+      "terms": [
+        "Exchange-traded fund (ETF)",
+        "Risk asset"
+      ],
+      "title": "Bitcoin falls to about $65,000 on Saturday, down roughly 14% in a week, as bets on a US rate rise weigh on risky assets",
+      "what": "Bitcoin fell after 8 a.m. US Eastern time on Saturday to about $65,500 and was near $65,100 at the time of Bitcoin Magazine's report, down about 13–14% from roughly $75,750 a week earlier and below Friday's low of about $67,555, its lowest since August. Unlike stock exchanges, crypto markets trade at weekends. Bitcoin Magazine cited US 10-year Treasury yields closing at 5.15% on Friday, the dollar index at a 19-month high and futures markets fully pricing a quarter-point Federal Reserve rate rise at the 8–9 December meeting. It also cited nine straight days of outflows from BlackRock's bitcoin fund IBIT, totalling $2 billion through Wednesday.",
+      "why": "When safe government bonds pay more, investors need a higher reward to hold assets that pay no interest and swing wildly, such as bitcoin, so some sell. Outflows from exchange-traded funds force those funds to sell bitcoin, which adds to the fall. Bitcoin Magazine also linked part of the slide to the sell-off in AI and chip stocks after Nvidia's leadership change."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Winter conditions add to the risks in tent camps: the morning edition reported the first cold-related death of a baby this winter.",
+      "id": "gaza-drone-strike",
+      "importance": 3,
+      "markets": [],
+      "rank": 7,
+      "rankWhy": "Near-daily strikes more than a year into a ceasefire show how fragile it is for Gaza's roughly two million residents.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "AP via News4Jax",
+          "url": "https://www.news4jax.com/news/2026/11/14/israeli-drone-strike-kills-2-palestinians-in-gaza-and-other-mideast-news/"
+        },
+        {
+          "name": "AP via WFTV",
+          "url": "https://www.wftv.com/news/israeli-drone-strike/RE2WTYZDDMZI5ITROMDVW67FF4/"
+        }
+      ],
+      "terms": [
+        "Ceasefire"
+      ],
+      "title": "Israeli drone strike kills two Palestinians in northern Gaza; Gaza's Health Ministry says at least 1,600 have been killed since the ceasefire",
+      "what": "An Israeli drone strike killed two Palestinians walking down a street in Jabaliya, on the northern edge of Gaza City, on Saturday, the director of Shifa Hospital told AP; the Israeli military said it struck two Hamas militants. Israeli fire and airstrikes have continued almost daily for more than a year after Israel and Hamas agreed a ceasefire. Gaza's Health Ministry, part of the Hamas-run government, says at least 1,600 Palestinians have been killed since the ceasefire; it does not separate civilians from fighters, and UN agencies and independent experts generally consider its records reliable, AP noted.",
+      "why": "Both sides accuse each other of violating the truce, and Israel says it targets militants who approach its forces, AP and other outlets report. Without an agreed mechanism to enforce the ceasefire, such strikes continue, and reconstruction and aid deliveries stay limited."
+    },
+    {
+      "category": "Health & science",
+      "everyday": "Measles also circulates in Europe; checking that children and adults have two MMR doses is the main protection, including in Poland.",
+      "id": "us-measles-deaths",
+      "importance": 3,
+      "markets": [
+        "Vaccine makers"
+      ],
+      "rank": 8,
+      "rankWhy": "Measles is one of the most contagious diseases; a rising death toll and a dispute over official counts affect public trust and vaccination in the US.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported"
+        },
+        {
+          "name": "ABC News",
+          "url": "https://abcnews.com/Health/measles-cases-nationwide-top-5400-outbreaks-spread-us/story?id=138108176"
+        }
+      ],
+      "terms": [
+        "MMR vaccine",
+        "Herd immunity threshold"
+      ],
+      "title": "US measles deaths reach 10 this year on state counts, while the CDC's official tally is six",
+      "what": "States have reported 10 measles-associated deaths in the US this year, seven in Pennsylvania, two in Wisconsin and one in New York, Al Jazeera reported on Saturday; Wisconsin reported an infant's death on Friday. The Centers for Disease Control and Prevention (CDC), the federal public-health agency, counts six; Al Jazeera reported that Health Secretary Robert F. Kennedy Jr. asked the CDC director not to count the other deaths, saying there was no evidence they were measles-associated. The US has more than 5,400 confirmed cases this year, more than double the 2,289 in 2025, and kindergarten coverage with the MMR vaccine fell from 95.2% in 2019–20 to 92.4% in 2025–26.",
+      "why": "Measles spreads so easily that roughly 95% of people need to be immune to stop outbreaks; when coverage falls below that, the virus finds enough unprotected people to keep spreading. Two doses of MMR vaccine give about 97% protection, according to the figures cited by Al Jazeera. The CDC is working with state epidemiologists on a standard definition of a measles death, because states use different rules."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "Fighting near the Bab al-Mandab Strait, a Red Sea shipping lane, can add to shipping costs between Asia and Europe.",
+      "id": "yemen-displacement",
+      "importance": 3,
+      "markets": [
+        "Red Sea shipping"
+      ],
+      "rank": 9,
+      "rankWhy": "Renewed war in one of the world's worst humanitarian crises has forced more than 340,000 people from their homes since August.",
+      "region": "Middle East",
+      "sources": [
+        {
+          "name": "Middle East Monitor/Anadolu",
+          "url": "https://www.middleeastmonitor.com/20261114-yemens-government-aligned-forces-repel-houthi-attack-as-fighting-has-displaced-over-340000-people/"
+        },
+        {
+          "name": "IOM on X",
+          "url": "https://x.com/UNmigration/status/2121231056770896263"
+        }
+      ],
+      "terms": [
+        "Internally displaced person (IDP)"
+      ],
+      "title": "More than 340,000 people displaced in Yemen since August as fighting spreads in Taiz and Lahj, UN migration agency says",
+      "what": "The UN's International Organization for Migration (IOM) said on Friday that more than 340,000 people have been displaced in Yemen since August amid fighting, and warned that restrictions on key roads threaten to delay aid. On Saturday the government-aligned Giants Brigades said they repelled a Houthi attack in Lahj province, which borders the interim capital Aden, and state news agency Saba reported airstrikes on Houthi reinforcements in Taiz province, Middle East Monitor reported. The escalation ended a period of relative calm that began in April 2022; the government launched an operation called 'Dawn of Yemen' on 5 October, aiming to retake the Houthi-held capital Sanaa.",
+      "why": "The Houthis, backed by Iran, and the internationally recognised government, backed by a Saudi-led coalition, are again fighting for territory, while the Houthis also attack Saudi targets as part of the wider Iran war. Taiz is Yemen's most populous province and links the north to the south, so fighting there cuts roads that aid convoys need."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "For Poland, South-East Asia matters as a source of electronics and clothing; higher costs there can feed into prices of imported goods.",
+      "id": "asean-manila-opens",
+      "importance": 3,
+      "markets": [
+        "Asian oil importers",
+        "Philippine peso",
+        "Canadian dollar"
+      ],
+      "rank": 10,
+      "rankWhy": "ASEAN's 11 members have about 700 million people; its response to the energy shock, Myanmar and the South China Sea affects a key global manufacturing region.",
+      "region": "Asia",
+      "sources": [
+        {
+          "name": "The Star (Malaysia)",
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/14/asean-unity-faces-test-as-energy-crisis-regional-conflicts-loom-over-summit"
+        },
+        {
+          "name": "Global News/Canadian Press",
+          "url": "https://globalnews.ca/news/12150796/canada-philippines-trade-deal/"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/video/2026/11/14/latest-news-bulletin-november-14th-2026-evening"
+        }
+      ],
+      "terms": [
+        "Free-trade agreement",
+        "Code of Conduct (South China Sea)"
+      ],
+      "title": "ASEAN meetings open in Manila as Canada and the Philippines conclude free-trade talks; leaders' summit runs 15–17 November",
+      "what": "ASEAN foreign ministers began meetings in Manila on Saturday ahead of the leaders' summit from 15 to 17 November, chaired by the Philippines, The Star reported; leaders will also meet counterparts including the US, China and Japan. President Ferdinand Marcos Jr. said ASEAN needs to act as one in the face of rising oil prices, security concerns and an approaching El Niño; a shared regional oil stockpile is still under study. Canadian Prime Minister Mark Carney, arriving in Manila, said Canada and the Philippines had concluded talks on a free-trade agreement, with signing expected in 2027, the Canadian Press reported.",
+      "why": "Most South-East Asian economies import much of their oil, so the Hormuz disruption raises their fuel costs and inflation. Negotiations with China on a South China Sea Code of Conduct are about 70% complete, according to The Star, and Myanmar's civil war, which the UN estimates has killed 100,000 people, will be reviewed. Canada is seeking more trade in Asia beyond the US, which explains the timing of its deal."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Security researchers advise Expedia, Hotels.com and Vrbo users to change passwords, not reuse them elsewhere and watch for phishing emails pretending to be from travel firms.",
+      "id": "expedia-data-claim",
+      "importance": 3,
+      "markets": [
+        "Expedia",
+        "Online travel companies"
+      ],
+      "rank": 11,
+      "rankWhy": "If true, the claimed theft would expose data on hundreds of millions of travellers worldwide using Expedia brands such as Hotels.com and Vrbo.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Security Affairs",
+          "url": "https://securityaffairs.com/203062/cyber-crime/extortion-group-claims-theft-of-nearly-one-billion-expedia-traveler-records.html"
+        },
+        {
+          "name": "Skift",
+          "url": "https://skift.com/2026/11/12/expedia-confirms-cyberattack-through-third-party-vendor/"
+        }
+      ],
+      "terms": [
+        "Supply-chain attack",
+        "Phishing"
+      ],
+      "title": "Hacker group claims data on nearly a billion Expedia traveller records after Expedia confirms a breach through an outside vendor",
+      "what": "A recently formed Russian extortion group called n0n claims it stole more than 830 million loyalty-programme records, 58 million traveller profiles and other data from Expedia, Security Affairs reported on Saturday. Expedia confirmed on Thursday that attackers reached its systems through a compromised third-party data platform provider, in a supply-chain attack that also hit other companies; it has not confirmed the group's figures and says its investigation continues and its platforms are safe. Researchers at Wiz and Sentra documented an October attack involving Qubole, a former Expedia vendor, but Expedia has not confirmed any link, Skift reported.",
+      "why": "In a supply-chain attack, criminals break into a smaller supplier that has access to a big company's systems, which is often easier than attacking the big company directly. Extortion groups publish large claims to pressure victims into paying, so the numbers remain unverified."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "COP decisions shape EU climate rules, which feed into Polish energy bills, coal policy and car rules.",
+      "id": "cop31-final-week",
+      "importance": 2,
+      "markets": [
+        "Oil and gas producers",
+        "Renewable energy companies"
+      ],
+      "rank": 12,
+      "rankWhy": "The talks decide how fast nearly 200 countries commit to cutting emissions, but a deal on fossil fuels looks hard.",
+      "region": "Global",
+      "sources": [
+        {
+          "name": "Arab News (Pakistan)",
+          "url": "https://www.arabnews.pk/world/un-climate-chief-urges-speed-as-cop31-confronts-fossil-fuel-divide-3007032"
+        },
+        {
+          "name": "Irish Times",
+          "url": "https://www.irishtimes.com/environment/climate-crisis/2026/11/14/thousands-protest-at-alternative-peoples-cop-march-in-turkey/"
+        }
+      ],
+      "terms": [
+        "COP (Conference of the Parties)",
+        "Consensus"
+      ],
+      "title": "COP31 enters its final week: UN climate chief urges speed as countries split over fossil fuels; thousands march in Antalya",
+      "what": "UN climate chief Simon Stiell urged negotiators in Antalya on Saturday to tackle the hardest issues quickly as the COP31 summit entered its second and final week, saying engagement had been constructive so far, Arab News reported. Large fossil-fuel producers and consumers are reported to be resisting firm new targets or a shift away from oil, gas and coal; the US is skipping the talks for a second year. Australia's Chris Bowen, who leads the negotiations, expects a first draft of the deal early next week, and the Irish Times reported that formal talks pause on Sunday and negotiators then have five days to agree a final text. Thousands joined the traditional mid-summit 'people's COP' march in Antalya, about 20 km from the venue, criticising the slow pace of climate action.",
+      "why": "Every word of a COP decision needs consensus, so a few large producers can block strong fossil-fuel language. A UN report last month found the world is on course to exceed 1.5°C of warming, which raises pressure for stronger cuts."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "El Niño can raise world prices of crops such as cocoa, coffee and rice, which shows up in European shops months later.",
+      "id": "ecuador-floods-el-nino",
+      "importance": 2,
+      "markets": [
+        "Cocoa",
+        "Coffee",
+        "Rice"
+      ],
+      "rank": 13,
+      "rankWhy": "El Niño rains are hitting Ecuador's largest city, and the UN warns the global cost of this El Niño will double without early action.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "Infobae",
+          "url": "https://www.infobae.com/america/agencias/2026/11/14/suben-a-dos-los-fallecidos-en-medio-de-fuerte-lluvia-en-ciudad-ecuatoriana-de-guayaquil/"
+        },
+        {
+          "name": "The Rio Times",
+          "url": "https://www.riotimesonline.com/ecuador-rain-floods-three-provinces-14-november"
+        },
+        {
+          "name": "Jamaica Observer/AFP",
+          "url": "https://www.jamaicaobserver.com/2026/11/13/act-now-el-nino-costs-will-double-undp-warns/"
+        }
+      ],
+      "terms": [
+        "El Niño",
+        "Adaptation (climate)"
+      ],
+      "title": "Heavy El Niño rains kill two in Guayaquil, Ecuador's largest city, as the UN warns acting late on El Niño would double its cost",
+      "what": "Heavy rain on Friday flooded about 50 sectors of Guayaquil, and Infrastructure Minister Roberto Luque said on Saturday that two people had died, a taxi driver and a 17-year-old swept into a channel; two more people were missing, Infobae and The Rio Times reported. Since the government declared a red alert on 28 August, El Niño has caused 12 other deaths in Ecuador and displaced 26,786 people, according to the report. On Friday the head of the UN Development Programme, Alexander De Croo, told AFP at COP31 that acting now on El Niño would cost about $36 billion, against $73 billion if countries wait.",
+      "why": "El Niño is a natural warming of the tropical Pacific that recurs every two to seven years and shifts rainfall worldwide, bringing floods to Ecuador's coast and drought elsewhere. The UN's argument is that early spending on drainage, warnings and crops is cheaper than repairing damage and supporting people afterwards; the UN's regional commission ECLAC estimates GDP losses of at least 2% over three years in Latin America and the Caribbean."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Most aid operations in the region have stopped because of insecurity, Al Jazeera reports, leaving millions dependent on scarce supplies.",
+      "id": "sudan-nuhud-killings",
+      "importance": 2,
+      "markets": [],
+      "rank": 14,
+      "rankWhy": "Sudan's war is the world's largest displacement crisis; violence against civilians continues as the army advances in Kordofan.",
+      "region": "Africa",
+      "sources": [
+        {
+          "name": "TRT World/Anadolu",
+          "url": "https://www.trtworld.com/article/9d167a527469"
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/14/how-saf-successes-in-sudans-kordofan-could-turn-tide-against-the-rsf"
+        }
+      ],
+      "terms": [
+        "Paramilitary"
+      ],
+      "title": "Local relief group says RSF fighters killed 10 civilians in Sudan's Al-Nuhud as the army pushes west through Kordofan",
+      "what": "The Dar Hamar Emergency Committee, a local relief group, said fighters of the paramilitary Rapid Support Forces (RSF) killed 10 unarmed civilians in different neighbourhoods of Al-Nuhud in West Kordofan since Thursday, and reported looting and a full communications blackout, TRT World and Anadolu reported; the RSF did not immediately comment. The army and allied forces said they took Al-Khuway, about 100 km away, on Friday, and Al Jazeera reported they have also broken the RSF siege of El-Obeid, capital of North Kordofan. Al Jazeera reports about 150,000 people killed since April 2023 and more than 14 million displaced; UN estimates cited by TRT put the displaced at nearly 13 million, so sources differ.",
+      "why": "Analysts quoted by Al Jazeera say the RSF has shifted from attack to defence in Kordofan and may pull back to Darfur, which it controls; armed groups often punish civilians in towns they expect to lose. Kordofan's roads link central Sudan to Darfur, so control there decides where the war goes next."
+    },
+    {
+      "category": "Society & rights",
+      "everyday": "The pope ends the trip with a Mass in Lima on Monday before returning to the Vatican.",
+      "id": "pope-peru-violence",
+      "importance": 2,
+      "markets": [],
+      "rank": 15,
+      "rankWhy": "The pope's visit highlights a sharp rise in crime and extortion that affects millions of Peruvians.",
+      "region": "Americas",
+      "sources": [
+        {
+          "name": "AP via WSLS",
+          "url": "https://www.wsls.com/news/2026/11/14/pope-laments-violence-enveloping-peru-as-he-ministers-to-far-flung-former-flock/"
+        }
+      ],
+      "terms": [
+        "Extortion"
+      ],
+      "title": "Pope Leo XIV laments the 'darkness' of violence in Peru as he visits his former diocese",
+      "what": "On the ninth day of his 12-day South America trip, Pope Leo XIV led a ceremony on Saturday at the cathedral in Chiclayo, where he was bishop from 2014 to 2023, and then flew to the Andean town of Santa Cruz de Succhabamba, AP reported. He spoke of the 'darkness' of rising crime and political instability and urged peaceful change rather than violence. AP cited official data showing Peru's homicide rate nearly doubled in five years, from 5.8 to 10.7 per 100,000 people, and reported extortion cases rose from 2,421 in 2019 to 26,734 in 2025.",
+      "why": "Drug trafficking (Peru is the world's second-largest coca producer, according to the UN Office on Drugs and Crime) and illegal gold mining fund criminal gangs that extort businesses. President Keiko Fujimori, in office since July, has declared states of emergency and joined a US-led coalition against drug cartels."
+    },
+    {
+      "category": "Politics & conflict",
+      "everyday": "Poland is part of Europe's negotiating team, so decisions on guarantees affect Polish troops and defence spending.",
+      "id": "merz-coalition-willing",
+      "importance": 2,
+      "markets": [
+        "European defence stocks"
+      ],
+      "rank": 16,
+      "rankWhy": "European leaders will coordinate post-war security guarantees for Ukraine as US-led talks continue.",
+      "region": "Europe",
+      "sources": [
+        {
+          "name": "deutschland.de",
+          "url": "https://www.deutschland.de/en/news/merz-hosts-meeting-of-the-coalition-of-the-willing-in-berlin"
+        },
+        {
+          "name": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558"
+        }
+      ],
+      "terms": [
+        "Coalition of the Willing"
+      ],
+      "title": "Germany's Merz will host the 'Coalition of the Willing' on Ukraine in Berlin on Thursday",
+      "what": "Chancellor Friedrich Merz has invited the 'Coalition of the Willing', the group of countries ready to back Ukraine's security after a ceasefire, to the Federal Chancellery in Berlin on Thursday 19 November, together with French President Emmanuel Macron and UK Prime Minister Andy Burnham, the German government's deutschland.de reported. The agenda covers coordinating diplomatic efforts, security guarantees for Ukraine after the war and further support.",
+      "why": "Europe has become Ukraine's largest financial and military backer and wants a say in any settlement, especially as US negotiators float ideas such as NATO membership in exchange for territory."
+    },
+    {
+      "category": "Environment & climate",
+      "everyday": "Drivers should slow down and use fog lights; flights and outdoor events may be disrupted.",
+      "id": "poland-fog-wind-warnings",
+      "importance": 1,
+      "markets": [],
+      "rank": 17,
+      "rankWhy": "Weather warnings affect drivers in large parts of western and central Poland overnight.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "TVN24 Meteo",
+          "url": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-tu-noc-moze-byc-niebezpieczna-st9339052"
+        }
+      ],
+      "terms": [
+        "Weather warning levels"
+      ],
+      "title": "IMGW warns of dense fog overnight in much of western and central Poland and strong wind in the south-west on Sunday",
+      "what": "Poland's weather service IMGW issued first-degree (lowest-level) warnings on Saturday: dense fog, with visibility locally below 200 metres, from 21:00 Saturday to 08:00 Sunday in parts of seven voivodeships, including counties around Warsaw such as Pruszków, Piaseczno and West Warsaw, TVN24 Meteo reported. A strong-wind warning covers parts of Lower Silesia and Opole from 04:00 to 16:00 on Sunday, with gusts up to 80 km/h.",
+      "why": "Calm, moist air on long November nights lets the ground cool and water vapour condense into fog."
+    },
+    {
+      "category": "Security & tech",
+      "everyday": "Anyone who could not file a form on Saturday morning could do so after 13:00.",
+      "id": "zus-maintenance",
+      "importance": 1,
+      "markets": [],
+      "rank": 18,
+      "rankWhy": "Planned downtime briefly blocked online access to Poland's social insurance services.",
+      "region": "Poland",
+      "sources": [
+        {
+          "name": "Dziennik.pl",
+          "url": "https://wiadomosci.dziennik.pl/wydarzenia/artykuly/11343745,zus-wydal-pilny-komunikat-chodzi-o-14-listopada-2026-roku.html"
+        }
+      ],
+      "terms": [],
+      "title": "ZUS online services, including the mZUS apps and the eZUS portal, were unavailable on Saturday morning for maintenance",
+      "what": "Poland's Social Insurance Institution (ZUS) announced on Thursday that its mobile apps, the eZUS portal and its website would be unavailable on Saturday 14 November from 9:00 to 13:00 because of planned maintenance, Dziennik.pl reported.",
+      "why": "Public services schedule upgrades at weekends, when fewer people and businesses need them."
+    }
+  ],
+  "watch": [
+    "Mon 16 Nov: COP31 climate talks in Antalya resume after Sunday's pause; negotiators have five days to agree the final text (Irish Times).",
+    "Mon 16 Nov, 14:00 Warsaw: NBP publishes October core inflation for Poland.",
+    "Tue 17 Nov: new strikes called by French unions over living costs (TRT World).",
+    "Tue 17 Nov, after the US close: Nvidia third-quarter results, its first under interim CEO Colette Kress (Bitcoin Magazine).",
+    "Thu 19 Nov: Trump–Xi–Putin meeting in Shenzhen planned on the APEC sidelines; Xi chairs the APEC leaders' meeting next week (China's foreign ministry via China Daily).",
+    "Developing: Iranian claims of mine strikes on tankers in Hormuz; US flight schedules expected back to normal by Sunday evening US time."
+  ],
+  "window": "Sat 14 Nov 10:00 → Sat 14 Nov 20:00 (Warsaw time)",
+  "id": "2026-11-14-2000",
+  "updatedAt": "2026-11-14T19:04:13.981443Z"
+}

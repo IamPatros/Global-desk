@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T09:17:07Z",
+  "updated": "2026-11-15T09:17:11Z",
   "lessons": [
     {
       "number": 1,
@@ -160,6 +160,14 @@
       "date": "14 Nov 2026",
       "createdAt": "2026-11-14T09:08:59Z",
       "updatedAt": "2026-11-14T09:15:22.857296Z"
+    },
+    {
+      "number": 21,
+      "title": "Elections and markets",
+      "level": "Applied",
+      "date": "15 Nov 2026",
+      "createdAt": "2026-11-15T09:40:00Z",
+      "updatedAt": "2026-11-15T09:15:48.035677Z"
     }
   ]
 }

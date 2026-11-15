@@ -1,0 +1,263 @@
+{
+  "checkQuestions": [
+    {
+      "a": "A new government can change how state-controlled companies are managed, taxed and how much they pay in dividends, so their expected cash flows change more than those of private firms. Investors may also change the risk premium they demand for political interference. Both effects hit these shares directly, while the index includes many companies little affected by the election.",
+      "q": "Explain, using cash flows and discount rates, why the shares of state-controlled companies can move more than the whole index after an election."
+    },
+    {
+      "a": "If investors expect better institutions and closer ties with partners such as the EU (for example, the release of frozen EU funds), they see lower risk and better growth prospects. They buy local assets, which requires buying the local currency, so demand for it rises and its price goes up. Lower perceived risk also means a lower required risk premium on local bonds.",
+      "q": "Why can a currency strengthen sharply after an opposition victory in an emerging market, as the forint did in 2026?"
+    },
+    {
+      "a": "Investors fear changes to courts or the central bank, so they demand a higher risk premium and sell local assets; selling them means selling the currency, which weakens it. A weaker currency raises the local price of imported goods and inputs, and shops may pass this on, raising inflation; the central bank may then keep interest rates higher, raising loan costs.",
+      "q": "A party wins a supermajority that lets it change the constitution alone. Trace one plausible chain to a household's shopping costs."
+    },
+    {
+      "a": "Because laws need the agreement of actors controlled by different parties, many promises cannot pass without compromise, so investors lower the probability that they will happen. With lower probabilities, the expected effect on cash flows, deficits and yields is smaller, so prices move less.",
+      "q": "Why might a divided government reduce the market impact of campaign promises?"
+    },
+    {
+      "a": "Pension funds hold large amounts of government bonds. If promises raise expected borrowing and yields, bond prices fall by roughly duration times the yield change, lowering the value of the fund's assets and therefore of savers' pension pots, at least until the higher yields are earned over time.",
+      "q": "Using duration, explain why fiscal promises matter to pension savers who never trade bonds themselves."
+    }
+  ],
+  "createdAt": "2026-11-15T09:40:00Z",
+  "date": "15 Nov 2026",
+  "editionId": "2026-11-15-1000",
+  "intro": "Elections decide who writes taxes, spending plans, regulations and trade rules, so investors watch them closely, but markets do not simply 'like' or 'dislike' a party. In this lesson you will learn how markets turn polls into probabilities, why prices move on the gap between the result and what was expected, and why currencies and government bonds usually react more than stock indices. You will study four real cases (Poland 2023, Mexico and India 2024, Hungary 2026) and the US midterms counted this week. By the end you will be able to calculate an election 'surprise', convert a currency move correctly, estimate how a bond price reacts to a yield change after an election, and explain where these ideas break down.",
+  "lessonQuiz": [
+    {
+      "answer": 2,
+      "explain": "Expected change = 0.6×2 + 0.4×(−6) = −1.2%, already in the price. If A wins the index moves to +2%, a surprise of 2 − (−1.2) = +3.2%.",
+      "options": [
+        "+2.0%, the value of outcome A",
+        "+0.8%, the difference between the two probabilities",
+        "+3.2%, from the priced-in −1.2% up to +2%",
+        "0%, because the result was more likely than not"
+      ],
+      "q": "Before a vote, investors see a 60% chance of outcome A (index would be 2% higher than today) and 40% of outcome B (6% lower). Hypothetical numbers. If A wins, roughly how much should the index move on the result?"
+    },
+    {
+      "answer": 0,
+      "explain": "Santander, mBank and Millennium analysts linked the rally to expected better EU relations and unblocked EU funds; Santander also cited an improved institutional outlook.",
+      "options": [
+        "Expected better EU relations and the unblocking of frozen EU funds, plus an improved institutional outlook",
+        "The central bank had just raised interest rates by surprise",
+        "Banks always rise after every election because turnout boosts deposits",
+        "Foreign investors were forced to sell złoty assets"
+      ],
+      "q": "After Poland's October 2023 election, bank stocks rose almost 9% while the WIG20 rose 5.2% by early afternoon. Which explanation matches what analysts said?"
+    },
+    {
+      "answer": 1,
+      "explain": "Markets had priced a stronger result based on exit polls; the BJP lost its own majority, so the surprise was negative despite the win.",
+      "options": [
+        "The central bank cut rates at the same time",
+        "The result was weaker than exit polls had led investors to expect",
+        "Stocks always fall on election days",
+        "Foreign investors cannot trade in India during elections"
+      ],
+      "q": "On 4 June 2024 India's governing alliance kept its majority, yet the Sensex fell 5.74%. Why?"
+    },
+    {
+      "answer": 3,
+      "explain": "Reuters reported jitters over Morena's possible supermajority and the risk to checks and balances, which raised the perceived risk premium.",
+      "options": [
+        "Mexico's central bank devalued the peso",
+        "Oil prices collapsed on election night",
+        "US tariffs on Mexico were announced that day",
+        "Investors feared a two-thirds majority could change the constitution without opposition support, weakening checks and balances"
+      ],
+      "q": "Why did the Mexican peso fall more than 3% after the June 2024 election?"
+    },
+    {
+      "answer": 1,
+      "explain": "Cost falls from 100×375 = 37,500 to 100×367 = 36,700 forints, 800 less: the forint strengthened.",
+      "options": [
+        "It rises by 800 forints",
+        "It falls by 800 forints",
+        "It falls by 8 forints",
+        "It is unchanged, because the hotel price in euros is unchanged"
+      ],
+      "q": "EUR/HUF falls from 375 to 367 forints per euro (hypothetical round numbers). What happens to the forint cost of a €100 hotel bill?"
+    },
+    {
+      "answer": 0,
+      "explain": "Price change ≈ −duration × Δyield = −7 × 0.4 = −2.8%. Higher yields mean lower prices for existing bonds.",
+      "options": [
+        "About −2.8%",
+        "About +2.8%",
+        "About −0.4%",
+        "About −7%"
+      ],
+      "q": "Linking to Lesson 8: a bond has a duration of 7. After an election its yield rises by 0.4 percentage point. Approximately how does its price change?"
+    },
+    {
+      "answer": 2,
+      "explain": "US laws need both chambers and the president (or a two-thirds override), so divided control makes large changes less likely without compromise.",
+      "options": [
+        "The president can pass tax laws alone by decree",
+        "All existing laws are automatically suspended",
+        "Large new tax or spending laws need compromise, so investors may lower the odds of big policy changes",
+        "The Federal Reserve must follow Congress's interest-rate instructions"
+      ],
+      "q": "After the 2026 US midterms, Democrats will control both chambers of Congress from 3 January 2027 while the president is a Republican. Which consequence is most likely?"
+    },
+    {
+      "answer": 3,
+      "explain": "That is how the ranked-choice tabulation works, as scheduled in Alaska for 18 November if no candidate reaches 50%.",
+      "options": [
+        "The candidate with the most first choices wins immediately",
+        "The election is repeated a month later",
+        "The legislature chooses the winner",
+        "Last-placed candidates are eliminated and their ballots transferred to voters' next choices until someone has a majority"
+      ],
+      "q": "Under ranked-choice voting, nobody wins more than 50% of first choices. What happens next?"
+    },
+    {
+      "answer": 0,
+      "explain": "Small samples and inherited conditions make such patterns unreliable; elections can matter, but a simple party rule is not evidence of cause.",
+      "options": [
+        "Ten elections is a small sample, and the economy each government inherits and global conditions can explain the returns, so correlation is not causation",
+        "Stock markets ignore politics completely",
+        "Stock prices are set by the government",
+        "Only bond markets react to elections"
+      ],
+      "q": "A commentator says 'Party X is always better for stocks' based on ten elections. What is the strongest objection?"
+    },
+    {
+      "answer": 1,
+      "explain": "A weaker currency raises the local price of imports; if that feeds inflation, the central bank may keep rates higher for longer.",
+      "options": [
+        "Import prices fall → inflation falls → the central bank cuts rates",
+        "Import prices rise → inflation risk rises → the central bank is less likely to cut rates",
+        "Exports fall immediately → GDP rises → rates fall",
+        "Nothing changes, because exchange rates do not affect prices"
+      ],
+      "q": "Linking to Lessons 5–7: an election result weakens a country's currency sharply and the move persists. Which chain is most plausible?"
+    },
+    {
+      "answer": 3,
+      "explain": "Exit polls are early estimates; markets often trade on them on election night and can move again when official results differ.",
+      "options": [
+        "The official final count published by the electoral commission",
+        "A poll of investors about expected market moves",
+        "A vote in parliament to leave a coalition",
+        "A survey of voters as they leave polling stations, used to estimate results before the official count"
+      ],
+      "q": "What is an exit poll?"
+    },
+    {
+      "answer": 2,
+      "explain": "Smaller, more foreign-funded markets with less certain institutions react more when perceived risk changes (Lesson 17).",
+      "options": [
+        "Emerging-market currencies are fixed by law and cannot move",
+        "US elections are never contested",
+        "Their markets are smaller and more reliant on foreign capital that can leave quickly, and investors are less certain about institutions, so risk premiums change more",
+        "Emerging-market investors do not follow politics"
+      ],
+      "q": "Why do elections in emerging markets such as Hungary, Mexico or Poland often move currencies more than elections in the US or Germany?"
+    }
+  ],
+  "level": "Applied",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "If the party investors prefer wins, the stock market must rise.",
+      "truth": "Prices move on the surprise relative to what was already expected. In India in 2024 the governing alliance won, but by less than exit polls suggested, and the Sensex fell 5.74% in a day."
+    },
+    {
+      "myth": "Markets judge whether a government is good or bad.",
+      "truth": "Markets price expected cash flows and risk for asset holders over their investment horizon. Many things voters care about, such as rights or the environment, may not show up in prices at all."
+    },
+    {
+      "myth": "Elections move the stock index most.",
+      "truth": "Currencies, government bonds and politically exposed sectors (banks, state-controlled companies) often move much more than the broad index, as Poland's banks (almost +9%) did after the 2023 election."
+    },
+    {
+      "myth": "Winning the election means the winner can carry out the whole programme.",
+      "truth": "Vetoes, divided chambers, courts and coalition partners limit change. Poland's president can veto laws, and US laws need both chambers of Congress and the president, unless a veto is overridden."
+    },
+    {
+      "myth": "One party is always better for stocks.",
+      "truth": "Such claims rest on few elections and confuse correlation with causation; inherited economic conditions and global factors can matter a great deal, whichever party is in power."
+    }
+  ],
+  "number": 21,
+  "objectives": [
+    "Explain the two channels through which an election can move asset prices: expected future cash flows and the risk premium (discount rate).",
+    "Calculate an expected market reaction from outcome probabilities and the 'surprise' move once the result is known.",
+    "Convert a currency move between the two quoting conventions and explain why '2% stronger' can give slightly different starting levels.",
+    "Estimate the change in a bond's price after an election-driven yield move using duration.",
+    "Trace how fears about checks and balances, fiscal promises or EU funds reached prices in Mexico (2024), Poland (2023) and Hungary (2026).",
+    "Explain why divided government and voting rules (such as ranked-choice voting) matter for what policy can actually change."
+  ],
+  "recap": "Lesson 20 showed that geopolitical events move prices through physical supply, costs and a risk premium, which traders estimate as a probability-weighted extra price. Lesson 8 explained that bond prices fall when yields rise, and Lessons 5 and 17 showed that capital flows move currencies, especially in emerging markets like Poland. Today we apply the same tools, expected values, risk premiums, bond maths and capital flows, to a political event that happens on a known date: an election.",
+  "sections": [
+    {
+      "body": "A share is a claim on a company's future profits, and its price today is roughly those expected profits discounted back to the present (Lessons 3 and 8). An election can change both parts of that sum. First, cash flows: a new government may change tax rates, regulate prices, award or cancel contracts, or alter trade rules, which changes the profits investors expect from specific sectors such as banks, energy or defence. Second, the discount rate: if investors become less sure that contracts will be respected, that courts are independent or that the budget is under control, they demand a higher return for holding the country's assets, which is a higher risk premium. A higher required return lowers today's price even if expected profits do not change, because each future złoty is discounted more heavily. Government bonds react through a similar logic: lenders demand higher yields if they expect larger deficits, higher inflation or weaker institutions. Currencies react because foreign investors must buy or sell the local currency whenever they move money into or out of local stocks and bonds (Lesson 5). The simplification here is that real prices also reflect global factors on the same day, such as US interest rates, so not every move on election day is caused by the election.",
+      "heading": "1. Why elections move prices at all"
+    },
+    {
+      "body": "Weeks before a vote, polls and other information let investors assign rough probabilities to each outcome, and prices adjust in advance to the probability-weighted average, exactly like the oil risk premium in Lesson 20. Suppose investors think there is a 60% chance of outcome A, which would justify an index 2% higher than today, and a 40% chance of outcome B, which would justify an index 6% lower (hypothetical numbers). The expected change is 0.6 × 2 + 0.4 × (−6) = −1.2%, so before the vote the index already sits about 1.2% below where it would be with outcome A certain. When the result arrives, the index moves by the gap between the realised outcome and that expectation: if A wins it rises about 3.2% (from −1.2% to +2%), and if B wins it falls about 4.8% (from −1.2% to −6%). This is why a party that 'markets like' can win and prices still fall: if the win is smaller than expected, the surprise is negative. India in June 2024 is the textbook case: Prime Minister Narendra Modi's alliance kept its majority, but the result was weaker than exit polls had suggested and his BJP lost its own majority; on 4 June the Sensex fell 4,390 points (5.74%) and the Nifty 5.93%, Business Today reported. The limit of this model is that investors disagree about probabilities and about what each outcome means, so the 'expected' level is fuzzy and the reaction can unfold over days rather than minutes.",
+      "heading": "2. Markets price probabilities, then react to surprises"
+    },
+    {
+      "body": "Election effects are usually largest where policy hits most directly and where foreign money is most mobile. Currencies often move first, because they trade almost 24 hours a day on weekdays (so after a Sunday vote they react as soon as Asian trading opens) and foreign investors adjust positions through them. State-influenced companies and banks can move far more than the overall index, because governments affect their management, taxes and dividends directly. Poland's October 2023 election shows all three: on the Monday after exit polls suggested the opposition coalition could win 248 of 460 seats, the złoty was about 1.2% stronger against the euro than on Friday, the WIG20 was up 5.2% by early afternoon, the banking sub-index almost 9%, Pekao almost 11% and Orlen 8%, Notes from Poland reported. Analysts at Santander, mBank and Millennium linked the moves to expected better relations with the EU and the likely unblocking of EU funds frozen over rule-of-law concerns. Government bonds tend to react when the result changes the expected path of deficits, inflation or the central bank. The exception is a large, deep market such as the US, where an election is only one of many forces and the dollar's global role (Lesson 16) cushions moves.",
+      "heading": "3. Which assets react most, and why"
+    },
+    {
+      "body": "Investors care not only about which policies win but about whether the rules of the game stay predictable. A supermajority (a majority above half, such as two-thirds), which in many countries is what it takes to change the constitution, removes the need to bargain with the opposition, so markets may fear changes to courts, the central bank or property rights even if no such change has been announced. Mexico in June 2024 illustrates this: the unexpectedly strong showing of the ruling Morena party and its allies left them poised for a two-thirds majority in Congress, and the peso fell more than 3% against the dollar on 3 June, touching 17.5020 per dollar during the session, its worst drop since September 2020, as investors feared constitutional changes without opposition support (Reuters via Kitco). Hungary in April 2026 shows the reverse: after Péter Magyar's Tisza party defeated Viktor Orbán's Fidesz, the forint rose 2.16% to a four-year high of 366.81 per euro and the MSCI Hungary index jumped 3% to a record, as investors expected closer EU cooperation that could release €19 billion of frozen EU funds (Investing.com). In both cases the mechanism is the same: a change in the perceived quality of institutions changes the risk premium, which moves the currency and asset prices. Be careful: these are short-run market reactions, not verdicts on whether a government is good for citizens, and economists and voters weigh many things markets do not price.",
+      "heading": "4. Institutions, checks and balances and the risk premium"
+    },
+    {
+      "body": "What an election changes depends on how power is shared after it. In the US, laws need both chambers of Congress and the president's signature, or a two-thirds vote in both chambers to override a veto, and Senate rules usually require 60 votes to end debate on most bills. Democrats won majorities in both chambers in the 3 November 2026 midterms (Anadolu) and take control when the new Congress convenes on 3 January 2027; the president is a Republican, so from then on major new laws will need compromise. Divided government tends to lower the chance of big changes in taxes and spending, which some investors welcome as predictability and others see as a risk of budget stand-offs; the evidence on whether 'gridlock is good for stocks' is mixed, and it is best treated as a hypothesis, not a rule. Poland has its own version: the president can veto laws passed by the parliament, and on 13 November President Karol Nawrocki vetoed the second law implementing the EU's Digital Services Act, so it cannot take effect unless the Sejm overrides the veto with a three-fifths majority, as Poland's constitution requires (rp.pl reported the veto). For markets, the key question is therefore not only who won, but which actor can block whom, and for how long. A newly elected majority that cannot pass its programme moves prices much less than its campaign promises would suggest.",
+      "heading": "5. Divided government: who can actually change policy"
+    },
+    {
+      "body": "Campaign promises often involve spending more or taxing less, and Lesson 14 showed that a larger deficit must be financed by issuing more government bonds. If investors expect more bonds to be sold, or higher inflation later, they demand higher yields, and existing bonds lose value. Duration (Lesson 8) gives the approximate size: the percentage change in a bond's price is roughly minus its (modified) duration multiplied by the change in yield in percentage points; this works for small yield changes, and strictly the 'Macaulay' duration must first be divided by (1 + yield per period) to get modified duration. A bond with a modified duration of 8 loses about 8 × 0.5 = 4% of its value if its yield rises by 0.5 percentage point. This week shows how sensitive these markets already are: the US 10-year yield ended Friday at 5.152%, up 29.4 basis points (0.294 percentage point) in a week, as markets priced a likely Federal Reserve rate rise (Investrade). Higher government yields push up borrowing costs for companies and households, so an election that worsens the fiscal outlook can tighten financial conditions even before any law is passed. The limit: yields also depend on the central bank, inflation and global investors, so isolating the 'election part' of a yield move requires comparing with similar countries on the same day.",
+      "heading": "6. Fiscal promises and the bond market"
+    },
+    {
+      "body": "How votes become seats affects both who wins and how long markets wait for certainty. In first-past-the-post systems the candidate with the most votes in a district wins, even without a majority; in proportional systems parties get seats roughly in line with their national vote share, which often produces coalitions that take weeks to form. Ranked-choice voting, used in Alaska, asks voters to rank candidates; if no one has more than 50% of first choices, the last-placed candidates are eliminated and their ballots transferred to voters' next choices until someone has a majority. In Alaska's 2026 Senate race, as of Anadolu's report, Democrat Mary Peltola had 49.84% to Republican Dan Sullivan's 46.09% with about 96% of ballots counted, just short of 50%, so a ranked-choice tabulation is scheduled for 18 November if no one passes 50% (Anadolu). Slow counts and run-offs extend the period of uncertainty, which tends to keep risk premiums and option prices higher until the result is final. Exit polls, surveys of voters leaving polling stations, often move markets on election night, but they can be wrong, which creates a second surprise when official results arrive.",
+      "heading": "7. Voting rules shape results and timing"
+    },
+    {
+      "body": "Over years, stock markets are driven mainly by profits, productivity, interest rates and global conditions, so election-day moves often fade or reverse. Claims that one party is 'always better for stocks' rest on small samples, a few dozen elections at most, and confuse correlation with causation, because the economy a president inherits and global conditions can matter a great deal, alongside the policies he or she adopts. Big moves also tend to happen where institutions and money flows are fragile, which is why emerging markets such as Mexico, Hungary or Poland can see larger reactions than the US or Germany (Lesson 17). Finally, markets judge only what affects asset prices; issues such as civil liberties, inequality or the environment matter to voters but may not show up in prices for a long time, if at all. A good rule for beginners: when you read that 'markets cheered' or 'markets punished' an election, ask what exactly was expected, what changed in expected cash flows or the risk premium, and whether something else moved global markets the same day.",
+      "heading": "8. Limits: what elections usually do not change"
+    }
+  ],
+  "takeaways": [
+    "Elections move prices through two channels: expected cash flows (taxes, regulation, contracts) and the risk premium (confidence in institutions and policy).",
+    "Prices adjust in advance to probability-weighted expectations; on the day, they move on the surprise: India 2024's Sensex fell 5.74% even though the governing alliance won.",
+    "Currencies, bonds and politically exposed sectors usually react more than broad indices: after Poland's 2023 vote the WIG20 rose 5.2% intraday but banks almost 9% and Pekao almost 11%.",
+    "Perceived institutional quality matters: Mexico's peso fell more than 3% on fears of a supermajority (2024), while Hungary's forint rose 2.16% on expected EU fund releases (2026).",
+    "Who can block whom matters: divided government and vetoes, such as Poland's presidential veto of the DSA bill on 13 Nov 2026, limit how much campaign promises change prices.",
+    "Duration links fiscal promises to bond losses: price change ≈ −(modified) duration × yield change for small moves, e.g. −8 × 0.5 = −4%."
+  ],
+  "title": "Elections and markets",
+  "todayExample": "This edition's US midterms story shows these ideas at work: Democrats won majorities in both chambers of Congress on 3 November and take control on 3 January 2027, while the president is a Republican, so from then on major new laws will need compromise. Counting continues in Alaska, where, as of Anadolu's report, Mary Peltola had 49.84% to Dan Sullivan's 46.09% with about 96% counted, and a ranked-choice tabulation is set for 18 November if no one reaches 50%. Meanwhile the US 10-year yield closed Friday at 5.152%, showing that interest-rate expectations, not only politics, are driving US markets this week. For an investor, the question is how much divided government lowers the probability of large tax or spending changes, and therefore how much it affects expected deficits and yields.",
+  "workedExamples": [
+    {
+      "problem": "Investing.com reported that after Hungary's April 2026 election the forint 'rose 2.16% to 366.81 per euro'. Exchange rates are quoted as forints per euro (EUR/HUF). What was the approximate rate before the jump, and why might two analysts calculate slightly different answers?",
+      "solution": "Convention 1 (the forint's own value rose 2.16%): the forint's value in euros is 1 ÷ EUR/HUF. If it rose 2.16%, then (1/366.81) = 1.0216 × (1/X), so X = 366.81 × 1.0216 = 374.73 forints per euro. Convention 2 (the EUR/HUF rate fell by 2.16%): (X − 366.81) ÷ X = 0.0216, so X = 366.81 ÷ (1 − 0.0216) = 374.91. The two answers differ by about 0.18 forint because a percentage change depends on which price is the base. Interpretation: either way about 8 fewer forints were needed per euro, so euro imports and holidays became cheaper for Hungarians and euro debts lighter, while exporters earned fewer forints per euro.",
+      "title": "Two ways to say the forint rose 2.16%"
+    },
+    {
+      "problem": "Business Today reported that on 4 June 2024 the Sensex fell 4,390 points to settle at 72,079. (a) What was the previous close and the percentage fall? (b) Hypothetically, suppose investors had assigned a 70% chance to a large majority (worth +3% for the index) and 30% to a narrower result (worth −8%). What reaction was priced in, and how big was the surprise if the narrow outcome happened?",
+      "solution": "(a) Previous close = 72,079 + 4,390 = 76,469. Fall = 4,390 ÷ 76,469 = 0.0574 = 5.74%, matching the report. (b) Hypothetical expected change = 0.7 × 3 + 0.3 × (−8) = 2.1 − 2.4 = −0.3%. If the narrow result happens, the index moves from −0.3% to −8%, a surprise of −7.7 percentage points; if the large majority happened it would move from −0.3% to +3%, a surprise of +3.3 points. Interpretation: the more confident investors are in one outcome, the larger the shock if the other one occurs; in reality exit polls had made investors confident, which is why the fall was so large even though the governing alliance kept its majority.",
+      "title": "How big was India's election-day surprise?"
+    },
+    {
+      "problem": "Reuters (via Kitco) reported that on 3 June 2024 the Mexican peso fell more than 3%, touching 17.5020 per dollar during the session. Treat the move as exactly 3% in the USD/MXN rate and 17.5020 as the new rate (approximations: the report says 'more than 3%', and 17.5020 was an intraday low). A Mexican shop must pay a US supplier $10,000. How many pesos did the invoice cost before and after the move?",
+      "solution": "If USD/MXN rose 3% to 17.5020, the earlier rate was about 17.5020 ÷ 1.03 = 16.9922 pesos per dollar. Cost before ≈ 10,000 × 16.9922 = 169,922 pesos. Cost after = 10,000 × 17.5020 = 175,020 pesos. Extra cost ≈ 175,020 − 169,922 = 5,098 pesos, about 3%. Interpretation: an election that weakens a currency raises the local cost of imports straight away; if the move lasts, shops pass part of it to customers, which is how a political event can feed inflation (Lessons 5 and 6). Because the true move was slightly more than 3%, the real extra cost was slightly larger.",
+      "title": "What a peso fall means for an importer"
+    },
+    {
+      "problem": "A candidate promises large unfunded tax cuts. After the vote, the yield on a 10-year government bond with a duration of 8 rises from 5.0% to 5.5% (hypothetical numbers). (a) Approximately how much does the bond's price change? (b) Using the real figure that the US 10-year yield rose 0.294 percentage point in the week to 13 November 2026 (Investrade), what loss would a bond with duration 8 have suffered, approximately?",
+      "solution": "(a) Price change ≈ −duration × change in yield = −8 × 0.5 = −4%, so a bond worth 1,000 would fall to about 960. (b) −8 × 0.294 = −2.352%, about −2.35%, so 1,000 would fall to about 976.5. Interpretation: the duration rule is an approximation that works well for small moves (it ignores 'convexity'); it shows why fiscal promises that make investors expect more borrowing can quickly reduce the value of bonds held by pension funds, banks and savers.",
+      "title": "Fiscal promises and a bondholder's loss"
+    }
+  ],
+  "updatedAt": "2026-11-15T09:15:48.035677Z"
+}
