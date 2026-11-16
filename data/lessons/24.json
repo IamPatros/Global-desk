@@ -1,0 +1,252 @@
+{
+  "checkQuestions": [
+    {
+      "a": "A share price reflects expected future cash flows discounted at a required return. If investors cut their expectations of future growth (for example because of worries about AI spending or leadership) and demand a higher risk premium, both channels lower today's price, even with unchanged current profits.",
+      "q": "Nvidia's current profits did not change last week, yet its market value has fallen by about a third since early October. Explain how that is possible."
+    },
+    {
+      "a": "Buyers who borrowed hold little equity; a 10% fall eats a large share of it. Brokers issue margin calls; those who cannot add cash are forced to sell. The forced selling pushes prices lower, causing more margin calls and more selling, and funds facing withdrawals sell other assets too, spreading the fall (contagion).",
+      "q": "Trace step by step how leverage can turn a 10% fall in a popular asset into a much bigger fall."
+    },
+    {
+      "a": "Gold pays no interest. Expectations of more central-bank rate rises lift bond yields and the dollar, raising the opportunity cost of holding gold and making it dearer for non-dollar buyers; Reuters also cited weaker coin demand and fewer central-bank purchases. Which fear dominates, inflation and rates or a stock crash, decides the direction.",
+      "q": "Why did gold, a traditional safe haven, fall to a one-year low on a day when stock markets were also falling?"
+    },
+    {
+      "a": "CAPE signals expensive valuations and has been linked to lower average long-run returns, but it is a poor timing tool: it can stay high for years, data providers differ, and changes in growth, accounting and interest rates affect it. It describes value, not when prices will turn.",
+      "q": "A friend says 'the CAPE is near 39, so I will sell everything tomorrow'. What would you point out?"
+    },
+    {
+      "a": "Through sentiment and portfolios: global funds held by Polish savers lose value; investors may cut risk across markets, sometimes selling emerging-market assets and weakening currencies like the złoty; and if the fall hurts confidence and investment, slower global growth reduces demand for Polish exports. On 16 Nov the WIG20 was flat, showing contagion is not automatic.",
+      "q": "How can a sell-off in US AI shares affect Poland?"
+    }
+  ],
+  "createdAt": "2026-11-16T20:30:00Z",
+  "date": "16 Nov 2026",
+  "editionId": "2026-11-16-2000",
+  "intro": "Prices in financial markets are set by people, and people swing between optimism and fear. In this lesson you will learn how mood ('sentiment') changes prices even when the facts barely change, how to measure valuation and fear with the CAPE ratio and the VIX index, how bubbles inflate through feedback loops and why they are so hard to spot and to bet against. You will also see why falls are often faster than rises, why the arithmetic of losses is cruel, and where economists genuinely disagree. By the end you will be able to calculate drawdowns and recovery gains, read a CAPE or VIX number, and trace how a sentiment shift spreads from one share to whole markets.",
+  "lessonQuiz": [
+    {
+      "answer": 2,
+      "explain": "The fall is 25%, but the rise is measured from 150: 50 ÷ 150 = 33.3%.",
+      "options": [
+        "25%",
+        "50%",
+        "33.3%",
+        "20%"
+      ],
+      "q": "A share falls from 200 zł to 150 zł. What percentage rise is needed to return to 200 zł?"
+    },
+    {
+      "answer": 0,
+      "explain": "Price = multiple × earnings: 30 × 8 = 240 and 20 × 8 = 160, a fall of 80 ÷ 240 ≈ 33%.",
+      "options": [
+        "It falls from 240 zł to 160 zł, about −33%",
+        "It stays at 240 zł because profit is unchanged",
+        "It falls from 240 zł to 200 zł",
+        "It rises because the share is now cheaper"
+      ],
+      "q": "A company's profit per share stays at 8 zł, but investors cut the multiple they will pay from 30 to 20 times earnings. What happens to the price?"
+    },
+    {
+      "answer": 3,
+      "explain": "CAPE is price over ten-year average real earnings; its inverse, 1 ÷ 38.6 ≈ 2.6%, is the earnings yield. It does not forecast timing.",
+      "options": [
+        "The index will fall about 57% within a year",
+        "Companies' profits are 38.6% of their share prices",
+        "The index is 38.6% above its fair value",
+        "Investors are paying 38.6 times average inflation-adjusted earnings of the past ten years, an earnings yield of about 2.6%"
+      ],
+      "q": "The S&P 500's CAPE is 38.6. Which statement is correct?"
+    },
+    {
+      "answer": 1,
+      "explain": "Monthly ≈ 24 ÷ √12 = 24 ÷ 3.46 ≈ 6.9%. The VIX is annualised, and volatility scales with the square root of time.",
+      "options": [
+        "±24%",
+        "±6.9%",
+        "±2%",
+        "±12%"
+      ],
+      "q": "The VIX is 24. What is the approximate one-standard-deviation move the options market expects for the S&P 500 over one month?"
+    },
+    {
+      "answer": 2,
+      "explain": "Borrowed positions must keep a minimum equity; falls trigger margin calls and forced sales, which push prices lower in a self-reinforcing loop.",
+      "options": [
+        "Prices fall → central bank raises rates → prices recover",
+        "Prices fall → investors buy more on credit → losses disappear",
+        "Prices fall → margin calls → forced selling → prices fall further → more margin calls",
+        "Prices fall → dividends rise → borrowers repay loans early"
+      ],
+      "q": "Which chain best describes how leverage deepens a crash?"
+    },
+    {
+      "answer": 0,
+      "explain": "The shares are now worth 80,000 zł; after repaying 50,000 zł she has 30,000 zł, a 40% loss: leverage of 2 doubles the percentage loss.",
+      "options": [
+        "It falls 40% to 30,000 zł",
+        "It falls 20% to 40,000 zł",
+        "It falls 10% to 45,000 zł",
+        "It is unchanged because the loss falls on the lender"
+      ],
+      "q": "An investor buys 100,000 zł of shares using 50,000 zł of her own money and a 50,000 zł loan. Prices fall 20%. What happens to her own money (ignoring interest)?"
+    },
+    {
+      "answer": 3,
+      "explain": "Gold yields nothing, so higher rates on bonds and deposits make it relatively less attractive, and a stronger dollar makes it dearer for others; Reuters cited both.",
+      "options": [
+        "Gold always falls when shares fall",
+        "Rate rises increase inflation, which makes gold less useful as a hedge",
+        "Central banks are forced to sell gold when they raise rates",
+        "Higher expected interest rates raise the opportunity cost of holding gold, which pays no interest, and strengthen the dollar"
+      ],
+      "q": "Gold fell to a one-year low while markets priced a December Fed rate rise. Linking Lessons 7 and 12, which explanation is most accurate?"
+    },
+    {
+      "answer": 1,
+      "explain": "In the efficient-market view, prices already include known information, so systematically identifying mispricing in advance is very hard.",
+      "options": [
+        "Because governments ban short selling",
+        "Because prices quickly reflect available information, so what looks like a bubble is often only clear with hindsight",
+        "Because share prices never fall more than 20%",
+        "Because central banks always prevent bubbles"
+      ],
+      "q": "According to the efficient-market view associated with Eugene Fama, why are bubbles hard to exploit?"
+    },
+    {
+      "answer": 2,
+      "explain": "Limits to arbitrage: mispricing can persist or grow longer than a bettor can afford to wait, so even correct views can lose money.",
+      "options": [
+        "Earnings yield",
+        "Base effect",
+        "Limits to arbitrage",
+        "The multiplier"
+      ],
+      "q": "A fund manager is convinced an asset is in a bubble and bets against it, but the price rises another 40% and she must close the position at a loss. Which concept does this illustrate?"
+    },
+    {
+      "answer": 0,
+      "explain": "Through the supply chain: lower expected AI-chip demand cuts expected revenue for suppliers, and investors re-price them along with the customer.",
+      "options": [
+        "Taiwanese chipmakers such as TSMC are major suppliers to Nvidia, so expectations for their future sales fell too",
+        "Taiwan's currency is pegged to Nvidia's share price",
+        "Taiwan's central bank raised rates that day",
+        "Nvidia is listed in Taipei"
+      ],
+      "q": "Taiwan's market fell about 6% after turmoil around Nvidia, a US company. Linking to Lesson 13 on supply chains, why did the shock spread so strongly to Taiwan?"
+    },
+    {
+      "answer": 3,
+      "explain": "Railways, the internet and housing show bubbles usually start from something real; leverage and herding then overshoot. No single indicator times them.",
+      "options": [
+        "They are always based on pure fantasy",
+        "They can be reliably identified with a single indicator",
+        "They only occur in shares, never in housing or commodities",
+        "They often begin with a real innovation, then feedback loops and credit push prices far beyond what the improvement justifies"
+      ],
+      "q": "Which statement about bubbles is most accurate?"
+    }
+  ],
+  "level": "Applied",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "If a share falls 50% and then rises 50%, you are back where you started.",
+      "truth": "You are down 25%: 100 → 50 → 75. Recovering from a loss of x needs a gain of x ÷ (1 − x), so a 50% loss needs a 100% gain."
+    },
+    {
+      "myth": "A high CAPE means a crash is about to happen.",
+      "truth": "A high CAPE has historically been followed by lower average long-term returns, but it says little about timing; the measure was above 40 in 1999 and markets kept rising for months, and higher growth or lower interest rates can justify higher multiples."
+    },
+    {
+      "myth": "The VIX predicts that the market will fall.",
+      "truth": "The VIX measures expected volatility in either direction over the next 30 days. It tends to rise when markets fall because investors buy protection, but it does not forecast direction."
+    },
+    {
+      "myth": "Bubbles are pure madness with no real basis.",
+      "truth": "Most bubbles start from a real innovation or good news (railways, the internet, possibly AI); the problem is that feedback loops and leverage push prices far beyond what that real improvement can justify."
+    },
+    {
+      "myth": "If you are sure something is a bubble, betting against it is an easy profit.",
+      "truth": "Bubbles can keep inflating for a long time, and short-sellers can be forced out by losses before the fall comes. Economists call this a limit to arbitrage."
+    }
+  ],
+  "number": 24,
+  "objectives": [
+    "Explain why a share's price can change sharply even when the company's current profits do not, using expected cash flows and the required return.",
+    "Calculate a drawdown and the percentage gain needed to recover from it, and explain why the two are not equal.",
+    "Interpret a CAPE ratio and its earnings yield, and state what CAPE can and cannot tell you about timing.",
+    "Interpret the VIX index as the market's expected volatility and convert it into an approximate one-month move.",
+    "Trace the feedback loop of a bubble and a crash, including the roles of extrapolation, leverage and forced selling.",
+    "Compare the efficient-markets view and the behavioural view of bubbles and explain why bubbles are hard to bet against."
+  ],
+  "recap": "In Lesson 23 you saw how mortgages work, how leverage on a small down payment magnifies gains and losses, and how housing booms fuelled by credit can turn into banking crises. That was one example of a bigger pattern: when rising prices and easy borrowing reinforce each other, an asset can rise far above what its income justifies. Today we study that pattern in general, building on the share valuation of Lesson 3, the interest rates of Lesson 7, safe havens from Lesson 12 and the business cycle of Lesson 15.",
+  "sections": [
+    {
+      "body": "Recall from Lesson 3 that a share is a claim on a company's future profits, so its price reflects what investors expect the company to earn over many years, converted into today's money. Two things drive that price: the expected stream of future cash and the return investors require for bearing the risk (the discount rate, which includes the risk-free interest rate from Lesson 7 plus a risk premium). 'Sentiment' means the overall mood of investors, how optimistic or fearful they are, and it works through both channels. When investors become optimistic they raise their forecasts of future growth and accept a lower risk premium, so the price rises even if this year's profit is unchanged. When fear takes over they cut forecasts and demand more compensation for risk, so the price falls. Example with hypothetical numbers: a company earning 10 zł per share that investors value at 25 times earnings is priced at 250 zł; if fear lowers that multiple to 18, the price falls to 180 zł, a 28% drop with no change in current profit. This is why markets often move on news about expectations (an upcoming results announcement, a change of chief executive) rather than on the profits already earned. The limit: sentiment cannot permanently detach prices from cash flows, because in the long run shareholders are paid only from what the company actually earns.",
+      "heading": "1. What sentiment is and why it moves prices"
+    },
+    {
+      "body": "A drawdown is the percentage fall from a previous peak to a later low. The key asymmetry is that a loss of x% needs a gain of x ÷ (1 − x) to get back to the peak, because the gain is calculated on a smaller base. A 20% fall needs a 25% rise; a 50% fall needs a 100% rise; a 77.9% fall needs about a 353% rise. Real example: the US Nasdaq Composite closed at a record 5,048 on 10 March 2000 and at 1,114 on 9 October 2002 (Fox Business), a drawdown of about 77.9%. Today's example: Reuters calculates that gold fell to $3,830.74 an ounce on 16 November 2026, 31.5% below its January record of $5,594.82, so it would need to rise about 46% just to return to that record. This arithmetic is why risk managers care so much about avoiding large losses: compounding works against you after a deep fall. It is also why percentage moves on volatile assets should always be read together with the starting level.",
+      "heading": "2. The arithmetic of losses: drawdowns and recovery"
+    },
+    {
+      "body": "The simplest valuation gauge is the price-to-earnings (P/E) ratio: share price ÷ earnings per share, or for an index, total market value ÷ total profits. Its inverse, earnings ÷ price, is the earnings yield, a rough measure of how much profit you buy per złoty or dollar invested. Because one year's profit can be unusually high or low, economist Robert Shiller popularised the cyclically adjusted P/E (CAPE): price divided by the average of the last ten years of inflation-adjusted earnings. ChartRow's estimate (it extends Shiller's published data) put the S&P 500's CAPE at 38.6 on 13 November 2026, against a long-run median of 16.6 since 1881 and a peak of 44.2 in December 1999; other data providers show slightly different current readings, around 39–40, because of differing earnings data and dates. A CAPE of 38.6 means an earnings yield of about 2.6% (1 ÷ 38.6), compared with about 6.0% at the median. A high CAPE says investors are paying a lot for each unit of past earnings, which historically has been followed by lower average returns over the next ten years. The limit is crucial: CAPE says little about timing. It can stay high for years, it is influenced by changes in accounting and in the mix of companies, and higher growth or lower interest rates can justify higher multiples than in the past.",
+      "heading": "3. Measuring valuation: P/E and the CAPE ratio"
+    },
+    {
+      "body": "The VIX, published by the Cboe exchange in Chicago, measures the volatility of the S&P 500 that options traders expect over the next 30 days, expressed as an annualised percentage. It is derived from the prices of options (contracts that pay off if the index moves past certain levels); when investors rush to buy protection against falls, option prices rise and so does the VIX, which is why it is nicknamed the 'fear gauge'. On Friday 13 November 2026 the VIX rose 3.21% to 19.30 (Zacks via Yahoo Finance). To turn an annual volatility into a one-month figure you divide by the square root of 12 (about 3.46), because volatility grows with the square root of time: 19.30 ÷ 3.46 ≈ 5.6%. So the market was pricing a typical one-month move of roughly ±5.6% in the S&P 500, about 420 points from Friday's close of 7,561.67. This is a statistical 'one standard deviation' range, not a forecast of direction. It is an approximation: strictly the VIX covers 30 calendar days (scaling by √(30/365) gives 5.5%), it assumes normally distributed returns although real markets have more extreme days, and the VIX usually runs somewhat above the volatility that actually follows. VIX readings below about 15 usually accompany calm markets and readings above 30 accompany stress, but these are conventions, not laws.",
+      "heading": "4. Measuring fear: the VIX index"
+    },
+    {
+      "body": "A bubble is a period in which an asset's price rises far above what reasonable expectations of its future income can justify, followed by a sharp fall. Bubbles usually start with a real innovation or good news, such as the internet in the 1990s or, many argue, AI today, so the optimism is not baseless at first. Then a feedback loop forms: rising prices produce gains, gains attract attention and new buyers who extrapolate recent returns into the future, and their buying pushes prices higher still. Easy credit amplifies the loop, because borrowed money lets buyers purchase more (the leverage of Lesson 23), and rising collateral values allow even more borrowing, the mechanism behind the credit booms of Lesson 22. Herding makes it worse: John Maynard Keynes compared investing to a beauty contest in which you win by guessing what others will find attractive, so even sceptical professionals may buy what they expect others to buy. Economist Hyman Minsky argued that long periods of stability encourage ever riskier borrowing, so stability itself breeds instability. During the dot-com boom many internet firms with little or no profit reached high valuations; when expectations broke, the Nasdaq lost about 78% of its value over two and a half years. A useful sign of a bubble is the claim that 'this time is different' and old valuation measures no longer apply.",
+      "heading": "5. How a bubble inflates: the feedback loop"
+    },
+    {
+      "body": "Falls are often faster than rises because fear spreads quickly and because leverage forces selling. An investor who borrowed to buy must keep enough of their own money (margin) in the account; when prices fall, the broker issues a margin call, and if the investor cannot add cash the position is sold, pushing prices down further and triggering more margin calls. Funds facing withdrawals sell what they can, not what they want, so falls spread from the weakest asset to others, which is contagion. Sentiment also spreads across countries: on 16 November 2026 Taiwan's main index fell about 6% and South Korea's about 3.6% after the turmoil around Nvidia, a US company, because their chipmakers supply it (this edition's markets data). The economy can be hit too: lower share prices reduce household wealth and confidence and make it harder for firms to raise money, one way a market fall can feed the business-cycle downturns of Lesson 15. Not every sharp fall is a burst bubble: a 10–20% decline in an otherwise fair-valued market (a 'correction') is common and can reverse quickly.",
+      "heading": "6. How the bubble bursts: fear, forced selling and contagion"
+    },
+    {
+      "body": "Economists genuinely disagree here, and the 2013 Nobel prize in economics was shared by Eugene Fama, Lars Peter Hansen and Robert Shiller 'for their empirical analysis of asset prices', and Fama and Shiller hold different views (Nobel Prize; ai-CIO). Fama's efficient-market hypothesis says prices quickly reflect available information, so consistently beating the market is very hard and what look like bubbles may only be visible with hindsight. Shiller's behavioural view says that prices are hard to predict in the short run but that large price rises have tended to be followed by sharp corrections, and that psychology and feedback loops can push prices away from fundamentals for long periods. Behavioural economists add that even if a bubble exists, betting against it is dangerous, because it can keep inflating longer than a short-seller (someone who profits from falls) can afford to wait; they call this a 'limit to arbitrage'. Efficient-market economists reach a similar practical conclusion for a different reason: they doubt bubbles can be reliably identified in advance. Central banks face a similar problem: raising interest rates to deflate a suspected bubble can damage the whole economy, so many prefer targeted tools such as the borrowing limits in Lesson 23.",
+      "heading": "7. Can bubbles be spotted? Two schools of thought"
+    },
+    {
+      "body": "Sentiment affects safe havens as well as risky assets. In Lesson 12 you learned that gold often rises when investors are afraid, but gold pays no interest, so when interest rates and the dollar rise, the opportunity cost of holding it increases. Reuters attributes gold's slide to a one-year low, 31.5% below its January 2026 record, to higher US bond yields, a strong dollar and expected Federal Reserve rate rises, together with weaker demand for coins and bars. In shares, Reuters notes that Nvidia's market value fell by about $1.9 trillion from early October to about $3.9 trillion at Friday's close, a fall of about 33%, as fears grew about AI spending and the company's leadership. These two moves show that sentiment can change both the 'fear' and the 'greed' assets at the same time, depending on what investors fear most. The lesson for a beginner is not to predict the next move, but to understand what is driving the mood and to judge any price against a measure of value.",
+      "heading": "8. Sentiment, safe havens and interest rates today"
+    }
+  ],
+  "takeaways": [
+    "Sentiment moves prices through two channels: expected future cash flows and the required return (risk premium); a lower P/E multiple can cut a price sharply with no change in current profit.",
+    "A loss of x needs a gain of x ÷ (1 − x) to recover: Nvidia's ≈33% fall in market value needs ≈49% to recover, gold's 31.5% fall needs ≈46%, and the Nasdaq's 77.9% fall in 2000–02 needed ≈353%.",
+    "CAPE = price ÷ ten-year average real earnings; the S&P 500's was about 38.6 on 13 Nov 2026 (ChartRow estimate) (earnings yield ≈2.6%) against a median of 16.6, which signals high valuations but not timing.",
+    "The VIX is the 30-day expected volatility of the S&P 500 (annualised); divide by √12 for an approximate monthly range: 19.30 ≈ ±5.6%, about ±420 points (assumes normal returns).",
+    "Bubbles grow through feedback loops of rising prices, extrapolation, herding and credit, and burst through fear, margin calls and forced selling that spread across markets.",
+    "Economists disagree on whether bubbles can be identified in advance (Fama vs Shiller, who shared the 2013 Nobel with Lars Peter Hansen); behavioural economists stress that betting against them is risky (limits to arbitrage), while efficient-market economists doubt they can be reliably spotted at all."
+  ],
+  "title": "Sentiment, fear and bubbles",
+  "todayExample": "This edition's lead story shows sentiment at work: on Monday the Nasdaq was down about 2% and the S&P 500 1.59% in early afternoon New York trade as investors sold AI-linked shares before Nvidia's results, even though no new profit figures had been published. At the same time gold hit a one-year low of $3,830.74 because markets now fully price a Federal Reserve rate rise in December. Warsaw's WIG20 ended flat at 4,302.04, a reminder that mood does not spread equally to every market.",
+  "workedExamples": [
+    {
+      "problem": "Reuters (gold report via MarketScreener, 16 Nov 2026; LSEG data) reports that Nvidia's market value fell by about $1.9 trillion from early October to about $3.9 trillion at Friday's close. (a) What was its value in early October? (b) What percentage fall is this? (c) What percentage rise would take it back to the early-October value?",
+      "solution": "(a) Starting value = 3.9 + 1.9 = $5.8 trillion. (b) Fall = 1.9 ÷ 5.8 = 0.3276, so about 32.8%. (c) Required rise = 5.8 ÷ 3.9 − 1 = 1.4872 − 1 = 0.487, so about 48.7%. Interpretation: a one-third fall needs almost a one-half rise to recover, because the rise is calculated on the smaller base of $3.9 trillion. Check with the formula x ÷ (1 − x): 0.3276 ÷ 0.6724 = 0.487.",
+      "title": "Nvidia's drawdown and the recovery it would need"
+    },
+    {
+      "problem": "Gold's record was $5,594.82 an ounce in January 2026; on 16 Nov 2026 it fell to $3,830.74 (Reuters). Calculate the fall in dollars and in percent, and the percentage gain needed to return to the record.",
+      "solution": "Fall in dollars = 5,594.82 − 3,830.74 = $1,764.08. Fall in percent = 1,764.08 ÷ 5,594.82 = 0.3153, so 31.5%, matching Reuters. Recovery needed = 5,594.82 ÷ 3,830.74 − 1 = 1.4605 − 1 = 0.4605, so about 46.1%. Interpretation: even a traditional 'safe haven' can suffer a deep drawdown when its main driver (here, rising interest rates that increase the cost of holding a non-interest-paying asset) turns against it.",
+      "title": "Gold: from record to one-year low"
+    },
+    {
+      "problem": "The S&P 500's CAPE was 38.6 on 13 Nov 2026 (ChartRow estimate); its long-run median since 1881 is 16.6. (a) Calculate the earnings yield at each level. (b) Hypothetical: if ten-year average earnings stayed the same and the CAPE fell back to its median, by what percent would prices fall?",
+      "solution": "(a) Earnings yield = 1 ÷ CAPE. At 38.6: 1 ÷ 38.6 = 0.0259, about 2.6%. At 16.6: 1 ÷ 16.6 = 0.0602, about 6.0%. (b) Price is proportional to CAPE when earnings are fixed, so the new price ÷ old price = 16.6 ÷ 38.6 = 0.430; the fall would be 1 − 0.430 = 0.570, about 57%. Interpretation: this is a hypothetical calculation, not a forecast. Earnings usually grow, interest rates differ from the past and CAPE can stay high for years, so the number only shows how much today's prices depend on investors continuing to accept high valuations.",
+      "title": "Reading the CAPE: earnings yield and a hypothetical return to the median"
+    },
+    {
+      "problem": "On Fri 13 Nov 2026 the VIX closed at 19.30 and the S&P 500 at 7,561.67 (Zacks via Yahoo Finance). Estimate the market's expected one-month 'one standard deviation' move in percent and in index points. Then compare with the actual move to 7,441.56 at 1:13 p.m. New York time on Monday (Reuters via MarketScreener).",
+      "solution": "Monthly volatility ≈ annual volatility ÷ √12 = 19.30 ÷ 3.464 = 5.57%. In points: 7,561.67 × 0.0557 ≈ 421 points, so a typical one-month range of about 7,140 to 7,983. Monday's intraday move: 7,441.56 − 7,561.67 = −120.11 points, or −120.11 ÷ 7,561.67 = −1.59%. Interpretation: a 1.6% fall in one day is well inside the one-month range the options market was pricing; the VIX describes the size of likely moves, not their direction, and if returns were normally distributed about a third of moves would exceed one standard deviation (real markets have more extreme days).",
+      "title": "Turning the VIX into a one-month range"
+    }
+  ],
+  "updatedAt": "2026-11-16T19:11:13.680233Z"
+}
