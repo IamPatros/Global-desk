@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T19:16:39Z",
+  "updated": "2026-11-16T09:16:33Z",
   "lessons": [
     {
       "number": 1,
@@ -176,6 +176,14 @@
       "date": "15 Nov 2026",
       "createdAt": "2026-11-15T19:07:09Z",
       "updatedAt": "2026-11-15T19:12:44.803094Z"
+    },
+    {
+      "number": 23,
+      "title": "Housing and mortgages",
+      "level": "Applied",
+      "date": "16 Nov 2026",
+      "createdAt": "2026-11-16T09:06:00Z",
+      "updatedAt": "2026-11-16T09:14:03.779479Z"
     }
   ]
 }

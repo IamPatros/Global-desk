@@ -1,0 +1,259 @@
+{
+  "checkQuestions": [
+    {
+      "a": "Interest each month equals the rate times the remaining balance. The payment is fixed, so as the balance falls the interest part shrinks and the remaining part, which repays principal, grows; that in turn shrinks the balance faster, so the effect accelerates towards the end of the loan.",
+      "q": "Explain why, in an annuity mortgage, the share of each payment that repays principal grows over time."
+    },
+    {
+      "a": "A higher reference rate raises the cost of overnight money, so short-term market rates such as POLSTR (and WIBOR) rise; at the loan's next reset the index part of the rate goes up while the margin stays fixed; the annuity is recalculated at the higher rate, so the monthly payment rises, leaving less income for other spending, which is how monetary policy cools demand.",
+      "q": "Trace step by step how an RPP decision to raise the reference rate would affect a Polish household with a variable-rate mortgage."
+    },
+    {
+      "a": "A fixed rate removes the risk that the index rises during the fixed period, so the payment is predictable; the buyer pays a premium, similar to insurance, and the fixed rate also reflects markets' expectations of future rates, so it may be higher if rates are expected to stay high or rise.",
+      "q": "Why might a buyer choose a fixed rate even if it is higher today than the variable rate?"
+    },
+    {
+      "a": "If banks lend more per buyer (higher LTV, longer terms, lower rates or looser DSTI), each buyer can bid more with the same income and deposit; with supply fixed in the short run, competition between buyers raises prices, which is why supervisors cap LTV and DSTI.",
+      "q": "How can loose lending standards push up house prices even if the number of homes and incomes do not change?"
+    },
+    {
+      "a": "Falling prices push leveraged owners into negative equity; if rates or unemployment rise, more of them default, and banks recover less from selling homes than the loans are worth; losses eat into banks' thin capital (Lesson 22), so they cut lending, which reduces demand for homes and pushes prices down further, a feedback loop seen in the US in 2007–08.",
+      "q": "Explain how falling house prices can turn into a banking problem."
+    }
+  ],
+  "createdAt": "2026-11-16T09:06:00Z",
+  "date": "16 Nov 2026",
+  "editionId": "2026-11-16-1000",
+  "intro": "For most families a home is the largest thing they will ever buy, and almost nobody pays cash: they borrow with a mortgage repaid over decades. In this lesson you will learn exactly how a mortgage payment is calculated, why it is mostly interest at the start, how fixed and variable rates move risk between borrower and bank, and how a central-bank decision travels into a monthly instalment in Poland (now via POLSTR rather than WIBOR). You will also see why house prices swing, which safety rules limit how much people can borrow, and how housing crashes can turn into banking crises. By the end you will be able to calculate an instalment, a borrowing limit and the leverage on a down payment.",
+  "lessonQuiz": [
+    {
+      "answer": 2,
+      "explain": "Interest is 400,000 × 0.0595 ÷ 12 ≈ 1,983 zł, so only about 2,565 − 1,983 ≈ 582 zł repays principal.",
+      "options": [
+        "About 2,565 zł, because interest is paid separately",
+        "About 1,983 zł",
+        "About 582 zł",
+        "About 1,333 zł, one three-hundredth of the loan"
+      ],
+      "q": "On a 400,000 zł, 25-year annuity at 5.95%, the first monthly payment is about 2,565 zł. Roughly how much of it repays principal?"
+    },
+    {
+      "answer": 0,
+      "explain": "Only the index moves; 5.67% → 6.67% raises the payment on 400,000 zł from about 2,497 to 2,743 zł, about 9.9%.",
+      "options": [
+        "The rate becomes 6.67% and the payment rises by roughly 10% on a fresh 25-year loan",
+        "The rate becomes 6.67% and the payment rises by about 1%",
+        "The margin rises to 2.81% and the index stays the same",
+        "Nothing changes until the loan is refinanced"
+      ],
+      "q": "A variable-rate loan is priced at index 3.86% + margin 1.81%. The index rises by 1 point. What happens?"
+    },
+    {
+      "answer": 1,
+      "explain": "The buffer is a test, not a charge: at 8.18% instead of 5.68% the same 4,000 zł payment limit supports about 510,000 zł instead of 640,000 zł.",
+      "options": [
+        "Because you pay 2.5 points more interest for the whole loan",
+        "Because the bank must check the payment at the higher test rate still fits within your DSTI limit, so the maximum loan is smaller",
+        "Because it raises your required down payment from 20% to 22.5%",
+        "Because it shortens the maximum term to 25 years"
+      ],
+      "q": "Why does a 2.5-point stress-test buffer reduce how much a bank will lend you?"
+    },
+    {
+      "answer": 3,
+      "explain": "Long-term fixed loans are funded and priced with reference to long-term yields, not the overnight policy rate.",
+      "options": [
+        "Banks copy the Fed rate and add a 3-point profit margin by law",
+        "Freddie Mac sets mortgage rates directly",
+        "US mortgages are mostly variable, so they jump with each Fed meeting",
+        "30-year fixed mortgages are priced off long-term bond yields, which reflect expected future rates and inflation; the 10-year yield is about 5.15%"
+      ],
+      "q": "Which chain best explains why US 30-year mortgage rates rose to around 7% even though the Fed's target range is 3.75–4.00%?"
+    },
+    {
+      "answer": 1,
+      "explain": "Value falls by 60,000 zł to 540,000 zł while the 480,000 zł loan is unchanged, so equity drops from 120,000 to 60,000 zł; leverage of 5 turns a 10% price fall into a 50% equity loss.",
+      "options": [
+        "It falls 10%, from 120,000 to 108,000 zł",
+        "It falls 50%, from 120,000 to 60,000 zł",
+        "It is unaffected because the loan is unchanged",
+        "It becomes negative"
+      ],
+      "q": "A buyer puts 20% down on a 600,000 zł flat. Prices fall 10%. What happens to the buyer's equity?"
+    },
+    {
+      "answer": 2,
+      "explain": "−0.3 on the index and +0.3 on the margin roughly cancel; the borrower should compare the full rate and how each index behaves over time.",
+      "options": [
+        "The POLSTR loan is 0.3 points cheaper",
+        "The POLSTR loan is 0.6 points more expensive",
+        "The total starting rates are about the same; compare index plus margin, not the index alone",
+        "POLSTR loans cannot be compared with WIBOR loans at all"
+      ],
+      "q": "POLSTR has recently been about 0.3 points below WIBOR. A bank offers a POLSTR loan at a margin 0.3 points higher than its WIBOR loan. What is the best conclusion?"
+    },
+    {
+      "answer": 0,
+      "explain": "A price-to-wage ratio falls when the denominator (wages) grows faster than the numerator (prices); note this uses the NBP's city data, not the GUS national index.",
+      "options": [
+        "Wages grew faster than house prices over the year",
+        "House prices actually fell",
+        "Inflation was negative",
+        "Mortgage rates rose sharply"
+      ],
+      "q": "In the NBP's Q2 2026 data for 17 large cities, transaction prices rose in most city groups, yet prices relative to wages fell in every group. What must be true for those cities?"
+    },
+    {
+      "answer": 3,
+      "explain": "Lower rates raise the loan a given payment supports, so buyers can bid more while supply responds slowly; the other options reduce demand or raise supply.",
+      "options": [
+        "A higher NBP reference rate",
+        "A cut in the maximum LTV from 80% to 70%",
+        "A rise in completed new dwellings",
+        "Easier credit: lower rates letting each buyer borrow more with the same income"
+      ],
+      "q": "Which change would most directly push Polish house prices up in the short run, all else equal?"
+    },
+    {
+      "answer": 1,
+      "explain": "Interest = monthly rate × balance; the balance is highest at the start, so interest takes most of the fixed payment.",
+      "options": [
+        "Because banks charge interest up front by law",
+        "Because interest is computed on the outstanding balance, which is at its maximum at the start",
+        "Because the margin is paid first",
+        "Because the formula front-loads principal"
+      ],
+      "q": "Why is the first monthly payment of an annuity mostly interest?"
+    },
+    {
+      "answer": 2,
+      "explain": "As Lesson 22 showed, lending creates deposits; the 30% rise in new housing loans in 2026 also means faster deposit creation.",
+      "options": [
+        "Nothing: the bank just passes on savers' existing deposits",
+        "Money falls, because the bank's reserves fall by 400,000 zł",
+        "New deposits of 400,000 zł are created and paid to the seller; repaying the loan later destroys that money",
+        "The NBP must print 400,000 zł of banknotes first"
+      ],
+      "q": "Connecting to Lesson 22: when a Polish bank grants a new 400,000 zł mortgage, what happens to money in the economy?"
+    },
+    {
+      "answer": 2,
+      "explain": "Income is in złoty but the debt is in another currency, so depreciation of the złoty increases both the instalment and the outstanding balance in złoty.",
+      "options": [
+        "Because foreign banks cannot repossess Polish homes",
+        "Because foreign interest rates are always higher",
+        "Because a weaker złoty raises the złoty value of the debt and the payments, even if the foreign interest rate does not change",
+        "Because they were always fixed-rate"
+      ],
+      "q": "Connecting to Lesson 5: why were foreign-currency mortgages risky for Polish borrowers earning złoty?"
+    },
+    {
+      "answer": 0,
+      "explain": "These macroprudential rules target system-wide risk: if all banks loosen together, a bust would hit them together, as in 2007–08.",
+      "options": [
+        "To protect the financial system as a whole from a housing boom-and-bust that can hit many banks at once",
+        "To make mortgages more profitable",
+        "To raise government tax revenue",
+        "To keep house prices from ever falling"
+      ],
+      "q": "Supervisors cap LTV and DSTI for all banks rather than leaving it to each bank. What is the main reason?"
+    }
+  ],
+  "level": "Applied",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "Paying a mortgage for half its term means you have repaid about half the loan.",
+      "truth": "With an annuity the early payments are mostly interest, so after half the term much less than half the principal is repaid; on 400,000 zł at 5.95%, only about 582 zł of the first 2,565 zł payment reduces the debt."
+    },
+    {
+      "myth": "Switching from WIBOR to POLSTR will automatically make my loan cheaper because POLSTR is lower.",
+      "truth": "POLSTR has been about 0.3 points below WIBOR, but banks have set higher margins on POLSTR loans, so what matters is index plus margin; existing WIBOR loans can stay on WIBOR, which is to be published until the end of 2036; when they are eventually converted, an adjustment spread is meant to avoid a jump in payments."
+    },
+    {
+      "myth": "US mortgage rates move one-for-one with the Fed's rate.",
+      "truth": "The typical US mortgage is a 30-year fixed loan priced off long-term bond yields, which reflect expected future rates and inflation, so mortgage rates can move before, after or against a Fed decision."
+    },
+    {
+      "myth": "Rising house prices always mean homes are becoming less affordable.",
+      "truth": "Affordability depends on prices relative to incomes and interest rates; in Q2 2026 Polish prices rose but, according to the NBP, fell relative to wages in all city groups."
+    },
+    {
+      "myth": "The stress-test buffer means the bank charges you 2.5 points more.",
+      "truth": "The buffer is only used to test whether you could afford a higher rate; you pay the actual rate, but the maximum loan is smaller."
+    }
+  ],
+  "number": 23,
+  "objectives": [
+    "Explain what a mortgage is, why the home acts as collateral, and define loan-to-value (LTV) and debt-service-to-income (DSTI).",
+    "Calculate a monthly annuity payment and split the first payment into interest and principal.",
+    "Explain the difference between fixed-rate and variable-rate mortgages and who carries the interest-rate risk in each.",
+    "Trace how a change in the NBP reference rate or in long-term bond yields reaches mortgage rates in Poland and in the US.",
+    "Calculate how a stress-test buffer reduces the maximum loan a bank will grant, and the leverage effect of a price change on a down payment.",
+    "Describe why house prices move and how a housing bust can become a banking crisis."
+  ],
+  "recap": "In Lesson 22 you saw that a bank loan creates a new deposit, that banks earn the net interest margin, and that they are fragile because they borrow short and lend long with high leverage. Mortgages are the biggest single use of that money-creating power for households: in Poland the stock of housing loans was 544.2 billion zł at the end of September 2026. Today you follow one of those loans from the borrower's side, using the interest-rate ideas from Lesson 7 and the bond yields from Lesson 8.",
+  "sections": [
+    {
+      "body": "A mortgage is a long-term loan used to buy property in which the property itself is the collateral: if the borrower stops paying, the bank can take and sell the home to recover its money. Because the bank can fall back on the property, it charges a lower rate than on an unsecured consumer loan; in September 2026 the average rate on new Polish housing loans was 5.95% against 9.91% on consumer loans (ECB MIR data via Finwire). The key ratio is loan-to-value (LTV): loan ÷ property value. A 480,000 zł loan on a 600,000 zł flat has an LTV of 80%, which means the buyer put down 20% (the down payment or 'own contribution'). The lower the LTV, the bigger the cushion the bank has if prices fall: a 10% fall in value still leaves an 80%-LTV loan covered, a 25% fall does not. A second ratio, debt-service-to-income (DSTI), compares all monthly loan payments with net monthly income; it tells the bank whether the borrower can carry the payments, not just whether the collateral is enough. Terms are long, commonly 25 years in Poland, where KNF guidance (Recommendation S) says banks should not lend for longer than 35, so small differences in the interest rate add up to large sums. Simplification: we ignore fees, insurance and taxes, which is why advertised rates are lower than the full annual cost (RRSO).",
+      "heading": "1. What a mortgage is: a loan secured on a home"
+    },
+    {
+      "body": "Most Polish and US mortgages are 'annuities': the payment is the same every month (as long as the rate does not change), and each payment covers that month's interest plus some repayment of principal. The formula is P = L × r ÷ (1 − (1 + r)^−n), where L is the loan, r the monthly rate (annual rate ÷ 12) and n the number of months. For 400,000 zł over 25 years (n = 300) at 5.95%, r = 0.4958% and P ≈ 2,565 zł. Month one: interest = 400,000 × 0.0595 ÷ 12 ≈ 1,983 zł, so only about 582 zł reduces the debt. Because interest is charged on the remaining balance, the interest share falls and the principal share rises every month, slowly at first and quickly near the end; this schedule is called amortisation. Over 300 payments the borrower pays about 769,500 zł, of which about 369,500 zł is interest, almost as much as the original loan. The alternative 'decreasing instalments' (equal principal each month) start higher and fall over time, costing less interest overall but needing more income at the start.",
+      "heading": "2. The annuity: how the monthly payment is calculated"
+    },
+    {
+      "body": "With a variable-rate loan the rate equals an index plus a fixed margin, reset at regular intervals; the margin is the bank's mark-up for risk and profit (around 1.81 percentage points on average for Polish variable loans in Q3 2026, according to a Bankier ranking cited by ilezametr.pl). If the index rises, the payment rises, so the borrower carries the interest-rate risk. With a fixed rate the payment is locked for the fixed period; the bank (or whoever funds it) carries the risk, and borrowers usually pay for that protection with a rate that reflects expected future rates. In Poland most 'fixed' loans are periodically fixed, typically for five years, after which the rate is reset; in the US the benchmark product is a 30-year fixed loan, so borrowers are protected for the whole term. Polish variable loans have long used WIBOR, a rate built from banks' quotes for interbank lending. New loans are moving to POLSTR, an index based on actual overnight deposit transactions administered by GPW Benchmark: PKO BP began offering POLSTR mortgages on 3 September 2026, seven large banks had switched by 7 October, new WIBOR-based contracts should end by 1 January 2027, and WIBOR will still be published until the end of 2036 for existing loans (ilezametr.pl; robertsierant.pl). Because POLSTR has been running about 0.3 points below WIBOR, banks have set higher margins on POLSTR loans, so the total rate is what to compare.",
+      "heading": "3. Fixed or variable: who carries the interest-rate risk"
+    },
+    {
+      "body": "In Lesson 7 you saw that the Monetary Policy Council (RPP) sets the NBP reference rate, now 3.75% (unchanged on 4 November 2026 and since 5 March 2026, per Stockwatch and ilezametr.pl). Short-term market rates follow it: in late September WIBOR 3M was 3.86%. Add a margin of about 1.81 points and a variable loan costs about 5.67%, close to the 5.73% ECB data show for Polish loans with a rate fixed for up to a year. So in Poland the transmission is fast and direct: when the RPP moves, variable instalments change at the next reset, typically within three to six months. In the US the 30-year fixed rate depends mainly on long-term bond yields (Lesson 8) rather than on the Fed's overnight rate: Freddie Mac's average was 7.11% on 12 November 2026, versus 6.24% a year earlier, while the 10-year Treasury yield ended last Friday at 5.15%. That is why US mortgage rates can rise even before the Fed moves, if markets expect higher inflation or higher rates later. The euro area's average new mortgage rate was 3.62% in September, 2.33 points below Poland's, partly because the ECB's deposit rate (2.50%) is 1.25 points below the NBP reference rate; differences in bank margins and in how long rates are fixed explain the rest.",
+      "heading": "4. How a central-bank decision reaches your instalment"
+    },
+    {
+      "body": "A home is both a place to live and an asset, so its price depends on what buyers can borrow, not just what they earn. Demand rises with incomes, population and household formation, and especially with credit: lower rates or looser lending let each buyer bid more, because the same monthly payment supports a larger loan (section 2 run backwards). Supply responds slowly because building takes years: in Q2 2026 Poland issued permits for 76.4 thousand dwellings and started 65.2 thousand, but completed 49.4 thousand (NBP report via BANK.pl). When credit expands faster than new homes can be built, prices rise: Polish new housing loans reached 87.2 billion zł in January–September 2026, up 30.1% on a year earlier, and GUS reported dwelling prices more than 6% higher year on year in Q2 2026 (money.pl). Different indices tell different stories: the NBP's own transaction-price data for 17 large cities showed much smaller nominal rises in Q2 (between −0.4% and +3.1% a year depending on the group), and relative to wages those prices fell in every city group, meaning wages rose faster than prices in those cities. Prices also differ by place: GUS's regional increases ranged from about 1.5% in Łódzkie to over 8.5% in Kujawsko-pomorskie. Limits: no single number captures 'the' housing market, and different indices (transaction vs asking prices, new vs second-hand) can disagree.",
+      "heading": "5. Why house prices move"
+    },
+    {
+      "body": "Because household mortgage booms have caused crises, supervisors limit lending; in Poland the main tool is the KNF's Recommendation S. The standard maximum LTV is 80% (up to 90% if the missing 10% is insured or otherwise secured), banks keep DSTI within roughly 40–50% of net income, and affordability is assessed as if the loan were repaid over no more than 25 years (smart-money.pl summary of Recommendation S). Crucially, banks must test whether you could still pay if rates rose: since 7 February 2023 the minimum buffer is 2.5 percentage points, replacing the 5 points the KNF had recommended from February 2022; loans fixed for at least five years count as periodically fixed, and for variable loans the KNF expects an 'adequately higher' buffer, which at today's 3.75% NBP rate also works out to 2.5 points (Finwire; KNF). The buffer works by lowering the maximum loan: with 8,000 zł net income and a 50% DSTI cap, the payment limit is 4,000 zł; at the actual (nominal) rate of 5.68% over 25 years that supports about 640,000 zł, but at the tested 8.18% only about 510,000 zł, a cut of about 20%. Such rules are 'macroprudential': they protect the whole financial system, not just one bank, by keeping borrowers able to survive higher rates.",
+      "heading": "6. Safety rules: how much a bank may lend you"
+    },
+    {
+      "body": "A mortgage gives the household leverage, the same idea as a bank's leverage in Lesson 22: with 20% down, a 6% rise in the price raises the owner's equity by 30% of the deposit, but a 10% fall wipes out 50% of it, and a 20% fall wipes it out completely ('negative equity' if prices fall further). When many borrowers are in negative equity and rates or unemployment rise, defaults rise, banks lose money and cut lending, prices fall further, and the cycle feeds on itself. That is what happened in the US in 2007–08: loans had been made to weak 'subprime' borrowers and repackaged into securities; when prices fell, losses spread through the system and Lehman Brothers filed for the largest bankruptcy in US history on 15 September 2008, with about $639 billion in assets (History.com). Housing also carries currency risk if the loan is in a foreign currency (Lesson 5): foreign-currency housing loans still made up 5.7% of Poland's housing-loan stock in September 2026, down 30.9% in a year (NBP data via Finwire). Where experts disagree: economists debate how much house-price booms come from cheap credit versus housing shortages, and whether central banks should lean against house prices with interest rates or leave that to macroprudential rules.",
+      "heading": "7. When housing goes wrong: leverage and crises"
+    }
+  ],
+  "takeaways": [
+    "A mortgage is a loan secured on the home; LTV (loan ÷ value) measures the bank's cushion and DSTI (payments ÷ income) the borrower's ability to pay.",
+    "Annuity payment P = L × r ÷ (1 − (1 + r)^−n): 400,000 zł over 25 years at 5.95% costs about 2,565 zł a month and about 369,500 zł of interest in total.",
+    "Variable rate = index + fixed margin, so the borrower carries rate risk; Poland is moving new loans from WIBOR to POLSTR (no new WIBOR contracts from 2027, WIBOR published until end-2036).",
+    "Polish mortgage rates follow the NBP reference rate (3.75%) quickly; US 30-year fixed rates (7.11% on 12 Nov) follow long-term bond yields; the euro-area average (3.62%) is lower because the ECB's rate is lower.",
+    "House prices rise when credit and demand grow faster than supply; Polish new housing loans rose 30.1% in January–September 2026 and GUS prices were over 6% higher year on year in Q2, while in the NBP's 17-city data prices rose more slowly than wages.",
+    "Rules such as Recommendation S (80% LTV, 40–50% DSTI, a 2.5-point stress buffer) limit leverage because housing busts can become banking crises, as in 2007–08."
+  ],
+  "title": "Housing and mortgages",
+  "todayExample": "This edition reports that markets put a 92% probability on a 0.25-point rise in the Fed's key rate in December (CME FedWatch via Upstox) and that the US 10-year Treasury yield ended Friday at 5.15% after inflation data. Long-term yields like this are what US 30-year fixed mortgage rates are priced from, so expectations of tighter policy already make borrowing for a home in the US more expensive, before the Fed actually moves. In Poland, where most loans follow short-term rates, the same mechanism works through the RPP and the POLSTR or WIBOR index instead.",
+  "workedExamples": [
+    {
+      "problem": "ECB data show the average rate on new Polish mortgages was 5.95% in September 2026 (Finwire). Calculate the monthly annuity payment on 400,000 zł over 25 years at 5.95%, how much of the first payment is interest and principal, and the total interest paid. Then compare with the euro-area average of 3.62%.",
+      "solution": "r = 5.95% ÷ 12 = 0.49583% per month; n = 25 × 12 = 300. P = 400,000 × 0.0049583 ÷ (1 − 1.0049583^−300) ≈ 2,565.0 zł. First month: interest = 400,000 × 0.0595 ÷ 12 = 1,983.33 zł; principal = 2,564.99 − 1,983.33 = 581.66 zł. Total paid = 2,564.99 × 300 ≈ 769,498 zł, so interest ≈ 769,498 − 400,000 = 369,498 zł. At 3.62%: P ≈ 2,028.3 zł, about 537 zł a month less. Interpretation: a gap of 2.33 percentage points in the rate makes the Polish payment about 26% higher on the same loan (2,565 ÷ 2,028 ≈ 1.26); put the other way, the euro-area payment is about 21% lower.",
+      "title": "The monthly payment and its first split"
+    },
+    {
+      "problem": "A borrower has a fresh 400,000 zł, 25-year variable loan at WIBOR 3M 3.86% plus a 1.81-point margin (levels cited by ilezametr.pl). Suppose (hypothetically) the index rises by 1 percentage point at the next reset. By how much does the payment rise? (Ignore the months already repaid.)",
+      "solution": "Rate before: 3.86 + 1.81 = 5.67%; payment ≈ 2,497.12 zł. Rate after: 6.67%; payment ≈ 2,743.47 zł. Increase = 246.35 zł a month, or about 9.9%. Interpretation: a one-point rise in the rate raised the payment by almost 10%, because most of the early payment is interest. This is exactly the risk the 2.5-point stress-test buffer is designed to cover.",
+      "title": "A variable rate resets upwards"
+    },
+    {
+      "problem": "Using Finwire's illustration: net income 8,000 zł, DSTI cap 50%, 25-year annuity, actual rate 5.68% (WIBOR 3.90% + margin 1.78%), stress-tested at 5.68 + 2.5 = 8.18%. What is the largest loan the payment limit supports with and without the buffer?",
+      "solution": "Payment limit = 0.5 × 8,000 = 4,000 zł. Loan = P × (1 − (1 + r)^−n) ÷ r. At 5.68% (r = 0.4733%): 4,000 × (1 − 1.004733^−300) ÷ 0.004733 ≈ 640,120 zł. At 8.18% (r = 0.6817%): ≈ 510,349 zł. Difference ≈ 129,771 zł, about 20% less. Interpretation: the buffer does not change what you pay; it limits how much you may borrow, so that you could still pay if rates rose by 2.5 points.",
+      "title": "How the stress-test buffer cuts the maximum loan"
+    },
+    {
+      "problem": "Hypothetical numbers: a flat costs 600,000 zł, bought with 120,000 zł down (20%) and a 480,000 zł loan. (a) Prices rise 6%, roughly the year-on-year rise GUS reported for Q2 2026. (b) Prices fall 10%. What happens to the owner's equity in each case, as a percentage of the down payment?",
+      "solution": "Equity = value − loan. (a) Value = 636,000 zł; equity = 156,000 zł, a gain of 36,000 zł = 30% of the 120,000 zł deposit. (b) Value = 540,000 zł; equity = 60,000 zł, a loss of 60,000 zł = 50% of the deposit. LTV in (b) = 480,000 ÷ 540,000 ≈ 88.9%. Interpretation: borrowing magnifies gains and losses five-fold here (1 ÷ 0.2 = 5), which is why falling prices can trap highly leveraged owners.",
+      "title": "Leverage on a down payment"
+    }
+  ],
+  "updatedAt": "2026-11-16T09:14:03.779479Z"
+}
