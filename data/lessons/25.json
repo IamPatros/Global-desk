@@ -1,0 +1,263 @@
+{
+  "checkQuestions": [
+    {
+      "a": "The lower unemployment rate (4.6%) is within the survey's ±0.3 pp margin of error and partly reflects sample changes, while the more timely payroll data show falling employment and vacancies at 690,000, and regular pay growth slowed to 3.5%. Weaker demand for workers usually slows wage growth, which reduces pressure on services prices; so the balance of evidence points to cooling, not tightening.",
+      "q": "October's UK unemployment rate came in below forecast, yet payrolled employees fell. Explain why an analyst might still expect the Bank of England to worry less about wage-driven inflation."
+    },
+    {
+      "a": "The BLS did not collect October 2025 prices because of a lapse in government funding, so there was no base month to compare with. Investors should use month-on-month rates (0.4% headline, 0.3% core) and annualise them, or use averages over several months, while remembering monthly data are noisier.",
+      "q": "Why could the BLS not publish most 12-month inflation rates for October 2026, and how should an investor read inflation in that case?"
+    },
+    {
+      "a": "A core surprise suggests more persistent inflation → markets expect more or earlier Fed rate rises (futures price a December rise) → short- and long-term yields rise, and real yields with them → the dollar tends to strengthen → gold, which pays no interest and is priced in dollars, becomes less attractive relative to bonds and more expensive for non-dollar buyers, so it tends to fall.",
+      "q": "Trace the chain from a hotter-than-expected US core CPI to the price of gold."
+    },
+    {
+      "a": "It tells us that, on a weighted average of its five sub-indices, conditions were on balance unchanged, after months in which deterioration dominated, and it beat the 49.3 forecast. It does not tell us how much production changed, because a diffusion index measures breadth, not size; official industrial output data from GUS are needed for that.",
+      "q": "Poland's manufacturing PMI rose from 49.0 to 50.0. Explain what this does and does not tell us about industrial production."
+    },
+    {
+      "a": "Because y/y compares with the same month a year ago, so it reflects twelve monthly changes. If a big monthly jump a year earlier drops out of the window (a base effect) and is replaced by a smaller rise, the y/y rate falls even though prices are still rising; Poland's October CPI fell 0.4% m/m, which shows how a single month can pull the annual rate down.",
+      "q": "Why can the year-on-year inflation rate fall even when prices are rising quickly month on month?"
+    }
+  ],
+  "createdAt": "2026-11-17T09:09:12Z",
+  "date": "17 Nov 2026",
+  "editionId": "2026-11-17-1000",
+  "intro": "Every week markets react within seconds to a handful of numbers: consumer prices, business surveys and jobs reports. In this lesson you will learn how each of these statistics is built, what its strengths and blind spots are, and how professionals read a release: against expectations, by its parts, by its trend and by its revisions. By the end you will be able to take a real release, such as this morning's UK labour data or October's US inflation report, and trace what it means for interest rates, currencies and shares. All real figures come from the releases and reports named in the text; anything else is marked as hypothetical.",
+  "lessonQuiz": [
+    {
+      "answer": 1,
+      "explain": "Markets price the consensus in advance; a lower-than-expected figure reduces expected rate rises, so yields tend to fall.",
+      "options": [
+        "Bond yields jump because prices rose",
+        "Bond yields fall slightly because inflation was below expectations",
+        "No reaction, because 0.4% is close to 0.5%",
+        "Shares fall because any inflation is bad for profits"
+      ],
+      "q": "Economists expect a CPI rise of 0.5% m/m; the release shows 0.4%. Prices still rose. What is the most likely immediate market reaction, other things equal?"
+    },
+    {
+      "answer": 3,
+      "explain": "Contribution ≈ weight × change = 0.07649 × 0.7 = 0.0535 percentage points.",
+      "options": [
+        "0.7 pp",
+        "0.535 pp",
+        "5.35 pp",
+        "0.0535 pp"
+      ],
+      "q": "Energy has a 7.649% weight in US CPI and its prices rise 0.7% in a month. What is energy's approximate contribution to monthly headline inflation?"
+    },
+    {
+      "answer": 2,
+      "explain": "(1.003)^12 − 1 = 3.66%, about 3.7%; compounding makes it slightly more than 12 × 0.3%.",
+      "options": [
+        "3.0%",
+        "3.3%",
+        "3.7%",
+        "4.9%"
+      ],
+      "q": "A monthly inflation rate of 0.3% persists for a year. Approximately what annual rate does that imply?"
+    },
+    {
+      "answer": 0,
+      "explain": "30 × 1 + 50 × 0.5 + 20 × 0 = 30 + 25 = 55.0.",
+      "options": [
+        "55.0",
+        "60.0",
+        "50.0",
+        "65.0"
+      ],
+      "q": "In a PMI survey, 30% of firms report higher output, 50% the same and 20% lower. What is the output index?"
+    },
+    {
+      "answer": 3,
+      "explain": "A headline PMI of 50 means the weighted sub-indices average 50: no change on balance; it says nothing directly about the size of output.",
+      "options": [
+        "Output was unchanged in total value",
+        "The economy is in recession",
+        "Half of all firms closed",
+        "On a weighted average of its sub-indices, conditions were on balance unchanged"
+      ],
+      "q": "Which statement about a PMI of 50.0 is correct?"
+    },
+    {
+      "answer": 1,
+      "explain": "A fall about as large as the sampling margin, partly due to sample rotation, is weak evidence; timelier payroll and vacancy data point to cooling.",
+      "options": [
+        "The labour market clearly strengthened",
+        "The fall is about the size of the margin of error and other data suggest cooling",
+        "Unemployment will keep falling next month",
+        "The survey must be wrong because payrolls fell"
+      ],
+      "q": "UK unemployment falls to 4.6%, 0.3 pp below the previous quarter, with a margin of error of ±0.3 pp; the ONS says survey sample rotation contributed, while payrolls and vacancies fall. Which conclusion is best supported?"
+    },
+    {
+      "answer": 2,
+      "explain": "1.684 ÷ (1.684 + 34.625) = 1.684 ÷ 36.309 = 4.64%.",
+      "options": [
+        "4.86%",
+        "5.10%",
+        "4.64%",
+        "4.40%"
+      ],
+      "q": "Unemployed: 1.684 million; employed: 34.625 million. What is the unemployment rate?"
+    },
+    {
+      "answer": 1,
+      "explain": "Without October 2025 data there was no base for the year-on-year comparison.",
+      "options": [
+        "Inflation was negative",
+        "October 2025 prices were not collected during a lapse in government funding",
+        "The BLS switched to the PCE index",
+        "Seasonal adjustment failed"
+      ],
+      "q": "Why did the BLS not publish most 12-month CPI changes for October 2026?"
+    },
+    {
+      "answer": 0,
+      "explain": "1.0375 ÷ 1.035 − 1 = 0.24%; simple subtraction gives 0.25%, a close approximation.",
+      "options": [
+        "About +0.24%",
+        "Exactly +0.25%",
+        "About −0.24%",
+        "About +7.25%"
+      ],
+      "q": "Connecting to Lesson 6: the NBP rate is 3.75% and CPI inflation is 3.5%. What is the real interest rate, using the exact formula?"
+    },
+    {
+      "answer": 3,
+      "explain": "A higher discount rate cuts the present value of distant cash flows most, so expensive growth stocks are most sensitive.",
+      "options": [
+        "Utilities, because they use energy",
+        "Banks, because they lend money",
+        "All shares fall equally",
+        "Highly valued growth shares, because more of their value lies in distant future profits that are discounted more heavily"
+      ],
+      "q": "Connecting to Lesson 24: hot inflation data raise expected interest rates. Which shares tend to fall most, and why?"
+    },
+    {
+      "answer": 2,
+      "explain": "New information = 165,000 + 53,000 + 31,000 = 249,000 jobs.",
+      "options": [
+        "165,000",
+        "84,000",
+        "249,000",
+        "218,000"
+      ],
+      "q": "US payrolls for August and September were revised up by 53,000 and 31,000 and October showed +165,000. How many more jobs does the report show compared with what was known before it?"
+    },
+    {
+      "answer": 0,
+      "explain": "Headline fell 0.6 pp versus 0.2 pp for core, so volatile items explain most of the fall; 3.5% is at the top of the 1.5–3.5% band.",
+      "options": [
+        "Food and energy prices drove most of the fall, but underlying inflation eased too",
+        "Only core prices fell",
+        "Inflation is now below the NBP's tolerance band",
+        "The NBP must have raised rates"
+      ],
+      "q": "Poland's headline CPI fell from 4.1% to 3.5% while core fell from 3.1% to 2.9%. Which explanation is most consistent with these data?"
+    }
+  ],
+  "level": "Applied",
+  "minutes": 20,
+  "misconceptions": [
+    {
+      "myth": "A higher-than-last-month number always pushes markets in the same direction.",
+      "truth": "Markets react to the surprise against the consensus forecast, which is already priced in; a rise smaller than expected can move markets as if it were good news."
+    },
+    {
+      "myth": "Core inflation is the 'real' inflation and headline does not matter.",
+      "truth": "Households pay headline prices, and persistent energy or food shocks can spread into wages and core prices; central banks watch both, and targets are usually set on headline measures such as Poland's CPI."
+    },
+    {
+      "myth": "A PMI of 54 means output grew by 4%.",
+      "truth": "A PMI is a diffusion index: it measures how widespread an improvement is across firms, not its size. 54 means more firms reported rises than falls."
+    },
+    {
+      "myth": "If the unemployment rate falls, more people must have found jobs.",
+      "truth": "The rate can fall because people stop looking for work and leave the labour force, or because of sampling error; check employment, participation, payrolls and the margin of error."
+    },
+    {
+      "myth": "First releases are final facts.",
+      "truth": "Many statistics are revised, sometimes substantially: US payrolls for August 2026 were revised up by 53,000 and September by 31,000, raising the two months' combined gain from 162,000 to 246,000."
+    }
+  ],
+  "number": 25,
+  "objectives": [
+    "Explain why markets react to the difference between a data release and the consensus forecast, not to the level of the number.",
+    "Calculate an item's contribution to monthly CPI inflation from its weight and price change, and annualise a monthly rate.",
+    "Explain the difference between headline and core inflation, month-on-month and year-on-year rates, and flash and final estimates.",
+    "Calculate a PMI diffusion index from survey shares and interpret readings above and below 50.",
+    "Calculate an unemployment rate from survey totals and judge whether a change is meaningful given the margin of error and revisions.",
+    "Trace a data surprise through central bank expectations to bond yields, the currency and share prices."
+  ],
+  "recap": "Lesson 24 showed that prices move on changes in expectations and sentiment, not on news alone: a share or index reacts to what investors did not already expect. This lesson applies that idea to economic data. Lessons 6 (inflation) and 10 (jobs and wages) explained what inflation and unemployment are; here we look at how they are measured, why the measurements are imperfect, and why the 'surprise' in a number matters more than the number itself.",
+  "sections": [
+    {
+      "body": "Before every major release, economists polled by news agencies publish a 'consensus' forecast, the median of their predictions. Because investors trade on those expectations in advance, prices already reflect the consensus before the number appears, just as Lesson 24 described for company news. What moves markets is the surprise: the actual figure minus the consensus. For example, the UK unemployment rate released this morning by the Office for National Statistics was 4.6% against a forecast of 4.7%, a surprise of −0.1 percentage points (pp). A number can therefore be 'bad' in absolute terms yet push a market up if it is less bad than expected. The surprise matters because it changes what investors think the central bank will do (Lesson 7): data that suggest higher inflation or a tighter labour market raise expected interest rates, which tends to lift bond yields and the currency and to lower share valuations. A simplification: markets also react to details inside a release (revisions, sub-components), so the headline surprise alone can mislead.",
+      "heading": "1. Data move markets through surprises"
+    },
+    {
+      "body": "A CPI measures the cost of a fixed, weighted basket of goods and services relative to a base period, as Lesson 6 explained; the US CPI-U index stood at 337.511 in October 2026 (1982–84 = 100), according to the Bureau of Labor Statistics (BLS). Each category has a weight, its share of household spending: in the US, shelter weighs 35.238%, food 13.447%, energy 7.649% and everything except food and energy 78.905% (BLS relative importance, September 2026). An item's contribution to monthly inflation is approximately its weight times its own price change; summing the contributions gives the overall rate. Statisticians report two kinds of rate: month-on-month (m/m), which shows recent momentum, and year-on-year (y/y), which compares with the same month a year earlier and is what targets refer to. Monthly figures are usually 'seasonally adjusted' to remove regular calendar patterns, such as clothing sales or holiday travel, while y/y rates are normally calculated from unadjusted data. To compare a monthly rate with an annual target, annualise it: (1 + m/m)^12 − 1, so October's US 0.4% m/m equals about 4.9% at an annual pace. Limits: a fixed basket overstates the cost of living when people switch to cheaper substitutes, and quality changes (a better phone at the same price) are hard to measure.",
+      "heading": "2. How a consumer price index (CPI) is built"
+    },
+    {
+      "body": "Headline inflation covers the whole basket; 'core' inflation removes the most volatile items, usually food and energy, to reveal the underlying trend that monetary policy can influence. Energy and food prices jump with weather, wars and oil supply, which a central bank cannot control quickly, so policymakers watch core to judge whether price rises are spreading through the economy. Poland shows the difference clearly: GUS reported headline CPI of 3.5% y/y in October 2026, down from 4.1% in September, while the NBP's core measure excluding food and energy fell to 2.9% from 3.1% (NBP via money.pl, 16 Nov). The NBP publishes four core measures, including inflation excluding administered prices (3.5%) and a 15% trimmed mean (2.8%), which removes the 15% of the basket, by weight, with the smallest and the largest price changes; using several measures guards against one misleading signal. The NBP's target is 2.5% with a tolerance band of ±1 pp, so October's 3.5% sits exactly at the upper edge (finwire). Core is not 'what really matters' in every case: if energy shocks last long enough they feed into wages and other prices, which is why central banks watch both. Exceptions: some countries define core differently, and in the euro area the ECB uses the harmonised index (HICP) rather than national CPIs.",
+      "heading": "3. Headline, core and the measure a central bank targets"
+    },
+    {
+      "body": "Statistics are estimates built from samples, so they come with errors and get revised as more information arrives. Many offices publish a quick 'flash' estimate and later a 'final' figure; Poland's October CPI was first published as a flash estimate of 3.5% and confirmed at 3.5% in the final release (finwire). Survey-based numbers have sampling error: the ONS says its UK unemployment estimate has a margin of error of about 0.3 pp either way. The latest rate of 4.6% is 0.1 pp below the previous release (whose three-month period overlaps by two months) and 0.3 pp below the previous non-overlapping quarter, the comparison the ONS itself uses; a fall about the size of the margin is not clear evidence on its own, and the ONS said part of it reflected the rotation of its survey sample. (Strictly, the margin applies to the level; testing a change needs its own error estimate, but the rule of thumb still warns against reading much into small moves.) Gaps also happen: the BLS did not collect October 2025 price data because of a lapse in US government funding, so it could not publish most 12-month changes for October 2026 and analysts had to rely on monthly rates. A good habit is to ask three questions of any number: what is the margin of error, how much has it been revised before, and is anything missing? A single month rarely proves a trend; three-month averages smooth the noise.",
+      "heading": "4. Data quality: flash, final, revisions and gaps"
+    },
+    {
+      "body": "A Purchasing Managers' Index (PMI) asks managers at a panel of firms whether things such as output, new orders and employment were higher, the same or lower than a month earlier. Each answer set becomes a 'diffusion index': the percentage reporting 'higher' plus half the percentage reporting 'the same' (S&P Global). A reading of 50 means no change; above 50 means improvement and below 50 deterioration, and the distance from 50 shows how widespread the change is, not its size in output terms. The headline manufacturing PMI is a weighted average: new orders 30%, output 25%, employment 20%, suppliers' delivery times 15% (inverted, so that longer delivery times, a usual sign of strong demand, raise the index) and stocks of purchases 10%. PMIs appear on the first working days of the month, weeks before official production data, with 'flash' estimates about a week earlier based on 85–90% of responses, which is why markets watch them. Poland's manufacturing PMI rose to 50.0 in October from 49.0, above a consensus of 49.3, the highest in 18 months (S&P Global via Rzeczpospolita). Limits: PMIs measure breadth of change, not size; and supply shocks can lengthen delivery times without strong demand, flattering the headline.",
+      "heading": "5. PMIs: fast, survey-based 'soft' data"
+    },
+    {
+      "body": "The US monthly jobs report combines two surveys. The establishment survey of employers gives nonfarm payrolls, the number of jobs added: +165,000 in October 2026, against a 12-month average of 48,000 (BLS, 6 Nov). The household survey gives the unemployment rate, 4.1% in October, calculated as unemployed people divided by the labour force (employed plus unemployed who are looking for work), as Lesson 10 showed. The report also includes average hourly earnings, up 0.4% in the month and 3.1% over a year, which matters for inflation, and revisions to previous months: August was revised up by 53,000 and September by 31,000. The UK combines a household Labour Force Survey with tax-based payroll data, and this morning they pointed in different directions: unemployment fell to 4.6% while payrolled employees fell by a provisional 34,000 in October and vacancies dropped to 690,000 (ONS via ActionForex). When indicators disagree, analysts weigh their reliability: payroll data are timely and large but provisional, while the survey has a 0.3 pp margin of error.",
+      "heading": "6. Jobs reports: two surveys, many numbers"
+    },
+    {
+      "body": "Put the pieces together and a release travels through markets in a chain. Step 1: the number differs from consensus. Step 2: investors update their view of the central bank's next move, visible in futures prices such as the CME FedWatch tool, which showed a 100% probability of a December Fed rise on 12 November, up from 67% on 5 November, after a strong October jobs report and hotter-than-expected October inflation (Motley Fool). Step 3: short-term bond yields move first because they track expected policy rates, and longer-term yields follow to a lesser degree; the US 10-year yield was 5.13% on Tuesday in Asia, after 5.15% on Friday (AP). Step 4: higher expected rates attract foreign money and tend to strengthen the currency, while making future company profits worth less today, which hits richly valued growth shares hardest (Lesson 24). Step 5: gold, which pays no interest, tends to fall when real interest rates rise; it was near a one-year low around $3,855 on Tuesday (Mitrade). The chain is a tendency, not a law: on a day when a geopolitical shock dominates, data surprises can be overwhelmed.",
+      "heading": "7. From a number to market prices: the transmission chain"
+    },
+    {
+      "body": "First, base effects: a y/y rate can fall simply because prices jumped a year earlier, even if prices are rising quickly now, so always check the m/m rate. Second, compare like with like: US payrolls count jobs, while the unemployment rate counts people, so they can move differently, for example when one person takes a second job. Third, real versus nominal: wage growth of 3.1% with prices rising faster means falling purchasing power, as Lesson 10 explained. Fourth, one release is a noisy sample; look for confirmation across measures (core and headline, survey and payroll, PMI and official output). Fifth, beware of selective quoting: a politician may cite the indicator that suits them, so go to the statistics office's release, which also states the methodology. Finally, remember that the market's reaction depends on what was expected; a 'good' number can cause a sell-off if it makes interest-rate rises more likely.",
+      "heading": "8. Pitfalls when reading data"
+    }
+  ],
+  "takeaways": [
+    "Markets react to the surprise (actual minus consensus), because the consensus is already in prices; the surprise changes expected central bank policy.",
+    "CPI contribution ≈ weight × price change; annualise monthly rates with (1 + m/m)^12 − 1: US October core 0.3% m/m ≈ 3.7% a year.",
+    "Core inflation strips out food and energy to show the trend; Poland's October core was 2.9% vs headline 3.5% (NBP target 2.5% ±1 pp).",
+    "A PMI diffusion index = %higher + ½ × %same; 50 = no change, and it measures breadth, not size; Poland's PMI rose to 50.0 in October.",
+    "Unemployment rate = unemployed ÷ (employed + unemployed); check margins of error (UK ±0.3 pp, about the size of the latest quarterly fall), revisions (US Aug +53,000, Sep +31,000) and other indicators before concluding.",
+    "Data surprises travel through rate expectations to yields, the currency, shares and gold, but other shocks can overwhelm them."
+  ],
+  "title": "Reading economic data: CPI, PMI, jobs reports",
+  "todayExample": "This morning's UK labour data show how to read a release: unemployment fell to 4.6% against a 4.7% forecast, but payrolled employees fell, vacancies dropped and regular pay growth slowed to 3.5%, and the ONS said part of the fall reflected changes to its survey sample. Combined with Wednesday's UK inflation data, these numbers will shape expectations for the Bank of England. In the US, markets have already moved to price a December Fed rise after October's inflation report, which helps explain why gold sits near a one-year low.",
+  "workedExamples": [
+    {
+      "problem": "The BLS reported that in October 2026 seasonally adjusted prices rose 0.7% for energy, 0.5% for food and 0.3% for everything except food and energy (core), with relative-importance weights of 7.649%, 13.447% and 78.905%. Estimate each group's contribution to the monthly headline rate, the total, and the annualised pace of headline (0.4%) and core (0.3%).",
+      "solution": "Contribution = weight × price change. Energy: 0.07649 × 0.7 = 0.0535 pp. Food: 0.13447 × 0.5 = 0.0672 pp. Core: 0.78905 × 0.3 = 0.2367 pp. Total ≈ 0.0535 + 0.0672 + 0.2367 = 0.3575 pp, which is about 0.36%; the published headline was 0.4% because the BLS rounds each figure to one decimal and seasonal adjustment is applied group by group, so our rebuild is an approximation (the weights sum to 100.001% because of rounding). Annualising: (1.004)^12 − 1 = 4.91% for headline and (1.003)^12 − 1 = 3.66% for core. Interpretation: core CPI running at about 3.7% at an annual pace is well above the Fed's 2% goal (strictly, the Fed's goal is defined on a different index, PCE inflation, which usually runs a little below CPI, and one month annualised is noisy); together with a strong jobs report, this is why markets moved to expect a December rate rise.",
+      "title": "Rebuilding US monthly inflation from its parts"
+    },
+    {
+      "problem": "Hypothetical numbers: in a survey of 200 manufacturers, 34% report higher new orders, 40% the same and 26% lower. Calculate the new-orders index. Then, given hypothetical sub-indices of output 52, employment 49, suppliers' delivery times (already inverted) 53 and stocks of purchases 48, calculate the headline PMI using S&P Global's weights (30/25/20/15/10). Compare with Poland's actual October PMI of 50.0.",
+      "solution": "New orders = 34 × 1 + 40 × 0.5 + 26 × 0 = 34 + 20 = 54.0. Headline = 0.30 × 54 + 0.25 × 52 + 0.20 × 49 + 0.15 × 53 + 0.10 × 48 = 16.2 + 13.0 + 9.8 + 7.95 + 4.8 = 51.75. Interpretation: 51.75 signals modest, broad-based improvement; a reading of 54 for new orders means more firms saw rising than falling orders, not that orders rose 4%. Poland's actual 50.0 in October (from 49.0, consensus 49.3) means the weighted average of the five sub-indices was exactly 50, i.e. on balance no change across the surveyed variables: the highest reading in 18 months, but not yet growth. The surprise versus consensus was 50.0 − 49.3 = +0.7 points.",
+      "title": "Building a PMI from survey answers (hypothetical numbers)"
+    },
+    {
+      "problem": "The ONS reported 1.684 million unemployed and 34.625 million employed in the three months to September 2026, an unemployment rate of 4.6%, down 0.3 pp on the previous quarter (April–June) and 0.1 pp below the previous release, with a margin of error of about ±0.3 pp. Check the rate and judge whether the fall is convincing.",
+      "solution": "Labour force = 1.684 + 34.625 = 36.309 million. Rate = 1.684 ÷ 36.309 = 0.04638, or 4.64%, which rounds to the published 4.6%. With a ±0.3 pp margin, the true rate could plausibly be anywhere from about 4.3% to 4.9%. The quarterly fall of 0.3 pp is about the size of that margin, and the ONS said it partly reflects the rotation of its survey sample (the group leaving had higher unemployment than the group joining). Other indicators point the other way (payrolled employees −34,000 in October, vacancies down to 690,000). Interpretation: a careful reader would not conclude that the labour market strengthened; the balance of evidence suggests it is cooling.",
+      "title": "Is the UK's fall in unemployment real?"
+    },
+    {
+      "problem": "The NBP reference rate is 3.75%. October CPI inflation was 3.5% y/y (GUS) and core inflation 2.9% (NBP). Calculate the real interest rate using each measure, and the percentage-point change in headline inflation from September's 4.1%.",
+      "solution": "Real rate = (1 + nominal) ÷ (1 + inflation) − 1 (Lesson 6). With headline: 1.0375 ÷ 1.035 − 1 = 0.00242, or about +0.24%. With core: 1.0375 ÷ 1.029 − 1 = 0.00826, or about +0.83%. Headline inflation fell by 4.1 − 3.5 = 0.6 pp (a relative fall of 0.6 ÷ 4.1 ≈ 14.6%). Interpretation: on either measure the real rate is slightly positive, and more so on core; falling core inflation raises the real rate even with an unchanged policy rate, which is one argument economists use when debating whether the NBP can cut rates later.",
+      "title": "Real interest rates in Poland after the October data"
+    }
+  ],
+  "updatedAt": "2026-11-17T09:13:58.437095Z"
+}

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T19:16:21Z",
+  "updated": "2026-11-17T09:17:11Z",
   "lessons": [
     {
       "number": 1,
@@ -192,6 +192,14 @@
       "date": "16 Nov 2026",
       "createdAt": "2026-11-16T20:30:00Z",
       "updatedAt": "2026-11-16T19:11:13.680233Z"
+    },
+    {
+      "number": 25,
+      "title": "Reading economic data: CPI, PMI, jobs reports",
+      "level": "Applied",
+      "date": "17 Nov 2026",
+      "createdAt": "2026-11-17T09:09:12Z",
+      "updatedAt": "2026-11-17T09:13:58.437095Z"
     }
   ]
 }
